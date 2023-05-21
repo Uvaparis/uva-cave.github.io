@@ -224,3 +224,7 @@ Bière acidulée de fruits rouges
 *Les bouteilles sont disponibles à emporter avant 22h00, avec un droit de bouchon de moins 7 €.*
 
 *Prix net en euros TTC.*
+
+# Réseau Sociaux
+
+Suivez nos actus et bons plans sur [instagram UVA_Paris](https://www.instagram.com/uva_paris/)
