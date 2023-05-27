@@ -1,9 +1,21 @@
-# Carte UVA Cave
+# Assiettes à partager
+
+- Saucisson d’Aveyron **7,5 €**
+- Mortadelle pistache (Bologne, IGP) **8,5 €**
+- Taleggio DOP au lait cru, confiture d’abricot **9,5 €**
+- Tomme Caussenarde (Millau, Aveyron), confiture de mûre sauvage bio **9,5 €**
+- Saint-Nectaire fermier, pickles d’oignon rouge **9 €**
+- Brillat-Savarin affiné, huile d’olive bio, poivr **10 €**
+- Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
+- Rillette de poulet et lapin, estragon, gelée au vin jaune, pickles de graine de moutarde (fait maison par @goldenpintade) **10 €**
+- Trou pèche blanche (sorbet) tagète, bulle nature **6 €**
+
+# Carte des Softs, Bières et Vins
 
 ## Soft
 **Les filles de l’ouest** 33cl **5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique 		
-Pomme Piquante, Pomme Tonique, Citron-Gingembre, Rhubarbe, Groseille, 
+Pomme Tonique, Citron-Gingembre, Groseille, 
 Limonade l’originale
 
 **Symples** 33cl **5 €**
@@ -50,9 +62,6 @@ Bière acidulée de fruits rouges
 ### AUVERGNE
 - **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 42 €
 
-### LOIRE
-- **Thomas Zurbach** - Like a Bird On the Wire - 2021 - Chenin Blanc - 41 €
-
 ### JURA
 - **Ratapoil** - Avis de tempête - 2021 - Chenin - 43 €
 
@@ -91,7 +100,6 @@ Bière acidulée de fruits rouges
 
 ### LANGUEDOC ROUSSILLON
 - **Olivier Pichon** - La Colonel - 2022 - Grenache Blanc - 32€
-- **La Sorga** - Kuku Yodel - 2019 - Terret bourret, muscat - 45 €
 
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 54 €
@@ -99,8 +107,6 @@ Bière acidulée de fruits rouges
 - **L & B Jousset** - AOC Montlouis - 2017 - Chenin - 67 €
 - **Vaillant** - Blanc de noir - 2021 - Grolleau, Cabernet - 24 €
 - **Vaillant** - Pineau de Loire - 2021 - Chenin - 28 €
-- **La Grange** - Tout simplement blanc - 2021 - Chenin - 27 €
-- **Bois Rond** - Juste le blanc - 2022 - Chenin - 31 €
 - **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de bourgogne - 27 €
 
 ### TARN
@@ -222,6 +228,7 @@ Bière acidulée de fruits rouges
 - **Vignoble Réveille** - Tous des oiseaux - 2020 - Carignan - 36 €
 
 *Les bouteilles sont disponibles à emporter avant 22h00, avec un droit de bouchon de moins 7 €.*
+*Commande sur place jusqu'à 23h00*
 
 *Prix net en euros TTC.*
 
