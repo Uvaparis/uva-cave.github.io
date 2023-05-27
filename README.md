@@ -6,6 +6,7 @@
 - Tomme Caussenarde (Millau, Aveyron), confiture de mûre sauvage bio **9,5 €**
 - Saint-Nectaire fermier, pickles d’oignon rouge **9 €**
 - Brillat-Savarin affiné, huile d’olive bio, poivr **10 €**
+- Burrata des pouille Saporosa di Puglia, huile d'olive, zeste de citron **9,5 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Rillette de poulet et lapin, estragon, gelée au vin jaune, pickles de graine de moutarde (par @goldenpintade) **10 €**
 - Trou pèche blanche (sorbet) tagète, bulle nature **6 €**
