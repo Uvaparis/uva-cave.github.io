@@ -7,7 +7,7 @@
 - Saint-Nectaire fermier, pickles d’oignon rouge **9 €**
 - Brillat-Savarin affiné, huile d’olive bio, poivr **10 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
-- Rillette de poulet et lapin, estragon, gelée au vin jaune, pickles de graine de moutarde (fait maison par @goldenpintade) **10 €**
+- Rillette de poulet et lapin, estragon, gelée au vin jaune, pickles de graine de moutarde (par @goldenpintade) **10 €**
 - Trou pèche blanche (sorbet) tagète, bulle nature **6 €**
 
 # Carte des Softs, Bières et Vins
