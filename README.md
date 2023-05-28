@@ -1,3 +1,11 @@
+-[Vins au verre](#vins-au-verre)
+- Bouteilles
+  -[Bulles ](#bulles-75cl)
+  -[Blancs](#blancs-75cl)
+  -[Oranges](#oranges-75cl)
+  -[Rosés](#rosés-75cl)
+  -[Rouges](#rouges-75cl)
+
 # Assiettes à partager
 
 - Saucisson d’Aveyron **7,5 €**
@@ -10,6 +18,8 @@
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Rillette de poulet et lapin, estragon, gelée au vin jaune, pickles de graine de moutarde (par @goldenpintade) **10 €**
 - Trou pèche blanche (sorbet) tagète, bulle nature **6 €**
+
+[haut de page](#assiettes-à-partager)
 
 # Carte des Softs, Bières et Vins
 
@@ -54,6 +64,8 @@ Bière acidulée de fruits rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
 - Le P’tit Vaillant, Domaine des Grandes Vignes, Loire, croquant, fruits noirs **7 €**
 
+[haut de page](#assiettes-à-partager)
+
 ## Bulles 75cl
 ### ALSACE
 - **Geschickt** - Crémant Brut Nature - 2017 - Assemblage de Pinots - 44 €
@@ -85,6 +97,8 @@ Bière acidulée de fruits rouges
 
 ## Champagne 75cl
 - **Françoise Martinot** - Bistrotage Brut - 2017 - Pinot Noir - 89 €
+
+[haut de page](#assiettes-à-partager)
 
 ## Blancs 75cl
 ### ALSACE
@@ -131,6 +145,8 @@ Bière acidulée de fruits rouges
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - 54 €
 - **Istvan Bencze** - Riesling - 2020 - Riesling - 54 €
 
+[haut de page](#assiettes-à-partager)
+
 ## Oranges 75cl
 
 ### ALSACE
@@ -158,6 +174,8 @@ Bière acidulée de fruits rouges
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - 69 € (50cl)
 - **Alessandro Viola** - Sinfonia di Bianco - 2021 - Grillo - 60 €
 
+[haut de page](#assiettes-à-partager)
+
 ## Rosés 75cl
 
 ### ALLEMAGNE
@@ -168,6 +186,8 @@ Bière acidulée de fruits rouges
 
 ### ITALIE
 - **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - 49 €
+
+[haut de page](#assiettes-à-partager)
 
 ## Rouges 75cl
 
@@ -194,8 +214,6 @@ Bière acidulée de fruits rouges
 - **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 €
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 46 €
 - **Rémi Poujol** - Le temps fait tout - 2021 - Grenache, Carignan, Syrah - 29 €
-
-## Rouges 75cl
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2017 - Pineau d’aunis - 59 €
@@ -226,6 +244,8 @@ Bière acidulée de fruits rouges
 - **Philippe Maffre** - Falgueyras VV - 2018 - Syrah - 28 €
 - **Natacha Lami** - La vie est belle - 2021 - Braucol, Duras - 36 €
 - **Vignoble Réveille** - Tous des oiseaux - 2020 - Carignan - 36 €
+
+[haut de page](#assiettes-à-partager)
 
 *Les bouteilles sont disponibles à emporter avant 22h00, avec un droit de bouchon de moins 7 €.*
 *Commande sur place jusqu'à 23h00*
