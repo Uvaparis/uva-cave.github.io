@@ -1,10 +1,17 @@
--[Vins au verre](#vins-au-verre)
-- Bouteilles
-  -[Bulles ](#bulles-75cl)
-  -[Blancs](#blancs-75cl)
-  -[Oranges](#oranges-75cl)
-  -[Rosés](#rosés-75cl)
-  -[Rouges](#rouges-75cl)
+# Menu
+
+Food : 
+- [assiettes à partager](#assiettes-à-partager)
+
+Verres :
+- [Vins au verre](#vins-au-verre)
+
+Bouteilles (75cl):
+- [Bulles ](#bulles-75cl)
+- [Blancs](#blancs-75cl)
+- [Oranges](#oranges-75cl)
+- [Rosés](#rosés-75cl)
+- [Rouges](#rouges-75cl)
 
 # Assiettes à partager
 
@@ -19,7 +26,7 @@
 - Rillette de poulet et lapin, estragon, gelée au vin jaune, pickles de graine de moutarde (par @goldenpintade) **10 €**
 - Trou pèche blanche (sorbet) tagète, bulle nature **6 €**
 
-[haut de page](#assiettes-à-partager)
+[haut de page](#menu)
 
 # Carte des Softs, Bières et Vins
 
@@ -64,7 +71,7 @@ Bière acidulée de fruits rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
 - Le P’tit Vaillant, Domaine des Grandes Vignes, Loire, croquant, fruits noirs **7 €**
 
-[haut de page](#assiettes-à-partager)
+[haut de page](#menu)
 
 ## Bulles 75cl
 ### ALSACE
@@ -98,7 +105,7 @@ Bière acidulée de fruits rouges
 ## Champagne 75cl
 - **Françoise Martinot** - Bistrotage Brut - 2017 - Pinot Noir - 89 €
 
-[haut de page](#assiettes-à-partager)
+[haut de page](#menu)
 
 ## Blancs 75cl
 ### ALSACE
@@ -145,7 +152,7 @@ Bière acidulée de fruits rouges
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - 54 €
 - **Istvan Bencze** - Riesling - 2020 - Riesling - 54 €
 
-[haut de page](#assiettes-à-partager)
+[haut de page](#menu)
 
 ## Oranges 75cl
 
@@ -174,7 +181,7 @@ Bière acidulée de fruits rouges
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - 69 € (50cl)
 - **Alessandro Viola** - Sinfonia di Bianco - 2021 - Grillo - 60 €
 
-[haut de page](#assiettes-à-partager)
+[haut de page](#menu)
 
 ## Rosés 75cl
 
@@ -187,7 +194,7 @@ Bière acidulée de fruits rouges
 ### ITALIE
 - **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - 49 €
 
-[haut de page](#assiettes-à-partager)
+[haut de page](#menu)
 
 ## Rouges 75cl
 
@@ -245,7 +252,7 @@ Bière acidulée de fruits rouges
 - **Natacha Lami** - La vie est belle - 2021 - Braucol, Duras - 36 €
 - **Vignoble Réveille** - Tous des oiseaux - 2020 - Carignan - 36 €
 
-[haut de page](#assiettes-à-partager)
+[haut de page](#menu)
 
 *Les bouteilles sont disponibles à emporter avant 22h00, avec un droit de bouchon de moins 7 €.*
 *Commande sur place jusqu'à 23h00*
