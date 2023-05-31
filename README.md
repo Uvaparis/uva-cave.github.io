@@ -69,7 +69,10 @@ Bière acidulée de fruits rouges
 
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
-- Le P’tit Vaillant, Domaine des Grandes Vignes, Loire, croquant, fruits noirs **7 €**
+- Olivier Pichon, La grange Saint André, Languedoc, fruité et frais **7 €**
+
+### Rosé 
+- France Crispeels, Vignoble Réveille, Languedoc, notes de fraise des bois **7 €**
 
 [haut de page](#menu)
 
