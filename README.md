@@ -57,12 +57,12 @@ Bière acidulée de fruits rouges
 
 ## Vins au verre
 ### Bulles
-- Bulle Nature, Domaine des Grandes Vignes, Loire, sec et fruité **7 €**
-- Piquette, Brand Bros, Allemagne, Pfalz, léger et fruité **6 €**
+- Blanc, Bulle Nature, Domaine des Grandes Vignes, Loire, sec et fruité **7 €**
+- Rouge, Piquette, Brand Bros, Allemagne, Pfalz, léger et fruité **6 €**
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
-- Le P’tit Vaillant, Domaine des Grandes Vignes, Loire, acidulé, juteux **7 €**
+- Olivier Pichon, La grange Saint André, Languedoc, sec, végétal et fruité **7 €**
 
 ### Orange
 - Damien Bonnet, Domaine de Brin, Tarn, fruité franc petite amertume **7 €**
