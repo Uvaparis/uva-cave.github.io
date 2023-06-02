@@ -16,14 +16,14 @@ Bouteilles (75cl):
 # Assiettes à partager
 
 - Saucisson d’Aveyron **7,5 €**
-- Mortadelle pistache (Bologne, IGP) **8,5 €**
-- Taleggio DOP au lait cru, confiture d’abricot **9,5 €**
-- Tomme Caussenarde (Millau, Aveyron), confiture de mûre sauvage bio **9,5 €**
-- Saint-Nectaire fermier, pickles d’oignon rouge **9 €**
+- Mortadelle pistache (Bologne, IGP) **8 €**
+- Taleggio DOP au lait cru, confiture d’abricot **9 €**
+- Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
 - Brillat-Savarin affiné, huile d’olive bio, poivr **10 €**
-- Burrata des pouilles Saporosa di Puglia, huile d'olive, zeste de citron **9,5 €**
+- Burrata des pouilles Saporosa di Puglia, tomates datterino rouge et jaune confites, huile d'olive, pesto de cerfeuil et noisettes **9,5 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Rillette de poulet et lapin, estragon, gelée au vin jaune, pickles de graine de moutarde (par @goldenpintade) **10 €**
+- Oeufs, mayonnaise maison au sumac, crouton de pain au levain au Zaatar **5,5€**
 - Trou pèche blanche (sorbet) tagète, bulle nature **6 €**
 
 [haut de page](#menu)
