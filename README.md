@@ -25,7 +25,7 @@ Bouteilles (75cl):
 - Rillette de poulet et lapin, estragon, gelée au vin jaune, pickles de graine de moutarde (par @goldenpintade) **10 €**
 - Cecina de Léon IGP - 12 mois **9 €**
 - Oeufs, mayonnaise maison au sumac, crouton de pain au levain au Zaatar **5,5€**
-- Trou pèche blanche (sorbet) tagète, bulle nature **6 €**
+- Sorbet pèche blanche tagète maison (3 boules) **6 €**
 
 [haut de page](#menu)
 
