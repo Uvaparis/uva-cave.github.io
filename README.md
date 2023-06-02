@@ -137,7 +137,6 @@ Bière acidulée de fruits rouges
 - **Bois Moisset** - Bonne Quille - 2021 - Sauvignon, Muscadelle, Loin de l’oeil - 28 €
 
 ### ALLEMAGNE
-- **Max Dexheimer** - Weiss - 2020 - Chardo, sauvignon - 43 €
 - **Max Dexheimer** - Weiss - 2020 - Sylvaner, Wessburg - 36 €
 - **Marto** - Weiss - 2021 - Müller, sylvaner, riesling - 38 €
 - **Brand Bro** - Pure white wine - 2020 - Müller thurgau - 40 €
