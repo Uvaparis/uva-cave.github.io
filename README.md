@@ -131,7 +131,6 @@ Bière acidulée de fruits rouges
 - **R. Guettier** - Pressoir de St Pierre - 2020 - Chenin - 53 €
 - **L & B Jousset** - AOC Montlouis - 2017 - Chenin - 67 €
 - **Vaillant** - Blanc de noir - 2021 - Grolleau, Cabernet - 24 €
-- **Vaillant** - Pineau de Loire - 2021 - Chenin - 28 €
 - **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de bourgogne - 27 €
 
 ### TARN
