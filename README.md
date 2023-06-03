@@ -20,7 +20,6 @@ Bouteilles (75cl):
 - Taleggio DOP au lait cru, confiture d’abricot **8 €**
 - Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
 - Brillat-Savarin affiné, huile d’olive bio, poivr **10 €**
-- Burrata des pouilles Saporosa di Puglia, tomates datterino rouge et jaune confites, huile d'olive, zeste de citron **9,5 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Rillette de poulet et lapin, estragon, gelée au vin jaune, pickles de graine de moutarde (par @goldenpintade) **10 €**
 - Cecina de Léon IGP - 12 mois **9 €**
@@ -113,7 +112,6 @@ Bière acidulée de fruits rouges
 ## Blancs 75cl
 ### ALSACE
 - **Catherine Riss** - Dessous de Table - 2020 - Pinot Auxerrois, sylvaner - 50 €
-- **Théo Einhart** - Colline des anciens - 2021 - Riesling, pinot gris, gewurzt - 41 €
 
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
