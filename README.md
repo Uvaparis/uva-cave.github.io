@@ -61,7 +61,7 @@ Bière acidulée de fruits rouges
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
-- Olivier Pichon, La grange Saint André, Languedoc, sec, végétal et fruité **7 €**
+- Bois Moisset, Bonne Quille 2021, plaisant et aromatique **7 €**
 
 ### Orange
 - Damien Bonnet, Domaine de Brin, Tarn, fruité franc petite amertume **7 €**
