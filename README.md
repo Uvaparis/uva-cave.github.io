@@ -21,8 +21,8 @@ Bouteilles (75cl):
 - Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
 - Brillat-Savarin affiné, huile d’olive bio, poivr **10 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
-- Rillette de poulet et lapin, estragon, gelée au vin jaune, pickles de graine de moutarde (par @goldenpintade) **10 €**
 - Cecina de Léon IGP - 12 mois **9 €**
+- Burrata des Pouilles, datterino confites, huile d'olive italienne, zeste de citron **9,50**
 - Sorbet pèche blanche tagète maison (3 boules) **6 €**
 
 [haut de page](#menu)
@@ -32,7 +32,7 @@ Bouteilles (75cl):
 ## Soft
 **Les filles de l’ouest** 33cl **5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique 		
-Citron-Gingembre, Groseille, Limonade l’originale
+Citron-Gingembre, Groseille, Menthe, Pommes piquante, Pommes tonique, Limonade l’originale, Rhubarbe
 
 **Symples** 33cl **5 €**
 Boissons bio à base de plantes et de fruits, naturelles et françaises
