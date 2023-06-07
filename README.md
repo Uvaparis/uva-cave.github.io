@@ -22,7 +22,7 @@ Bouteilles (75cl):
 - Brillat-Savarin affiné, huile d’olive bio, poivr **10 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Cecina de Léon IGP - 12 mois **9 €**
-- Burrata des Pouilles, datterino confites, huile d'olive italienne, zeste de citron **9,50**
+- Burrata des Pouilles, datterino confites, huile d'olive italienne **9,50**
 - Sorbet pèche blanche tagète maison (3 boules) **6 €**
 
 [haut de page](#menu)
@@ -32,7 +32,7 @@ Bouteilles (75cl):
 ## Soft
 **Les filles de l’ouest** 33cl **5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Citron-Gingembre, Groseille, Menthe, Pommes piquante, Pommes tonique, Limonade l’originale, Rhubarbe
+Citron-Gingembre, Groseille, Limonade l’originale
 
 **Symples** 33cl **5 €**
 Boissons bio à base de plantes et de fruits, naturelles et françaises
@@ -126,9 +126,9 @@ Bière acidulée de fruits rouges
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 54 €
 - **R. Guettier** - Pressoir de St Pierre - 2020 - Chenin - 53 €
-- **L & B Jousset** - AOC Montlouis - 2017 - Chenin - 67 €
 - **Vaillant** - Blanc de noir - 2021 - Grolleau, Cabernet - 24 €
 - **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de bourgogne - 27 €
+- **Lauré et Fabrice Chaillou** - Cancellis - 2021 - Chenin - 37 €
 
 ### TARN
 - **J. Galaup** - Petite Amoureuse - 2020 - Muscadelle - 35 €
@@ -184,11 +184,14 @@ Bière acidulée de fruits rouges
 
 ## Rosés 75cl
 
-### ALLEMAGNE
-- **Brand Bros** - Wild Rosé - 2020 - Portugieser - 34 €
+### LANGUEDOC
+- **Olivier Pichon** - Six P'tits Grains - 2021 - Jus de goutte de Grenache Noir - 35 €
 
 ### PYRÉNÉES-ORIENTALES
 - **Vignoble Réveille** - Herbes Folles - 2019 - Syrah - 29 €
+
+### ALLEMAGNE
+- **Brand Bros** - Wild Rosé - 2020 - Portugieser - 34 €
 
 ### ITALIE
 - **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - 49 €
@@ -234,6 +237,7 @@ Bière acidulée de fruits rouges
 - **F. Saint Lô** - Hey Gro - 2021 - Grolleau - 49 €
 - **Bois Rond** - Carbaunix - 2022 - Pineau d’Aunis - 36 €
 - **Barbara Lebled** - Gamay sans toi - 2021 - Gamay - 33 €
+- **Laurent Lebled** - Hou la la - 2021 - Pinot noir - 35 €
 - **Christophe Bosque** - 0.72+ rouge - 2019 - Grenache, syrah, viognier - 27 €
 
 ### RHÔNE
@@ -250,6 +254,13 @@ Bière acidulée de fruits rouges
 - **Philippe Maffre** - Falgueyras VV - 2018 - Syrah - 28 €
 - **Natacha Lami** - La vie est belle - 2021 - Braucol, Duras - 36 €
 - **Vignoble Réveille** - Tous des oiseaux - 2020 - Carignan - 36 €
+
+### ALLEMAGNE
+- **Marto** - Manna - 2020 - Portugieser, Scheurebe - 37 €
+- **Glow Glow** - Pinot Noir - 2020 - Pinot noir - 42 €
+
+### ITALIE
+- **Della Vecchia** - Grinton Ros - 2022 - Merlot - 42 €
 
 [haut de page](#menu)
 
