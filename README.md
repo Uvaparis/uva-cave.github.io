@@ -1,3 +1,4 @@
+**Commande au bar. Merci :)**
 # Menu
 
 Food : 
