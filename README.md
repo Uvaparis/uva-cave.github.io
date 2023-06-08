@@ -20,10 +20,11 @@ Bouteilles (75cl):
 - Mortadelle pistache (Bologne, IGP) **8 €**
 - Taleggio DOP au lait cru, confiture d’abricot **8 €**
 - Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
-- Brillat-Savarin affiné, huile d’olive bio, poivr **10 €**
+- Brillat-Savarin affiné, huile d’olive bio, poivre **10 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Cecina de Léon IGP - 12 mois **9 €**
-- Burrata des Pouilles, datterino confites, huile d'olive italienne **9,50**
+- Burrata des Pouilles, datterino confites, huile d'olive, zeste de citron **9,50 €**
+- Oeufs (3 moitiés), mayonnaise maison au sumac, crouton de pain au levain au Zaatar **5,50 €**
 - Sorbet pèche blanche tagète maison (3 boules) **6 €**
 
 [haut de page](#menu)
