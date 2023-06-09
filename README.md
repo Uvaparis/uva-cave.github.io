@@ -217,7 +217,6 @@ Bière acidulée de fruits rouges
 - **Fond Cyprès** - Toile de fond - 2021 - Grenache, syrah - 26 €
 - **Olivier Pichon** - Le Marmot - 2022 - Cinsaut, Grenache, Carignan - 27 €
 - **Antoine Latipau** - Porque Porcus - 2020 - Grenache, Carignan, Syrah - 32 €
-- **Alain Castex** - Poudre d’Escampette - 2021 - Carignan, mourvèdre, grenache - 44 €
 - **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 €
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 46 €
 - **Rémi Poujol** - Le temps fait tout - 2021 - Grenache, Carignan, Syrah - 29 €
