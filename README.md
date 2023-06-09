@@ -17,9 +17,10 @@ Bouteilles (75cl):
 # Assiettes à partager
 
 - Saucisson d’Aveyron **7,5 €**
-- Mortadelle pistache (Bologne, IGP) **8 €**
+- Tomme Caussenarde, confiture de mûre sauvage bio **8 €**
 - Taleggio DOP au lait cru, confiture d’abricot **8 €**
 - Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
+- Capocollo (Italie), soigneusement parfumé d'herbes aromatiques il s'apparente à la Coppa Corse **9 €**
 - Brillat-Savarin affiné, huile d’olive bio, poivre **10 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Cecina de Léon IGP - 12 mois **9 €**
@@ -34,7 +35,7 @@ Bouteilles (75cl):
 ## Soft
 **Les filles de l’ouest** 33cl **5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Citron-Gingembre, Groseille, Limonade l’originale
+Citron-Gingembre, Groseille, Limonade l’originale, Menthe, Pomme piquante, Pomme tonique
 
 **Symples** 33cl **5 €**
 Boissons bio à base de plantes et de fruits, naturelles et françaises
@@ -128,7 +129,6 @@ Bière acidulée de fruits rouges
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 54 €
 - **R. Guettier** - Pressoir de St Pierre - 2020 - Chenin - 53 €
-- **Vaillant** - Blanc de noir - 2021 - Grolleau, Cabernet - 24 €
 - **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de bourgogne - 27 €
 - **Lauré et Fabrice Chaillou** - Cancellis - 2021 - Chenin - 37 €
 
@@ -137,10 +137,6 @@ Bière acidulée de fruits rouges
 - **Bois Moisset** - Bonne Quille - 2021 - Sauvignon, Muscadelle, Loin de l’oeil - 28 €
 
 ### ALLEMAGNE
-- **Max Dexheimer** - Weiss - 2020 - Sylvaner, Wessburg - 36 €
-- **Marto** - Weiss - 2021 - Müller, sylvaner, riesling - 38 €
-- **Brand Bro** - Pure white wine - 2020 - Müller thurgau - 40 €
-- **Brand Bro** - Pinot Blanc - 2020 - Pinot Blanc - 40 €
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 €
 
 ### ESPAGNE
@@ -232,7 +228,7 @@ Bière acidulée de fruits rouges
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - 48 €
 - **J-P Robinot** - Concerto - 2020 - Pineau d’aunis - 48 €
 - **J-P Robinot** - Prélude - 2018 - Pineau d’aunis - 91 €
-- **Vaillant** - Le petit vaillant - Grolot, Cab franc - 19 €
+- **Vaillant** - Le petit vaillant - Grolot, Cab franc - 22 €
 - **Vaillant** - Pineau d’Aunis - 2021 - Pineau d’Aunis - 27 €
 - **Vaillant** - Groslot - 2021 - Grolleau - 25 €
 - **Mathieu Coste** - Têtes de chats - 2019 - Pinot noir, gamay - 41 €
