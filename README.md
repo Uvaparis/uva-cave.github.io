@@ -25,7 +25,6 @@ Bouteilles (75cl):
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Cecina de Léon IGP - 12 mois **9 €**
 - Burrata des Pouilles, datterino confites, huile d'olive, zeste de citron **9,50 €**
-- Oeufs (3 moitiés), mayonnaise maison au sumac, crouton de pain au levain au Zaatar **5,50 €**
 - Sorbet pèche blanche tagète maison (3 boules) **6 €**
 
 [haut de page](#menu)
