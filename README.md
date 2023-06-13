@@ -24,7 +24,7 @@ Bouteilles (75cl):
 - Brillat-Savarin affiné, huile d’olive bio, poivre **10 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Cecina de Léon IGP - 12 mois **9 €**
-- Burrata des Pouilles, datterino confites, huile d'olive, zeste de citron **9,50 €**
+- Burrata des Pouilles, huile d'olive, zeste de citron **9,50 €**
 - Sorbet pèche blanche tagète maison (3 boules) **6 €**
 
 [haut de page](#menu)
@@ -88,6 +88,13 @@ Bière acidulée de fruits rouges
 ### JURA
 - **Ratapoil** - Avis de tempête - 2021 - Chenin - 43 €
 
+### LOIRE
+- **Thomas Zurbach** - Like a bird on the wire - 2021 - Chenin - 41 €
+- **Thomas Zurbach** - When the seagulls follow the trawler - Grolleau gris - 43 €
+
+### TARN
+- **Sans Pression** - Domaine Bois Moisset - 2021 - Mauzac, Sauvignon, Loin de l'oeil - 29 €
+
 ### ALLEMAGNE
 - **Piri** - Pet Nat - 2021 - Riesling with quince - 38 €
 - **Marto** - Crazy Crazy Orange - 2021 - Müller-Thurgau - 39 €
@@ -140,6 +147,7 @@ Bière acidulée de fruits rouges
 
 ### ESPAGNE
 - **Esmeralda** - Arenas de Santyuste - 2021 - Verdejo - 47 €
+- **Clos Lentiscus** - Perill Blanc - 2018 - Xarelo - 43 €
 
 ### GRÈCE
 - **Ligas & Bouju** - Livia - 2019 - Muscat d’Alexandrie - 34 €
@@ -201,6 +209,7 @@ Bière acidulée de fruits rouges
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
 - **Philippe Jambon** - Une tranche sudiste - 18-19 - Grenache Syrah - 33 €
 - **Pierre Cotton** - Brouilly les Mines - 2019 - Gamay - 42 €
+- **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 33 €
 
 ### AUVERGNE
 - **P. Bouju** - Môl - 2019 - Merlot, carignan, syrah - 37 €
