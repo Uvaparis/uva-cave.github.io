@@ -63,7 +63,7 @@ Bière acidulée de fruits rouges
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
-- Bois Moisset, Bonne Quille 2021, plaisant et aromatique **7 €**
+- Livia, 100% muscat d'Alexandrie, floral et salin **8 €**
 
 ### Orange
 - Damien Bonnet, Domaine de Brin, Tarn, fruité franc petite amertume **7 €**
