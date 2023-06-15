@@ -66,7 +66,7 @@ Bière acidulée de fruits rouges
 - Livia, 100% muscat d'Alexandrie, floral et salin **8 €**
 
 ### Orange
-- Damien Bonnet, Domaine de Brin, Tarn, fruité franc petite amertume **7 €**
+- Antonio Gismondi, Foresta, fruité franc petite amertume **7 €**
 
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
