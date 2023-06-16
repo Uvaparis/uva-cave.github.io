@@ -16,7 +16,6 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
-- Olives vertes siciliennes **4,5 €**
 - Saucisson d’Aveyron **7,5 €**
 - Tomme Caussenarde, confiture de mûre sauvage bio **8,5 €**
 - Taleggio DOP au lait cru, confiture d’abricot **8 €**
