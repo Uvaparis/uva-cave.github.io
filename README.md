@@ -18,7 +18,7 @@ Bouteilles (75cl):
 
 - Olives vertes siciliennes **4,5 €**
 - Saucisson d’Aveyron **7,5 €**
-- Tomme Caussenarde, confiture de mûre sauvage bio **8 €**
+- Tomme Caussenarde, confiture de mûre sauvage bio **8,5 €**
 - Taleggio DOP au lait cru, confiture d’abricot **8 €**
 - Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
 - Capocollo (Italie), soigneusement parfumé d'herbes aromatiques il s'apparente à la Coppa Corse **9 €**
