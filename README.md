@@ -122,7 +122,10 @@ Bière acidulée de fruits rouges
 
 ## Blancs 75cl
 ### ALSACE
-- **Catherine Riss** - Dessous de Table - 2020 - Pinot Auxerrois, sylvaner - 50 €
+- **Domaine de l'Envol** - Pulpe de Raphael - 2022 - Sylvaner, Riesling, Pinot Auxerrois, Chasselas  - 27 €
+
+### AUVERGNE
+- **Patrick Bouju** - J - 2018 - Jacquere - 44 €
 
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
@@ -151,9 +154,6 @@ Bière acidulée de fruits rouges
 - **Esmeralda** - Arenas de Santyuste - 2021 - Verdejo - 47 €
 - **Clos Lentiscus** - Perill Blanc - 2018 - Xarelo - 43 €
 
-### GRÈCE
-- **Ligas & Bouju** - Livia - 2019 - Muscat d’Alexandrie - 34 €
-
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - 54 €
 - **Istvan Bencze** - Riesling - 2020 - Riesling - 54 €
@@ -163,6 +163,7 @@ Bière acidulée de fruits rouges
 ## Oranges 75cl
 
 ### ALSACE
+- **Muller Koeberle** - Eros de David - Gewürztraminer, Riesling, muscat - 29 €
 - **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewürztraminer, Riesling, Pinot Gris - 61 €
 - **Kumpf Meyer** - Putes Féministes - 2022 - Gewurztraminer Muscat - 44 €
 
