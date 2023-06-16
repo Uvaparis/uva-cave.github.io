@@ -25,6 +25,7 @@ Bouteilles (75cl):
 - Brillat-Savarin affiné, huile d’olive bio, poivre **10 €**
 - Filets d'anchois, huile d'olive **8,5 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
+- Burrata des pouilles, tomates datterino confites, huile d'olive, zeste de citron **9,5 €** 
 - Cecina de Léon IGP - 12 mois **9 €**
 - Sorbet pèche blanche tagète maison (3 boules) **6 €**
 
@@ -64,10 +65,10 @@ Bière acidulée de fruits rouges
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
-- Livia, 100% muscat d'Alexandrie, floral et salin **8 €**
+- Pulpe de Raphael, Alsace, vif et légèrement citronné  **7 €**
 
 ### Orange
-- Antonio Gismondi, Foresta, fruité franc petite amertume **7 €**
+- Eros de David, Alsace, macération de 10 jour, fruité et franc avec une amertume en fin de bouche **7 €**
 
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
