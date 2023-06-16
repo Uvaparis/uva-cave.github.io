@@ -154,6 +154,9 @@ Bière acidulée de fruits rouges
 - **Esmeralda** - Arenas de Santyuste - 2021 - Verdejo - 47 €
 - **Clos Lentiscus** - Perill Blanc - 2018 - Xarelo - 43 €
 
+### GRÈCE
+- **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 34€
+
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - 54 €
 - **Istvan Bencze** - Riesling - 2020 - Riesling - 54 €
