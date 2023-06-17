@@ -173,9 +173,6 @@ Bière acidulée de fruits rouges
 - **Alice Bouvot** - Mus’cat - 2021 - Muscat - 51 €
 - **Jérôme Arnoux** - Paradoxe - 2020 - Savagnin macéré - 52 €
 
-### SUD OUEST
-- **Domaine de brin** - Mauzac - 2021 - Mauzac - 32 €
-
 ### ALLEMAGNE
 - **Madame Flock** - Schmetterling - 2020 - Muller Thurgau, riesling, kerner - 43 €
 
