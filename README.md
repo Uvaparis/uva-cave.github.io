@@ -23,7 +23,6 @@ Bouteilles (75cl):
 - Brillat-Savarin affiné, huile d’olive bio, poivre **10 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Burrata des pouilles, tomates datterino confites, huile d'olive, zeste de citron **9,5 €** 
-- Cecina de Léon IGP - 12 mois **9 €**
 
 [haut de page](#menu)
 
