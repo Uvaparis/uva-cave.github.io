@@ -18,15 +18,12 @@ Bouteilles (75cl):
 
 - Saucisson d’Aveyron **7,5 €**
 - Tomme Caussenarde, confiture de mûre sauvage bio **8,5 €**
-- Taleggio DOP au lait cru, confiture d’abricot **8 €**
 - Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
 - Capocollo (Italie), soigneusement parfumé d'herbes aromatiques il s'apparente à la Coppa Corse **9 €**
 - Brillat-Savarin affiné, huile d’olive bio, poivre **10 €**
-- Filets d'anchois, huile d'olive **8,5 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Burrata des pouilles, tomates datterino confites, huile d'olive, zeste de citron **9,5 €** 
 - Cecina de Léon IGP - 12 mois **9 €**
-- Sorbet pèche blanche tagète maison (3 boules) **6 €**
 
 [haut de page](#menu)
 
