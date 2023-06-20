@@ -146,12 +146,11 @@ Bière acidulée de fruits rouges
 
 ### TARN
 - **J. Galaup** - Petite Amoureuse - 2020 - Muscadelle - 35 €
-- **Bois Moisset** - Bonne Quille - 2021 - Sauvignon, Muscadelle, Loin de l’oeil - 28 €
 
 ### ALLEMAGNE
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 €
 - **Glow Glow** - 2021 - Riesling - 42 €
-- **Brand bros - 2021 - Muller Thurgau - 40 €
+- **Brand Bros** - 2021 - Muller Thurgau - 40 €
 
 ### ESPAGNE
 - **Esmeralda** - Arenas de Santyuste - 2021 - Verdejo - 47 €
