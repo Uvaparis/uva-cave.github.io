@@ -20,9 +20,12 @@ Bouteilles (75cl):
 - Tomme Caussenarde, confiture de mûre sauvage bio **8,5 €**
 - Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
 - Capocollo (Italie), soigneusement parfumé d'herbes aromatiques il s'apparente à la Coppa Corse **9 €**
-- Brillat-Savarin affiné, huile d’olive bio, poivre **10 €**
+- Brillat-Savarin IGP affiné, huile d’olive bio, poivre **10 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
-- Burrata des pouilles, tomates datterino confites, huile d'olive, zeste de citron **9,5 €** 
+- Burrata des pouilles, huile d'olive, zeste de citron, sel et poivre **9,5 €**
+- Cecina de Léon IGP 12 mois d'affinage **9 €**
+- Taleggio au lait cru DOP (Lombardie - Italie), confiture d'abricot **8 €**
+- Sorbet pèche blanche, tagètes (3 balls) **6 €**
 
 [haut de page](#menu)
 
