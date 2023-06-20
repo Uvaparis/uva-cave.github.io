@@ -103,6 +103,9 @@ Bière acidulée de fruits rouges
 ### ESPAGNE
 - **Partida** - VN - 2018 - Vinel lo - 42 €
 
+### HONGRIE
+- **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - 52€
+
 ### ITALIE
 - **Della Vecchia** - Grinton Movest Blanc - 2022 - Chardonnay - 42 €
 - **Corte Bravi** - Vivace Rosé - 2022 - Corvina Corvinone - 37 €
@@ -147,6 +150,8 @@ Bière acidulée de fruits rouges
 
 ### ALLEMAGNE
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 €
+- **Glow Glow** - 2021 - Riesling - 42 €
+- **Brand bros - 2021 - Muller Thurgau - 40 €
 
 ### ESPAGNE
 - **Esmeralda** - Arenas de Santyuste - 2021 - Verdejo - 47 €
