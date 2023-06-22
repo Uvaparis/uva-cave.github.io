@@ -58,7 +58,7 @@ Bière acidulée de fruits rouges
 
 ## Vins au verre
 ### Bulles
-- Blanc, Bulle Nature, Domaine des Grandes Vignes, Loire, sec et fruité **7 €**
+- Blanc, Sans Pression, Domaine Bois Moisset, Gaillac, brioché et fruité **7 €**
 - Rouge, Piquette, Brand Bros, Allemagne, Pfalz, léger et fruité **6 €**
 
 ### Blancs
