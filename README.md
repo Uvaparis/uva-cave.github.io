@@ -74,6 +74,17 @@ Bière acidulée de fruits rouges
 ### Rosé 
 - France Crispeels, Vignoble Réveille, Languedoc, notes de fraise des bois **7 €**
 
+## Vins en canette 
+
+**Drink Canetta Blanc** 18,7 cl **7 €**
+Xarello, Macabeu & Parellada - Fruité et frais
+
+**Drink Canetta Rouge** 18,7 cl **7 €**
+Ull de Llebre - Croquant, frais et fruité
+
+**Drink Canetta Orange** 18,7 cl **7 €**
+Malvasia - Frais, salin, fruité et herbacé
+
 [haut de page](#menu)
 
 ## Bulles 75cl
