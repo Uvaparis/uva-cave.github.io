@@ -17,7 +17,6 @@ Bouteilles (75cl):
 # Assiettes à partager
 
 - Saucisson d’Aveyron **7,5 €**
-- Tomme Caussenarde, confiture de mûre sauvage bio **8,5 €**
 - Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
 - Capocollo (Italie), soigneusement parfumé d'herbes aromatiques il s'apparente à la Coppa Corse **9 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
