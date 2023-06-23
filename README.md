@@ -20,9 +20,12 @@ Bouteilles (75cl):
 - Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
 - Capocollo (Italie), soigneusement parfumé d'herbes aromatiques il s'apparente à la Coppa Corse **9 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
-- Burrata des pouilles, huile d'olive, zeste de citron, sel et poivre **9,5 €**
-- Cecina de Léon IGP 12 mois d'affinage **9 €**
-- Taleggio au lait cru DOP (Lombardie - Italie), confiture d'abricot **8 €**
+- Burrata des pouilles, huile d'olive (Olio Di Serra), zeste de citron, sel et poivre **9,5 €**
+- Cecina de Léon IGP 12 mois d'affinage **8 €**
+- Tomme Caussenarde affinée, confiture de myrtille **8,5 €**
+- Mortadelle à la pistache **8 €**
+- Anchois, huile d'olive **6 €**
+- Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
 - Sorbet pèche blanche, tagètes (3 balls) **6 €**
 
 [haut de page](#menu)
@@ -33,12 +36,6 @@ Bouteilles (75cl):
 **Les filles de l’ouest** 33cl **5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
 Citron-Gingembre, Groseille, Limonade l’originale, Menthe, Pomme piquante, Pomme tonique, Rhubarbe
-
-**Symples** 33cl **5 €**
-Boissons bio à base de plantes et de fruits, naturelles et françaises
-- Relaxante (Camomille, Verveine, Lavande et fruits rouges)
-- Énergisante (Thym, Romarin, Menthe poivrée et fruits jaunes)
-- Détoxifiante (Sauge, Sureau, Pomme, Citron, Carotte)
 
 ## Bières
 **To ol 45 organic pilsner** 33cl **6,50 €**
