@@ -109,9 +109,6 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Marto** - Crazy Crazy Orange - 2021 - Müller-Thurgau - 39 €
 - **Brand Bros** - Shake & Wait Orange - 2021 - Müller-Thurgau Riesling - 35 €
 
-### ESPAGNE
-- **Partida** - VN - 2018 - Vinel lo - 42 €
-
 ### HONGRIE
 - **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - 52€
 
