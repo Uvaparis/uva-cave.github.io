@@ -24,6 +24,7 @@ Bouteilles (75cl):
 - Burrata des pouilles, huile d'olive (Olio Di Serra), zeste de citron, sel et poivre **9,5 €**
 - Cecina de Léon IGP 12 mois d'affinage **8 €**
 - Tomme Caussenarde affinée, confiture de myrtille **8,5 €**
+- Houmous de pois chiche, huile d'olive **8 €**
 - Mortadelle à la pistache **8 €**
 - Tallegio DOP, confiture d'abricot **8 €**
 - Anchois, huile d'olive **6 €**
