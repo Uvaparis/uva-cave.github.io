@@ -25,6 +25,7 @@ Bouteilles (75cl):
 - Cecina de Léon IGP 12 mois d'affinage **8 €**
 - Tomme Caussenarde affinée, confiture de myrtille **8,5 €**
 - Mortadelle à la pistache **8 €**
+- Tallegio DOP, confiture d'abricot **8 €**
 - Anchois, huile d'olive **6 €**
 - Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
 - Sorbet pèche blanche, tagètes (3 balls) **6 €**
