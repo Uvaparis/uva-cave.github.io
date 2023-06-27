@@ -16,9 +16,10 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
+- Olives vertes de Sicile **4,5 €**
 - Saucisson d’Aveyron **7,5 €**
 - Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
-- Capocollo (Italie), soigneusement parfumé d'herbes aromatiques il s'apparente à la Coppa Corse **9 €**
+- Coppa artisanale d'Aveyron **9 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Burrata des pouilles, huile d'olive (Olio Di Serra), zeste de citron, sel et poivre **9,5 €**
 - Cecina de Léon IGP 12 mois d'affinage **8 €**
