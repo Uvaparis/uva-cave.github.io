@@ -245,9 +245,9 @@ Malvasia - Frais, salin, fruité et herbacé
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - 48 €
 - **J-P Robinot** - Concerto - 2020 - Pineau d’aunis - 48 €
 - **J-P Robinot** - Prélude - 2018 - Pineau d’aunis - 91 €
-- **Vaillant** - Le petit vaillant - Grolot, Cab franc - 22 €
-- **Vaillant** - Pineau d’Aunis - 2021 - Pineau d’Aunis - 27 €
-- **Vaillant** - Groslot - 2021 - Grolleau - 25 €
+- **Vaillant** - Le petit vaillant - Grolot, Cab franc - 25 €
+- **Vaillant** - Pineau d’Aunis - 2021 - Pineau d’Aunis - 28 €
+- **Vaillant** - Groslot - 2021 - Grolleau - 27 €
 - **Mathieu Coste** - Têtes de chats - 2019 - Pinot noir, gamay - 41 €
 - **F. Saint Lô** - Hey Gro - 2021 - Grolleau - 49 €
 - **Bois Rond** - Carbaunix - 2022 - Pineau d’Aunis - 36 €
