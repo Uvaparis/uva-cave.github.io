@@ -93,9 +93,6 @@ Malvasia - Frais, salin, fruité et herbacé
 ### AUVERGNE
 - **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 42 €
 
-### JURA
-- **Ratapoil** - Avis de tempête - 2021 - Chenin - 43 €
-
 ### LOIRE
 - **Thomas Zurbach** - Like a bird on the wire - 2021 - Chenin - 41 €
 - **Thomas Zurbach** - When the seagulls follow the trawler - Grolleau gris - 43 €
