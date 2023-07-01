@@ -63,7 +63,7 @@ Bière acidulée de fruits rouges
 - Pulpe de Raphael, Alsace, vif et légèrement citronné  **7 €**
 
 ### Orange
-- Eros de David, Alsace, macération de 10 jour, fruité et franc avec une amertume en fin de bouche **7 €**
+- Gismondi Foresta - fruité et franc avec une amertume en fin de bouche **8 €€**
 
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
