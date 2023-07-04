@@ -60,7 +60,6 @@ Bière acidulée de fruits rouges
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
-- Oliver Pichon La Colonel, Languedoc, frais et aromatique **7 €**
 
 ### Orange
 - Gismondi Foresta, fruité et franc avec une amertume en fin de bouche **8 €**
