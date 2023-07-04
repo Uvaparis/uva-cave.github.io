@@ -63,7 +63,7 @@ Bière acidulée de fruits rouges
 - Oliver Pichon La Colonel, Languedoc, frais et aromatique **7 €**
 
 ### Orange
-- Gismondi Foresta - fruité et franc avec une amertume en fin de bouche **8 €€**
+- Gismondi Foresta, fruité et franc avec une amertume en fin de bouche **8 €**
 
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
@@ -170,7 +170,6 @@ Malvasia - Frais, salin, fruité et herbacé
 ## Oranges 75cl
 
 ### ALSACE
-- **Muller Koeberle** - Eros de David - Gewürztraminer, Riesling, muscat - 29 €
 - **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewürztraminer, Riesling, Pinot Gris - 61 €
 - **Kumpf Meyer** - Putes Féministes - 2022 - Gewurztraminer Muscat - 44 €
 
