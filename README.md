@@ -264,10 +264,6 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Natacha Lami** - La vie est belle - 2021 - Braucol, Duras - 36 €
 - **Vignoble Réveille** - Tous des oiseaux - 2020 - Carignan - 36 €
 
-### ALLEMAGNE
-- **Marto** - Manna - 2020 - Portugieser, Scheurebe - 37 €
-- **Glow Glow** - Pinot Noir - 2020 - Pinot noir - 42 €
-
 ### ITALIE
 - **Della Vecchia** - Grinton Ros - 2022 - Merlot - 42 €
 
