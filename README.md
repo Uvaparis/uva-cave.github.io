@@ -168,6 +168,7 @@ Malvasia - Frais, salin, fruité et herbacé
 ### ALSACE
 - **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewürztraminer, Riesling, Pinot Gris - 61 €
 - **Kumpf Meyer** - Putes Féministes - 2022 - Gewurztraminer Muscat - 44 €
+- **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 29 €
 
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - 84 €
