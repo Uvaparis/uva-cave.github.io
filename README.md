@@ -1,5 +1,5 @@
 # Menu
-**Commande au bar. Merci :)**
+**COMMANDE AU BAR BITCHESSSS. MERCI :)**
 
 Food : 
 - [assiettes à partager](#assiettes-à-partager)
