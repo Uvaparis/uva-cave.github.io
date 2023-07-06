@@ -60,6 +60,7 @@ Bière acidulée de fruits rouges
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
+- Domaine de l'Envol, Pulpe de Raphael Alsace, frais, aromatique et citronné **7 €**
 
 ### Orange
 - Gismondi Foresta, fruité et franc avec une amertume en fin de bouche **8 €**
