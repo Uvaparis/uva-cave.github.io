@@ -21,7 +21,6 @@ Bouteilles (75cl):
 - Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
 - Coppa artisanale d'Aveyron **9 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
-- Burrata des pouilles, huile d'olive (Olio Di Serra), zeste de citron, sel et poivre **7,5 €**
 - Cecina de Léon IGP 12 mois d'affinage **8 €**
 - Tomme Caussenarde affinée, confiture de myrtille **8,5 €**
 - Mortadelle à la pistache **8 €**
@@ -103,7 +102,6 @@ Malvasia - Frais, salin, fruité et herbacé
 ### ALLEMAGNE
 - **Piri** - Pet Nat - 2021 - Riesling with quince - 38 €
 - **Marto** - Crazy Crazy Orange - 2021 - Müller-Thurgau - 39 €
-- **Brand Bros** - Shake & Wait Orange - 2021 - Müller-Thurgau Riesling - 35 €
 
 ### HONGRIE
 - **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - 52€
