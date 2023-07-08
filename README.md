@@ -125,6 +125,9 @@ Malvasia - Frais, salin, fruité et herbacé
 ### ALSACE
 - **Domaine de l'Envol** - Pulpe de Raphael - 2022 - Sylvaner, Riesling, Pinot Auxerrois, Chasselas  - 27 €
 
+### AUVERGNE
+- **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 44 €
+
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
 - **Athénaïs de Béru** - Chablis Montserre - 2020 - Chardonnay - 67 €
