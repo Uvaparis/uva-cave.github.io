@@ -27,7 +27,6 @@ Bouteilles (75cl):
 - Tallegio DOP, confiture d'abricot **8 €**
 - Anchois, huile d'olive **6 €**
 - Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
-- Sorbet pèche blanche, tagètes (3 balls) **6 €**
 
 [haut de page](#menu)
 
