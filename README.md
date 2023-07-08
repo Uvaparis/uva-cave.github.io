@@ -37,6 +37,8 @@ Bouteilles (75cl):
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
 Limonade l’originale, Menthe, Pomme piquante, Pomme tonique, Rhubarbe
 
+**Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **18 €**
+
 ## Bières
 **To ol 45 organic pilsner** 33cl **6,50 €**
 Bière blonde, robe jaune dorée et limpide
@@ -170,6 +172,7 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewürztraminer, Riesling, Pinot Gris - 61 €
 - **Kumpf Meyer** - Putes Féministes - 2022 - Gewurztraminer Muscat - 44 €
 - **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 29 €
+- **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140€
 
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - 84 €
