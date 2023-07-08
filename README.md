@@ -36,7 +36,7 @@ Bouteilles (75cl):
 ## Soft
 **Les filles de l’ouest** 33cl **5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Citron-Gingembre, Limonade l’originale, Menthe, Pomme piquante, Pomme tonique, Rhubarbe
+Limonade l’originale, Menthe, Pomme piquante, Pomme tonique, Rhubarbe
 
 ## Bières
 **To ol 45 organic pilsner** 33cl **6,50 €**
