@@ -35,7 +35,7 @@ Bouteilles (75cl):
 ## Soft
 **Les filles de l’ouest** 33cl **5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Limonade l’originale, Menthe, Pomme piquante, Pomme tonique, Rhubarbe
+Menthe, Pomme piquante, Pomme tonique, Rhubarbe
 
 **Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **18 €**
 
