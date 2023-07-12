@@ -53,6 +53,9 @@ et de fruits tropicaux
 **Fauve** 33cl **8 €**
 Bière acidulée de fruits rouges
 
+**Cantillon** Kriek 100% Lambic Bio - 75cl **40€**
+Désaltérante, saveurs de fruits rouges et d'agrumes
+
 ## Vins au verre
 ### Bulles
 - Blanc, Sans Pression, Domaine Bois Moisset, Gaillac, brioché et fruité **7 €**
@@ -61,7 +64,8 @@ Bière acidulée de fruits rouges
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
 - Domaine de l'Envol, Pulpe de Raphael Alsace, frais, aromatique et citronné **7 €**
-
+- Glow Glow, Riesling, sec et floral **8 €**
+  
 ### Orange
 - Gismondi Foresta, fruité et franc avec une amertume en fin de bouche **8 €**
 
