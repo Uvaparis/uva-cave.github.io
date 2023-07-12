@@ -43,6 +43,8 @@ Menthe, Pomme piquante, Pomme tonique, Rhubarbe
 **To ol 45 organic pilsner** 33cl **6,50 €**
 Bière blonde, robe jaune dorée et limpide
 
+**To ol 45 organic pilsner** 44cl **8 €**
+
 **Siren Calypso** 33cl **6,50 €**
 Délicate et légère, nez citronné acidulé
 
