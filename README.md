@@ -147,7 +147,6 @@ Malvasia - Frais, salin, fruité et herbacé
 - **R. Guettier** - Désirée - 2018 - Chenin - 54 €
 - **R. Guettier** - Pressoir de St Pierre - 2020 - Chenin - 53 €
 - **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de bourgogne - 27 €
-- **Lauré et Fabrice Chaillou** - Cancellis - 2021 - Chenin - 37 €
 
 ### TARN
 - **J. Galaup** - Petite Amoureuse - 2020 - Muscadelle - 35 €
