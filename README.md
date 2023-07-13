@@ -22,7 +22,6 @@ Bouteilles (75cl):
 - Coppa artisanale d'Aveyron **9 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Cecina de Léon IGP 12 mois d'affinage **8 €**
-- Tomme Caussenarde affinée, confiture de myrtille **8,5 €**
 - Mortadelle à la pistache **8 €**
 - Tallegio DOP, confiture d'abricot **8 €**
 - Anchois, huile d'olive **6 €**
@@ -35,7 +34,7 @@ Bouteilles (75cl):
 ## Soft
 **Les filles de l’ouest** 33cl **5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Menthe, Pomme piquante, Pomme tonique, Rhubarbe
+Orange, Citron gingembre, Limonade, Menthe, Pomme piquante, Pomme tonique, Rhubarbe
 
 **Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **18 €**
 
