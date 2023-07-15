@@ -16,7 +16,6 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
-- Olives vertes de Sicile **4,5 €**
 - Saucisson d’Aveyron **7,5 €**
 - Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
 - Coppa artisanale d'Aveyron **9 €**
