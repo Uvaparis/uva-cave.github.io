@@ -22,6 +22,7 @@ Bouteilles (75cl):
 - Coppa artisanale d'Aveyron **9 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Cecina de Léon IGP 12 mois d'affinage **8 €**
+- Tomme Caussenarde grand affinage, confiture de mûre **9 €**
 - Mortadelle à la pistache **8 €**
 - Tallegio DOP, confiture d'abricot **8 €**
 - Anchois, huile d'olive **6 €**
