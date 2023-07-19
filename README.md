@@ -66,7 +66,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
 - Domaine de l'Envol, Pulpe de Raphael Alsace, frais, aromatique et citronné **7 €**
-- Glow Glow, Riesling, sec et floral **8 €**
   
 ### Orange
 - Gismondi Foresta, fruité et franc avec une amertume en fin de bouche **8 €**
