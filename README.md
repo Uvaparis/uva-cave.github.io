@@ -25,7 +25,6 @@ Bouteilles (75cl):
 - Mortadelle à la pistache **8 €**
 - Burrata des Pouilles, huile d'olive, zeste de citron, sel, poivre **9 €**
 - Bresaola italienne (Carpaccio Bovino), huile d'olive **9 €**
-- Tallegio DOP, confiture d'abricot **8 €**
 - Anchois, huile d'olive **6 €**
 - Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
 
