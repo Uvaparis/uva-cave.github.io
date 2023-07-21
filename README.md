@@ -21,7 +21,7 @@ Bouteilles (75cl):
 - Tomme Caussenarde grand affinage, confiture de mûre **9 €**
 - Burrata des Pouilles, huile d'olive, zeste de citron, sel, poivre **9 €**
 - Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
-( Les ami.es la carte est réduite ce soir, nous en voulez pas, tout revient mardi :-) )
+Les ami.es la carte est réduite ce soir, nous en voulez pas, tout revient mardi :-)
 
 [haut de page](#menu)
 
