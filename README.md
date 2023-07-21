@@ -128,7 +128,7 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ## Blancs 75cl
 ### ALSACE
-- **Domaine de l'Envol** - Pulpe de Raphael - 2022 - Sylvaner, Riesling, Pinot Auxerrois, Chasselas  - 27 €
+- **Domaine de l'Envol** - Pulpe de Raphael - 2022 - Sylvaner, Riesling, Pinot Auxerrois, Chasselas  - 29 €
 
 ### AUVERGNE
 - **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 44 €
