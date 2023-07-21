@@ -17,16 +17,11 @@ Bouteilles (75cl):
 # Assiettes à partager
 
 - Saucisson d’Aveyron **7,5 €**
-- Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
-- Coppa artisanale d'Aveyron **8 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
-- Cecina de Léon IGP 12 mois d'affinage **8 €**
 - Tomme Caussenarde grand affinage, confiture de mûre **9 €**
-- Mortadelle à la pistache **8 €**
 - Burrata des Pouilles, huile d'olive, zeste de citron, sel, poivre **9 €**
-- Bresaola italienne (Carpaccio Bovino), huile d'olive **9 €**
-- Anchois, huile d'olive **6 €**
 - Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
+( Les ami.es la carte est réduite ce soir, nous en voulez pas, tout revient mardi :-) )
 
 [haut de page](#menu)
 
@@ -51,9 +46,6 @@ Délicate et légère, nez citronné acidulé
 **IPA To ol Whirl Domination** 33cl **6,60 €**
 Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue 
 et de fruits tropicaux
-
-**Fauve** 33cl **8 €**
-Bière acidulée de fruits rouges
 
 **Cantillon** Kriek 100% Lambic Bio - 75cl **40€**
 Désaltérante, saveurs de fruits rouges et d'agrumes
