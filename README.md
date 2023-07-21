@@ -146,7 +146,7 @@ Malvasia - Frais, salin, fruité et herbacé
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 54 €
 - **R. Guettier** - Pressoir de St Pierre - 2020 - Chenin - 53 €
-- **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de bourgogne - 27 €
+- **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de bourgogne - 29 €
 
 ### TARN
 - **J. Galaup** - Petite Amoureuse - 2020 - Muscadelle - 35 €
@@ -174,7 +174,7 @@ Malvasia - Frais, salin, fruité et herbacé
 ### ALSACE
 - **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewürztraminer, Riesling, Pinot Gris - 61 €
 - **Kumpf Meyer** - Putes Féministes - 2022 - Gewurztraminer Muscat - 44 €
-- **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 29 €
+- **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 33 €
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140€
 
 ### SAVOIE
