@@ -153,9 +153,11 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ### ALLEMAGNE
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 €
-- **Glow Glow** - 2021 - Riesling - 42 €
 - **Brand Bros** - 2021 - Muller Thurgau - 40 €
+- **Naked Friday** - 2021 - Müller Thurgau, Schheurebe, Kerner, Riesling - 37€
+- **Brand Bros** - 2021 - Pinot blanc - 40€
 
+  
 ### ESPAGNE
 - **Esmeralda** - Arenas de Santyuste - 2021 - Verdejo - 47 €
 - **Clos Lentiscus** - Perill Blanc - 2018 - Xarelo - 43 €
