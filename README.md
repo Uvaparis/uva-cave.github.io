@@ -98,8 +98,11 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Thomas Zurbach** - Like a bird on the wire - 2021 - Chenin - 41 €
 - **Thomas Zurbach** - When the seagulls follow the trawler - Grolleau gris - 43 €
 
+### JURA
+- **Casa Antolia** - Cade meu carnaval - 2019 - Chardonnay, Ugni blanc, Sauvignon - 41 €
+
 ### TARN
-- **Sans Pression** - Domaine Bois Moisset - 2021 - Mauzac, Sauvignon, Loin de l'oeil - 29 €
+- **Sans Pression** - Domaine Bois Moisset - 2021 - Mauzac, Sauvignon, Loin de l'oeil - 33 €
 
 ### ALLEMAGNE
 - **Piri** - Pet Nat - 2021 - Riesling with quince - 38 €
@@ -252,7 +255,7 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Bois Rond** - Carbaunix - 2022 - Pineau d’Aunis - 36 €
 - **Barbara Lebled** - Gamay sans toi - 2021 - Gamay - 33 €
 - **Laurent Lebled** - Hou la la - 2021 - Pinot noir - 35 €
-- **Christophe Bosque** - 0.72+ rouge - 2019 - Grenache, syrah, viognier - 27 €
+- **Christophe Bosque** - 0.72+ rouge - 2019 - Grenache, syrah, viognier - 29 €
 
 ### RHÔNE
 - **Justine Vigne** - Self Love - 2021 - Syrah - 50 €
