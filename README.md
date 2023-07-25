@@ -177,6 +177,9 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 33 €
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140€
 
+### LANGUEDOC ROUSILLON
+- **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€
+
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - 84 €
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - 108 €
