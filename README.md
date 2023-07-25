@@ -20,12 +20,10 @@ Bouteilles (75cl):
 - Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
 - Coppa artisanale d'Aveyron **8 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
-- Cecina de Léon IGP 12 mois d'affinage **8 €**
 - Tomme Caussenarde grand affinage, confiture de mûre **9 €**
 - Mortadelle à la pistache **8 €**
 - Burrata des Pouilles, huile d'olive, zeste de citron, sel, poivre **9 €**
 - Bresaola italienne (Carpaccio Bovino), huile d'olive **9 €**
-- Anchois, huile d'olive **6 €**
 - Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
 
 [haut de page](#menu)
