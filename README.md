@@ -69,7 +69,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
-- Domaine Les Grandes Vignes, Famille Vaillant, 100% Groslot, fruité, frais et fin de bouche épicée **7 €**
 
 ### Rosé 
 - France Crispeels, Vignoble Réveille, Languedoc, notes de fraise des bois **7 €**
