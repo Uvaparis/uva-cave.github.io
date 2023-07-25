@@ -57,6 +57,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ## Vins au verre
 ### Bulles
+- Blanc, Sans Pression, Tarn, sec et frais avec des notes briochées en fin de bouche **7 €**
 - Rouge, Piquette, Brand Bros, Allemagne, Pfalz, léger et fruité **6 €**
 
 ### Blancs
