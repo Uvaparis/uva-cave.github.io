@@ -202,7 +202,7 @@ Malvasia - Frais, salin, fruité et herbacé
 ## Rosés 75cl
 
 ### LANGUEDOC
-- **Olivier Pichon** - Six P'tits Grains - 2021 - Jus de goutte de Grenache Noir - 35 €
+- **Olivier Pichon** - Six P'tits Grains - 2021 - Jus de goutte de Grenache - 35 €
 
 ### PYRÉNÉES-ORIENTALES
 - **Vignoble Réveille** - Herbes Folles - 2019 - Syrah - 29 €
