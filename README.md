@@ -21,7 +21,6 @@ Bouteilles (75cl):
 - Coppa artisanale d'Aveyron **8 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Tomme Caussenarde grand affinage, confiture de mûre **9 €**
-- Mortadelle à la pistache **8 €**
 - Burrata des Pouilles, huile d'olive, zeste de citron, sel, poivre **9 €**
 - Bresaola italienne (Carpaccio Bovino), huile d'olive **9 €**
 - Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
