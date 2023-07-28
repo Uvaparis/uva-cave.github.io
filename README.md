@@ -93,7 +93,6 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 42 €
 
 ### LOIRE
-- **Thomas Zurbach** - Like a bird on the wire - 2021 - Chenin - 41 €
 - **Thomas Zurbach** - When the seagulls follow the trawler - Grolleau gris - 43 €
 
 ### JURA
@@ -110,7 +109,6 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - 52€
 
 ### ITALIE
-- **Della Vecchia** - Grinton Movest Blanc - 2022 - Chardonnay - 42 €
 - **Corte Bravi** - Vivace Rosé - 2022 - Corvina Corvinone - 37 €
 - **Croci** - Lubigo Blanc - 2020 - Ortrugo - 34 €
 - **Porta del vento** - Voria - Orange - 2019 - Catarratto, Grillo - 37 €
