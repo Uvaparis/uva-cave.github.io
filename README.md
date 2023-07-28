@@ -21,7 +21,6 @@ Bouteilles (75cl):
 - Coppa artisanale d'Aveyron **8 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Tomme Caussenarde grand affinage, confiture de mûre **9 €**
-- Burrata des Pouilles, huile d'olive, zeste de citron, sel, poivre **9 €**
 - Bresaola italienne (Carpaccio Bovino), huile d'olive **9 €**
 - Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
 - Taleggio AOC (fromage italien), confiture d'abricot **8 €**
@@ -40,8 +39,6 @@ Orange, Citron gingembre, Limonade, Menthe, Pomme piquante, Pomme tonique, Rhuba
 ## Bières
 **To ol 45 organic pilsner** 33cl **6,50 €**
 Bière blonde, robe jaune dorée et limpide
-
-**To ol 45 organic pilsner** 44cl **8 €**
 
 **Siren Calypso** 33cl **6,50 €**
 Délicate et légère, nez citronné acidulé
