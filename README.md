@@ -23,7 +23,6 @@ Bouteilles (75cl):
 - Bresaola italienne (Carpaccio Bovino), huile d'olive **9 €**
 - Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
 - Taleggio AOC (fromage italien), confiture d'abricot **8 €**
-- Mortadelle à la pistache **10 €**
 
 [haut de page](#menu)
 
