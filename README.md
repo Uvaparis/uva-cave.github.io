@@ -17,24 +17,24 @@ Bouteilles (75cl):
 # Assiettes à partager
 
 - Saucisson d’Aveyron **7,5 €**
-- Saint-Nectaire fermier, pickles d’oignon rouge **7,5 €**
 - Coppa artisanale d'Aveyron **8 €**
-- Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
+- Paté de campagne artisanal (Maison Montalet, Tarn) **9,5 €**
 - Tomme Caussenarde grand affinage, confiture de mûre **9 €**
 - Bresaola italienne (Carpaccio Bovino), huile d'olive **9 €**
 - Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
 - Taleggio AOC (fromage italien), confiture d'abricot **8 €**
+- Mortadelle à la pistache **10 €**
 
 [haut de page](#menu)
 
 # Carte des Softs, Bières et Vins
 
 ## Soft
-**Les filles de l’ouest** 33cl **5 €**
+**Les filles de l’ouest** 33cl **5,5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
 Orange, Citron gingembre, Limonade, Menthe, Pomme piquante, Pomme tonique, Rhubarbe
 
-**Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **18 €**
+**Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **19 €**
 
 ## Bières
 **To ol 45 organic pilsner** 33cl **6,50 €**
@@ -53,7 +53,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 ### Bulles
 - Blanc, Sans Pression, Tarn, sec et frais avec des notes briochées en fin de bouche **7 €**
-- Rouge, Piquette, Brand Bros, Allemagne, Pfalz, léger et fruité **6 €**
+- Rouge, Piquette, Brand Bros, Allemagne, Pfalz, léger et fruité **7 €**
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
@@ -70,48 +70,48 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ## Vins en canette 
 
-**Drink Canetta Blanc** 18,7 cl **7 €**
+**Drink Canetta Blanc** 18,7 cl **8 €**
 Xarello, Macabeu & Parellada - Fruité et frais
 
-**Drink Canetta Rouge** 18,7 cl **7 €**
+**Drink Canetta Rouge** 18,7 cl **8 €**
 Ull de Llebre - Croquant, frais et fruité
 
-**Drink Canetta Orange** 18,7 cl **7 €**
+**Drink Canetta Orange** 18,7 cl **8 €**
 Malvasia - Frais, salin, fruité et herbacé
 
 [haut de page](#menu)
 
 ## Bulles 75cl
 ### ALSACE
-- **Geschickt** - Crémant Brut Nature - 2017 - Assemblage de Pinots - 44 €
+- **Geschickt** - Crémant Brut Nature - 2017 - Assemblage de Pinots - 45 €
 - **Kumpf Meyer** - Restons Dark - 19-20 - Pinot gris Pinot auxerrois - 39 €
 
 ### AUVERGNE
-- **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 42 €
+- **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 44 €
 
 ### LOIRE
-- **Thomas Zurbach** - When the seagulls follow the trawler - Grolleau gris - 43 €
+- **Thomas Zurbach** - When the seagulls follow the trawler - Grolleau gris - 44 €
 
 ### JURA
-- **Casa Antolia** - Cade meu carnaval - 2019 - Chardonnay, Ugni blanc, Sauvignon - 41 €
+- **Casa Antolia** - Cade meu carnaval - 2019 - Chardonnay, Ugni blanc, Sauvignon - 42 €
 
 ### TARN
 - **Sans Pression** - Domaine Bois Moisset - 2021 - Mauzac, Sauvignon, Loin de l'oeil - 33 €
 
 ### ALLEMAGNE
-- **Piri** - Pet Nat - 2021 - Riesling with quince - 38 €
-- **Marto** - Crazy Crazy Orange - 2021 - Müller-Thurgau - 39 €
+- **Piri** - Pet Nat - 2021 - Riesling with quince - 39 € - Non disponible
+- **Marto** - Crazy Crazy Orange - 2021 - Müller-Thurgau - 39 € - Non disponible
 
 ### HONGRIE
-- **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - 52€
+- **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - 55€
 
 ### ITALIE
 - **Corte Bravi** - Vivace Rosé - 2022 - Corvina Corvinone - 37 €
-- **Croci** - Lubigo Blanc - 2020 - Ortrugo - 34 €
+- **Croci** - Lubigo Blanc - 2020 - Ortrugo - 35 € - Non disponible
 - **Porta del vento** - Voria - Orange - 2019 - Catarratto, Grillo - 37 €
 
 ## Cidre 75cl
-- **Cidrerie du Golfe - Bretagne** - Hors Norme 2021 - 23 €
+- **Cidrerie du Golfe - Bretagne** - Hors Norme 2021 - 24 €
 - **Cidrerie du Vulcain - Suisse** - À propos d’elle 2021 - 45 €
 
 ## Champagne 75cl
@@ -121,10 +121,10 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ## Blancs 75cl
 ### ALSACE
-- **Domaine de l'Envol** - Pulpe de Raphael - 2022 - Sylvaner, Riesling, Pinot Auxerrois, Chasselas  - 29 €
+- **Domaine de l'Envol** - Pulpe de Raphael - 2022 - Sylvaner, Riesling, Pinot Auxerrois, Chasselas  - 31 €
 
 ### AUVERGNE
-- **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 44 €
+- **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 45 €
 
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
@@ -134,40 +134,41 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
 
 ### LANGUEDOC ROUSSILLON
-- **Olivier Pichon** - La Colonel - 2022 - Grenache Blanc - 32€
+- **Olivier Pichon** - La Colonel - 2022 - Grenache Blanc - 34€
 
 ### LOIRE
-- **R. Guettier** - Désirée - 2018 - Chenin - 54 €
+- **R. Guettier** - Désirée - 2018 - Chenin - 55 €
 - **R. Guettier** - Pressoir de St Pierre - 2020 - Chenin - 53 €
-- **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de bourgogne - 29 €
+- **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de bourgogne - 30 €
 
 ### TARN
-- **J. Galaup** - Petite Amoureuse - 2020 - Muscadelle - 35 €
+- **J. Galaup** - Petite Amoureuse - 2020 - Muscadelle - 35 € - Non disponible
 
 ### ALLEMAGNE
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 €
-- **Brand Bros** - 2021 - Muller Thurgau - 40 €
-- **Naked Friday** - 2021 - Müller Thurgau, Schheurebe, Kerner, Riesling - 37€
+- **Brand Bros** - 2021 - Muller Thurgau - 41 €
+- **Naked Friday** - 2021 - Weiss - Müller Thurgau, Schheurebe, Kerner, Riesling - 38€
 - **Brand Bros** - 2021 - Pinot blanc - 40€
+- **Madame Flock** - Schmetterling - 2020 - Muller Thurgau, riesling, kerner - 44 €
 
   
 ### ESPAGNE
-- **Esmeralda** - Arenas de Santyuste - 2021 - Verdejo - 47 €
+- **Esmeralda** - Arenas de Santyuste - 2021 - Verdejo - 47 € - Non disponible
 - **Clos Lentiscus** - Perill Blanc - 2018 - Xarelo - 43 €
 
 ### GRÈCE
-- **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 34€
+- **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 36€
 
 ### HONGRIE
-- **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - 54 €
-- **Istvan Bencze** - Riesling - 2020 - Riesling - 54 €
+- **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - 55 €
+- **Istvan Bencze** - Riesling - 2020 - Riesling - 58 €
 
 [haut de page](#menu)
 
 ## Oranges 75cl
 
 ### ALSACE
-- **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewürztraminer, Riesling, Pinot Gris - 61 €
+- **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewürztraminer, Riesling, Pinot Gris - 61 € 
 - **Kumpf Meyer** - Putes Féministes - 2022 - Gewurztraminer Muscat - 44 €
 - **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 33 €
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140€
@@ -183,15 +184,12 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Alice Bouvot** - Mus’cat - 2021 - Muscat - 51 €
 - **Jérôme Arnoux** - Paradoxe - 2020 - Savagnin macéré - 52 €
 
-### ALLEMAGNE
-- **Madame Flock** - Schmetterling - 2020 - Muller Thurgau, riesling, kerner - 43 €
-
 ### ITALIE
-- **Val di sole** - Pandora - 2021 - Malvasia - 57 €
-- **Antonio Gismondi** - Foresta - 2021 - Trebbiano, Malvasia - 35 €
+- **Val di sole** - Pandora - 2021 - Malvasia - 57 € - Non disponible
+- **Antonio Gismondi** - Foresta - 2021 - Trebbiano, Malvasia - 36 €
 - **La Stoppa** - Ageno - 2018 - Malvasia Ortrugo Trebbiano - 78 €
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - 69 € (50cl)
-- **Alessandro Viola** - Sinfonia di Bianco - 2021 - Grillo - 60 €
+- **Alessandro Viola** - Sinfonia di Bianco - 2021 - Grillo - 61 €
 
 [haut de page](#menu)
 
@@ -201,10 +199,10 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Olivier Pichon** - Six P'tits Grains - 2021 - Jus de goutte de Grenache - 35 €
 
 ### PYRÉNÉES-ORIENTALES
-- **Vignoble Réveille** - Herbes Folles - 2019 - Syrah - 29 €
+- **Vignoble Réveille** - Herbes Folles - 2019 - Syrah - 30 €
 
 ### ALLEMAGNE
-- **Brand Bros** - Wild Rosé - 2020 - Portugieser - 34 €
+- **Brand Bros** - Wild Rosé - 2020 - Portugieser - 36 €
 
 ### ITALIE
 - **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - 49 €
@@ -220,37 +218,37 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 33 €
 
 ### AUVERGNE
-- **P. Bouju** - Môl - 2019 - Merlot, carignan, syrah - 37 €
+- **P. Bouju** - Môl - 2019 - Merlot, carignan, syrah - 38 €
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - 95 €
 - **Athénaïs** - Amalgamay - 2020 - Aligoté, gamay - 43 €
 
 ### JURA
-- **Alice Bouvot** - Ganache - 2019 - Ganache, gamay - 48 €
+- **Alice Bouvot** - Ganache - 2019 - Ganache, gamay - 48 € - Non disponible
 
 ### LANGUEDOC
-- **Fond Cyprès** - Toile de fond - 2021 - Grenache, syrah - 26 €
-- **Olivier Pichon** - Le Marmot - 2022 - Cinsaut, Grenache, Carignan - 27 €
-- **Antoine Latipau** - Porque Porcus - 2020 - Grenache, Carignan, Syrah - 32 €
-- **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 €
-- **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 46 €
+- **Fond Cyprès** - Toile de fond - 2021 - Grenache, syrah - 30 €
+- **Olivier Pichon** - Le Marmot - 2022 - Cinsaut, Grenache, Carignan - 28 €
+- **Antoine Latipau** - Porque Porcus - 2020 - Grenache, Carignan, Syrah - 33 €
+- **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 € - - Non disponible
+- **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
 - **Rémi Poujol** - Le temps fait tout - 2021 - Grenache, Carignan, Syrah - 29 €
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2017 - Pineau d’aunis - 59 €
 - **R. Guettier** - Enchanteresse - 2016 - Pineau d’aunis - 133 € (150 cl)
-- **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - 48 €
-- **J-P Robinot** - Concerto - 2020 - Pineau d’aunis - 48 €
+- **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - 52 € - Non disponible 
+- **J-P Robinot** - Concerto - 2020 - Pineau d’aunis - 48 € 
 - **J-P Robinot** - Prélude - 2018 - Pineau d’aunis - 91 €
 - **Vaillant** - Le petit vaillant - Grolot, Cab franc - 25 €
-- **Vaillant** - Pineau d’Aunis - 2021 - Pineau d’Aunis - 28 €
-- **Vaillant** - Groslot - 2021 - Grolleau - 27 €
+- **Vaillant** - Pineau d’Aunis - 2021 - Pineau d’Aunis - 29 €
+- **Vaillant** - Groslot - 2021 - Grolleau - 28 €
 - **Mathieu Coste** - Têtes de chats - 2019 - Pinot noir, gamay - 41 €
 - **F. Saint Lô** - Hey Gro - 2021 - Grolleau - 49 €
-- **Bois Rond** - Carbaunix - 2022 - Pineau d’Aunis - 36 €
-- **Barbara Lebled** - Gamay sans toi - 2021 - Gamay - 33 €
-- **Laurent Lebled** - Hou la la - 2021 - Pinot noir - 35 €
+- **Bois Rond** - Carbaunix - 2022 - Pineau d’Aunis - 36 € - Non disponible
+- **Barbara Lebled** - Gamay sans toi - 2021 - Gamay - 35 €
+- **Laurent Lebled** - Hou la la - 2021 - Pinot noir - 37 €
 - **Christophe Bosque** - 0.72+ rouge - 2019 - Grenache, syrah, viognier - 29 €
 
 ### RHÔNE
@@ -264,16 +262,16 @@ Malvasia - Frais, salin, fruité et herbacé
 - **JY Peron** - Champ levat - 2020 - Mondeuse - 66 €
 
 ### SUD OUEST
-- **Philippe Maffre** - Falgueyras VV - 2018 - Syrah - 28 €
+- **Philippe Maffre** - Falgueyras VV - 2018 - Syrah - 29 € - Non disponible 
 - **Natacha Lami** - La vie est belle - 2021 - Braucol, Duras - 36 €
-- **Vignoble Réveille** - Tous des oiseaux - 2020 - Carignan - 36 €
+- **Vignoble Réveille** - Tous des oiseaux - 2020 - Carignan - 37 €
 
 ### ITALIE
-- **Della Vecchia** - Grinton Ros - 2022 - Merlot - 42 €
+- **Della Vecchia** - Grinton Ros - 2022 - Merlot - 42 € - Non disponible
 
 [haut de page](#menu)
 
-*Les bouteilles sont disponibles à emporter avant 22h00, avec un droit de bouchon de moins 7 €.*
+*Les bouteilles sont disponibles à emporter avant 22h00 avec un droit de bouchon de 7€ en moins.*
 *Commande sur place jusqu'à 23h00*
 
 *Prix net en euros TTC.*
