@@ -60,7 +60,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### Orange
 - Gismondi Foresta, fruité et franc avec une amertume en fin de bouche **8 €**
-
+- Eros de David, fruité et aromatique **7 €**
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
 
