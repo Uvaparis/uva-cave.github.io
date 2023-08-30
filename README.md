@@ -20,10 +20,13 @@ Bouteilles (75cl):
 - Coppa artisanale d'Aveyron **8 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9,5 €**
 - Tomme Caussenarde grand affinage, confiture de mûre **9 €**
-- Bresaola italienne (Carpaccio Bovino), huile d'olive **9 €**
+- Bresaola italienne (Carpaccio Bovino), huile d'olive **10 €**
 - Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
 - Taleggio AOC (fromage italien), confiture d'abricot **8 €**
-
+- Burrata des Pouilles, huile d'olive et Zaatar **12 €**
+- Finocchiona IGP **8,5 €**
+- Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
+  
 [haut de page](#menu)
 
 # Carte des Softs, Bières et Vins
