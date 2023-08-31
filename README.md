@@ -264,7 +264,7 @@ Malvasia - Frais, salin, fruité et herbacé
 - **JY Peron** - Champ levat - 2020 - Mondeuse - 66 €
 
 ### SUD OUEST
-- **Philippe Maffre** - Falgueyras VV - 2018 - Syrah - 29 € - Non disponible 
+- **Philippe Maffre** - Falgueyras VV - 2018 - Syrah - 29 €
 - **Natacha Lami** - La vie est belle - 2021 - Braucol, Duras - 36 €
 - **Vignoble Réveille** - Tous des oiseaux - 2020 - Carignan - 37 €
 
