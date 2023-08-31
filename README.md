@@ -66,6 +66,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Eros de David, fruité et aromatique **7 €**
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
+- France Crispeels, Languedoc, Carignan 100%, rien qui pique rien qui blesse **7 €**
 
 ### Rosé 
 - France Crispeels, Vignoble Réveille, Languedoc, notes de fraise des bois **7 €**
