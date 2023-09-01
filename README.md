@@ -17,14 +17,12 @@ Bouteilles (75cl):
 # Assiettes à partager
 
 - Saucisson d’Aveyron **7,5 €**
-- Coppa artisanale d'Aveyron **8 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9,5 €**
 - Tomme Caussenarde grand affinage, confiture de mûre **9 €**
 - Bresaola italienne (Carpaccio Bovino), huile d'olive **10 €**
 - Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
-- Taleggio AOC (fromage italien), confiture d'abricot **8 €**
 - Burrata des Pouilles, huile d'olive et Zaatar **12 €**
-- Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge, meilleur que ton crush) **8,5 €**
+- Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
 - Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
   
 [haut de page](#menu)
