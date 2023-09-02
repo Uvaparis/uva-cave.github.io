@@ -18,7 +18,6 @@ Bouteilles (75cl):
 
 - Saucisson d’Aveyron **7,5 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9,5 €**
-- Tomme Caussenarde grand affinage, confiture de mûre **9 €**
 - Bresaola italienne (Carpaccio Bovino), huile d'olive **10 €**
 - Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
 - Burrata des Pouilles, huile d'olive et Zaatar **12 €**
