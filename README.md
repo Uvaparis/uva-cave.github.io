@@ -59,7 +59,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
-- Domaine de l'Envol, Pulpe de Raphael Alsace, frais, aromatique et citronné **7 €**
+- Bois Moisset, les bonnes Quilles, frais et aromatique **7 €**
   
 ### Orange
 - Gismondi Foresta, fruité et franc avec une amertume en fin de bouche **8 €**
@@ -125,7 +125,6 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ## Blancs 75cl
 ### ALSACE
-- **Domaine de l'Envol** - Pulpe de Raphael - 2022 - Sylvaner, Riesling, Pinot Auxerrois, Chasselas  - 31 €
 - **Geschickt** - Le Schlouk - 2020 - Gewurztraminer, Riesling - 40 €
 - **Geschickt** - 6 Pieds sur Terre - 2018 - Pinot noir, gris blanc, Gewurztraminer, Riesling, Muscat  - 46 €
 
