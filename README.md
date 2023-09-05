@@ -19,8 +19,10 @@ Bouteilles (75cl):
 - Saucisson d’Aveyron **7,5 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9,5 €**
 - Bresaola italienne (Carpaccio Bovino), huile d'olive **10 €**
+- Coppa Aveyronnaise 
 - Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
 - Burrata des Pouilles, huile d'olive et Zaatar **12 €**
+- Tallegio, confiture d'abricot
 - Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
 - Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
   
@@ -90,7 +92,8 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 44 €
 
 ### LOIRE
-- **Thomas Zurbach** - When the seagulls follow the trawler - Grolleau gris - 44 €
+- **Thomas Zurbach** - When the seagulls follow the trawler - 2021 - Grolleau gris - 44 €
+- **Thomas Zurback** - Like a bird on the Wire - 2021 - Chenin - 41 €
 
 ### JURA
 - **Casa Antolia** - Cade meu carnaval - 2019 - Chardonnay, Ugni blanc, Sauvignon - 42 €
@@ -122,6 +125,8 @@ Malvasia - Frais, salin, fruité et herbacé
 ## Blancs 75cl
 ### ALSACE
 - **Domaine de l'Envol** - Pulpe de Raphael - 2022 - Sylvaner, Riesling, Pinot Auxerrois, Chasselas  - 31 €
+- **Geschickt** - Le Schlouk - 2020 - Gewurztraminer, Riesling - 40 €
+- **Geschickt** - 6 Pieds sur Terre - 2018 - Pinot noir, gris blanc, Gewurztraminer, Riesling, Muscat  - 46 €
 
 ### AUVERGNE
 - **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 45 €
@@ -129,12 +134,14 @@ Malvasia - Frais, salin, fruité et herbacé
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
 - **Athénaïs de Béru** - Chablis Montserre - 2020 - Chardonnay - 67 €
+- **Julien Petitjean** Chardonnay - 2021 - 38€
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
 
 ### LANGUEDOC ROUSSILLON
 - **Olivier Pichon** - La Colonel - 2022 - Grenache Blanc - 34€
+- **La Cave Apicole** - Zumo - 2022 - Maccabeu, Grenache Gris - 40€
 
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 55 €
@@ -175,6 +182,9 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ### LANGUEDOC ROUSILLON
 - **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€
+
+### LOIRE
+- **Laurent Lebled** - Sauvignonne - 2022 - Sauvignon - 37€ 
 
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - 84 €
@@ -223,6 +233,7 @@ Malvasia - Frais, salin, fruité et herbacé
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - 95 €
 - **Athénaïs** - Amalgamay - 2020 - Aligoté, gamay - 43 €
+- **Julien Petitjean** - Hautes Côtes de Beaune Gymnopodie - 2020 - Pinot noir - 60 €
 
 ### JURA
 - **Alice Bouvot** - Ganache - 2019 - Ganache, gamay - 48 € - Non disponible
@@ -233,7 +244,9 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Antoine Latipau** - Porque Porcus - 2020 - Grenache, Carignan, Syrah - 33 €
 - **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 € - - Non disponible
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
-- **Rémi Poujol** - Le temps fait tout - 2021 - Grenache, Carignan, Syrah - 29 €
+- **Rémi Poujol** - Le temps fait tout - 2021 - Grenache, Carignan, Syrah - 30 €
+- **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 36€
+- **Olivier Pichon** - Grenache des Grès - 2021 - Grenache Noir - 30 €
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2017 - Pineau d’aunis - 59 €
@@ -250,6 +263,10 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Barbara Lebled** - Gamay sans toi - 2021 - Gamay - 35 €
 - **Laurent Lebled** - Hou la la - 2021 - Pinot noir - 37 €
 - **Christophe Bosque** - 0.72+ rouge - 2019 - Grenache, syrah, viognier - 29 €
+- **Lauré & Fabrice Chaillou** - Grinadine - 2022 - Grolleau gris - 30€
+- **Laurent Lebled** - Ça c'est bon - 2022 - Gamay - 34 €
+- **Laurent Lebled** - On est Su l'Sable - 2022 - Cabernet Franc - 37 €
+
 
 ### RHÔNE
 - **Justine Vigne** - Self Love - 2021 - Syrah - 50 €
