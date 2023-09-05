@@ -245,7 +245,7 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 € - - Non disponible
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
 - **Rémi Poujol** - Le temps fait tout - 2021 - Grenache, Carignan, Syrah - 30 €
-- **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 36€
+- **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 37€
 - **Olivier Pichon** - Grenache des Grès - 2021 - Grenache Noir - 30 €
 
 ### LOIRE
