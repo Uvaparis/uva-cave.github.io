@@ -20,7 +20,6 @@ Bouteilles (75cl):
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9,5 €**
 - Bresaola italienne (Carpaccio Bovino), huile d'olive **10 €**
 - Coppa artisanale d'Aveyron **8 €**
-- Brillat Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
 - Burrata des Pouilles, huile d'olive et Zaatar **12 €**
 - Tallegio AOP, confiture d'abricot ** 8 €**
 - Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
