@@ -22,7 +22,6 @@ Bouteilles (75cl):
 - Bresaola italienne (Carpaccio Bovino), huile d'olive **10 €**
 - Coppa artisanale d'Aveyron **8 €**
 - Burrata des Pouilles, huile d'olive et Zaatar **12 €**
-- Tallegio AOP, confiture d'abricot ** 8 €**
 - Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
 - Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
   
