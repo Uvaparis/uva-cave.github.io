@@ -18,6 +18,7 @@ Bouteilles (75cl):
 
 - Saucisson d’Aveyron **7,5 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9,5 €**
+- Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
 - Bresaola italienne (Carpaccio Bovino), huile d'olive **10 €**
 - Coppa artisanale d'Aveyron **8 €**
 - Burrata des Pouilles, huile d'olive et Zaatar **12 €**
@@ -128,6 +129,7 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ### AUVERGNE
 - **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 45 €
+- **Patrick Bouju** - Picapol - 2021 - Picpoul - 42 €
 
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
@@ -159,7 +161,7 @@ Malvasia - Frais, salin, fruité et herbacé
   
 ### ESPAGNE
 - **Esmeralda** - Arenas de Santyuste - 2021 - Verdejo - 47 € - Non disponible
-- **Clos Lentiscus** - Perill Blanc - 2018 - Xarelo - 43 €
+- **Clos Lentiscus** - Perill Blanc - 2018 - Xarello - 47 €
 
 ### GRÈCE
 - **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 36€
@@ -178,6 +180,9 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 33 €
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140€
 
+### AUVERGNE
+- **Patrick Bouju** - GM - 2021 - Grenache, Muscat - 48 €
+
 ### LANGUEDOC ROUSILLON
 - **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€
 
@@ -191,6 +196,9 @@ Malvasia - Frais, salin, fruité et herbacé
 ### JURA
 - **Alice Bouvot** - Mus’cat - 2021 - Muscat - 51 €
 - **Jérôme Arnoux** - Paradoxe - 2020 - Savagnin macéré - 52 €
+
+### ESPAGNE
+- **Clos Lentiscus** - Night Potion Skin Contact - 2021 - Xarello - 51 €
 
 ### ITALIE
 - **Val di sole** - Pandora - 2021 - Malvasia - 57 € - Non disponible
