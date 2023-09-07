@@ -142,7 +142,7 @@ Malvasia - Frais, salin, fruité et herbacé
 - **La Cave Apicole** - Zumo - 2022 - Maccabeu, Grenache Gris - 40€
 
 ### LOIRE
-- **R. Guettier** - Désirée - 2018 - Chenin - 55 €
+- **R. Guettier** - Désirée - 2018 - Chenin - 55 € - Non disponible
 - **R. Guettier** - Pressoir de St Pierre - 2020 - Chenin - 53 €
 - **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de bourgogne - 30 €
 
