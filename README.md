@@ -199,7 +199,6 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ### ITALIE
 - **Val di sole** - Pandora - 2021 - Malvasia - 57 € - Non disponible
-- **Antonio Gismondi** - Foresta - 2021 - Trebbiano, Malvasia - 36 €
 - **La Stoppa** - Ageno - 2018 - Malvasia Ortrugo Trebbiano - 78 €
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - 69 € (50cl)
 - **Alessandro Viola** - Sinfonia di Bianco - 2021 - Grillo - 61 €
