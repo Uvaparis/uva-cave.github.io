@@ -111,7 +111,7 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Porta del vento** - Voria - Orange - 2019 - Catarratto, Grillo - 37 €
 
 ## Cidre 75cl
-- **Cidrerie du Golfe - Bretagne** - Hors Norme 2021 - 24 € - Non disponible
+- **Cidrerie du Golfe - Bretagne** - Hors Norme 2021 - 24 € 
 - **Cidrerie du Vulcain - Suisse** - À propos d’elle 2021 - 45 €
 
 ## Champagne 75cl
@@ -147,7 +147,7 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ### TARN
 - **J. Galaup** - Petite Amoureuse - 2020 - Muscadelle - 35 € - Non disponible
-
+- **Bois Moisset** - Les Bonnes Quilles - 2022 - Sauvignon, Muscadelle, Loin de l'oeil - 33€
 ### ALLEMAGNE
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 €
 - **Brand Bros** - 2021 - Muller Thurgau - 41 €
