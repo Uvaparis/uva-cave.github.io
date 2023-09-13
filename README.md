@@ -62,7 +62,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Eros de David, fruité et aromatique **7 €**
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
-- France Crispeels, Languedoc, Carignan 100%, rien qui pique rien qui blesse **7 €**
+- Natacha Lami, Tarn, Braucol, Duras,notes de pruneau et cassis **7 €**
 
 ### Rosé 
 - France Crispeels, Vignoble Réveille, Languedoc, notes de fraise des bois **7 €**
@@ -84,6 +84,7 @@ Malvasia - Frais, salin, fruité et herbacé
 ### ALSACE
 - **Geschickt** - Crémant Brut Nature - 2017 - Assemblage de Pinots - 45 €
 - **Kumpf Meyer** - Restons Dark - 19-20 - Pinot gris Pinot auxerrois - 39 €
+- **Domaine Einhart** - Pur'aisin - 2021 - Sylvaner, Gewurztraminer, Pinot gris, Riesling - 38 €
 
 ### AUVERGNE
 - **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 44 €
@@ -172,10 +173,11 @@ Malvasia - Frais, salin, fruité et herbacé
 ## Oranges 75cl
 
 ### ALSACE
-- **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewürztraminer, Riesling, Pinot Gris - 61 € 
+- **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewurztraminer, Riesling, Pinot Gris - 61 € 
 - **Kumpf Meyer** - Putes Féministes - 2022 - Gewurztraminer Muscat - 44 €
 - **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 33 €
-- **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140€
+- **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 €
+- **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 €
 
 ### AUVERGNE
 - **Patrick Bouju** - GM - 2021 - Grenache, Muscat - 48 €
