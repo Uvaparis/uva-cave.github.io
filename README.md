@@ -16,6 +16,7 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
+- Olives vertes gros calibre **4,5 €**
 - Saucisson d’Aveyron **7,5 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9,5 €**
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
@@ -23,6 +24,9 @@ Bouteilles (75cl):
 - Burrata des Pouilles, huile d'olive et Zaatar **12 €**
 - Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
 - Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
+- Tomates toutes couleurs, basilic, huile d'olive, piment doux, sel & poivre **7,5€**
+- Houmous de pois chiches, paprika fumé **7 €**
+  
   
 [haut de page](#menu)
 
