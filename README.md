@@ -43,12 +43,12 @@ Orange, Citron gingembre, Limonade, Menthe, Pomme piquante, Pomme tonique, Rhuba
 **To ol 45 organic pilsner** 33cl **6,50 €**
 Bière blonde, robe jaune dorée et limpide
 
-**Siren Calypso** 33cl **6,50 €**
-Délicate et légère, nez citronné acidulé
-
 **IPA To ol Whirl Domination** 33cl **6,60 €**
 Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue 
 et de fruits tropicaux
+
+**To ol Implosion Non-Alcoholic Beer** 33cl **5,50 €**
+Bière blonde sans alcool brassée avec du malt d'orge, du blé et du houblon. Arôme de fleur et fruits blancs
 
 **Cantillon** Kriek 100% Lambic Bio - 75cl **40€**
 Désaltérante, saveurs de fruits rouges et d'agrumes
@@ -73,13 +73,13 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ## Vins en canette 
 
-**Drink Canetta Blanc** 18,7 cl **8 €**
+**Drink Canetta Blanc** 18,7 cl **7,5 €**
 Xarello, Macabeu & Parellada - Fruité et frais
 
-**Drink Canetta Rouge** 18,7 cl **8 €**
+**Drink Canetta Rouge** 18,7 cl **7,5 €**
 Ull de Llebre - Croquant, frais et fruité
 
-**Drink Canetta Orange** 18,7 cl **8 €**
+**Drink Canetta Orange** 18,7 cl **7,5 €**
 Malvasia - Frais, salin, fruité et herbacé
 
 [haut de page](#menu)
