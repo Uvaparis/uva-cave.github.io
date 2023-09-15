@@ -130,8 +130,8 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Geschickt** - 6 Pieds sur Terre - 2018 - Pinot noir, gris blanc, Gewurztraminer, Riesling, Muscat  - 46 €
 
 ### AUVERGNE
-- **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 45 €
-- **Patrick Bouju** - Picapol - 2021 - Picpoul - 42 €
+- **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 50 €
+- **Patrick Bouju** - Picapol - 2021 - Picpoul - 44 €
 
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
@@ -184,7 +184,7 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 €
 
 ### AUVERGNE
-- **Patrick Bouju** - GM - 2021 - Grenache, Muscat - 48 €
+- **Patrick Bouju** - GM - 2021 - Grenache, Muscat - 50 €
 
 ### LANGUEDOC ROUSILLON
 - **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€
