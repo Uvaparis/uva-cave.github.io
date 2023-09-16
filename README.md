@@ -1,4 +1,4 @@
-# Menu de nos 1 an avec à la food @tramtramskitchen & aux platines @djpetnat
+# Menu de nos 1 an avec @tramtramskitchen
 
 # FOOD @tramtramskitchen
 
