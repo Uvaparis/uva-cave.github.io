@@ -79,6 +79,7 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ### JURA
 - **Casa Antolia** - Cade meu carnaval - 2019 - Chardonnay, Ugni blanc, Sauvignon - 42 €
+- **Novice** - Le jus de la folie - 2022 - Chardonnay - 40 €
 
 ### TARN
 - **Sans Pression** - Domaine Bois Moisset - 2021 - Mauzac, Sauvignon, Loin de l'oeil - 33 €
@@ -119,7 +120,9 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
-
+- **Alice Bouvot** - Clé à Molette - 2021 - Molette - 51 €
+- **Valentin Morel** - Côtes du Jura - 2020 - Chardonnay, Saint-Savin - 69€
+  
 ### LANGUEDOC ROUSSILLON
 - **Olivier Pichon** - La Colonel - 2022 - Grenache Blanc - 34€
 - **La Cave Apicole** - Zumo - 2022 - Maccabeu, Grenache Gris - 40€
