@@ -114,7 +114,6 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Porta del vento** - Voria - Orange - 2019 - Catarratto, Grillo - 37 €
 
 ## Cidre 75cl
-- **Cidrerie du Golfe - Bretagne** - Hors Norme 2021 - 24 € 
 - **Cidrerie du Vulcain - Suisse** - À propos d’elle 2021 - 45 €
 
 ## Champagne 75cl
