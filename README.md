@@ -24,7 +24,6 @@ Bouteilles (75cl):
 - Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
 - Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
 - Tomates toutes couleurs, basilic, huile d'olive, piment doux, sel & poivre **7,5€**
-- Houmous de pois chiches, paprika fumé **8 €**
   
   
 [haut de page](#menu)
