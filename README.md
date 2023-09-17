@@ -2,8 +2,8 @@
 
 # FOOD
 
-- Banh-mi Boulettes Xiu Mai, aïoli, coriandre  **14 €**
-- Pain au lait, aubergine rôtie au miso, crème fouettée, ciboulette **14,5 €**
+- Banh-mi Boulettes Xiu Mai, aïoli, coriandre  **12 €**
+- Pain au lait, aubergine rôtie au miso, crème fouettée, ciboulette **12 €**
 
 Verres :
 - [Vins au verre](#vins-au-verre)
