@@ -25,7 +25,6 @@ Bouteilles (75cl):
 - Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
 - Pain brioché (Sain boulangerie), cream cheese, aubergine rôtie au miso, ciboulette **8 €**
   
-  
 [haut de page](#menu)
 
 # Carte des Softs, Bières et Vins
