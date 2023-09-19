@@ -1,9 +1,8 @@
-# Menu de nos 1 an avec @tramtramskitchen
+# Menu
+**COMMANDE AU BAR. MERCI :)**
 
-# FOOD
-
-- Banh-mi Boulettes Xiu Mai, aïoli, coriandre  **12 €**
-- Pain au lait, aubergine rôtie au miso, crème fouettée, ciboulette **12 €**
+Food : 
+- [assiettes à partager](#assiettes-à-partager)
 
 Verres :
 - [Vins au verre](#vins-au-verre)
@@ -14,7 +13,21 @@ Bouteilles (75cl):
 - [Oranges](#oranges-75cl)
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
- 
+
+# Assiettes à partager
+
+- Olives vertes gros calibre **4,5 €**
+- Saucisson d’Aveyron **7,5 €**
+- Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
+- Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
+- Coppa artisanale d'Aveyron **8 €**
+- Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
+- Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
+- Pain brioché (Sain boulangerie), cream cheese, aubergine rôtie au miso, ciboulette **8 €**
+  
+  
+[haut de page](#menu)
+
 # Carte des Softs, Bières et Vins
 
 ## Soft
@@ -41,15 +54,20 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 ### Bulles
 - Blanc, Sans Pression, Tarn, sec et frais avec des notes briochées en fin de bouche **7 €**
+- Rouge, Piquette, Brand Bros, Allemagne, Pfalz, léger et fruité **7 €**
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
+- Bois Moisset, les bonnes Quilles, frais et aromatique **7 €**
   
 ### Orange
 - Eros de David, fruité et aromatique **7 €**
-  
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
+- Natacha Lami, Tarn, Braucol, Duras,notes de pruneau et cassis **7 €**
+
+### Rosé 
+- France Crispeels, Vignoble Réveille, Languedoc, notes de fraise des bois **7 €**
 
 ## Vins en canette 
 
@@ -79,7 +97,6 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ### JURA
 - **Casa Antolia** - Cade meu carnaval - 2019 - Chardonnay, Ugni blanc, Sauvignon - 42 €
-- **Novice** - Le jus de la folie - 2022 - Chardonnay - 40 €
 
 ### TARN
 - **Sans Pression** - Domaine Bois Moisset - 2021 - Mauzac, Sauvignon, Loin de l'oeil - 33 €
@@ -120,9 +137,7 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
-- **Alice Bouvot** - Clé à Molette - 2021 - Molette - 51 €
-- **Valentin Morel** - Côtes du Jura - 2020 - Chardonnay, Saint-Savin - 69€
-  
+
 ### LANGUEDOC ROUSSILLON
 - **Olivier Pichon** - La Colonel - 2022 - Grenache Blanc - 34€
 - **La Cave Apicole** - Zumo - 2022 - Maccabeu, Grenache Gris - 40€
