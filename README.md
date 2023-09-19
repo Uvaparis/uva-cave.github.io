@@ -65,9 +65,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Christophe Bosque, Loire, léger, fruité **7 €**
 - Natacha Lami, Tarn, Braucol, Duras,notes de pruneau et cassis **7 €**
 
-### Rosé 
-- France Crispeels, Vignoble Réveille, Languedoc, notes de fraise des bois **7 €**
-
 ## Vins en canette 
 
 **Drink Canetta Blanc** 18,7 cl **7,5 €**
@@ -212,11 +209,8 @@ Malvasia - Frais, salin, fruité et herbacé
 ### LANGUEDOC
 - **Olivier Pichon** - Six P'tits Grains - 2021 - Jus de goutte de Grenache - 35 €
 
-### PYRÉNÉES-ORIENTALES
-- **Vignoble Réveille** - Herbes Folles - 2019 - Syrah - 30 €
-
 ### ALLEMAGNE
-- **Brand Bros** - Wild Rosé - 2020 - Portugieser - 36 €
+- **Brand Bros** - Wild Rosé - 2020 - Portugieser - 36 € - non disponible 
 
 ### ITALIE
 - **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - 49 €
