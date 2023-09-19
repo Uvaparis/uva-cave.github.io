@@ -2,7 +2,7 @@
 **COMMANDE AU BAR. MERCI :)**
 
 Food : 
-- [assiettes à partager](#assiettes-à-partager)
+- [Assiettes à partager](#assiettes-à-partager)
 
 Verres :
 - [Vins au verre](#vins-au-verre)
