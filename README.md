@@ -22,6 +22,8 @@ Bouteilles (75cl):
 - Coppa artisanale d'Aveyron **8 €**
 - Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
 - Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
+- Burrata des Pouilles, huile d'olive, Zaatar **12 €**
+  
 
   
 [haut de page](#menu)
