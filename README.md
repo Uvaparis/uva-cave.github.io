@@ -119,7 +119,7 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ## Blancs 75cl
 ### ALSACE
-- **Geschickt** - Le Schlouk - 2020 - Gewurztraminer, Riesling - 40 € - Non disponible
+- **Geschickt** - Le Schlouk - 2020 - Gewurztraminer, Riesling - 40 €
 - **Geschickt** - 6 Pieds sur Terre - 2018 - Pinot noir, gris blanc, Gewurztraminer, Riesling, Muscat  - 46 €
 
 ### AUVERGNE
