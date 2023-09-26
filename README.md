@@ -38,8 +38,6 @@ Orange, Citron gingembre, Limonade, Menthe, Pomme piquante, Rhubarbe
 **Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **19 €**
 
 ## Bières
-**To ol 45 organic pilsner** 33cl **6,50 €**
-Bière blonde, robe jaune dorée et limpide
 
 **IPA To ol Whirl Domination** 33cl **6,60 €**
 Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue 
