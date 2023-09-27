@@ -64,6 +64,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
+- Le Marmot, Languedoc, association légère et juteuse de Grenache et Cinsault **7 €**
+  
 
 ## Vins en canette 
 
