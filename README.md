@@ -75,8 +75,6 @@ Xarello, Macabeu & Parellada - Fruité et frais
 **Drink Canetta Rouge** 18,7 cl **7,5 €**
 Ull de Llebre - Croquant, frais et fruité
 
-**Drink Canetta Orange** 18,7 cl **7,5 €**
-Malvasia - Frais, salin, fruité et herbacé
 
 [haut de page](#menu)
 
