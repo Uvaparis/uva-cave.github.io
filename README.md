@@ -24,7 +24,6 @@ Bouteilles (75cl):
 - Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
 - Burrata des Pouilles, huile d'olive, Zaatar **12 €**
   
-
   
 [haut de page](#menu)
 
@@ -33,7 +32,7 @@ Bouteilles (75cl):
 ## Soft
 **Les filles de l’ouest** 33cl **5,5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Orange, Citron gingembre, Limonade, Menthe, Pomme piquante, Rhubarbe
+Orange, Citron gingembre, Menthe, Pomme piquante, Rhubarbe
 
 **Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **19 €**
 
@@ -62,19 +61,20 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### Orange
 - Eros de David, fruité et aromatique **7 €**
+  
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
 - Natacha Lami, Tarn, Braucol, Duras,notes de pruneau et cassis **7 €**
 
 ## Vins en canette 
 
-**Drink Canetta Blanc** 18,7 cl **7,5 €**
+**Drink Canetta Blanc** 18,7 cl **7 €**
 Xarello, Macabeu & Parellada - Fruité et frais
 
-**Drink Canetta Rouge** 18,7 cl **7,5 €**
+**Drink Canetta Rouge** 18,7 cl **7 €**
 Ull de Llebre - Croquant, frais et fruité
 
-**Drink Canetta Orange** 18,7 cl **7,5 €**
+**Drink Canetta Orange** 18,7 cl **7 €**
 Malvasia - Frais, salin, fruité et herbacé
 
 [haut de page](#menu)
@@ -107,10 +107,10 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ### ITALIE
 - **Corte Bravi** - Vivace Rosé - 2022 - Corvina Corvinone - 37 €
-- **Croci** - Lubigo Blanc - 2020 - Ortrugo - 35 € - Non disponible
 - **Porta del vento** - Voria - Orange - 2019 - Catarratto, Grillo - 37 €
 
 ## Cidre 75cl
+- **Le Mazel - Ardèche** - Cidre brut 2021 - 28 €
 - **Cidrerie du Vulcain - Suisse** - À propos d’elle 2021 - 45 €
 
 ## Champagne 75cl
@@ -123,6 +123,9 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Geschickt** - Le Schlouk - 2020 - Gewurztraminer, Riesling - 40 €
 - **Geschickt** - 6 Pieds sur Terre - 2018 - Pinot noir, gris blanc, Gewurztraminer, Riesling, Muscat  - 46 €
 
+### ARDÈCHE
+- **Jérôme Vigne** - Les Raillères - 2021 - Viognier - 39 €
+
 ### AUVERGNE
 - **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 50 €
 - **Patrick Bouju** - Picapol - 2021 - Picpoul - 44 €
@@ -130,7 +133,7 @@ Malvasia - Frais, salin, fruité et herbacé
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
 - **Athénaïs de Béru** - Chablis Montserre - 2020 - Chardonnay - 67 €
-- **Julien Petitjean** Chardonnay - 2021 - 38€
+- **Julien Petitjean** - Bourgogne blanc - 2019 - Chardonnay - 47 €
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
@@ -138,23 +141,25 @@ Malvasia - Frais, salin, fruité et herbacé
 ### LANGUEDOC ROUSSILLON
 - **Olivier Pichon** - La Colonel - 2022 - Grenache Blanc - 34€
 - **La Cave Apicole** - Zumo - 2022 - Maccabeu, Grenache Gris - 40€
+- **La Cave Apicole** - Tangerine - 2022 - Chardonnay, Vermentino - 39€
 
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 55 € - Non disponible
 - **R. Guettier** - Pressoir de St Pierre - 2020 - Chenin - 53 €
 - **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de bourgogne - 30 €
+- **Lauré & Fabrice Chaillou** - Cancellis - 2021 - Chenin - 37€
 
 ### TARN
 - **J. Galaup** - Petite Amoureuse - 2020 - Muscadelle - 35 € - Non disponible
 - **Bois Moisset** - Les Bonnes Quilles - 2022 - Sauvignon, Muscadelle, Loin de l'oeil - 33€
+  
 ### ALLEMAGNE
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 €
 - **Brand Bros** - 2021 - Muller Thurgau - 41 €
 - **Naked Friday** - 2021 - Weiss - Müller Thurgau, Schheurebe, Kerner, Riesling - 38€
 - **Brand Bros** - 2021 - Pinot blanc - 40€
-- **Madame Flock** - Schmetterling - 2020 - Muller Thurgau, riesling, kerner - 44 €
+- **Madame Flock** - Schmetterling - 2020 - Muller Thurgau, riesling, kerner - 44 € - Non disponible
 
-  
 ### ESPAGNE
 - **Esmeralda** - Arenas de Santyuste - 2021 - Verdejo - 47 € - Non disponible
 - **Clos Lentiscus** - Perill Blanc - 2018 - Xarello - 47 €
@@ -174,7 +179,7 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewurztraminer, Riesling, Pinot Gris - 61 € 
 - **Kumpf Meyer** - Putes Féministes - 2022 - Gewurztraminer Muscat - 44 €
 - **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 33 €
-- **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 €
+- **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
 - **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 €
 
 ### AUVERGNE
@@ -224,10 +229,10 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
 - **Philippe Jambon** - Une tranche sudiste - 18-19 - Grenache Syrah - 33 €
 - **Pierre Cotton** - Brouilly les Mines - 2019 - Gamay - 42 €
-- **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 33 €
+- **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 33 € - Non disponible
 
 ### AUVERGNE
-- **P. Bouju** - Môl - 2019 - Merlot, carignan, syrah - 38 €
+- **Patrick Bouju** - Môl - 2019 - Merlot, carignan, syrah - 38 €
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - 95 €
@@ -241,7 +246,7 @@ Malvasia - Frais, salin, fruité et herbacé
 - **Fond Cyprès** - Toile de fond - 2021 - Grenache, syrah - 30 €
 - **Olivier Pichon** - Le Marmot - 2022 - Cinsaut, Grenache, Carignan - 28 €
 - **Antoine Latipau** - Porque Porcus - 2020 - Grenache, Carignan, Syrah - 33 €
-- **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 € - - Non disponible
+- **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 € - Non disponible
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
 - **Rémi Poujol** - Le temps fait tout - 2021 - Grenache, Carignan, Syrah - 34 €
 - **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 37€
@@ -278,7 +283,6 @@ Malvasia - Frais, salin, fruité et herbacé
 
 ### SUD OUEST
 - **Philippe Maffre** - Falgueyras VV - 2018 - Syrah - 29 €
-- **Natacha Lami** - La vie est belle - 2021 - Braucol, Duras - 36 €
 - **Vignoble Réveille** - Tous des oiseaux - 2020 - Carignan - 37 €
 
 ### ITALIE
