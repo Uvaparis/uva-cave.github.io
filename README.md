@@ -64,7 +64,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
-- Natacha Lami, Tarn, Braucol, Duras,notes de pruneau et cassis **7 €**
 
 ## Vins en canette 
 
