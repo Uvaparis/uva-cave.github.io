@@ -235,7 +235,6 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - 95 €
-- **Athénaïs** - Amalgamay - 2020 - Aligoté, gamay - 43 €
 - **Julien Petitjean** - Hautes Côtes de Beaune Gymnopodie - 2020 - Pinot noir - 60 €
 
 ### JURA
