@@ -158,7 +158,7 @@ Ull de Llebre - Croquant, frais et fruité
 ### ALLEMAGNE
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 €
 - **Brand Bros** - 2021 - Muller Thurgau - 41 €
-- **Naked Friday** - 2021 - Weiss - Müller Thurgau, Schheurebe, Kerner, Riesling - 38€
+- **Naked Friday** - 2021 - Weiss - Müller Thurgau, Schheurebe, Kerner, Riesling - 38€ - Non disponible 
 - **Brand Bros** - 2021 - Pinot blanc - 40€
 - **Madame Flock** - Schmetterling - 2020 - Muller Thurgau, riesling, kerner - 44 € - Non disponible
 
