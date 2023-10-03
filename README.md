@@ -26,7 +26,7 @@ Bouteilles (75cl):
 - Houmous aux poivrons confits, huile d'olive, piment doux **7 €**
 - Comté 12 mois d'affinage, confiture extra de Corse Figue et noix **9 €**
 - Burrata des Pouilles, huile d'olive, Zaatar **12 €**
-- Grilled-cheese, comté AOP 18 mois, jambon de Bayonne, pesto de tomates confites **11 €** 
+- Grilled-cheese, comté AOP 18 mois, jambon de Bayonne, pesto de tomates confites **10 €** 
   
   
 [haut de page](#menu)
