@@ -23,9 +23,10 @@ Bouteilles (75cl):
 - Coppa artisanale d'Aveyron **8 €**
 - Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
 - Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
-- Houmous de pois chiches, huile d'olive, paprika fumé **7 €**
+- Houmous aux poivrons confits, huile d'olive, piment doux **7 €**
 - Comté 12 mois d'affinage, confiture extra de Corse Figue et noix **9 €**
 - Burrata des Pouilles, huile d'olive, Zaatar **12 €**
+- Grilled-cheese, comté AOP 18 mois, jambon de Bayonne, pesto de tomates confites **11 €** 
   
   
 [haut de page](#menu)
