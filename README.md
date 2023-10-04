@@ -24,7 +24,7 @@ Bouteilles (75cl):
 - Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
 - Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
 - Houmous aux poivrons confits, huile d'olive, piment doux **7 €**
-- Comté 12 mois d'affinage, confiture extra de Corse Figue et noix **9 €**
+- Comté 18 mois d'affinage, confiture extra de Corse Figue et noix **9 €**
 - Burrata des Pouilles, huile d'olive, Zaatar **12 €**
 - Grilled-cheese, comté AOP 18 mois, jambon de Bayonne, pesto de tomates confites **10 €** 
   
@@ -130,7 +130,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Jérôme Vigne** - Les Raillères - 2021 - Viognier - 39 €
 
 ### AUVERGNE
-- **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 50 €
+- **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 50 € - Non disponible
 - **Patrick Bouju** - Picapol - 2021 - Picpoul - 44 €
 
 ### BOURGOGNE
