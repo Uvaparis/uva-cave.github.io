@@ -25,7 +25,7 @@ Bouteilles (75cl):
 - Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
 - Houmous aux poivrons confits, huile d'olive, piment doux **7 €**
 - Comté 18 mois d'affinage, confiture extra de Corse Figue et noix **9 €**
-- Burrata des Pouilles, huile d'olive, Zaatar **12 €**
+- Burrata, huile d'olive, Zaatar **10 €**
 - Grilled-cheese, comté AOP 18 mois, jambon de Bayonne, pesto de tomates confites **10 €** 
   
   
