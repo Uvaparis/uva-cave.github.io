@@ -24,7 +24,8 @@ Bouteilles (75cl):
 - Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
 - Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
 - Houmous aux poivrons confits, huile d'olive, piment doux **7 €**
-- Comté 18 mois d'affinage, confiture extra de Corse Figue et noix **9 €**
+- Tomme Caussenarde grand affinage, confiture extra de Corse figue et noix **9 €**
+- Comté 18 mois d'affinage, huile d'olive, poivre **8 €**
 - Burrata, huile d'olive, Zaatar **10 €**
 - Grilled-cheese, comté AOP 18 mois, jambon de Bayonne, pesto de tomates confites **10 €** 
   
