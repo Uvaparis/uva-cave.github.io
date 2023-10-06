@@ -20,7 +20,7 @@ Bouteilles (75cl):
 - Saucisson d’Aveyron **7,5 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
-- Coppa artisanale d'Aveyron **8 €**
+- Coppa artisanale d'Aveyron **8 €** - Non disponible, revient demain 
 - Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
 - Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
 - Houmous aux poivrons confits, huile d'olive, piment doux **7 €**
