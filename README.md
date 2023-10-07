@@ -25,7 +25,6 @@ Bouteilles (75cl):
 - Tomme Caussenarde grand affinage, confiture extra de Corse figue et noix **9 €**
 - Comté 18 mois d'affinage, huile d'olive, poivre **8 €**
 - Burrata, huile d'olive, Zaatar **10 €**
-- Grilled-cheese, comté AOP 18 mois, jambon de Bayonne, pesto de tomates confites **10 €** 
   
   
 [haut de page](#menu)
