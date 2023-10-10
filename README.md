@@ -1,12 +1,12 @@
 # MENU DE LA RÉSIDENCE AVEC MARION MAY 
 
-- Rosbeef fumé, citron confit, aneth, câpres, noisettes **13 €**
+- Rosbeef, citron confit, aneth, câpres, noisettes **13 €**
 - Parfait de foie de volaille, haricots verts, prunes, laque prune **12 €**
 - Bun Butternut au mirin, pleurotes, manchego, radicchio, mayonnaise agrumes **12 €** 
 - Oeufs brouillés, champignons de saison, ciboulette **11 €**
 - Céleri rôti, coing, kale pourpre, lard fumé **10 €**
-- Salade d'artichaut et pommes de terre, agrumes, olives **11 €**
-- Fouetté de Brillat-Savarin, poire pochée**8 €**
+- Salade de pommes de terres, vierge d'artichaut, agrumes, olives **11 €**
+- Fouetté de Brillat-Savarin, poire pochée **8 €**
 
 Verres :
 - [Vins au verre](#vins-au-verre)
