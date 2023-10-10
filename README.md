@@ -114,6 +114,7 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### ARDÈCHE
 - **Jérôme Vigne** - Les Raillères - 2021 - Viognier - 39 €
+- **La vrille et le papillon** - Il était une fois - 2022 - Grenache blanc - 41 €
 
 ### AUVERGNE
 - **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 50 € - Non disponible
@@ -122,7 +123,7 @@ Ull de Llebre - Croquant, frais et fruité
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
 - **Athénaïs de Béru** - Chablis Montserre - 2020 - Chardonnay - 67 €
-- **Julien Petitjean** - Bourgogne blanc - 2019 - Chardonnay - 47 €
+- **Julien Petitjean** - Bourgogne blanc - 2019 - Chardonnay - 51 €
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
@@ -172,6 +173,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 33 €
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
 - **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 €
+- **Geschickt** - Phénix - 2022 - Macération de Pinot Gris, Pinot Grand Cru Kaefferkopf - 54€
 
 ### AUVERGNE
 - **Patrick Bouju** - GM - 2021 - Grenache, Muscat - 50 €
@@ -241,6 +243,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Rémi Poujol** - Le temps fait tout - 2021 - Grenache, Carignan, Syrah - 34 €
 - **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 37€
 - **Olivier Pichon** - Grenache des Grès - 2021 - Grenache Noir - 30 €
+- **La Cave Apicole** - Gorgorlou - 2022 - Carignan Noir - 44 €
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2017 - Pineau d’aunis - 59 €
