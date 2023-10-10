@@ -1,5 +1,4 @@
-# Menu
-**COMMANDE AU BAR. MERCI :)**
+# MENU DE LA RÉSIDENCE AVEC MARION MAY 
 
 Food : 
 - [Assiettes à partager](#assiettes-à-partager)
@@ -14,18 +13,15 @@ Bouteilles (75cl):
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
 
-# Assiettes à partager
+# MENU DE LA CHEFFE MARION MAY
 
-- Olives vertes gros calibre **4,5 €**
-- Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
-- Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
-- Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
-- Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
-- Houmous, huile d'olive, piment doux **7 €**
-- Tomme Caussenarde grand affinage, confiture extra de Corse figue et noix **9 €**
-- Comté 18 mois d'affinage, huile d'olive, poivre **8 €**
-- Burrata, huile d'olive, Zaatar **10 €**
-  
+- Rosbeef fumé, citron confit, aneth, câpres, noisettes **13 €**
+- Parfait de foie de volaille, haricots verts, prunes, laque prune **12 €**
+- Bun Butternut au mirin, pleurotes, manchego, radicchio, mayonnaise agrumes **12 €** 
+- Oeufs brouillés, champignons de saison, ciboulette **11 €**
+- Céleri rôti, coing, kale pourpre, lard fumé **10 €**
+- Salade d'artichaut et pommes de terre, agrumes, olives **11 €**
+- Fouetté de Brillat-Savarin, poire pochée**8 €**
   
 [haut de page](#menu)
 
