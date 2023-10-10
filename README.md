@@ -1,7 +1,12 @@
 # MENU DE LA RÉSIDENCE AVEC MARION MAY 
 
-Food : 
-- [Assiettes à partager](#assiettes-à-partager)
+- Rosbeef fumé, citron confit, aneth, câpres, noisettes **13 €**
+- Parfait de foie de volaille, haricots verts, prunes, laque prune **12 €**
+- Bun Butternut au mirin, pleurotes, manchego, radicchio, mayonnaise agrumes **12 €** 
+- Oeufs brouillés, champignons de saison, ciboulette **11 €**
+- Céleri rôti, coing, kale pourpre, lard fumé **10 €**
+- Salade d'artichaut et pommes de terre, agrumes, olives **11 €**
+- Fouetté de Brillat-Savarin, poire pochée**8 €**
 
 Verres :
 - [Vins au verre](#vins-au-verre)
@@ -12,19 +17,7 @@ Bouteilles (75cl):
 - [Oranges](#oranges-75cl)
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
-
-# MENU DE LA CHEFFE MARION MAY
-
-- Rosbeef fumé, citron confit, aneth, câpres, noisettes **13 €**
-- Parfait de foie de volaille, haricots verts, prunes, laque prune **12 €**
-- Bun Butternut au mirin, pleurotes, manchego, radicchio, mayonnaise agrumes **12 €** 
-- Oeufs brouillés, champignons de saison, ciboulette **11 €**
-- Céleri rôti, coing, kale pourpre, lard fumé **10 €**
-- Salade d'artichaut et pommes de terre, agrumes, olives **11 €**
-- Fouetté de Brillat-Savarin, poire pochée**8 €**
   
-[haut de page](#menu)
-
 # Carte des Softs, Bières et Vins
 
 ## Soft
