@@ -48,6 +48,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
+- Lise et Bertrand Jousset, Voila le muscadet, belle aromatique et salin **7 €**
   
 ### Orange
 - Eros de David, fruité et aromatique **7 €**
