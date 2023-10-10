@@ -140,6 +140,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Lauré & Fabrice Chaillou** - Cancellis - 2021 - Chenin - 37€
 - **Lise et Bertrand Jousset** - Voilà le muscadet - 2022 - Melon de Bourgogne - 34 €
 - **Lise et Bertrand Jousset** - Vilain p'tit Ch'nin - 2022 - Chenin - 38 €
+- **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 €
 
 ### TARN
 - **J. Galaup** - Petite Amoureuse - 2020 - Muscadelle - 35 € - Non disponible
