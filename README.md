@@ -1,12 +1,12 @@
 # MENU DE LA RÉSIDENCE AVEC MARION MAY 
 
-- Rosbeef, citron confit, aneth, câpres, noisettes **13 €**
 - Parfait de foie de volaille, haricots verts, prunes, laque prune **12 €**
-- Bun Butternut au mirin, pleurotes, manchego, radicchio, mayonnaise agrumes **12 €** 
+- Bun Butternut au mirin, pleurotes, manchego, radicchio, mayonnaise agrumes **12 €**
+- Rosbeef, citron confit, aneth, câpres, noisettes **13 €**
 - Oeufs brouillés, champignons de saison, ciboulette **11 €**
 - Céleri rôti, coing, kale pourpre, lard fumé **10 €**
-- Salade de pommes de terres, vierge d'artichaut, agrumes, olives **11 €**
-- Fouetté de Brillat-Savarin, poire pochée **8 €**
+- Petites pommes de terres, vierge d'artichaut, agrumes, olives **11 €**
+- Gateau de Brillat-Savarin, poire pochée **8 €**
 
 Verres :
 - [Vins au verre](#vins-au-verre)
@@ -47,7 +47,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Blanc, Sans Pression, Tarn, sec et frais avec des notes briochées en fin de bouche **7 €**
 
 ### Blancs
-- Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
 - Lise et Bertrand Jousset, Voila le muscadet, belle aromatique et salin **7 €**
   
 ### Orange
