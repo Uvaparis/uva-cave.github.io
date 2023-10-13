@@ -5,7 +5,7 @@
 - Rosbeef, citron confit, aneth, câpres, noisettes **13 €**
 - Oeufs brouillés, champignons de saison, ciboulette **11 €**
 - Céleri rôti, coing, kale pourpre, lard fumé **10 €**
-- Petites pommes de terres, vierge d'artichaut, agrumes, olives **11 €**
+- Petites pommes de terres, vierge d'oignons rouge, pistaches, agrumes, olives **11 €**
 - Gateau de Brillat-Savarin, poire pochée **8 €**
 
 Verres :
