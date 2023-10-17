@@ -1,12 +1,8 @@
-# MENU DE LA RÉSIDENCE AVEC MARION MAY 
+# Menu
+**COMMANDE AU BAR. MERCI :)**
 
-- Parfait de foie de volaille, haricots verts, prunes, laque prune **12 €**
-- Bun Butternut au mirin, pleurotes, manchego, radicchio, mayonnaise agrumes **12 €**
-- Rosbeef, citron confit, aneth, câpres, noisettes **13 €**
-- Oeufs brouillés, champignons de saison, ciboulette **11 €**
-- Céleri rôti, coing, kale pourpre, lard fumé **10 €**
-- Petites pommes de terres, vierge d'oignons rouge, pistaches, agrumes, olives **11 €**
-- Gateau de Brillat-Savarin, poire pochée **8 €**
+Food : 
+- [Assiettes à partager](#assiettes-à-partager)
 
 Verres :
 - [Vins au verre](#vins-au-verre)
@@ -17,7 +13,21 @@ Bouteilles (75cl):
 - [Oranges](#oranges-75cl)
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
+
+# Assiettes à partager
+
+- Olives vertes gros calibre **4,5 €**
+- Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
+- Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
+- Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
+- Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
+- Houmous, huile d'olive, piment doux **7 €**
+- Comté 18 mois d'affinage, huile d'olive, poivre **8 €**
+- Saucisson d'Aveyron **7,5 €**
   
+  
+[haut de page](#menu)
+
 # Carte des Softs, Bières et Vins
 
 ## Soft
@@ -47,7 +57,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Blanc, Sans Pression, Tarn, sec et frais avec des notes briochées en fin de bouche **7 €**
 
 ### Blancs
-- Lise et Bertrand Jousset, Voila le muscadet, belle aromatique et salin **7 €**
+- Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
+- Lise et Bertrand Jousset, Voilà le muscadet, porté sur les agrumes l'iode qui file droit **7 €**
   
 ### Orange
 - Eros de David, fruité et aromatique **7 €**
@@ -88,8 +99,11 @@ Ull de Llebre - Croquant, frais et fruité
 - **Sans Pression** - Domaine Bois Moisset - 2021 - Mauzac, Sauvignon, Loin de l'oeil - 33 €
 
 ### ALLEMAGNE
+- **Andi Weigand** - Pet Nat - 2022 - Müller-Thurgau, Bacchus, Scheurebe - 43 €
 - **Piri** - Pet Nat - 2021 - Riesling with quince - 39 € - Non disponible
-- **Marto** - Crazy Crazy Orange - 2021 - Müller-Thurgau - 39 € - Non disponible
+
+### ESPAGNE
+- **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - 38 €
 
 ### HONGRIE
 - **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - 55€
@@ -114,7 +128,6 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### ARDÈCHE
 - **Jérôme Vigne** - Les Raillères - 2021 - Viognier - 39 €
-- **La vrille et le papillon** - Il était une fois - 2022 - Grenache blanc - 41 €
 
 ### AUVERGNE
 - **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 50 € - Non disponible
@@ -123,7 +136,7 @@ Ull de Llebre - Croquant, frais et fruité
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
 - **Athénaïs de Béru** - Chablis Montserre - 2020 - Chardonnay - 67 €
-- **Julien Petitjean** - Bourgogne blanc - 2019 - Chardonnay - 51 €
+- **Julien Petitjean** - Bourgogne blanc - 2019 - Chardonnay - 47 €
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
@@ -140,7 +153,6 @@ Ull de Llebre - Croquant, frais et fruité
 - **Lauré & Fabrice Chaillou** - Cancellis - 2021 - Chenin - 37€
 - **Lise et Bertrand Jousset** - Voilà le muscadet - 2022 - Melon de Bourgogne - 34 €
 - **Lise et Bertrand Jousset** - Vilain p'tit Ch'nin - 2022 - Chenin - 38 €
-- **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 €
 
 ### TARN
 - **J. Galaup** - Petite Amoureuse - 2020 - Muscadelle - 35 € - Non disponible
@@ -149,9 +161,11 @@ Ull de Llebre - Croquant, frais et fruité
 ### ALLEMAGNE
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 €
 - **Brand Bros** - 2021 - Muller Thurgau - 41 €
-- **Naked Friday** - 2021 - Weiss - Müller Thurgau, Schheurebe, Kerner, Riesling - 38€ - Non disponible 
+- **Naked Friday** - 2021 - Weiss - Müller Thurgau, Schheurebe, Kerner, Riesling - 39 € 
 - **Brand Bros** - 2021 - Pinot blanc - 40€
-- **Madame Flock** - Schmetterling - 2020 - Muller Thurgau, riesling, kerner - 44 € - Non disponible
+- **Andi Weigand** - White cuvee - 2022 - Silvaner, Müller Thurgau, Riesling, Schheurebe, Bacchus - 38 €
+- **Brand Bros** - Wilder Satz - 2022 - Chardonnay, Müller Thurgau, Silvaner - 38 €
+- **Marto** - Weiss - 2021 - Bacchus, Faber, Müller Thurgau, Riesling - 40 €
 
 ### ESPAGNE
 - **Esmeralda** - Arenas de Santyuste - 2021 - Verdejo - 47 € - Non disponible
@@ -174,7 +188,6 @@ Ull de Llebre - Croquant, frais et fruité
 - **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 33 €
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
 - **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 €
-- **Geschickt** - Phénix - 2022 - Macération de Pinot Gris, Pinot Grand Cru Kaefferkopf - 54€
 
 ### AUVERGNE
 - **Patrick Bouju** - GM - 2021 - Grenache, Muscat - 50 €
@@ -226,7 +239,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 33 € - Non disponible
 
 ### AUVERGNE
-- **Patrick Bouju** - Môl - 2019 - Merlot, carignan, syrah - 38 €
+- **Patrick Bouju** - Môl - 2020 - Merlot, carignan, syrah - 39 €
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - 95 €
@@ -236,7 +249,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Alice Bouvot** - Ganache - 2019 - Ganache, gamay - 48 € - Non disponible
 
 ### LANGUEDOC
-- **Fond Cyprès** - Toile de fond - 2021 - Grenache, syrah - 30 €
+- **Fond Cyprès** - Toile de fond - 2022 - Grenache, syrah - 30 €
 - **Olivier Pichon** - Le Marmot - 2022 - Cinsaut, Grenache, Carignan - 28 €
 - **Antoine Latipau** - Porque Porcus - 2020 - Grenache, Carignan, Syrah - 33 €
 - **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 € - Non disponible
@@ -244,7 +257,6 @@ Ull de Llebre - Croquant, frais et fruité
 - **Rémi Poujol** - Le temps fait tout - 2021 - Grenache, Carignan, Syrah - 34 €
 - **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 37€
 - **Olivier Pichon** - Grenache des Grès - 2021 - Grenache Noir - 30 €
-- **La Cave Apicole** - Gorgorlou - 2022 - Carignan Noir - 44 €
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2017 - Pineau d’aunis - 59 €
