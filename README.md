@@ -33,13 +33,13 @@ Bouteilles (75cl):
 ## Soft
 **Les filles de l’ouest** 33cl **5,5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Orange
+Pomme, Orange, Menthe, Citron-gingembre, Limonade, Rhubarbe
 
 **Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **19 €**
 
 ## Bières
 
-**Tartu Pilser Puhastebeer ** 33cl **6,60 €**
+**Tartu Pilser Puhastebeer** 33cl **6,60 €**
 Légère et saveurs d'agrumes
 
 **IPA To ol Whirl Domination** 33cl **6,60 €**
