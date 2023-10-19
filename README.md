@@ -24,7 +24,7 @@ Bouteilles (75cl):
 - Houmous, huile d'olive, piment doux **7 €**
 - Comté 18 mois d'affinage, huile d'olive, poivre **8 €**
 - Saucisson d'Aveyron **7,5 €**
-  
+- Croque-UVA Tomme Caussenarde, Comté **10 €**
   
 [haut de page](#menu)
 
