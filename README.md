@@ -16,7 +16,7 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
-- Olives vertes gros calibre **4,5 €**
+- Petites olives vertes **3 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
 - Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
