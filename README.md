@@ -24,8 +24,6 @@ Bouteilles (75cl):
 - Houmous, huile d'olive, piment doux **7 €**
 - Tomme Caussenarde grand affinage, huile d'olive, poivre **8 €**
 - Saucisson d'Aveyron **7,5 €**
-- Croque-UVA Tomme Caussenarde, Comté **10 €**
-  
 [haut de page](#menu)
 
 # Carte des Softs, Bières et Vins
@@ -60,18 +58,11 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
 - Lise et Bertrand Jousset, Voilà le muscadet, porté sur les agrumes l'iode qui file droit **7 €**
   
-### Orange
-- Eros de David, fruité et aromatique **7 €**
-  
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
-- Le Marmot, Languedoc, association légère et juteuse de Grenache et Cinsault **7 €**
   
 
 ## Vins en canette 
-
-**Drink Canetta Blanc** 18,7 cl **7,5 €**
-Xarello, Macabeu & Parellada - Fruité et frais
 
 **Drink Canetta Rouge** 18,7 cl **7,5 €**
 Ull de Llebre - Croquant, frais et fruité
