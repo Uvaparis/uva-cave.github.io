@@ -173,7 +173,6 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### ALSACE
 - **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewurztraminer, Riesling, Pinot Gris - 61 € 
-- **Kumpf Meyer** - Putes Féministes - 2022 - Gewurztraminer Muscat - 44 €
 - **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 33 €
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
 - **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 €
