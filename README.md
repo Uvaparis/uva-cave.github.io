@@ -16,12 +16,16 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
+-Petites olives vertes **3 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
 - Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
 - Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
 - Tomme Caussenarde grand affinage, huile d'olive, poivre **8 €**
+- Houmous à la tehina **7 €**
 - Saucisson d'Aveyron **7,5 €**
+- Croque UVA - Cheddar rouge, Emmental de Savoie IGP - Comté, **10 €**
+   
 [haut de page](#menu)
 
 # Carte des Softs, Bières et Vins
@@ -73,6 +77,11 @@ Ull de Llebre - Croquant, frais et fruité
 - **Geschickt** - Crémant Brut Nature - 2017 - Assemblage de Pinots - 45 €
 - **Kumpf Meyer** - Restons Dark - 19-20 - Pinot gris Pinot auxerrois - 39 €
 - **Domaine Einhart** - Pur'aisin - 2021 - Sylvaner, Gewurztraminer, Pinot gris, Riesling - 38 €
+- **Anna, André et Yann Durrmann** - Grizzling - Riesling, Pinot Blanc - 39 €
+- **Anna, André et Yann Durrmann** - Toqué PG - Pinot Gris - 39 €
+- **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris - 39 €
+- **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 41 €
+- **Anna, André et Yann Durrmann** - Mu Ska-T - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 39 €
 
 ### AUVERGNE
 - **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 44 €
@@ -114,6 +123,13 @@ Ull de Llebre - Croquant, frais et fruité
 ### ALSACE
 - **Geschickt** - Le Schlouk - 2020 - Gewurztraminer, Riesling - 40 €
 - **Geschickt** - 6 Pieds sur Terre - 2018 - Pinot noir, gris blanc, Gewurztraminer, Riesling, Muscat  - 46 €
+- **Anna, André et Yann Durrmann** - Pinot Blanc - 2022 - 39 €
+- **Anna, André et Yann Durrmann** - Pinot Blanc - 2022 - 78 € (150 cl)
+- **Anna, André et Yann Durrmann** - Riesling sur grès - 2022 - 39 €
+- **Anna, André et Yann Durrmann** - Riesling sur granit "Rebbuehl" - 2022 - 43 €
+- **Anna, André et Yann Durrmann** - Riesling sur schistes"Rabbari" - 2022 - 48 €
+- **Anna, André et Yann Durrmann** - ZEGWUR - 2022 - Gewurztraminer - 44 €
+
 
 ### ARDÈCHE
 - **Jérôme Vigne** - Les Raillères - 2021 - Viognier - 39 €
