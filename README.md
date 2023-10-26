@@ -21,7 +21,6 @@ Bouteilles (75cl):
 - Aligot, champignons de saison rôtis **14 €**
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
 - Saucisson d'Aveyron **7,5 €**
-- Extra fondant au chocolat, chantilly maison **7,5 €**
    
 [haut de page](#menu)
 
