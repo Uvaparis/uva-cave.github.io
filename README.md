@@ -59,6 +59,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
+- Lise et Bertrand Jousset, Résiste, frais et robuste **7 €**
   
 
 ## Vins en canette 
