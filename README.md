@@ -287,7 +287,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
 - **Justine Vigne** - Yoga - 2021 - Syrah - 59 €
 - **Petit Oratoire** - Les Lauzes Blanches - 2020 - Grenache, carignan - 41 €
-- **Andréa Calek** - A toi nous - 2022 - Grenache, syrah - 29 €
+- **Andréa Calek** - A toi nous - 2022 - Grenache, syrah - 32 €
 
 ### SAVOIE
 - **JY Peron** - Champ levat - 2020 - Mondeuse - 66 €
