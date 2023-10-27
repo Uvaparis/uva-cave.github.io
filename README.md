@@ -14,13 +14,16 @@ Bouteilles (75cl):
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
 
-# SOIRÉE ALIGOT
+# Assiettes à partager
 
 - Petites olives vertes **3 €**
-- Aligot, saucisse au couteau d'Aveyron **15 €**
-- Aligot, champignons de saison rôtis **14 €**
+- Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
+- Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
+- Saint Nectaire fermer AOP - Fromagerie Guillaume **9 €**
+- Tomme Caussenarde grand affinage, huile d'olive, poivre **8 €**
 - Saucisson d'Aveyron **7,5 €**
+- Croque UVA - Cheddar rouge, Emmental de Savoie IGP - Comté, **10 €**
    
 [haut de page](#menu)
 
