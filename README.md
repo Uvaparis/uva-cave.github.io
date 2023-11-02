@@ -19,7 +19,6 @@ Bouteilles (75cl):
 - Petites olives vertes **3 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
-- Finocchiona IGP (Toscane, aromatisée avec des graines de fenouil et trempée dans du vin rouge) **8,5 €**
 - Tomme Caussenarde grand affinage, huile d'olive, poivre **8 €**
 - Saucisson d'Aveyron **7,5 €**
 - Croque UVA - Cheddar rouge, Emmental de Savoie IGP - Comté, **10 €**
