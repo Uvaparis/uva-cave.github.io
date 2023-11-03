@@ -23,7 +23,7 @@ Bouteilles (75cl):
 - Saint Nectaire fermier AOP (fromagerie Guillaume) **9 €**
 - Tomme Caussenarde grand affinage, huile d'olive, poivre **8 €**
 - Saucisson d'Aveyron **7,5 €**
-- Croque UVA - Cheddar rouge, Emmental de Savoie IGP - Comté, **10 €**
+
    
 [haut de page](#menu)
 
