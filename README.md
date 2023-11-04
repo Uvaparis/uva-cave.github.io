@@ -16,7 +16,6 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
-- Petites olives vertes **3 €**
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** - non dispo, revient mardi
 - Chorizo Picante **8 €**
