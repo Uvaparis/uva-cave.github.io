@@ -21,7 +21,6 @@ Bouteilles (75cl):
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
 - Chorizo Picante **8 €**
 - Saint Nectaire fermier AOP (fromagerie Guillaume) **9 €**
-- Tomme Caussenarde grand affinage, huile d'olive, poivre **8 €**
 - Saucisson d'Aveyron **7,5 €**
 
    
