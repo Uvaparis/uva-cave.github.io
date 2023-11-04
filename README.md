@@ -20,7 +20,7 @@ Bouteilles (75cl):
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €**
 - Chorizo Picante **8 €**
-- Saint Nectaire fermier AOP (fromagerie Guillaume) **9 €**
+- Saint Nectaire fermier AOP (fromagerie Guillaume), jus de prune maison **9 €**
 - Saucisson d'Aveyron **7,5 €**
 
    
