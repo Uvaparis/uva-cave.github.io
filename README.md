@@ -194,7 +194,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 € - Non disponible
 
 ### LANGUEDOC ROUSILLON
-- **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€
+- **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€ - Non disponible
 
 ### LOIRE
 - **Laurent Lebled** - Sauvignonne - 2022 - Sauvignon - 37€ 
