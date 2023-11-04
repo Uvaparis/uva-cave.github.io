@@ -102,7 +102,8 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### ESPAGNE
 - **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - 38 €
-
+- **Celler 9+** - 1r Escumosos - 2022 - Cartoixà - 39 €
+  
 ### HONGRIE
 - **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - 55€
 
@@ -121,7 +122,7 @@ Ull de Llebre - Croquant, frais et fruité
 
 ## Blancs 75cl
 ### ALSACE
-- **Geschickt** - Le Schlouk - 2020 - Gewurztraminer, Riesling - 40 €
+- **Geschickt** - Le Schlouk - 2020 - Gewurztraminer, Riesling - 40 € - Non disponible
 - **Geschickt** - 6 Pieds sur Terre - 2018 - Pinot noir, gris blanc, Gewurztraminer, Riesling, Muscat  - 46 €
 - **Anna, André et Yann Durrmann** - Pinot Blanc - 2022 - 39 €
 - **Anna, André et Yann Durrmann** - Pinot Blanc - 2022 - 78 € (150 cl)
@@ -175,6 +176,7 @@ Ull de Llebre - Croquant, frais et fruité
 ### ESPAGNE
 - **Esmeralda** - Arenas de Santyuste - 2021 - Verdejo - 47 € - Non disponible
 - **Clos Lentiscus** - Perill Blanc - 2018 - Xarello - 47 €
+- - **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 35 €
 
 ### GRÈCE
 - **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 36€
@@ -189,12 +191,9 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### ALSACE
 - **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewurztraminer, Riesling, Pinot Gris - 61 € 
-- **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 33 €
+- **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 33 € -Non disponible
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
-- **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 €
-
-### AUVERGNE
-- **Patrick Bouju** - GM - 2021 - Grenache, Muscat - 50 €
+- **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 € - Non disponible
 
 ### LANGUEDOC ROUSILLON
 - **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€
@@ -212,9 +211,10 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### ESPAGNE
 - **Clos Lentiscus** - Night Potion Skin Contact - 2021 - Xarello - 51 €
+- **Celler 9+** - 3r - 2022 - Vermell Cartoixà - 39 €
+- **Celler 9+** - 6è - 2022 - Muscat - 40 €
 
 ### ITALIE
-- **Val di sole** - Pandora - 2021 - Malvasia - 57 € - Non disponible
 - **La Stoppa** - Ageno - 2018 - Malvasia Ortrugo Trebbiano - 78 €
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - 69 € (50cl)
 - **Alessandro Viola** - Sinfonia di Bianco - 2021 - Grillo - 61 €
