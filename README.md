@@ -17,10 +17,14 @@ Bouteilles (75cl):
 # Assiettes à partager
 
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
-- Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** - non dispo, revient mardi
+- Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
 - Chorizo Picante **8 €**
 - Saint Nectaire fermier AOP (fromagerie Guillaume), jus de prune maison **9 €**
 - Saucisson d'Aveyron **7,5 €**
+- Terrine de campagne d'Aveyron **8,5 €**
+- Tomme Caussenarde (Millau, Aveyron) **9 €**
+- Boeuf séché d'Aubrac **10 €**
+- Morbier AOP **8 €**
 
    
 [haut de page](#menu)
