@@ -24,6 +24,7 @@ Bouteilles (75cl):
 - Terrine de campagne d'Aveyron **8,5 €**
 - Tomme Caussenarde (Millau, Aveyron) **9 €**
 - Boeuf séché d'Aubrac **10 €**
+- Feuilleté à l'écir **11 €**
 - Morbier AOP **8 €**
 
    
