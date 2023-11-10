@@ -58,6 +58,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
 - Lise et Bertrand Jousset, Voilà le muscadet, porté sur les agrumes l'iode qui file droit **7 €**
+
+### Orange
+- Eros de François, Alsace, frais et sec, arômes de pamplemousse **8 €**
+
   
 ### Rouges
 - Christophe Bosque, Loire, léger, fruité **7 €**
@@ -191,7 +195,7 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### ALSACE
 - **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewurztraminer, Riesling, Pinot Gris - 61 € 
-- **Eros de David** - Les vins Pirouettes - 2022 - Gewurztraminer, Riesling - 33 € -Non disponible
+- **Eros de François** - Les vins Pirouettes - 2022 - Gewurztraminer, Auxerrois - 33 € -Non disponible
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
 - **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 € - Non disponible
 
@@ -239,7 +243,7 @@ Ull de Llebre - Croquant, frais et fruité
 ### BEAUJOLAIS
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
 - **Philippe Jambon** - Une tranche sudiste - 18-19 - Grenache Syrah - 33 €
-- **Pierre Cotton** - Brouilly les Mines - 2019 - Gamay - 42 €
+- **Pierre Cotton** - Brouilly les Mines - 2019 - Gamay - 48 €
 - **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 33 € - Non disponible
 
 ### AUVERGNE
