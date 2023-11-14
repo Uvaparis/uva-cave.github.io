@@ -16,7 +16,6 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
-- Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
 - Saucisson d'Aveyron **7,5 €**
 - Terrine de campagne d'Aveyron **8,5 €**
