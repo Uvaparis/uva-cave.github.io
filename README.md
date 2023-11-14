@@ -18,7 +18,6 @@ Bouteilles (75cl):
 
 - Paté de campagne artisanal (Maison Montalet, Tarn) **9 €**
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
-- Chorizo Picante **8 €**
 - Saucisson d'Aveyron **7,5 €**
 - Terrine de campagne d'Aveyron **8,5 €**
 - Tomme Caussenarde (Millau, Aveyron) **9 €**
