@@ -22,6 +22,8 @@ Bouteilles (75cl):
 - Tomme Caussenarde (Millau, Aveyron) **9 €**
 - Boeuf séché d'Aubrac **10 €**
 - Morbier AOP **8 €**
+- Saint Nectaire, confiture maison de prune **9 €**
+- Chorizo picante **8 €**
 
    
 [haut de page](#menu)
@@ -280,6 +282,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Laurent Lebled** - Ça c'est bon - 2022 - Gamay - 34 €
 - **Laurent Lebled** - On est Su l'Sable - 2022 - Cabernet Franc - 37 €
 - **Lise et Bertrand Jousset** - Résiste - 2022 - Carignan, Grenache, Syrah - 34 €
+- **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
 
 
 ### RHÔNE
