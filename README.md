@@ -20,7 +20,6 @@ Bouteilles (75cl):
 
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
 - Saucisson d'Aveyron **7,5 €**
-- Terrine de campagne d'Aveyron **8,5 €**
 - Tomme Caussenarde (Millau, Aveyron) **9 €**
 - Boeuf séché d'Aubrac **10 €**
 - Morbier AOP **8 €**
