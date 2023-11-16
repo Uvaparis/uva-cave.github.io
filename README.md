@@ -16,7 +16,7 @@ Bouteilles (75cl):
 
 # Soirée Mont d'Or du BOJO
 
-- Mont d'Or fermier (400g), Pommes de terre grenaille **26 €**
+- Mont d'Or fermier (400g), Pommes de terre grenaille **27 €**
 
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
 - Saucisson d'Aveyron **7,5 €**
