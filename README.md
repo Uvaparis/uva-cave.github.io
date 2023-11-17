@@ -2,7 +2,7 @@
 **COMMANDE AU BAR. MERCI :)**
 
 Food : 
-- [Soirée Mont d'Or du BOJO](#assiettes-à-partager)
+- [Assiettes à partager](#assiettes-à-partager)
 
 Verres :
 - [Vins au verre](#vins-au-verre)
@@ -14,9 +14,9 @@ Bouteilles (75cl):
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
 
-# Soirée Mont d'Or du BOJO
+# Assiettes à partager
 
-- Mont d'Or fermier (400g), Pommes de terre grenaille **27 €**
+- Mont d'Or fermier (400g), Pommes de terre grenaille **27 €** (15 minutes d'attente)
 
 - Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
 - Saucisson d'Aveyron **7,5 €**
@@ -57,6 +57,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### Rouges 
 - Beaujolais Nouveau de Nicolas Chemarin (Beaujolais Village) - léger, fruits rouges croquants et juteux **6,5 €**
 - Bangarang - Primeur du domaine Mosse (Loire) - Pineau d'aunis, Chenin - arômes de fruits rouges et poivre blanc **6,5 €**
+- Résiste - Lise et Bertrand Jousset - fruité et croquant, robustesse **7 €**
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
