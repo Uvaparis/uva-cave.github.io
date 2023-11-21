@@ -16,6 +16,7 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
+- Olives vertes gros calibre **4 €**
 - Brillat-Savarin IGP, huile d'olive, poivre noir **10 €**
 - Tomme de brebis Caussenarde (Millau, Aveyron) **9 €**
 - Morbier AOP **8 €**
