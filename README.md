@@ -16,18 +16,20 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
-- Mont d'Or fermier (400g), Pommes de terre grenaille **27 €** (15 minutes d'attente)
-
-- Brillat-Savarin IGP, huile d'olive (Olio Di Serra), poivre noir **10 €** 
-- Saucisson d'Aveyron **7,5 €**
-- Tomme Caussenarde (Millau, Aveyron) **9 €**
-- Boeuf séché d'Aubrac **10 €**
+- Brillat-Savarin IGP, huile d'olive, poivre noir **10 €**
+- Tomme de brebis Caussenarde (Millau, Aveyron) **9 €**
 - Morbier AOP **8 €**
-- Saint Nectaire, confiture maison de prune **9 €**
-- Chorizo picante **8 €**
+- Saint Nectaire fermier, confiture maison de prune **9 €**
+- Cantal AOP, huile verte, poivre **9 €**
+- Saucisson d'Aveyron **7,5 €**
+- Boeuf séché d'Aubrac **10 €**
+- Chorizo picante d'Espagne **8 €**
+- Coppa d'Italie - **9,5 €**
+- Pâté Croute Richelieu d'Aveyron, pickles de moutarde **10 €**
+- Terrine de campagne aveyronnaise, pickels **9 €**
+- Onctueux de courges rôties aux noisettes, noisettes torréfiées **8 €**
 
-- Extra fondant au chocolat, chantilly maison **7,5 €**
-
+_Des allergies ? Prévenez-nous :) _
    
 [haut de page](#menu)
 
