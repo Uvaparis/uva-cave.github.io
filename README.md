@@ -59,7 +59,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges 
 - Beaujolais Nouveau de Nicolas Chemarin (Beaujolais Village) - léger, fruits rouges croquants et juteux **7 €**
-- Bangarang - Primeur du domaine Mosse (Loire) - Pineau d'aunis, Chenin - arômes de fruits rouges et poivre blanc **7 €**
 - Résiste - Lise et Bertrand Jousset - fruité et croquant, robustesse **7 €**
 
 ### Blancs
