@@ -16,6 +16,7 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
+- Mont d'Or AOP, pommes de terre grenaille **27€**
 - Olives vertes gros calibre **4 €**
 - Brillat-Savarin IGP, huile d'olive, poivre noir **10 €**
 - Tomme de brebis Caussenarde (Millau, Aveyron) **9 €**
@@ -28,7 +29,6 @@ Bouteilles (75cl):
 - Coppa d'Italie - **9,5 €**
 - Pâté Croute Richelieu d'Aveyron, pickles de moutarde **10 €**
 - Terrine de campagne aveyronnaise, pickels **9 €**
-- Onctueux de courges rôties aux noisettes, noisettes torréfiées **8 €**
 
 _Des allergies ? Prévenez-nous :) _
    
