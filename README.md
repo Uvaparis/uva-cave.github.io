@@ -261,7 +261,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Rémi Poujol** - Le temps fait tout - 2021 - Grenache, Carignan, Syrah - 34 €
 - **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 37€
 - **Olivier Pichon** - Grenache des Grès - 2021 - Grenache Noir - 30 €
-- **La Cave Apicole** - Gorgorlou - 2022 - Carignan Noir -
+- **La Cave Apicole** - Gorgorlou - 2022 - Carignan Noir - 44 €
 - **Domaine de Cassagnas** - Hunga - 2022 - Aubun, Grenache - 34 €
 
 ### LOIRE
