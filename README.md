@@ -88,12 +88,16 @@ Ull de Llebre - Croquant, frais et fruité
 ### AUVERGNE
 - **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 44 €
 
+### JURA
+- **Casa Antolia** - Cade meu carnaval - 2019 - Chardonnay, Ugni blanc, Sauvignon - 42 €
+
 ### LOIRE
 - **Thomas Zurbach** - When the seagulls follow the trawler - 2021 - Grolleau gris - 44 €
 - **Thomas Zurback** - Like a bird on the Wire - 2021 - Chenin - 41 €
 
-### JURA
-- **Casa Antolia** - Cade meu carnaval - 2019 - Chardonnay, Ugni blanc, Sauvignon - 42 €
+### RHONE
+- **Martin Texier** Petite Nature 2022 - Muscat petits grains - 43 €
+
 
 ### ALLEMAGNE
 - **Andi Weigand** - Pet Nat - 2022 - Müller-Thurgau, Bacchus, Scheurebe - 43 €
@@ -128,6 +132,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Anna, André et Yann Durrmann** - Riesling sur granit "Rebbuehl" - 2022 - 43 €
 - **Anna, André et Yann Durrmann** - Riesling sur schistes"Rabbari" - 2022 - 48 €
 - **Anna, André et Yann Durrmann** - ZEGWUR - 2022 - Gewurztraminer - 44 €
+- **La Grange de l'Oncle Charles** - Mille Lieux 2022 - assemblage de 13 cépages alsaciens - 49 €
 
 
 ### ARDÈCHE
@@ -149,6 +154,9 @@ Ull de Llebre - Croquant, frais et fruité
 - **Olivier Pichon** - La Colonel - 2022 - Grenache Blanc - 34€ - **Non disponible** 
 - **La Cave Apicole** - Zumo - 2022 - Maccabeu, Grenache Gris - 40€
 - **La Cave Apicole** - Tangerine - 2022 - Chardonnay, Vermentino - 39€
+
+### PYRÉNÉES-ORIENTALES
+- **Domaine de l'Epeire** - Astradyne - 2022 - Macabeu - 38 €
 
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 55 € - **Non disponible**
@@ -187,9 +195,13 @@ Ull de Llebre - Croquant, frais et fruité
 - **Eros de François** - Les vins Pirouettes - 2022 - Gewurztraminer, Auxerrois - 33 € 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
 - **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 € - **Non disponible**
+- **La Grange de l'Oncle Charles** - Mille Lieux Sur Peaux 2022 - Gewurztraminer, Auxerrois, Pinot Gris, Riesling - 49 €
 
 ### LANGUEDOC ROUSILLON
 - **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€ - **Non disponible**
+
+### LOIRE
+- **Domaine du Haut Planty** - One musk a night - 2021 - Melon de Bourgogne - 35 €
 
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - 84 €
@@ -212,6 +224,9 @@ Ull de Llebre - Croquant, frais et fruité
 [haut de page](#menu)
 
 ## Rosés 75cl
+
+### LANGUEDOC
+- **Domaine de Cassagnas** - Fruit Vermeil 2022 - Aubun, Grenache - 36 €
 
 ### ALLEMAGNE
 - **Brand Bros** - Wild Rosé - 2020 - Portugieser - 36 € - **Non disponible**
@@ -246,7 +261,8 @@ Ull de Llebre - Croquant, frais et fruité
 - **Rémi Poujol** - Le temps fait tout - 2021 - Grenache, Carignan, Syrah - 34 €
 - **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 37€
 - **Olivier Pichon** - Grenache des Grès - 2021 - Grenache Noir - 30 €
-- **La Cave Apicole** - Gorgorlou - 2022 - Carignan Noir - 
+- **La Cave Apicole** - Gorgorlou - 2022 - Carignan Noir -
+- **Domaine de Cassagnas** - Hunga - 2022 - Aubun, Grenache - 34 €
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2016 - Pineau d’aunis - 133 € (150 cl)
@@ -265,12 +281,17 @@ Ull de Llebre - Croquant, frais et fruité
 - **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
 - **Domaine Mosse** - Bangarang Primeur 2023 - Pineau d'Aunis, Chenin - 30€
 
+### PYRÉNÉES-ORIENTALES
+- **Domaine de l'Epeire** - Tohu Bohu - 2022 -  Grenache noir - 36 € 
+
 ### RHÔNE
 - **Justine Vigne** - Self Love - 2021 - Syrah - 50 €
 - **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
 - **Justine Vigne** - Yoga - 2021 - Syrah - 59 €
 - **Petit Oratoire** - Les Lauzes Blanches - 2020 - Grenache, carignan - 41 €
 - **Andréa Calek** - A toi nous - 2022 - Grenache, syrah - 32 €
+- **Domaine de Prapin** - Gam'Nature - 2020 - Gamay - 34 €
+- **Domaine de Prapin** - Amphore Gamay - 2019 - Gamay en amphore - 49 €
 
 ### SAVOIE
 - **JY Peron** - Champ levat - 2020 - Mondeuse - 66 €
