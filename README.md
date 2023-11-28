@@ -16,7 +16,6 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
-- Mont d'Or AOP, pommes de terre grenaille **27€**
 - Olives vertes gros calibre **4 €**
 - Brillat-Savarin IGP, huile d'olive, poivre noir **10 €**
 - Tomme de brebis Caussenarde (Millau, Aveyron) **9 €**
