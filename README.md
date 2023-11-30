@@ -14,21 +14,15 @@ Bouteilles (75cl):
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
 
-# Assiettes à partager
+# Résidence avec la cheffe Justine @goldenpintade
 
-- Mont d'Or **27 €**
-- Olives vertes gros calibre **4 €**
-- Brillat-Savarin IGP, huile d'olive, poivre noir **10 €**
-- Tomme de brebis Caussenarde (Millau, Aveyron) **9 €**
-- Morbier AOP **8 €**
-- Saint Nectaire fermier, confiture maison de prune **9 €**
-- Cantal AOP, huile verte, poivre **9 €**
-- Saucisson d'Aveyron **7,5 €**
-- Boeuf séché d'Aubrac **10 €**
-- Chorizo picante d'Espagne **8 €**
-- Coppa d'Italie - **9,5 €**
-- Pâté Croute Richelieu d'Aveyron, pickles de moutarde **10 €**
-- Terrine de campagne aveyronnaise, pickels **9 €**
+- Caillette porc, haddock, oseille **15 €**
+- Wings, laquage piment fumé, yaourt ciboulette **14 €**
+- Crème de haricots tarbais, herbes fraîches, sarrasin soufflé **12 €**
+- Blini, siphon beurre blanc vin orange, moules **13 €**
+- Pleurotes, gorgonzola, condiment citron **12 €**
+- île flottante, leetchi, crème anglaise thé lapsang Souchong **8 €**
+- Trou baies roses, Bangarang **6 €**
 
 _Des allergies ? Prévenez-nous :) _
    
