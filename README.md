@@ -21,7 +21,7 @@ Bouteilles (75cl):
 - Crème de haricots tarbais, herbes fraîches, sarrasin soufflé **12 €**
 - Blini, siphon beurre blanc vin orange, moules **13 €**
 - Pleurotes, gorgonzola, condiment citron **12 €**
-- île flottante, leetchi, crème anglaise thé lapsang Souchong **8 €**
+- île flottante, litchi, crème anglaise thé lapsang Souchong **8 €**
 - Trou baies roses, Bangarang **6 €**
 
 _Des allergies ? Prévenez-nous :) _
