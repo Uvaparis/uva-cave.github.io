@@ -2,7 +2,7 @@
 **COMMANDE AU BAR. MERCI :)**
 
 Food : 
-- [Assiettes à partager](#assiettes-à-partager)
+- [SUNDAY ROAST](#sunday-roast)
 
 Verres :
 - [Vins au verre](#vins-au-verre)
@@ -14,15 +14,10 @@ Bouteilles (75cl):
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
 
-# Résidence avec la cheffe Justine @goldenpintade
+# SUNDAY ROAST
 
-- Caillette porc, haddock, oseille **15 €**
-- Wings, laquage piment fumé, yaourt ciboulette **14 €**
-- Crème de haricots tarbais, herbes fraîches, sarrasin soufflé **12 €**
-- Blini, siphon beurre blanc vin orange, moules **13 €**
-- Pleurotes, gorgonzola, condiment citron **12 €**
-- île flottante, litchi, crème anglaise thé lapsang Souchong **8 €**
-- Trou baies roses, Bangarang **6 €**
+- Poutine ardéchoise (frite, sauce mornay énervée, "La Bogue") **8 €**
+- Crèpe, nocciolata de Juju @goldenpintade, douceur de chataigne, chips de chataigne **4,5**
 
 _Des allergies ? Prévenez-nous :) _
    
