@@ -2,7 +2,7 @@
 **COMMANDE AU BAR. MERCI :)**
 
 Food : 
-- [SUNDAY ROAST](#sunday-roast)
+- [Assiettes à partager](#assiettes-a-partager)
 
 Verres :
 - [Vins au verre](#vins-au-verre)
