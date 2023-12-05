@@ -14,10 +14,21 @@ Bouteilles (75cl):
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
 
-# SUNDAY ROAST
+# Assiettes à partager
 
-- Poutine ardéchoise (frite, sauce mornay énervée, "La Bogue") **8 €**
-- Crèpe, nocciolata de Juju @goldenpintade, douceur de chataigne, chips de chataigne **4,5**
+- Aligot à la tomme fraiche de l'aubrac, saucisse **16 €**
+- Aligot à la tomme fraiche de l'aubrac, champignons rôtis **15 €**
+- Mont d'Or **27 €**
+- Olives verte gros calibre **4 €**
+- Terrine de campagne aveyronnaise **9 €**
+- Saucisson de l'Aveyron **7,5 €**
+- Paté-croûte Richelieu de l'Aveyron, pickles de moutarde **10 €**
+- Brillat-Savarin IGP, huile d'olive, poivre du moulin **10 €**
+- Saint-Nectaire fermier **9 €**
+- Tomme de brebis caussenarde (Millau) **9 €**
+- Boeuf séché d'aubrac **10 €**
+- Chorizo picante d'Espagne **8 €**
+- Coppa d'Italie **9,5 €**
 
 _Des allergies ? Prévenez-nous :) _
    
