@@ -275,7 +275,6 @@ Ull de Llebre - Croquant, frais et fruité
 - **Bois Rond** - Carbaunix - 2022 - Pineau d’Aunis - 36 € - **Non disponible**
 - **Laurent Lebled** - Hou la la - 2021 - Pinot noir - 37 € - **Non disponible**
 - **Lauré & Fabrice Chaillou** - Grinadine - 2022 - Grolleau gris - 30€
-- **Laurent Lebled** - Ça c'est bon - 2022 - Gamay - 34 €
 - **Laurent Lebled** - On est Su l'Sable - 2022 - Cabernet Franc - 37 €
 - **Lise et Bertrand Jousset** - Résiste - 2022 - Carignan, Grenache, Syrah - 34 €
 - **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
