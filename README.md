@@ -25,7 +25,6 @@ Bouteilles (75cl):
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin **10 €**
 - Saint-Nectaire fermier **9 €**
 - Tomme de brebis caussenarde (Millau) **9 €**
-- Boeuf séché d'aubrac **10 €**
 - Chorizo picante d'Espagne **8 €**
 - Coppa d'Italie **9,5 €**
 
