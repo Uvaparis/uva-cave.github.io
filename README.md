@@ -16,7 +16,6 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
-- Aligot à la tomme fraiche de l'aubrac, saucisse **16 €**
 - Mont d'Or **27 €**
 - Olives verte gros calibre **4 €**
 - Terrine de campagne aveyronnaise **9 €**
