@@ -20,7 +20,6 @@ Bouteilles (75cl):
 - Olives verte gros calibre **4 €**
 - Terrine de campagne aveyronnaise **9 €**
 - Saucisson de l'Aveyron **7,5 €**
-- Paté-croûte Richelieu de l'Aveyron, pickles de moutarde **10 €**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin **10 €**
 - Saint-Nectaire fermier **9 €**
 - Tomme de brebis caussenarde (Millau) **9 €**
