@@ -58,7 +58,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges 
 - Beaujolais Nouveau de Nicolas Chemarin (Beaujolais Village) - léger, fruits rouges croquants et juteux **7 €**
-- Résiste - Lise et Bertrand Jousset - fruité et croquant, robustesse **7 €**
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
