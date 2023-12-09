@@ -27,6 +27,7 @@ Bouteilles (75cl):
 - Coppa d'Italie **9,5 €**
 - Bleu des Causses AOP, confiture de figue **9 €**
 - Cantal AOP, huile verte, poivre **9 €**
+- Houmous de pois chiche **7 €**
 
 _Des allergies ? Prévenez-nous :) _
    
