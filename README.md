@@ -256,7 +256,6 @@ Ull de Llebre - Croquant, frais et fruité
 - **Antoine Latipau** - Porque Porcus - 2020 - Grenache, Carignan, Syrah - 33 €
 - **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 € 
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
-- **Rémi Poujol** - Le temps fait tout - 2021 - Grenache, Carignan, Syrah - 34 €
 - **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 37€
 - **Olivier Pichon** - Grenache des Grès - 2021 - Grenache Noir - 30 €
 - **La Cave Apicole** - Gorgorlou - 2022 - Carignan Noir - 44 €
