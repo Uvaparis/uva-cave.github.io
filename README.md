@@ -123,6 +123,7 @@ Ull de Llebre - Croquant, frais et fruité
 ## Blancs 75cl
 ### ALSACE
 - **Geschickt** - Le Schlouk - 2020 - Gewurztraminer, Riesling - 40 € - **Non disponible**
+- **Les Vins Pirouettes** - Pulpe de Raphaël 2022 - Sylvaner, Riesling, Auxerrois, Chasselas - 33 €
 - **Geschickt** - 6 Pieds sur Terre - 2018 - Pinot noir, gris blanc, Gewurztraminer, Riesling, Muscat  - 46 €
 - **Anna, André et Yann Durrmann** - Pinot Blanc - 2022 - 39 €
 - **Anna, André et Yann Durrmann** - Pinot Blanc - 2022 - 78 € (150 cl)
@@ -236,6 +237,9 @@ Ull de Llebre - Croquant, frais et fruité
 
 ## Rouges 75cl
 
+### ALSACE 
+- **Les Vins Pirouettes** - Pinot noir 2020 - 42 €
+  
 ### BEAUJOLAIS
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
 - **Philippe Jambon** - Une tranche sudiste - 18-19 - Grenache Syrah - 33 €
