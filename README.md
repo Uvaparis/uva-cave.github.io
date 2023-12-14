@@ -18,7 +18,6 @@ Bouteilles (75cl):
 
 - Mont d'Or **27 €**
 - Olives verte gros calibre **4 €**
-- Terrine de campagne aveyronnaise **9 €**
 - Saucisson de l'Aveyron **7,5 €**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin **10 €**
 - Saint-Nectaire fermier **9 €**
@@ -27,7 +26,6 @@ Bouteilles (75cl):
 - Coppa d'Italie **9,5 €**
 - Bleu des Causses AOP, confiture de figue **9 €**
 - Cantal AOP, huile verte, poivre **9 €**
-- Houmous de pois chiche **7 €**
 
 _Des allergies ? Prévenez-nous :) _
    
