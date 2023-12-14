@@ -55,7 +55,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- Beaujolais Nouveau de Nicolas Chemarin (Beaujolais Village) - léger, fruits rouges croquants et juteux **7 €**
+- Christophe Bosque, Loire, fruité et croquant avec une belle longueur en bouche **7 €**
+- Bangarang, Loire, leger avec un fini poivré **7 €**
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
