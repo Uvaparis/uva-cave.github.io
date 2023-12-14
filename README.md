@@ -24,8 +24,9 @@ Bouteilles (75cl):
 - Tomme de brebis caussenarde (Millau) **9 €**
 - Chorizo picante d'Espagne **8 €**
 - Coppa d'Italie **9,5 €**
-- Bleu des Causses AOP, confiture de figue **9 €**
+- Bleu des Causses AOP, confiture pêche abricot AOP **9 €**
 - Cantal AOP, huile verte, poivre **9 €**
+- Comté 18 mois **8 €**
 
 _Des allergies ? Prévenez-nous :) _
    
