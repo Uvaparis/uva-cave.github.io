@@ -16,7 +16,7 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
-- Mont d'Or **27 €**
+- Mont d'Or AOP, pommes de terre grenaille **27 €**
 - Olives verte gros calibre **4 €**
 - Saucisson de l'Aveyron **7,5 €**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin **10 €**
