@@ -25,8 +25,9 @@ Bouteilles (75cl):
 - Chorizo picante d'Espagne **8 €**
 - Coppa d'Italie **9,5 €**
 - Bleu des Causses AOP, confiture pêche abricot AOP **9 €**
-- Cantal AOP, huile verte, poivre **9 €**
 - Comté 18 mois **8 €**
+- Paté de campagne, pickles de graines de moutarde **9 €**
+- Houmous de pois chiche **7 €**
 
 _Des allergies ? Prévenez-nous :) _
    
