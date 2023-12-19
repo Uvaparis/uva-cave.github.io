@@ -58,7 +58,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges 
 - Christophe Bosque, Loire, fruité et croquant avec une belle longueur en bouche **7 €**
-- Bangarang, Loire, leger avec un fini poivré **7 €**
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
@@ -280,7 +279,6 @@ Ull de Llebre - Croquant, frais et fruité
 - **Laurent Lebled** - On est Su l'Sable - 2022 - Cabernet Franc - 37 €
 - **Lise et Bertrand Jousset** - Résiste - 2022 - Carignan, Grenache, Syrah - 34 €
 - **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
-- **Domaine Mosse** - Bangarang Primeur 2023 - Pineau d'Aunis, Chenin - 30€
 
 ### PYRÉNÉES-ORIENTALES
 - **Domaine de l'Epeire** - Tohu Bohu - 2022 -  Grenache noir - 36 € 
