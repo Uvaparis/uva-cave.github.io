@@ -191,7 +191,6 @@ Ull de Llebre - Croquant, frais et fruité
 - **Eros de François** - Les vins Pirouettes - 2022 - Gewurztraminer, Auxerrois - 33 € 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
 - **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 € - **Non disponible**
-- **La Grange de l'Oncle Charles** - Mille Lieux Sur Peaux 2022 - Gewurztraminer, Auxerrois, Pinot Gris, Riesling - 49 €
 
 ### LANGUEDOC ROUSILLON
 - **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€ - **Non disponible**
