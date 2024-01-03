@@ -16,7 +16,6 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
-- Mont d'Or AOP, pommes de terre grenaille **27 €**
 - Olives verte gros calibre **4 €**
 - Saucisson de l'Aveyron **7,5 €**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin **10 €**
@@ -24,10 +23,8 @@ Bouteilles (75cl):
 - Tomme de brebis caussenarde (Millau) **9 €**
 - Chorizo doux de l'Aubrac **8 €**
 - Coppa d'Italie **9,5 €**
-- Bleu des Causses AOP, confiture pêche abricot AOP **9 €**
 - Comté 18 mois **8 €**
-- Paté de campagne, pickles de graines de moutarde **9 €**
-- Houmous de pois chiche **7 €**
+- Terrine de l'Aubrac, pickles de graines de moutarde **9 €**
 
 _Des allergies ? Prévenez-nous :) _
    
@@ -38,7 +35,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Soft
 **Les filles de l’ouest** 33cl **5,5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Pomme, Orange, Menthe, Citron-gingembre, Limonade, Rhubarbe
+Pomme, Orange, Menthe, Citron-gingembre
 
 **Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **19 €**
 
