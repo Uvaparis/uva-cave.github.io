@@ -16,7 +16,6 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
-- Olives verte gros calibre **4 €**
 - Saucisson de l'Aveyron **7,5 €**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin **10 €**
 - Saint-Nectaire fermier **9 €**
