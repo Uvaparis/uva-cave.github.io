@@ -44,9 +44,6 @@ Pomme, Orange, Menthe, Citron-gingembre
 Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue 
 et de fruits tropicaux
 
-**To ol Implosion Non-Alcoholic Beer** 33cl **5,50 €**
-Bière blonde sans alcool brassée avec du malt d'orge, du blé et du houblon. Arôme de fleur et fruits blancs
-
 **Cantillon** Kriek 100% Lambic Bio - 75cl **40€**
 Désaltérante, saveurs de fruits rouges et d'agrumes
 
