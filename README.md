@@ -16,6 +16,7 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
+- Olives vertes gros calibre **4 €**
 - Saucisson de l'Aveyron **7,5 €**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin **10 €**
 - Saint-Nectaire fermier **9 €**
@@ -24,6 +25,7 @@ Bouteilles (75cl):
 - Coppa d'Italie **9,5 €**
 - Comté 18 mois **8 €**
 - Terrine de l'Aubrac, pickles de graines de moutarde **9 €**
+- Houmous de pois chiche **7 €**
 
 _Des allergies ? Prévenez-nous :) _
    
