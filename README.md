@@ -250,7 +250,7 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### LANGUEDOC
 - **Fond Cyprès** - Toile de fond - 2022 - Grenache, syrah - 30 €
-- **Olivier Pichon** - Le Marmot - 2022 - Cinsaut, Grenache, Carignan - 28 €
+- **Olivier Pichon** - Le Marmot - 2022 - Cinsaut, Grenache, Carignan - 34 €
 - **Antoine Latipau** - Porque Porcus - 2020 - Grenache, Carignan, Syrah - 33 €
 - **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 € 
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
