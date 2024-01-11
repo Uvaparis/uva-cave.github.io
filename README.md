@@ -51,8 +51,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- Smack, Nicolas Chemarin, Gamay, frais et croquant **8 €**
-
+- Smack, Nicolas Chemarin, Gamay, frais et croquant **7 €**
+- Danis dans la vigné, Life of the party, sur le fruit et fini épicé **7 €**
+  
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
 - Lise et Bertrand Jousset, Voilà le muscadet, porté sur les agrumes l'iode qui file droit **7 €**
@@ -62,6 +63,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Bulles
 - Coince ta bulle, Bordeaux, Merlot, frais et vif, notes de fruits rouges - **8 €**
+  
 ## Vins en canette 
 
 **Drink Canetta Rouge** 18,7 cl **7,5 €**
