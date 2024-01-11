@@ -51,7 +51,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- Christophe Bosque, Loire, fruité et croquant avec une belle longueur en bouche **7 €**
+- Smack, Nicolas Chemarin, Gamay, frais et croquant **8 €**
 
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
@@ -59,7 +59,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Orange
 - Eros de François, Alsace, frais et sec, arômes de pamplemousse **8 €**
-  
+
+### Bulles
+- Coince ta bulle, Bordeaux, Merlot, frais et vif, notes de fruits rouges - **8 €**
 ## Vins en canette 
 
 **Drink Canetta Rouge** 18,7 cl **7,5 €**
