@@ -80,6 +80,9 @@ Ull de Llebre - Croquant, frais et fruité
 ### AUVERGNE
 - **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 44 €
 
+### BORDEAUX
+- **Château Fredignac** - Coince ta bulle - 2022 -  Merlot - 36 €
+
 ### JURA
 - **Casa Antolia** - Cade meu carnaval - 2019 - Chardonnay, Ugni blanc, Sauvignon - 42 €
 
@@ -238,7 +241,8 @@ Ull de Llebre - Croquant, frais et fruité
 - **Philippe Jambon** - Une tranche sudiste - 18-19 - Grenache Syrah - 33 €
 - **Pierre Cotton** - Brouilly les Mines - 2019 - Gamay - 48 €
 - **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 36 €
-- **Nicolas Chemarin** - La Haute Ronze - 2021 - Gamay (AOC Régnié, élevage 20 mois en foudre) - 45 € 
+- **Nicolas Chemarin** - La Haute Ronze - 2021 - Gamay (AOC Régnié, élevage 20 mois en foudre) - 45 €
+- **Nicolas Chemarin** - Smack - 2022 - Gamay (AOP Beaujolais Villages) - 32 €
 
 ### AUVERGNE
 - **Patrick Bouju** - Môl - 2020 - Merlot, carignan, syrah - 39 €
@@ -291,6 +295,7 @@ Ull de Llebre - Croquant, frais et fruité
 ### SUD OUEST
 - **Philippe Maffre** - Falgueyras VV - 2018 - Syrah - 29 € **Non disponible**
 - **Vignoble Réveille** - Tous des oiseaux - 2020 - Carignan - 37 €
+- **Danis dans la vigne** - Life of the party - 2020 - Malbec, Cabernet Sauvignon, Segala - 32 €
 
 [haut de page](#menu)
 
