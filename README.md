@@ -96,7 +96,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Thomas Zurback** - Like a bird on the Wire - 2021 - Chenin - 41 €
 
 ### RHONE
-- **Martin Texier** Petite Nature 2022 - Muscat petits grains - 43 €
+- **Martin Texier** Petite Nature 2022 - Muscat petits grains - 43 € **Non disponible**
 
 
 ### ALLEMAGNE
@@ -105,7 +105,7 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### ESPAGNE
 - **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - 38 €
-- **Celler 9+** - 1r Escumosos - 2022 - Cartoixà - 39 €
+- **Celler 9+** - 1r Escumosos - 2022 - Cartoixà - 39 € **Non disponible**
   
 ### HONGRIE
 - **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - 55€
@@ -114,7 +114,6 @@ Ull de Llebre - Croquant, frais et fruité
 - **Porta del vento** - Voria - Orange - 2019 - Catarratto, Grillo - 37 € - **Non disponible**
 
 ## Cidre 75cl
-- **Le Mazel - Ardèche** - Cidre brut 2021 - 28 €
 - **Cidrerie du Vulcain - Suisse** - À propos d’elle 2021 - 45 €
 
 ## Champagne 75cl
@@ -151,8 +150,7 @@ Ull de Llebre - Croquant, frais et fruité
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
 
-### LANGUEDOC ROUSSILLON
-- **Olivier Pichon** - La Colonel - 2022 - Grenache Blanc - 34€ - **Non disponible** 
+### LANGUEDOC ROUSSILLON 
 - **La Cave Apicole** - Zumo - 2022 - Maccabeu, Grenache Gris - 40€
 - **La Cave Apicole** - Tangerine - 2022 - Chardonnay, Vermentino - 39€
 
@@ -163,7 +161,6 @@ Ull de Llebre - Croquant, frais et fruité
 - **R. Guettier** - Désirée - 2018 - Chenin - 55 € - **Non disponible**
 - **R. Guettier** - Pressoir de St Pierre - 2020 - Chenin - 53 €
 - **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de Bourgogne - 30 €
-- **Lauré & Fabrice Chaillou** - Cancellis - 2021 - Chenin - 37€ **Non disponible**
 - **Lise et Bertrand Jousset** - Voilà le muscadet - 2022 - Melon de Bourgogne - 34 €
 - **Lise et Bertrand Jousset** - Vilain p'tit Ch'nin - 2022 - Chenin - 38 €
   
@@ -178,7 +175,7 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### ESPAGNE
 - **Clos Lentiscus** - Perill Blanc - 2018 - Xarello - 47 €
-- - **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 35 €
+- **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 35 €
 
 ### GRÈCE
 - **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 36€
@@ -243,7 +240,6 @@ Ull de Llebre - Croquant, frais et fruité
   
 ### BEAUJOLAIS
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
-- **Philippe Jambon** - Une tranche sudiste - 18-19 - Grenache Syrah - 33 €
 - **Pierre Cotton** - Brouilly les Mines - 2019 - Gamay - 48 €
 - **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 36 €
 - **Nicolas Chemarin** - La Haute Ronze - 2021 - Gamay (AOC Régnié, élevage 20 mois en foudre) - 45 €
@@ -257,12 +253,10 @@ Ull de Llebre - Croquant, frais et fruité
 - **Julien Petitjean** - Hautes Côtes de Beaune Gymnopodie - 2020 - Pinot noir - 60 € **Non disponible**
 
 ### LANGUEDOC
-- **Fond Cyprès** - Toile de fond - 2022 - Grenache, syrah - 30 €
 - **Olivier Pichon** - Le Marmot - 2022 - Cinsaut, Grenache, Carignan - 34 €
-- **Antoine Latipau** - Porque Porcus - 2020 - Grenache, Carignan, Syrah - 33 €
 - **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 € 
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
-- **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 37€
+- **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 37€ **Non disponible**
 - **Olivier Pichon** - Grenache des Grès - 2021 - Grenache Noir - 30 €
 - **La Cave Apicole** - Gorgorlou - 2022 - Carignan Noir - 44 €
 - **Domaine de Cassagnas** - Hunga - 2022 - Aubun, Grenache - 34 €
@@ -272,14 +266,9 @@ Ull de Llebre - Croquant, frais et fruité
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - 52 € - Non disponible 
 - **J-P Robinot** - Concerto - 2020 - Pineau d’aunis - 48 € 
 - **J-P Robinot** - Prélude - 2018 - Pineau d’aunis - 91 €
-- **Vaillant** - Pineau d’Aunis - 2021 - Pineau d’Aunis - 29 €
-- **Mathieu Coste** - Têtes de chats - 2019 - Pinot noir, gamay - 41 €
 - **F. Saint Lô** - Hey Gro - 2021 - Grolleau - 49 €
 - **Bois Rond** - Carbaunix - 2022 - Pineau d’Aunis - 36 € - **Non disponible**
 - **Laurent Lebled** - Hou la la - 2021 - Pinot noir - 37 € - **Non disponible**
-- **Lauré & Fabrice Chaillou** - Grinadine - 2022 - Grolleau gris - 30€
-- **Laurent Lebled** - On est Su l'Sable - 2022 - Cabernet Franc - 37 €
-- **Lise et Bertrand Jousset** - Résiste - 2022 - Carignan, Grenache, Syrah - 34 €
 - **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
 
 ### PYRÉNÉES-ORIENTALES
@@ -290,7 +279,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
 - **Justine Vigne** - Yoga - 2021 - Syrah - 59 €
 - **Petit Oratoire** - Les Lauzes Blanches - 2020 - Grenache, carignan - 41 €
-- **Andréa Calek** - A toi nous - 2022 - Grenache, syrah - 32 €
+- **Andréa Calek** - A toi nous - 2022 - Grenache, syrah - 32 € - Non disponible 
 - **Domaine de Prapin** - Gam'Nature - 2020 - Gamay - 34 €
 - **Domaine de Prapin** - Amphore Gamay - 2019 - Gamay en amphore - 49 €
 
@@ -298,7 +287,6 @@ Ull de Llebre - Croquant, frais et fruité
 - **JY Peron** - Champ levat - 2020 - Mondeuse - 66 €
 
 ### SUD OUEST
-- **Philippe Maffre** - Falgueyras VV - 2018 - Syrah - 29 € **Non disponible**
 - **Vignoble Réveille** - Tous des oiseaux - 2020 - Carignan - 37 €
 - **Danis dans la vigne** - Life of the party - 2020 - Malbec, Cabernet Sauvignon, Segala - 32 €
 
