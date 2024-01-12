@@ -25,6 +25,7 @@ Bouteilles (75cl):
 - Comté 18 mois **8 €**
 - Terrine de l'Aubrac, pickles de graines de moutarde **9 €**
 - Houmous de pois chiche **7 €**
+- Chorizo au piment d'Espagne **8 €**
 
 _Des allergies ? Prévenez-nous :) _
    
