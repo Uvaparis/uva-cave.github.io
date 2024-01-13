@@ -240,6 +240,7 @@ Ull de Llebre - Croquant, frais et fruité
 ### ALSACE 
 - **Les Vins Pirouettes** - Pinot noir 2020 - 42 €
 - **Pépin** - Pinot noir - 43 €
+- **Pépin** - Syrah, Grenache, Carignan, Cinsault - 33 €
   
 ### BEAUJOLAIS
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
