@@ -23,7 +23,6 @@ Bouteilles (75cl):
 - Tomme de brebis caussenarde (Millau) **9 €**
 - Coppa d'Italie **9,5 €**
 - Comté 18 mois **8 €**
-- Terrine de l'Aubrac, pickles de graines de moutarde **9 €**
 - Houmous de pois chiche **7 €**
 - Chorizo au piment d'Espagne **8 €**
 
@@ -81,6 +80,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 41 €
 - **Anna, André et Yann Durrmann** - Mu Ska-T - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 39 €
+- **Pépin** - Riesling, Gewurztraminer, Pinot gris,Silvaner - 2022 - 34€
 
 ### AUVERGNE
 - **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 44 €
@@ -133,7 +133,8 @@ Ull de Llebre - Croquant, frais et fruité
 - **Anna, André et Yann Durrmann** - Riesling sur schistes"Rabbari" - 2022 - 48 €
 - **Anna, André et Yann Durrmann** - ZEGWUR - 2022 - Gewurztraminer - 44 €
 - **La Grange de l'Oncle Charles** - Mille Lieux 2022 - assemblage de 13 cépages alsaciens - 49 €
-
+- **Pépin** - Assemblage de cépages alsaciens - 2022 - 34 €
+- **Pépin** - Riesling - 2022 - 37 €
 
 ### ARDÈCHE
 - **Jérôme Vigne** - Les Raillères - 2021 - Viognier - 39 €
@@ -193,6 +194,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Eros de François** - Les vins Pirouettes - 2022 - Gewurztraminer, Auxerrois - 33 € 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
 - **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 € - **Non disponible**
+- **Pépin** - Gewurztraminer, Pinot gris - 2022 - 38 €
 
 ### LANGUEDOC ROUSILLON
 - **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€ - **Non disponible**
@@ -237,6 +239,7 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### ALSACE 
 - **Les Vins Pirouettes** - Pinot noir 2020 - 42 €
+- **Pépin** - Pinot noir - 43 €
   
 ### BEAUJOLAIS
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
