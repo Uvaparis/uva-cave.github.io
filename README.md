@@ -243,7 +243,6 @@ Ull de Llebre - Croquant, frais et fruité
 - **Pépin** - Syrah, Grenache, Carignan, Cinsault - 33 €
   
 ### BEAUJOLAIS
-- **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
 - **Pierre Cotton** - Brouilly les Mines - 2019 - Gamay - 48 €
 - **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 36 €
 - **Nicolas Chemarin** - La Haute Ronze - 2021 - Gamay (AOC Régnié, élevage 20 mois en foudre) - 45 €
@@ -274,7 +273,8 @@ Ull de Llebre - Croquant, frais et fruité
 - **Bois Rond** - Carbaunix - 2022 - Pineau d’Aunis - 36 € - **Non disponible**
 - **Laurent Lebled** - Hou la la - 2021 - Pinot noir - 37 € - **Non disponible**
 - **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
-
+- **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
+  
 ### PYRÉNÉES-ORIENTALES
 - **Domaine de l'Epeire** - Tohu Bohu - 2022 -  Grenache noir - 36 € 
 
