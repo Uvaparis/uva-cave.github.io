@@ -26,7 +26,7 @@ Bouteilles (75cl):
 - Coppa d'Italie **9,5 €**
 - Comté 18 mois **8 €**
 - Terrine de campagne (Aubrac, Aveyron) **9 €**
-- Boeuf séché d'Aubrac (Aveyron) **9 €**
+- Boeuf séché d'Aubrac (Aveyron) **10 €**
 - Houmous de pois chiche **7 €**
 - Chorizo au piment d'Espagne **8 €**
 
