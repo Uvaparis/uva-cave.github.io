@@ -16,6 +16,8 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
+- Soirée Blanquette de veau (Boucherie Bidoche) - **17 €**
+- Soirée Blanquette végétarienne **15 €**
 - Olives vertes gros calibre **4 €**
 - Saucisson de l'Aveyron **7,5 €**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin **10 €**
@@ -23,6 +25,8 @@ Bouteilles (75cl):
 - Tomme de brebis caussenarde (Millau) **9 €**
 - Coppa d'Italie **9,5 €**
 - Comté 18 mois **8 €**
+- Terrine de campagne (Aubrac, Aveyron) **9 €**
+- Boeuf séché d'Aubrac (Aveyron) **9 €**
 - Houmous de pois chiche **7 €**
 - Chorizo au piment d'Espagne **8 €**
 
