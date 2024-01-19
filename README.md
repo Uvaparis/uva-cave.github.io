@@ -18,17 +18,20 @@ Bouteilles (75cl):
 
 - Soirée Blanquette de veau (Boucherie Bidoche) - **17 €**
 - Soirée Blanquette végétarienne **15 €**
-- Olives vertes gros calibre **4 €**
-- Saucisson de l'Aveyron **7,5 €**
-- Brillat-Savarin IGP, huile d'olive, poivre du moulin **10 €**
-- Saint-Nectaire fermier **9 €**
+**La Terre / The Land**
+- Olives vertes gros calibre - Large size green olives **4 €**
+- Houmous de pois chiche - Chickpea hummus **7 €**
+**Fromages / Cheese**
+- Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
+- Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde (Millau) **9 €**
-- Coppa d'Italie **9,5 €**
 - Comté 18 mois **8 €**
-- Terrine de campagne (Aubrac, Aveyron) **9 €**
-- Boeuf séché d'Aubrac (Aveyron) **10 €**
-- Houmous de pois chiche **7 €**
-- Chorizo au piment d'Espagne **8 €**
+**Viande / Meat**
+- Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
+- Coppa d'Italie **9,5 €**
+- Terrine de campagne (Aubrac, Aveyron) - Porc country paté **9 €**
+- Boeuf séché d'Aubrac (Aveyron) - Beef jerky **10 €**
+- Chorizo au piment d'Espagne - Chili chorizo **8 €**
 
 _Des allergies ? Prévenez-nous :) _
    
