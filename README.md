@@ -29,6 +29,7 @@ Bouteilles (75cl):
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde (Millau) **9 €**
 - Comté 18 mois **8 €**
+- Assiette mixte **25 €**
   
 **Viande / Meat**
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
@@ -36,7 +37,7 @@ Bouteilles (75cl):
 - Terrine de campagne (Aubrac, Aveyron) - Porc country paté **9 €**
 - Boeuf séché d'Aubrac (Aveyron) - Beef jerky **10 €**
 - Chorizo au piment d'Espagne - Chili chorizo **8 €**
-
+- Assiette Mixte **25€**
 _Des allergies ? Prévenez-nous :) _
    
 [haut de page](#menu)
