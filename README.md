@@ -22,6 +22,7 @@ Bouteilles (75cl):
 **La Terre / The Land**
 - Olives vertes gros calibre - Large size green olives **4 €**
 - Houmous de pois chiche - Chickpea hummus **7 €**
+- Aubergine à la Thaïlandaise en dips **7 €**
   
 **Fromages / Cheese**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
