@@ -16,9 +16,6 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
-- Soirée Blanquette de veau (Boucherie Bidoche) - **17 €**
-- Soirée Blanquette végétarienne **15 €**
-  
 **La Terre / The Land**
 - Olives vertes gros calibre - Large size green olives **4 €**
 - Houmous de pois chiche - Chickpea hummus **7 €**
