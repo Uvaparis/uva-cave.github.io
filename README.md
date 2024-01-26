@@ -17,7 +17,6 @@ Bouteilles (75cl):
 # Assiettes à partager
 
 **La Terre / The Land**
-- Olives vertes gros calibre - Large size green olives **4 €**
 - Houmous de pois chiche - Chickpea hummus **7 €**
 - Aubergine à la Thaïlandaise en dips **7 €**
   
