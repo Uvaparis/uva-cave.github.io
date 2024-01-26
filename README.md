@@ -17,7 +17,6 @@ Bouteilles (75cl):
 # Assiettes à partager
 
 **La Terre / The Land**
-- Houmous de pois chiche - Chickpea hummus **7 €**
 - Aubergine à la Thaïlandaise en dips **7 €**
   
 **Fromages / Cheese**
