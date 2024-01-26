@@ -172,7 +172,6 @@ Ull de Llebre - Croquant, frais et fruité
 - **R. Guettier** - Pressoir de St Pierre - 2020 - Chenin - 53 €
 - **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de Bourgogne - 30 €
 - **Lise et Bertrand Jousset** - Voilà le muscadet - 2022 - Melon de Bourgogne - 34 €
-- **Lise et Bertrand Jousset** - Vilain p'tit Ch'nin - 2022 - Chenin - 38 €
   
 ### ALLEMAGNE
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 € **Non disponible** 
