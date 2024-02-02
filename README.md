@@ -187,7 +187,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 35 €
 
 ### GRÈCE
-- **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 36€
+- **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 39 €
 
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - 55 €
