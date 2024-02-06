@@ -46,6 +46,8 @@ Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique 
 Citron gingembre, Limonade, Rhubarbe, Pomme, Orange, Menthe
 Thé Chai
 
+**Oma Frida** Pétillant naturel sans alcool à base de raisins (Syrah), verjus et infusion de plantes. Frais, leger et peu sucré **23 €**
+
 **Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **19 €**
 
 ## Bières
@@ -60,7 +62,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- Smack, Nicolas Chemarin, Gamay, frais et croquant **7 €**
+- Grenache d'Olivier Pichon, frais et croquant **7 €**
 - Danis dans la vigné, Life of the party, sur le fruit et fini épicé **7 €**
   
 ### Blancs
@@ -254,8 +256,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Pierre Cotton** - Brouilly les Mines - 2019 - Gamay - 48 €
 - **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 36 €
 - **Nicolas Chemarin** - La Haute Ronze - 2021 - Gamay (AOC Régnié, élevage 20 mois en foudre) - 45 €
-- **Nicolas Chemarin** - Smack - 2022 - Gamay (AOP Beaujolais Villages) - 32 €
-
+  
 ### AUVERGNE
 - **Patrick Bouju** - Môl - 2020 - Merlot, carignan, syrah - 39 €
 
