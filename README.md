@@ -74,6 +74,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Bulles
 - Coince ta bulle, Bordeaux, Merlot, frais et vif, notes de fruits rouges - **8 €**
+- Oma Frida, pétillant naturel sans alcool à base de raisins (Syrah), verjus, tilleul, fleur de surreau et romarin **6 €**
   
 ## Vins en canette 
 
