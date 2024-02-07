@@ -276,7 +276,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **J-P Robinot** - Concerto - 2020 - Pineau d’aunis - 48 € 
 - **J-P Robinot** - Prélude - 2018 - Pineau d’aunis - 91 €
 - **F. Saint Lô** - Hey Gro - 2021 - Grolleau - 49 €
-- **Bois Rond** - Carbaunix - 2022 - Pineau d’Aunis - 36 € - **Non disponible**
+- **Bois Rond** - Carbaunix - 2022 - Pineau d’Aunis - 37 € 
 - **Laurent Lebled** - Hou la la - 2021 - Pinot noir - 37 € - **Non disponible**
 - **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
