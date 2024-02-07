@@ -107,10 +107,6 @@ Ull de Llebre - Croquant, frais et fruité
 - **Thomas Zurbach** - When the seagulls follow the trawler - 2021 - Grolleau gris - 44 €
 - **Thomas Zurback** - Like a bird on the Wire - 2021 - Chenin - 41 €
 
-### RHONE
-- **Martin Texier** Petite Nature 2022 - Muscat petits grains - 43 € **Non disponible**
-
-
 ### ALLEMAGNE
 - **Andi Weigand** - Pet Nat - 2022 - Müller-Thurgau, Bacchus, Scheurebe - 43 €
 - **Piri** - Pet Nat - 2021 - Riesling with quince - 39 € - Non disponible
