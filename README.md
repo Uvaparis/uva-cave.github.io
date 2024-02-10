@@ -62,7 +62,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- Grenache d'Olivier Pichon, frais et croquant **7 €**
+- Bois Rond, Carbaunix, Loire, Pineau d'Aunis, frais, croquant, poivre blanc **7 €**
 - Danis dans la vigné, Life of the party, sur le fruit et fini épicé **7 €**
   
 ### Blancs
