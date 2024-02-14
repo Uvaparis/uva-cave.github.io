@@ -63,7 +63,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges 
 - Pépin Rouge, belle longueur en bouche et une fin épicée **7 €**
-- Danis dans la vigné, Life of the party, sur le fruit et fini épicé **7 €**
   
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
