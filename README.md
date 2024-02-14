@@ -62,7 +62,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- Bois Rond, Carbaunix, Loire, Pineau d'Aunis, frais, croquant, poivre blanc **7 €**
+- Pépin Rouge, belle longueur en bouche et une fin épicée **7 €**
 - Danis dans la vigné, Life of the party, sur le fruit et fini épicé **7 €**
   
 ### Blancs
