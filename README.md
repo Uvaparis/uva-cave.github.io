@@ -62,11 +62,12 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- Pépin Rouge, belle longueur en bouche et une fin épicée **7 €**
+- Pépin Rouge, Alsace, belle longueur en bouche et une fin épicée **7 €**
+- P'tit Vaillant rouge, Loire, des notes florales et épicées (poivre, cannelle) **7 €**
   
 ### Blancs
 - Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
-- Lise et Bertrand Jousset, Voilà le muscadet, porté sur les agrumes l'iode qui file droit **7 €**
+- P'tit Vaillant Blanc, Loire, fruits blancs, frais et tonique **7 €**
 
 ### Orange
 - Eros de François, Alsace, frais et sec, arômes de pamplemousse **8 €**
@@ -105,7 +106,8 @@ Ull de Llebre - Croquant, frais et fruité
 ### LOIRE
 - **Thomas Zurbach** - When the seagulls follow the trawler - 2021 - Grolleau gris - 44 €
 - **Thomas Zurback** - Like a bird on the Wire - 2021 - Chenin - 41 €
-
+- **Les Grandes Vignes** - Bulle Nature - 2022 - Grolleau gris, Chenin, Cabernet Franc, Chardonnay - 37 €
+  
 ### ALLEMAGNE
 - **Andi Weigand** - Pet Nat - 2022 - Müller-Thurgau, Bacchus, Scheurebe - 43 €
 - **Piri** - Pet Nat - 2021 - Riesling with quince - 39 € - Non disponible
@@ -170,6 +172,9 @@ Ull de Llebre - Croquant, frais et fruité
 - **R. Guettier** - Pressoir de St Pierre - 2020 - Chenin - 53 €
 - **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de Bourgogne - 30 €
 - **Lise et Bertrand Jousset** - Voilà le muscadet - 2022 - Melon de Bourgogne - 34 €
+- **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 €
+- **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
+- **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 €
   
 ### ALLEMAGNE
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 € **Non disponible** 
@@ -271,14 +276,16 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2016 - Pineau d’aunis - 133 € (150 cl)
-- **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - 52 € - Non disponible 
+- **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - 52 € - **Non disponible** 
 - **J-P Robinot** - Concerto - 2020 - Pineau d’aunis - 48 € 
 - **J-P Robinot** - Prélude - 2018 - Pineau d’aunis - 91 €
 - **F. Saint Lô** - Hey Gro - 2021 - Grolleau - 49 €
-- **Bois Rond** - Carbaunix - 2022 - Pineau d’Aunis - 37 € 
-- **Laurent Lebled** - Hou la la - 2021 - Pinot noir - 37 € - **Non disponible**
 - **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
+- **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - 30 €
+- **Les Grandes Vignes** - 100% Groslot - 2022/ 2023 - Groslot - 35 €
+- **Les Grandes Vignes** - 100% Pineau d'Aunis - 2022/2023 - Pineau d’aunis - 37 €
+- **Les Grandes Vignes** - 100% Cabernet Breton - 2021/2022 - Cabernet franc - 34 €
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine de l'Epeire** - Tohu Bohu - 2022 -  Grenache noir - 36 € 
