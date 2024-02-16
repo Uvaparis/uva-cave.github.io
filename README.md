@@ -282,7 +282,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **F. Saint Lô** - Hey Gro - 2021 - Grolleau - 49 €
 - **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
-- **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - 30 €
+- **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - 32 €
 - **Les Grandes Vignes** - 100% Groslot - 2022/ 2023 - Groslot - 35 €
 - **Les Grandes Vignes** - 100% Pineau d'Aunis - 2022/2023 - Pineau d’aunis - 37 €
 - **Les Grandes Vignes** - 100% Cabernet Breton - 2021/2022 - Cabernet franc - 34 €
