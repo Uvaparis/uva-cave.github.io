@@ -34,6 +34,7 @@ Bouteilles (75cl):
 - Boeuf séché d'Aubrac (Aveyron) - Beef jerky **10 €**
 - Chorizo au piment d'Espagne - Chili chorizo **8 €**
 - Assiette Mixte **25€**
+  
 _Des allergies ? Prévenez-nous :) _
    
 [haut de page](#menu)
