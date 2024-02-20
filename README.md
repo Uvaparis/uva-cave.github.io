@@ -25,6 +25,7 @@ Bouteilles (75cl):
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde (Millau) **9 €**
 - Comté 18 mois **8 €**
+- Fouchtra de chèvre **9 €**
 - Assiette mixte **25 €**
   
 **Viande / Meat**
