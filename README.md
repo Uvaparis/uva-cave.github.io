@@ -32,8 +32,6 @@ Bouteilles (75cl):
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
 - Coppa d'Italie **9,5 €**
 - Terrine de campagne (Aubrac, Aveyron) - Porc country paté **9 €**
-- Boeuf séché d'Aubrac (Aveyron) - Beef jerky **10 €**
-- Chorizo au piment d'Espagne - Chili chorizo **8 €**
 - Assiette Mixte **25€**
   
 _Des allergies ? Prévenez-nous :) _
