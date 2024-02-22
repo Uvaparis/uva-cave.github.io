@@ -106,9 +106,8 @@ Ull de Llebre - Croquant, frais et fruité
 - **Casa Antolia** - Cade meu carnaval - 2019 - Chardonnay, Ugni blanc, Sauvignon - 42 €
 
 ### LOIRE
-- **Thomas Zurbach** - When the seagulls follow the trawler - 2021 - Grolleau gris - 44 €
-- **Thomas Zurback** - Like a bird on the Wire - 2021 - Chenin - 41 €
 - **Les Grandes Vignes** - Bulle Nature - 2022 - Grolleau gris, Chenin, Cabernet Franc, Chardonnay - 37 €
+- **Domaine Mosse** - Moussamoussette - 2021 - Grolleau gris, Pineau d'aunis - 39 €
   
 ### ALLEMAGNE
 - **Andi Weigand** - Pet Nat - 2022 - Müller-Thurgau, Bacchus, Scheurebe - 43 €
@@ -177,6 +176,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 €
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 €
+- **Domaine Mosse** - La Joute - 2022 - Chenin, Chardonnay - 49 €
   
 ### ALLEMAGNE
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 € **Non disponible** 
@@ -214,6 +214,7 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### LOIRE
 - **Domaine du Haut Planty** - One musk a night - 2021 - Melon de Bourgogne - 35 €
+- **Domaine Mosse** - Overmars - 2022 - Chenin - 48 €
 
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - 84 €
@@ -283,6 +284,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **J-P Robinot** - Prélude - 2018 - Pineau d’aunis - 91 €
 - **F. Saint Lô** - Hey Gro - 2021 - Grolleau - 49 €
 - **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
+- **Domaine Mosse** - Bangarang - 2023 - Pineau d'aunis, Chenin - 34 €
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
 - **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - 32 €
 - **Les Grandes Vignes** - 100% Groslot - 2022/ 2023 - Groslot - 35 €
