@@ -61,7 +61,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- Pépin Rouge, Alsace, belle longueur en bouche et une fin épicée **7 €**
 - P'tit Vaillant rouge, Loire, des notes florales et épicées (poivre, cannelle) **7 €**
   
 ### Blancs
