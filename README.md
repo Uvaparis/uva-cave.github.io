@@ -71,7 +71,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Eros de François, Alsace, frais et sec, arômes de pamplemousse **8 €**
 
 ### Bulles
-- Coince ta bulle, Bordeaux, Merlot, frais et vif, notes de fruits rouges - **8 €**
+- Bulle Nature, Loire, bulle tonique, incisive, pomme, salin - **8,5 €**
 - Oma Frida, pétillant naturel sans alcool à base de raisins (Syrah), verjus, tilleul, fleur de surreau et romarin **6 €**
   
 ## Vins en canette 
