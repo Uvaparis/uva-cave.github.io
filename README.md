@@ -18,12 +18,13 @@ Bouteilles (75cl):
 
 **La Terre / The Land**
 - Olives vertes gros calibre **4 €**
+- Houmous de pois chiche **7 €**
   
 **Fromages / Cheese**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde (Millau) **9 €**
-- Comté 18 mois **8 €**
+- Comté 18 mois, huile de noisette, poivre du moulin **8 €**
 - Fouchtra de chèvre **9 €**
 - Assiette mixte **25 €**
   
@@ -31,6 +32,7 @@ Bouteilles (75cl):
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
 - Coppa d'Italie **9,5 €**
 - Terrine de campagne (Aubrac, Aveyron) - Porc country paté **9 €**
+- Chorizo Ibérique de Gland **8 €**
 - Assiette Mixte **25€**
   
 _Des allergies ? Prévenez-nous :) _
