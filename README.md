@@ -142,7 +142,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Anna, André et Yann Durrmann** - ZEGWUR - 2022 - Gewurztraminer - 44 €
 - **La Grange de l'Oncle Charles** - Mille Lieux 2022 - assemblage de 13 cépages alsaciens - 49 €
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - 34 €
-- **Pépin** - Riesling - 2022 - 37 €
+- **Pépin** - Riesling - 2022 - 37 € - **Non disponible**
 
 ### ARDÈCHE
 - **Jérôme Vigne** - Les Raillères - 2021 - Viognier - 39 €
