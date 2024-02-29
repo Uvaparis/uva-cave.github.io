@@ -70,7 +70,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - P'tit Vaillant Blanc, Loire, fruits blancs, frais et tonique **7 €**
 
 ### Orange
-- Eros de François, Alsace, frais et sec, arômes de pamplemousse **8 €**
+- Eros de Raphael, Alsace, frais et sec, arômes de pamplemousse **8 €**
 
 ### Bulles
 - Bulle Nature, Loire, bulle tonique, incisive, pomme, salin - **8,5 €**
