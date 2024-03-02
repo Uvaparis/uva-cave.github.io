@@ -47,8 +47,6 @@ Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique 
 Citron gingembre, Limonade, Rhubarbe, Pomme, Orange, Menthe
 Thé Chai
 
-**Oma Frida** Pétillant naturel sans alcool à base de raisins (Syrah), verjus et infusion de plantes. Frais, leger et peu sucré **23 €**
-
 **Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **19 €**
 
 ## Bières
@@ -66,7 +64,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - P'tit Vaillant rouge, Loire, des notes florales et épicées (poivre, cannelle) **7 €**
   
 ### Blancs
-- Christophe Bosque, Loire, belle fraîcheur, arômes floraux **7 €**
+- Domaine Jousset, Voila le muscadet, vin blanc sec et frais **7 €**
 - P'tit Vaillant Blanc, Loire, fruits blancs, frais et tonique **7 €**
 
 ### Orange
@@ -74,7 +72,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Bulles
 - Bulle Nature, Loire, bulle tonique, incisive, pomme, salin - **8,5 €**
-- Oma Frida, pétillant naturel sans alcool à base de raisins (Syrah), verjus, tilleul, fleur de surreau et romarin **6 €**
   
 ## Vins en canette 
 
@@ -92,7 +89,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 41 €
 - **Anna, André et Yann Durrmann** - Mu Ska-T - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 39 €
-- **Pépin** - Riesling, Gewurztraminer, Pinot gris,Silvaner - 2022 - 34€
+- **Pépin** - Riesling, Gewurztraminer, Pinot gris, Silvaner - 2022 - 34€
 
 ### AUVERGNE
 - **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 44 €
@@ -168,7 +165,6 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 55 € - **Non disponible**
-- **R. Guettier** - Pressoir de St Pierre - 2020 - Chenin - 53 €
 - **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de Bourgogne - 30 €
 - **Lise et Bertrand Jousset** - Voilà le muscadet - 2022 - Melon de Bourgogne - 34 €
 - **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 €
@@ -202,7 +198,7 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### ALSACE
 - **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewurztraminer, Riesling, Pinot Gris - 61 € 
-- **Eros de François** - Les vins Pirouettes - 2022 - Gewurztraminer, Auxerrois - 33 € 
+- **Eros de Raphael** - Les vins Pirouettes - 2023 - Gewurztraminer, Auxerrois - 33 € 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
 - **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 € - **Non disponible**
 - **Pépin** - Gewurztraminer, Pinot gris - 2022 - 38 €
@@ -250,7 +246,6 @@ Ull de Llebre - Croquant, frais et fruité
 ## Rouges 75cl
 
 ### ALSACE 
-- **Les Vins Pirouettes** - Pinot noir 2020 - 42 €
 - **Pépin** - Pinot noir - 43 €
 - **Pépin** - Syrah, Grenache, Carignan, Cinsault - 33 €
   
@@ -267,7 +262,6 @@ Ull de Llebre - Croquant, frais et fruité
 - **Julien Petitjean** - Hautes Côtes de Beaune Gymnopodie - 2020 - Pinot noir - 60 € **Non disponible**
 
 ### LANGUEDOC
-- **Olivier Pichon** - Le Marmot - 2022 - Cinsaut, Grenache, Carignan - 34 €
 - **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 € 
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
 - **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 37€ **Non disponible**
