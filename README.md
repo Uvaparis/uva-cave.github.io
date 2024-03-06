@@ -99,7 +99,8 @@ Ull de Llebre - Croquant, frais et fruité
 - **Château Fredignac** - Coince ta bulle - 2022 -  Merlot - 36 €
 
 ### JURA
-- **Casa Antolia** - Cade meu carnaval - 2019 - Chardonnay, Ugni blanc, Sauvignon - 42 €
+- **Casa Antolia** - Cade meu carnaval - 2019 - Chardonnay, Ugni blanc, Sauvignon - 48 €
+- **Christelle & Yves Roy** - Novice - Chardonnay - 50 € 
 
 ### LOIRE
 - **Les Grandes Vignes** - Bulle Nature - 2022 - Grolleau gris, Chenin, Cabernet Franc, Chardonnay - 37 €
