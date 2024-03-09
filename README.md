@@ -44,7 +44,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Soft
 **Les filles de l’ouest** 33cl **5,5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Citron gingembre, Limonade, Rhubarbe, Pomme, Orange, Menthe
+Citron gingembre, Limonade, Pomme, Orange, Menthe
 Thé Chai
 
 **Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **19 €**
