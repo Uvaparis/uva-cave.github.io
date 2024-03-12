@@ -47,6 +47,8 @@ Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique 
 Citron gingembre, Limonade, Pomme, Orange, Menthe
 Thé Chai
 
+**Oma Frida** Pétillant naturel sans alcool à base de jus de raisin (Syrah), verjus, infusions de plantes **23 €**
+
 **Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **19 €**
 
 ## Bières
@@ -73,6 +75,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Bulles
 - Bulle Nature, Loire, bulle tonique, incisive, pomme, salin - **8,5 €**
+- Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6 €**
   
 ## Vins en canette 
 
