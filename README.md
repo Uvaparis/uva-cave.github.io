@@ -221,7 +221,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - 108 €
 
 ### JURA
-- **Alice Bouvot** - Mus’cat - 2021 - Muscat - 51 €
+- **Alice Bouvot** - Mus’cat - 2021 - Muscat - 59 €
 - **Jérôme Arnoux** - Paradoxe - 2020 - Savagnin macéré - 52 €
 
 ### ESPAGNE
