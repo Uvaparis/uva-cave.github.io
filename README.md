@@ -2,7 +2,7 @@
 **COMMANDE AU BAR. MERCI :)**
 
 Food : 
-- [Assiettes à partager](#assiettes-a-partager)
+- [Menu de Jeff Schilde](#assiettes-a-partager)
 
 Verres :
 - [Vins au verre](#vins-au-verre)
@@ -14,26 +14,16 @@ Bouteilles (75cl):
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
 
-# Assiettes à partager
+# Menu de Jeff Schilde
 
-**La Terre / The Land**
-- Olives vertes gros calibre **4 €**
-- Houmous de pois chiche **7 €**
-  
-**Fromages / Cheese**
+- Bun, crème tofu fumé, sésame, radis daikon caramélisé au soja, condiment mandarine, coriandre mexicaine **13 €**
+- Coques au tamari, cacahuètes, coppa **16 €**
+- Tartare d'agneau, poutargue, condiment datte ail noir **15 €**
+- Crème infusée au thé rooibos, cédrat, moelleux amande et nougatine **7 €**
+
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
-- Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
-- Tomme de brebis caussenarde (Millau) **9 €**
 - Comté 18 mois, huile de noisette, poivre du moulin **8 €**
-- Fouchtra de chèvre **9 €**
-- Assiette mixte **25 €**
-  
-**Viande / Meat**
-- Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
-- Coppa d'Italie **9,5 €**
 - Terrine de campagne (Aubrac, Aveyron) - Porc country paté **9 €**
-- Chorizo Ibérique de Gland **8 €**
-- Assiette Mixte **25€**
   
 _Des allergies ? Prévenez-nous :) _
    
