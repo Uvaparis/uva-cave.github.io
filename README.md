@@ -25,6 +25,7 @@ Bouteilles (75cl):
 - Olives vertes gros calibre **4 €*
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Comté 18 mois, huile de noisette, poivre du moulin **8 €**
+- Tomme de brebis caussenarde (Millau) **9 €**
 - Terrine de campagne (Aubrac, Aveyron) - Porc country paté **9 €**
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
   
