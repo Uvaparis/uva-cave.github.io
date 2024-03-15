@@ -21,6 +21,7 @@ Bouteilles (75cl):
 - Tartare d'agneau, poutargue, condiment datte ail noir **15 €**
 - Crème infusée au thé rooibos, cédrat, moelleux amande et nougatine **7 €**
 
+**Fromages et charcuteries**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Comté 18 mois, huile de noisette, poivre du moulin **8 €**
 - Terrine de campagne (Aubrac, Aveyron) - Porc country paté **9 €**
