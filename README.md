@@ -26,7 +26,7 @@ Bouteilles (75cl):
 - Tomme de brebis caussenarde (Millau) **9 €**
 - Comté 18 mois, huile de noisette, poivre du moulin **8 €**
 - Fouchtra de chèvre **9 €**
-- Bun, brillat savarin, condiment datte ail noir **10 €**
+- Bun au levain, brillat savarin, condiment datte ail noir **10 €**
 - Assiette mixte **25 €**
   
 **Viande / Meat**
