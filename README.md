@@ -35,6 +35,7 @@ Bouteilles (75cl):
 - Chorizo Ibérique de Gland **8 €**
 - Assiette Mixte **25€**
 
+**Dessert**
 - Crème infusée au thé rooibos, cédrat, moelleux amande, nougatine **6 €**
   
 _Des allergies ? Prévenez-nous :) _
