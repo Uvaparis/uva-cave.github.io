@@ -34,6 +34,8 @@ Bouteilles (75cl):
 - Coppa d'Italie **9,5 €**
 - Chorizo Ibérique de Gland **8 €**
 - Assiette Mixte **25€**
+
+- Crème infusée au thé rooibos, cédrat, moelleux amande **6 €**
   
 _Des allergies ? Prévenez-nous :) _
    
