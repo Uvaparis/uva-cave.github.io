@@ -36,7 +36,7 @@ Bouteilles (75cl):
 - Assiette Mixte **25€**
 
 **Dessert**
-- Crème infusée au thé rooibos, cédrat, moelleux amande, nougatine **6 €**
+- Crème infusée au thé rooibos, cédrat, moelleux amande **6 €**
   
 _Des allergies ? Prévenez-nous :) _
    
@@ -173,10 +173,10 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 55 € - **Non disponible**
-- **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de Bourgogne - 30 €
-- **Lise et Bertrand Jousset** - Voilà le muscadet - 2022 - Melon de Bourgogne - 34 €
+- **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de Bourgogne - 30 € **Non disponible**
+- **Lise et Bertrand Jousset** - Voilà le muscadet - 2022 - Melon de Bourgogne - 34 € 
 - **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 €
-- **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 €
+- **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 € **Non disponible**
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 €
 - **Domaine Mosse** - La Joute - 2022 - Chenin, Chardonnay - 49 €
