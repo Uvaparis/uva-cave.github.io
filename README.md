@@ -33,7 +33,8 @@ Bouteilles (75cl):
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
 - Coppa d'Italie **9,5 €**
 - Chorizo Ibérique de Gland **8 €**
-- Assiette Mixte **25€**
+- Boeuf séché **10 €**
+- Assiette Mixte **25 €**
 
 **Dessert**
 - Crème infusée au thé rooibos, cédrat, moelleux amande **6 €**
@@ -60,7 +61,13 @@ Thé Chai
 Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue 
 et de fruits tropicaux
 
-**Cantillon** Kriek 100% Lambic Bio - 75cl **40€**
+**Organic pilsner 45 days To ol** 33cl **6,50 €**
+Bière Blonde aux saveurs de cereales et de houblon, amertume modérée 
+
+**Implosion To ol** 33cl **5,50 €**
+Bière sans alcool aux arômes floraux et fruités 
+
+**Cantillon** Kriek 100% Lambic Bio - 75cl **40 €**
 Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ## Vins au verre
