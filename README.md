@@ -74,8 +74,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Cabernet Breton, Loire, leger aux aromes de fruits mûrs **7 €**
   
 ### Blancs
-- Domaine Jousset, Voila le muscadet, vin blanc sec et frais **7 €**
-- P'tit Vaillant Blanc, Loire, fruits blancs, frais et tonique **7 €**
+- Pulpe, Alsace, frais sec avec une belle aromatique **7 €**
 
 ### Orange
 - Eros de Raphael, Alsace, frais et sec, arômes de pamplemousse **8 €**
