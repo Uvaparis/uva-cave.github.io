@@ -70,7 +70,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- P'tit Vaillant rouge, Loire, des notes florales et épicées (poivre, cannelle) **7 €**
 - Cabernet Breton, Loire, leger aux aromes de fruits mûrs **7 €**
   
 ### Blancs
