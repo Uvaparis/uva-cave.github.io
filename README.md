@@ -25,7 +25,6 @@ Bouteilles (75cl):
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde (Millau) **9 €**
 - Comté 18 mois, huile de noisette, poivre du moulin **8 €**
-- Fouchtra de chèvre **9 €**
 - Assiette mixte **25 €**
   
 **Viande / Meat**
@@ -70,16 +69,18 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- Cabernet Breton, Loire, leger aux aromes de fruits mûrs **7 €**
+- Le p'tit Vaillant, Loire, leger aux aromes de fruits mûrs **7 €**
+- Groslot, Loire, fruité, frais et croquant **7,50 €**
   
 ### Blancs
 - Pulpe, Alsace, frais sec avec une belle aromatique **7 €**
+- Le p'tit Vaillant, Loire, frais sec et tendu **7 €**
 
 ### Orange
-- Eros de Raphael, Alsace, frais et sec, arômes de pamplemousse **8 €**
+- Pépin, Alsace, attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
 
 ### Bulles
-- Bulle Nature, Loire, bulle tonique, incisive, pomme, salin - **8,5 €**
+- Bulle Nature, Loire, bulle tonique, incisive, pomme, salin **8,5 €**
 - Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6 €**
   
 ## Vins en canette 
