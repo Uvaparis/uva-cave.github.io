@@ -296,7 +296,10 @@ Ull de Llebre - Croquant, frais et fruité
 - **Les Grandes Vignes** - 100% Cabernet Breton - 2021/2022 - Cabernet franc - 34 €
   
 ### PYRÉNÉES-ORIENTALES
-- **Domaine de l'Epeire** - Tohu Bohu - 2022 -  Grenache noir - 36 € 
+- **Domaine de l'Epeire** - Tohu Bohu - 2022 -  Grenache noir - 36 € **Non disponible**
+- **Domaine Reveille** - Nouveaux Sauvages - 2023 - Grenache, Carignan - 34 €
+- **Domaine Reveille** - Pointe Rouge - 2021 - Carignan, Grenache - 38 €
+- **Domaine Reveille** - Franc Tireur - 2018 - Carignan - 48 €
 
 ### RHÔNE
 - **Justine Vigne** - Self Love - 2021 - Syrah - 50 €
@@ -311,8 +314,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **JY Peron** - Champ levat - 2020 - Mondeuse - 66 €
 
 ### SUD OUEST
-- **Vignoble Réveille** - Tous des oiseaux - 2020 - Carignan - 37 €
-- **Danis dans la vigne** - Life of the party - 2020 - Malbec, Cabernet Sauvignon, Segala - 32 €
+- **Danis dans la vigne** - Life of the party - 2020 - Malbec, Cabernet Sauvignon, Segala - 32 € **Non Disponible**
 
 [haut de page](#menu)
 
