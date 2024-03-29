@@ -86,7 +86,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins en canette 
 
 **Drink Canetta Rouge** 18,7 cl **7,5 €**
-Ull de Llebre - Croquant, frais et fruité
+Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 
 
 [haut de page](#menu)
@@ -217,6 +217,7 @@ Ull de Llebre - Croquant, frais et fruité
 
 ### LANGUEDOC ROUSILLON
 - **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€ - **Non disponible**
+- **Terrain Vague** - Molotov - 2022 - Muscat, Syrah - 52 € 
 
 ### LOIRE
 - **Domaine du Haut Planty** - One musk a night - 2021 - Melon de Bourgogne - 35 €
@@ -267,7 +268,7 @@ Ull de Llebre - Croquant, frais et fruité
 - **Nicolas Chemarin** - La Haute Ronze - 2021 - Gamay (AOC Régnié, élevage 20 mois en foudre) - 45 €
   
 ### AUVERGNE
-- **Patrick Bouju** - Môl - 2020 - Merlot, carignan, syrah - 39 €
+- **Patrick Bouju** - Môl - 2020 - Merlot, carignan, syrah - 39 € **Non Disponible**
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - 95 €
