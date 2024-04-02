@@ -25,7 +25,7 @@ Bouteilles (75cl):
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde (Millau) **9 €**
 - Comté 18 mois, huile de noisette, poivre du moulin **8 €**
-- Burrata de Campanie (Italie), huile d'olive, zaatar **10 €**
+- Burrata de Campanie (Italie), huile d'olive, Zaatar **10 €**
 - Assiette mixte **25 €**
   
 **Viande / Meat**
