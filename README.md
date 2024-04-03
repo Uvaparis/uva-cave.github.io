@@ -184,6 +184,9 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 €
 - **Domaine Mosse** - La Joute - 2022 - Chenin, Chardonnay - 49 €
+
+### SAVOIE
+-  **France Gonzalvez** - Jour Blanc - 2022 - Jacquère - 44 €
   
 ### ALLEMAGNE
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 € **Non disponible** 
@@ -225,6 +228,7 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 - **Domaine Mosse** - Overmars - 2022 - Chenin - 48 €
 
 ### SAVOIE
+- **France Gonzalvez** - Point de chute - 2022 - Jacquère - 48 €
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - 84 €
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - 108 €
 
@@ -299,7 +303,7 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine de l'Epeire** - Tohu Bohu - 2022 -  Grenache noir - 36 € **Non disponible**
-- **Domaine Reveille** - Nouveaux Sauvages - 2023 - Grenache, Carignan - 34 €
+- **Domaine Reveille** - Nouveaux Sauvages - 2022 - Grenache, Carignan - 34 €
 - **Domaine Reveille** - Pointe Rouge - 2021 - Carignan, Grenache - 38 €
 - **Domaine Reveille** - Franc Tireur - 2018 - Carignan - 48 €
 
@@ -313,6 +317,8 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 - **Domaine de Prapin** - Amphore Gamay - 2019 - Gamay en amphore - 49 €
 
 ### SAVOIE
+- **France Gonzalvez** - Toni P - 2022 - Pinot Noir - 48 €
+- **France Gonzalvez** - Miss Mond' - 2022 - Mondeuse - 55 €
 - **JY Peron** - Champ levat - 2020 - Mondeuse - 66 €
 
 ### SUD OUEST
