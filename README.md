@@ -317,6 +317,7 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 - **Domaine de Prapin** - Amphore Gamay - 2019 - Gamay en amphore - 49 €
 
 ### SAVOIE
+- **France Gonzalvez** - Alpine - 2022 - Gamay - 44 €
 - **France Gonzalvez** - Toni P - 2022 - Pinot Noir - 48 €
 - **France Gonzalvez** - Miss Mond' - 2022 - Mondeuse - 55 €
 - **JY Peron** - Champ levat - 2020 - Mondeuse - 66 €
