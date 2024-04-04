@@ -240,6 +240,7 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 - **Clos Lentiscus** - Night Potion Skin Contact - 2021 - Xarello - 51 €
 - **Celler 9+** - 3r - 2022 - Vermell Cartoixà - 39 €
 - **Celler 9+** - 6è - 2022 - Muscat - 40 €
+- **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - 44€
 
 ### ITALIE
 - **La Stoppa** - Ageno - 2018 - Malvasia Ortrugo Trebbiano - 78 €
