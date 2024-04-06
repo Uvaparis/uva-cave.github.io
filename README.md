@@ -181,7 +181,6 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 55 € - **Non disponible**
 - **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de Bourgogne - 30 € **Non disponible**
-- **Lise et Bertrand Jousset** - Voilà le muscadet - 2022 - Melon de Bourgogne - 34 € 
 - **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 €
 - **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 € **Non disponible**
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
