@@ -83,7 +83,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### Bulles
 - Bulle Nature, Loire, bulle tonique, incisive, pomme, salin **8,5 €**
 - Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6 €**
-  
+
+### Cocktail
+- Vermouth Cocktail - Vermouth - PetNat - Zeste d'orange **7,50 €**
+
 ## Vins en canette 
 
 **Drink Canetta Rouge** 18,7 cl **7,5 €**
