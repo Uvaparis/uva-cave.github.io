@@ -34,7 +34,7 @@ Bouteilles (75cl):
 - Coppa d'Italie **9,5 €**
 - Chorizo Ibérique de Gland **8 €**
 - Boeuf séché - Dried beef **10 €**
-- Terrine de campagne - **9 €**
+- Terrine de campagne **9 €**
 - Assiette Mixte **25 €**
 
   
@@ -110,9 +110,6 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 ### AUVERGNE
 - **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 44 €
 
-### BORDEAUX
-- **Château Fredignac** - Coince ta bulle - 2022 -  Merlot - 36 €
-
 ### JURA
 - **Casa Antolia** - Cade meu carnaval - 2019 - Chardonnay, Ugni blanc, Sauvignon - 48 €
 - **Christelle & Yves Roy** - Novice - Chardonnay - 50 € 
@@ -123,7 +120,6 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
   
 ### ALLEMAGNE
 - **Andi Weigand** - Pet Nat - 2022 - Müller-Thurgau, Bacchus, Scheurebe - 43 €
-- **Piri** - Pet Nat - 2021 - Riesling with quince - 39 € - Non disponible
 
 ### ESPAGNE
 - **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - 38 €
@@ -133,10 +129,7 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 - **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - 55€
 
 ### ITALIE
-- **Porta del vento** - Voria - Orange - 2019 - Catarratto, Grillo - 37 € - **Non disponible**
-
-## Cidre 75cl
-- **Cidrerie du Vulcain - Suisse** - À propos d’elle 2021 - 45 €
+- **Porta del vento** - Voria - Orange - 2019 - Catarratto, Grillo - 37 €
 
 ## Champagne 75cl
 - **Françoise Martinot** - Bistrotage Brut - 2017 - Pinot Noir - 89 €
@@ -182,8 +175,7 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 55 € - **Non disponible**
-- **Christophe Bosque** - 0.72+ blanc - 2019 - Melon de Bourgogne - 30 € **Non disponible**
-- **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 €
+- **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 € **Non disponible**
 - **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 € **Non disponible**
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 €
@@ -194,16 +186,16 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
   
 ### ALLEMAGNE
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 € **Non disponible** 
-- **Brand Bros** - 2021 - Muller Thurgau - 41 €
+- **Brand Bros** - 2021 - Muller Thurgau - 41 € **Non disponible**
 - **Naked Friday** - 2021 - Weiss - Müller Thurgau, Schheurebe, Kerner, Riesling - 39 € 
-- **Brand Bros** - 2021 - Pinot blanc - 40€
+- **Brand Bros** - 2021 - Pinot blanc - 40€ **Non disponible**
 - **Andi Weigand** - White cuvee - 2022 - Silvaner, Müller Thurgau, Riesling, Schheurebe, Bacchus - 38 €
 - **Brand Bros** - Wilder Satz - 2022 - Chardonnay, Müller Thurgau, Silvaner - 38 €
-- **Marto** - Weiss - 2021 - Bacchus, Faber, Müller Thurgau, Riesling - 40 €
+- **Marto** - Weiss - 2021 - Bacchus, Faber, Müller Thurgau, Riesling - 40 € **Non disponible**
 
 ### ESPAGNE
 - **Clos Lentiscus** - Perill Blanc - 2018 - Xarello - 47 €
-- **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 35 €
+- **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 35 € **Non disponible**
 
 ### GRÈCE
 - **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 38 €
