@@ -26,13 +26,14 @@ Bouteilles (75cl):
 - Tomme de brebis caussenarde (Millau) **9 €**
 - Comté 18 mois, huile de noisette, poivre du moulin **8 €**
 - Burrata de Campanie (Italie), huile d'olive, Zaatar **10 €**
+- Fouchtra de chèvre, fromage pasteurisé - Goat's Fouchtra, pasteurized cheese **9 €**
 - Assiette mixte **25 €**
   
 **Viande / Meat**
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
 - Coppa d'Italie **9,5 €**
 - Chorizo Ibérique de Gland **8 €**
-- Boeuf séché **10 €**
+- Boeuf séché - Dried beef **10 €**
 - Assiette Mixte **25 €**
 
   
@@ -253,6 +254,9 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 
 ## Rosés 75cl
 
+### ALSACE
+- **Domaine Pépin** - Pink - Pinot Gris, Pinot Blanc - 35 €
+
 ### LANGUEDOC
 - **Domaine de Cassagnas** - Fruit Vermeil 2022 - Aubun, Grenache - 36 €
 
@@ -271,7 +275,6 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 - **Pépin** - Syrah, Grenache, Carignan, Cinsault - 33 €
   
 ### BEAUJOLAIS
-- **Pierre Cotton** - Brouilly les Mines - 2019 - Gamay - 48 €
 - **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 36 €
 - **Nicolas Chemarin** - La Haute Ronze - 2021 - Gamay (AOC Régnié, élevage 20 mois en foudre) - 45 €
   
