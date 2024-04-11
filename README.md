@@ -24,7 +24,7 @@ Bouteilles (75cl):
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde (Millau) **9 €**
-- Comté 18 mois, huile de noisette, poivre du moulin **8 €**
+- Comté 18 mois, huile de noix, poivre du moulin **8 €**
 - Burrata de Campanie (Italie), huile d'olive, Zaatar **10 €**
 - Fouchtra de chèvre, fromage pasteurisé - Goat's Fouchtra, pasteurized cheese **9 €**
 - Assiette mixte **25 €**
@@ -34,6 +34,7 @@ Bouteilles (75cl):
 - Coppa d'Italie **9,5 €**
 - Chorizo Ibérique de Gland **8 €**
 - Boeuf séché - Dried beef **10 €**
+- Terrine de campagne - **9 €**
 - Assiette Mixte **25 €**
 
   
