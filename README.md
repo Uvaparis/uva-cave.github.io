@@ -50,6 +50,9 @@ Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique 
 Citron gingembre, Limonade, Pomme, Orange, Menthe
 Thé Chai
 
+**Drink Douze** **6 €** Boisson finement pétillante 
+Abricot et Zaatar, Poire et Anis
+
 **Oma Frida** Pétillant naturel sans alcool à base de jus de raisin (Syrah), verjus, infusions de plantes **23 €**
 
 **Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **19 €**
