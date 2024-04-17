@@ -312,7 +312,6 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 - **Justine Vigne** - Yoga - 2021 - Syrah - 59 €
 - **Petit Oratoire** - Les Lauzes Blanches - 2020 - Grenache, carignan - 41 €
 - **Andréa Calek** - A toi nous - 2022 - Grenache, syrah - 32 € - Non disponible 
-- **Domaine de Prapin** - Gam'Nature - 2020 - Gamay - 34 €
 - **Domaine de Prapin** - Amphore Gamay - 2019 - Gamay en amphore - 49 €
 
 ### SAVOIE
