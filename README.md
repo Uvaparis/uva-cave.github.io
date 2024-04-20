@@ -225,6 +225,7 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 ### LOIRE
 - **Domaine du Haut Planty** - One musk a night - 2021 - Melon de Bourgogne - 35 €
 - **Domaine Mosse** - Overmars - 2022 - Chenin - 48 €
+- **Lauré et Fabrice Chaillou** - Grinadine - 2022 - Grolleau Gris - 35 €
 
 ### SAVOIE
 - **France Gonzalvez** - Point de chute - 2022 - Jacquère - 48 €
@@ -271,8 +272,9 @@ Ull de Llebre - Croquant, frais et fruité **Non Disponible**
 - **Pépin** - Syrah, Grenache, Carignan, Cinsault - 33 €
   
 ### BEAUJOLAIS
-- **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 36 €
+- **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 36 € **Non disponible**
 - **Nicolas Chemarin** - La Haute Ronze - 2021 - Gamay (AOC Régnié, élevage 20 mois en foudre) - 45 €
+- **L'Épicurieux** - Whole lotta Love - 2020 - Gamay (AOP Brouilly) - 43 €
   
 ### AUVERGNE
 - **Patrick Bouju** - Môl - 2020 - Merlot, carignan, syrah - 39 € **Non Disponible**
