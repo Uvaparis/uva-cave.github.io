@@ -306,7 +306,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
 - **Justine Vigne** - Yoga - 2021 - Syrah - 59 €
 - **Petit Oratoire** - Les Lauzes Blanches - 2020 - Grenache, carignan - 41 €
-- **Andréa Calek** - A toi nous - 2022 - Grenache, syrah - 32 € - Non disponible 
+- **Andréa Calek** - A toi nous - 2022 - Grenache, syrah - 32 € - **Non disponible**
 - **Domaine de Prapin** - Amphore Gamay - 2019 - Gamay en amphore - 49 €
 
 ### SAVOIE
