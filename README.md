@@ -63,7 +63,7 @@ Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue
 et de fruits tropicaux
 
 **Organic pilsner 45 days To ol** 33cl **6,50 €**
-Bière Blonde aux saveurs de cereales et de houblon, amertume modérée 
+Bière Blonde aux saveurs de cereales et de houblon, amertume modérée **Non disponible**
 
 **Implosion To ol** 33cl **5,50 €**
 Bière sans alcool aux arômes floraux et fruités 
@@ -262,7 +262,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### BEAUJOLAIS
 - **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 36 € **Non disponible**
-- **Nicolas Chemarin** - La Haute Ronze - 2021 - Gamay (AOC Régnié, élevage 20 mois en foudre) - 45 €
+- **Nicolas Chemarin** - La Haute Ronze - 2021 - Gamay (AOC Régnié, élevage 20 mois en foudre) - 45 € **Non disponible**
 - **L'Épicurieux** - Whole lotta Love - 2020 - Gamay (AOP Brouilly) - 43 €
   
 ### AUVERGNE
@@ -276,18 +276,19 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 € 
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
 - **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 37€ **Non disponible**
-- **Olivier Pichon** - Grenache des Grès - 2021 - Grenache Noir - 30 €
-- **La Cave Apicole** - Gorgorlou - 2022 - Carignan Noir - 44 €
+- **Olivier Pichon** - Grenache des Grès - 2021 - Grenache Noir - 30 € **Non disponible**
+- **La Cave Apicole** - Gorgorlou - 2022 - Carignan Noir - 44 € **Non disponible**
 - **Domaine de Cassagnas** - Hunga - 2022 - Aubun, Grenache - 34 €
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2016 - Pineau d’aunis - 133 € (150 cl)
-- **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - 52 € - **Non disponible** 
+- **R. Guettier** - Enchanteresse - 2019 - Pineau d’aunis - 59 €
+- **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - 52 €
 - **J-P Robinot** - Concerto - 2020 - Pineau d’aunis - 48 € 
 - **J-P Robinot** - Prélude - 2018 - Pineau d’aunis - 91 €
 - **F. Saint Lô** - Hey Gro - 2021 - Grolleau - 49 €
 - **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
-- **Domaine Mosse** - Bangarang - 2023 - Pineau d'aunis, Chenin - 34 €
+- **Domaine Mosse** - Bangarang - 2023 - Pineau d'aunis, Chenin - 34 € **Non disponible**
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
 - **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - 32 €
 - **Les Grandes Vignes** - 100% Groslot - 2022/ 2023 - Groslot - 35 €
