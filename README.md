@@ -157,6 +157,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
+- **Ratapoil** - Ratapoil blanc - 2023 - Chardonnay, Savagnin - 59 €
+- **Ratapoil** - Avis de tempete 13 - 2021 - Chenin - 50 €
 
 ### LANGUEDOC ROUSSILLON 
 - **La Cave Apicole** - Zumo - 2022 - Maccabeu, Grenache Gris - 40€
