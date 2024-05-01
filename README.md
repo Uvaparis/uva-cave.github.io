@@ -74,7 +74,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- Le p'tit Vaillant, Loire, leger aux aromes de fruits mûrs **7 €**
+- Nouveaux Sauvages, domaine Reveille, Grenache Carignan,fruité et épicé **7 €**
 - Groslot, Loire, fruité, frais et croquant **7,50 €**
   
 ### Blancs
