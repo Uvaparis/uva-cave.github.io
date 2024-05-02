@@ -170,8 +170,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 55 € - **Non disponible**
-- **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 € **Non disponible**
-- **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 € **Non disponible**
+- **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 € 
+- **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 € 
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 €
 - **Domaine Mosse** - La Joute - 2022 - Chenin, Chardonnay - 49 €
@@ -205,7 +205,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### ALSACE
 - **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewurztraminer, Riesling, Pinot Gris - 61 € 
-- **Eros de Raphael** - Les vins Pirouettes - 2023 - Gewurztraminer, Auxerrois - 33 € 
+- **Eros de Raphael** - Les vins Pirouettes - 2023 - Gewurztraminer, Auxerrois - 33 € **Non Disponible**
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
 - **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 € - **Non disponible**
 - **Pépin** - Gewurztraminer, Pinot gris - 2022 - 38 €
@@ -229,10 +229,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Jérôme Arnoux** - Paradoxe - 2020 - Savagnin macéré - 52 €
 
 ### ESPAGNE
-- **Clos Lentiscus** - Night Potion Skin Contact - 2021 - Xarello - 51 €
+- **Clos Lentiscus** - Night Potion Skin Contact - 2021 - Xarello - 51 € **Non disponible**
 - **Celler 9+** - 3r - 2022 - Vermell Cartoixà - 39 €
 - **Celler 9+** - 6è - 2022 - Muscat - 40 €
-- **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - 44€
+- **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - 44€ **Non disponible**
 
 ### ITALIE
 - **La Stoppa** - Ageno - 2018 - Malvasia Ortrugo Trebbiano - 78 €
@@ -277,10 +277,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - 95 €
-- **Julien Petitjean** - Hautes Côtes de Beaune Gymnopodie - 2020 - Pinot noir - 60 € **Non disponible**
+- **Julien Petitjean** - Hautes Côtes de Beaune Gymnopodie - 2020 - Pinot noir - 60 € 
 
 ### LANGUEDOC
-- **Alain Castex** - La fleur au fusil - 2021 - Mourvèdre, carignan, grenache - 60 € 
+- **Alain Castex** - Poudre d'escampette - 2021 - Carignan, Mouvèdre, Grenache - 60 € 
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
 - **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 37€ **Non disponible**
 - **Olivier Pichon** - Grenache des Grès - 2021 - Grenache Noir - 30 € **Non disponible**
@@ -300,7 +300,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - 32 €
 - **Les Grandes Vignes** - 100% Groslot - 2022/ 2023 - Groslot - 35 €
 - **Les Grandes Vignes** - 100% Pineau d'Aunis - 2022/2023 - Pineau d’aunis - 37 €
-- **Les Grandes Vignes** - 100% Cabernet Breton - 2021/2022 - Cabernet franc - 34 €
+- **Les Grandes Vignes** - 100% Cabernet Breton - 2021/2022 - Cabernet franc - 34 € **Non disponible**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine de l'Epeire** - Tohu Bohu - 2022 -  Grenache noir - 36 € **Non disponible**
@@ -312,7 +312,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Justine Vigne** - Self Love - 2021 - Syrah - 50 €
 - **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
 - **Justine Vigne** - Yoga - 2021 - Syrah - 59 €
-- **Petit Oratoire** - Les Lauzes Blanches - 2020 - Grenache, carignan - 41 €
+- **Petit Oratoire** - Les Lauzes Blanches - 2020 - Grenache, carignan - 41 € **Non disponible**
 - **Andréa Calek** - A toi nous - 2022 - Grenache, syrah - 32 € - **Non disponible**
 - **Domaine de Prapin** - Amphore Gamay - 2019 - Gamay en amphore - 49 €
 
