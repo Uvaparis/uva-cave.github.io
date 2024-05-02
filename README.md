@@ -79,6 +79,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### Blancs
 - Pulpe, Alsace, frais sec avec une belle aromatique **7 €**
+- P'tit Vaillant, Loire, Blanc de Noir, Groslot, Cabernet, vif et tonique **7 €**
 
 ### Orange
 - Pépin, Alsace, attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
