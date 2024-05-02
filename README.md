@@ -271,6 +271,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### AUVERGNE
 - **Patrick Bouju** - Môl - 2020 - Merlot, carignan, syrah - 39 € **Non Disponible**
 
+### JURA
+- **Ratapoil** - Ratapoil Rouge - 2023 - Gamay, Poulsard, Trousseau - 59 €
+- **Ratapoil** - L'ingénu - 2022 - Pinot Noir - 59 €
+
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - 95 €
 - **Julien Petitjean** - Hautes Côtes de Beaune Gymnopodie - 2020 - Pinot noir - 60 € **Non disponible**
