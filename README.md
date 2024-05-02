@@ -227,6 +227,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### JURA
 - **Alice Bouvot** - Mus’cat - 2021 - Muscat - 59 €
 - **Jérôme Arnoux** - Paradoxe - 2020 - Savagnin macéré - 52 €
+- **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération de 380 jours - 54€
 
 ### ESPAGNE
 - **Clos Lentiscus** - Night Potion Skin Contact - 2021 - Xarello - 51 € **Non disponible**
@@ -274,6 +275,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### JURA
 - **Ratapoil** - Ratapoil Rouge - 2023 - Gamay, Poulsard, Trousseau - 59 €
 - **Ratapoil** - L'ingénu - 2022 - Pinot Noir - 59 €
+- **Christelle et Gilles Wicky** - Trois cépages - 2021 - Poulsard, Trousseau, Gamay - 54 €
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - 95 €
