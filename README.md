@@ -93,6 +93,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 [haut de page](#menu)
 
+## Cidres
+### ARDECHE
+- Association Les Petits Projets - Cidre Brut - Frais et croquant **28 €**
+
 ## Bulles 75cl
 ### ALSACE
 - **Geschickt** - Crémant Brut Nature - 2017 - Assemblage de Pinots - 45 €
