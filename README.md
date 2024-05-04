@@ -117,6 +117,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### LOIRE
 - **Les Grandes Vignes** - Bulle Nature - 2022 - Grolleau gris, Chenin, Cabernet Franc, Chardonnay - 37 €
 - **Domaine Mosse** - Moussamoussette - 2021 - Grolleau gris, Pineau d'aunis - 39 €
+- **Thomas Zurbach** - Like a bird on the wire - 2021 - Chenin - 40 €
   
 ### ALLEMAGNE
 - **Andi Weigand** - Pet Nat - 2022 - Müller-Thurgau, Bacchus, Scheurebe - 43 €
@@ -189,7 +190,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Naked Friday** - 2021 - Weiss - Müller Thurgau, Schheurebe, Kerner, Riesling - 39 € 
 - **Brand Bros** - 2021 - Pinot blanc - 40€ **Non disponible**
 - **Andi Weigand** - White cuvee - 2022 - Silvaner, Müller Thurgau, Riesling, Schheurebe, Bacchus - 38 €
-- **Brand Bros** - Wilder Satz - 2022 - Chardonnay, Müller Thurgau, Silvaner - 38 €
+- **Brand Bros** - Wilder Satz - 2022 - Chardonnay, Müller Thurgau, Silvaner - 38 € **Non disponible**
 - **Marto** - Weiss - 2021 - Bacchus, Faber, Müller Thurgau, Riesling - 40 € **Non disponible**
 
 ### ESPAGNE
@@ -235,7 +236,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### ESPAGNE
 - **Clos Lentiscus** - Night Potion Skin Contact - 2021 - Xarello - 51 € **Non disponible**
-- **Celler 9+** - 3r - 2022 - Vermell Cartoixà - 39 €
+- **Celler 9+** - 3r - 2022 - Vermell Cartoixà - 39 € **Non disponible**
 - **Celler 9+** - 6è - 2022 - Muscat - 40 €
 - **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - 44€ **Non disponible**
 
