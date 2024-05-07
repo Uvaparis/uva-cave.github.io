@@ -254,6 +254,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### LANGUEDOC
 - **Domaine de Cassagnas** - Fruit Vermeil 2022 - Aubun, Grenache - 36 €
+- **Kohki iwata** - Clairet - 2022 - Merlot, Chenin - 33 €
 
 ### ALLEMAGNE
 - **Brand Bros** - Wild Rosé - 2020 - Portugieser - 36 € - **Non disponible**
@@ -293,6 +294,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Olivier Pichon** - Grenache des Grès - 2021 - Grenache Noir - 30 € **Non disponible**
 - **La Cave Apicole** - Gorgorlou - 2022 - Carignan Noir - 44 € **Non disponible**
 - **Domaine de Cassagnas** - Hunga - 2022 - Aubun, Grenache - 34 €
+- **Kohki iwata** - WA - 2023 - Cinsault, Pinot Noir - 31 €
+- **Kohki iwata** - Souriez - 2022 - Syrah - 33 €
+- **Kohki iwata** - Pino'c - 2022 - Pinot Noir - 34 €
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2016 - Pineau d’aunis - 133 € (150 cl)
