@@ -63,7 +63,7 @@ Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue
 et de fruits tropicaux
 
 **Organic pilsner 45 days To ol** 33cl **6,50 €**
-Bière Blonde aux saveurs de cereales et de houblon, amertume modérée **Non disponible**
+Bière Blonde aux saveurs de cereales et de houblon, amertume modérée 
 
 **Implosion To ol** 33cl **5,50 €**
 Bière sans alcool aux arômes floraux et fruités 
@@ -74,7 +74,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- Nouveaux Sauvages, domaine Reveille, Grenache Carignan,fruité et épicé **7 €**
+- P'tit vaillant, Loire, Cabernet, Groslot, frais, intense, vif **7 €**
 - Groslot, Loire, fruité, frais et croquant **7,50 €**
   
 ### Blancs
