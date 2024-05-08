@@ -47,7 +47,7 @@ _Des allergies ? Prévenez-nous :) _
 **Les filles de l’ouest** 33cl **5,5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
 Citron gingembre, Limonade, Pomme, Orange, Menthe
-Thé Chai
+
 
 **Drink Douze** **6 €** Boisson finement pétillante 
 Abricot et Zaatar, Poire et Anis
