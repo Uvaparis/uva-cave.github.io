@@ -217,7 +217,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### LANGUEDOC ROUSILLON
 - **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€ - **Non disponible**
-- **Terrain Vague** - Molotov - 2022 - Muscat, Syrah - 52 € 
+- **Terrain Vague** - Molotov - 2022 - Muscat, Syrah - 52 €
+- **Chai UVA** - Macarello - Macabeu, Xarel-lo - 37 €
+- **Chai UVA** - Herr Müller - Muscat Petit Grain, Terret - 42 €
 
 ### LOIRE
 - **Domaine du Haut Planty** - One musk a night - 2021 - Melon de Bourgogne - 35 €
@@ -297,6 +299,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Kohki iwata** - WA - 2023 - Cinsault, Pinot Noir - 31 €
 - **Kohki iwata** - Souriez - 2022 - Syrah - 33 €
 - **Kohki iwata** - Pino'c - 2022 - Pinot Noir - 34 €
+- **Chai UVA** - Sumo - 2022 - Cinsault, Carignan - 39 €
+- **Chai UVA** - Fruchtfleisch - 2023 - Merlot, Grenache, Colombier, Muscat - 40 €
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2016 - Pineau d’aunis - 133 € (150 cl)
