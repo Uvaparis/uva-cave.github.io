@@ -27,6 +27,7 @@ Bouteilles (75cl):
 - Comté 18 mois, huile de noix, poivre du moulin **8 €**
 - Fouchtra de chèvre, fromage pasteurisé - Goat's Fouchtra, pasteurized cheese **9 €**
 - Burrata, huile d'olive, Zaatar **10 €**
+- Stracciatella, huile d'olive, Malaboom Chili Oil (spicy), noisette, zeste de citron **9 €**
 - Assiette mixte **25 €**
   
 **Viande / Meat**
