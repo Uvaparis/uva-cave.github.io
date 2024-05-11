@@ -224,7 +224,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### LOIRE
 - **Domaine du Haut Planty** - One musk a night - 2021 - Melon de Bourgogne - 35 €
-- **Domaine Mosse** - Overmars - 2022 - Chenin - 48 €
+- **Domaine Mosse** - Overmars - 2022 - Chenin - 48 € **Non disponible**
 - **Lauré et Fabrice Chaillou** - Grinadine - 2022 - Grolleau Gris - 35 €
 
 ### SAVOIE
@@ -257,7 +257,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### LANGUEDOC
 - **Domaine de Cassagnas** - Fruit Vermeil 2022 - Aubun, Grenache - 36 €
-- **Kohki iwata** - Clairet - 2022 - Merlot, Chenin - 33 €
 
 ### ALLEMAGNE
 - **Brand Bros** - Wild Rosé - 2020 - Portugieser - 36 € - **Non disponible**
@@ -302,6 +301,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Kohki iwata** - Pino'c - 2022 - Pinot Noir - 34 €
 - **Chai UVA** - Sumo - 2022 - Cinsault, Carignan - 39 €
 - **Chai UVA** - Fruchtfleisch - 2023 - Merlot, Grenache, Colombier, Muscat - 40 €
+- **Kohki iwata** - Clairet - 2022 - Merlot, Chenin - 33 €
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2016 - Pineau d’aunis - 133 € (150 cl)
