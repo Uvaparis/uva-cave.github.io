@@ -76,7 +76,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges 
 - P'tit vaillant, Loire, Cabernet, Groslot, frais, intense, vif **7 €**
-- Groslot, Loire, fruité, frais et croquant **7,50 €**
+- Pineau d'Aunis, Loire, fruité, frais et fin de bouche poivrée **7,50 €**
   
 ### Blancs
 - Pulpe, Alsace, frais sec avec une belle aromatique **7 €**
