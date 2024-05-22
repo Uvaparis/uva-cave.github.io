@@ -76,10 +76,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges 
 - P'tit vaillant, Loire, Cabernet, Groslot, frais, intense, vif **7 €**
-- Pineau d'Aunis, Loire, fruité, frais et fin de bouche poivrée **7,50 €**
+- Nouveaux Sauvages, Pyrénées Orientales, Grenache, Carignan, épicé **7,50 €**
   
 ### Blancs
-- Pulpe, Alsace, frais sec avec une belle aromatique **7 €**
+- Pépin blanc, Pinot Blanc, Riesling, Pinot gris, Gewurztraminer **7,50 €**
 - P'tit Vaillant, Loire, Blanc de Noir, Groslot, Cabernet, vif et tonique **7 €**
 
 ### Orange
@@ -125,7 +125,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### ESPAGNE
 - **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - 38 €
-- **Celler 9+** - 1r Escumosos - 2022 - Cartoixà - 39 € **Non disponible**
+- **Celler 9+** - 1r Escumosos - 2022 - Cartoixà - 39 €
   
 ### HONGRIE
 - **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - 55€
@@ -196,7 +196,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### ESPAGNE
 - **Clos Lentiscus** - Perill Blanc - 2018 - Xarello - 47 €
-- **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 35 € **Non disponible**
+- **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 35 € 
 
 ### GRÈCE
 - **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 38 €
@@ -239,9 +239,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### ESPAGNE
 - **Clos Lentiscus** - Night Potion Skin Contact - 2021 - Xarello - 51 € **Non disponible**
-- **Celler 9+** - 3r - 2022 - Vermell Cartoixà - 39 € **Non disponible**
+- **Celler 9+** - 3r - 2022 - Vermell Cartoixà - 39 € 
 - **Celler 9+** - 6è - 2022 - Muscat - 40 €
-- **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - 44€ **Non disponible**
+- **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - 44€ 
 
 ### ITALIE
 - **La Stoppa** - Ageno - 2018 - Malvasia Ortrugo Trebbiano - 78 €
