@@ -157,6 +157,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 50 € - **Non disponible**
 - **Patrick Bouju** - Picapol - 2021 - Picpoul - 44 € - **Non disponible**
 
+### BEAUJOLAIS
+- **Nicolas Chemarin** - P'tit Grobis blanc - 2023 - Chardonnay - 39 €
+
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
 - **Athénaïs de Béru** - Chablis Montserre - 2020 - Chardonnay - 67 €
@@ -273,7 +276,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Pépin** - Syrah, Grenache, Carignan, Cinsault - 33 €
   
 ### BEAUJOLAIS
-- **Nicolas Chemarin** - P'tit Grobis - 2022 - Gamay - 36 € **Non disponible**
+- **Nicolas Chemarin** - P'tit Grobis - 2023 - Gamay - 36 €
 - **Nicolas Chemarin** - La Haute Ronze - 2021 - Gamay (AOC Régnié, élevage 20 mois en foudre) - 45 € **Non disponible**
 - **L'Épicurieux** - Whole lotta Love - 2020 - Gamay (AOP Brouilly) - 43 €
   
@@ -311,7 +314,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **J-P Robinot** - Prélude - 2018 - Pineau d’aunis - 91 €
 - **F. Saint Lô** - Hey Gro - 2021 - Grolleau - 49 €
 - **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
-- **Domaine Mosse** - Bangarang - 2023 - Pineau d'aunis, Chenin - 34 € **Non disponible**
+- **Domaine Mosse** - Bangarang - 2023 - Pineau d'aunis, Chenin - 36 €
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
 - **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - 32 €
 - **Les Grandes Vignes** - 100% Groslot - 2022/ 2023 - Groslot - 35 €
