@@ -51,7 +51,7 @@ Citron gingembre, Limonade, Pomme, Orange, Menthe
 
 
 **Drink Douze** **6 €** Boisson finement pétillante 
-Abricot et Zaatar, Poire et Anis
+Poire et Anis
 
 **Oma Frida** Pétillant naturel sans alcool à base de jus de raisin (Syrah), verjus, infusions de plantes **23 €**
 
