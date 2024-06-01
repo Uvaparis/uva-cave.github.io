@@ -23,7 +23,7 @@ Bouteilles (75cl):
 **Fromages / Cheese**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
-- Tomme de brebis caussenarde (Millau) **9 €**
+- Tomme de brebis caussenarde affinée  (Millau) **9 €**
 - Comté 18 mois, huile de noix, poivre du moulin **8 €**
 - Fouchtra de chèvre, fromage pasteurisé - Goat's Fouchtra, pasteurized cheese **9 €**
 - Burrata, huile d'olive, Zaatar **10 €**
@@ -34,7 +34,6 @@ Bouteilles (75cl):
 - Coppa d'Italie **9,5 €**
 - Chorizo Ibérique de Gland **8 €**
 - Boeuf séché - Dried beef **10 €**
-- Terrine de campagne **9 €**
 - Pâté de campagne Maison Montalet **10 €**
 - Assiette Mixte **25 €**
 
@@ -80,7 +79,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### Blancs
 - Pépin blanc, Pinot Blanc, Riesling, Pinot gris, Gewurztraminer **7,50 €**
-- P'tit Vaillant, Loire, Blanc de Noir, Groslot, Cabernet, vif et tonique **7 €**
+- Livia, Grèce, Île de Samos, Muscat d'Alexandrie, frais, sec et salin **8,50 €**
 
 ### Orange
 - Pépin, Alsace, attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
