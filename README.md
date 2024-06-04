@@ -284,6 +284,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### AUVERGNE
 - **Patrick Bouju** - Môl - 2020 - Merlot, carignan, syrah - 39 € **Non Disponible**
+- **L'eau qui dort** - Toï-Toï - 2023 - Cinsault, Grenache, Gamay, Pinot noir - 37 €
+- **L'eau qui dort** - Bosco - 2023 - 90% Pinot noir, 10% Gamay - 39 €
+- **L'eau qui dort** - Zeppa•o - 2022 - Barbera - 45 €
 
 ### JURA
 - **Ratapoil** - Ratapoil Rouge - 2023 - Gamay, Poulsard, Trousseau - 59 €
