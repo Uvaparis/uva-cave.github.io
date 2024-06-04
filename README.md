@@ -177,7 +177,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 55 € - **Non disponible**
-- **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 € 
+- **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 € **Non disponible**
 - **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 € **Non disponible***
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 €
