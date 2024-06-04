@@ -218,6 +218,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 € - **Non disponible**
 - **Pépin** - Gewurztraminer, Pinot gris - 2022 - 38 €
 
+### AUVERGNE
+- **L'eau qui dort** - Tour de chauffe - 2023 - Maccabeu, Grenache Blanc - 39 €
+
 ### LANGUEDOC ROUSILLON
 - **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€ - **Non disponible**
 - **Terrain Vague** - Molotov - 2022 - Muscat, Syrah - 52 €
