@@ -170,7 +170,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Ratapoil** - Avis de tempete 13 - 2021 - Chenin - 50 €
 
 ### LANGUEDOC ROUSSILLON 
-- **La Cave Apicole** - Zumo - 2022 - Maccabeu, Grenache Gris - 40€
 - **La Cave Apicole** - Tangerine - 2022 - Chardonnay, Vermentino - 39€
 
 ### PYRÉNÉES-ORIENTALES
