@@ -76,10 +76,11 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### Rouges 
 - P'tit vaillant, Loire, Cabernet, Groslot, frais, intense, vif **7 €**
 - Nouveaux Sauvages, Pyrénées Orientales, Grenache, Carignan, épicé **7,50 €**
+- Pino’c, Languedoc Roussillon, Pinot Noir, belle fraîcheur **7 €** 
   
 ### Blancs
 - Pépin blanc, Pinot Blanc, Riesling, Pinot gris, Gewurztraminer **7,50 €**
-- Livia, Grèce, Île de Samos, Muscat d'Alexandrie, frais, sec et salin **8,50 €**
+- P'tit vaillant, Cabernet, Groslot, frais, vif **7 €**
 
 ### Orange
 - Pépin, Alsace, attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
@@ -144,7 +145,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Anna, André et Yann Durrmann** - Riesling sur grès - 2022 - 39 €
 - **Anna, André et Yann Durrmann** - Riesling sur granit "Rebbuehl" - 2022 - 43 €
 - **Anna, André et Yann Durrmann** - Riesling sur schistes"Rabbari" - 2022 - 48 €
-- **Anna, André et Yann Durrmann** - ZEGWUR - 2022 - Gewurztraminer - 44 €
+- **Anna, André et Yann Durrmann** - ZEGWUR - 2022 - Gewurztraminer - 44 € **Non disponible**
 - **La Grange de l'Oncle Charles** - Mille Lieux 2022 - assemblage de 13 cépages alsaciens - 49 €
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - 34 €
 - **Pépin** - Riesling - 2022 - 37 € 
