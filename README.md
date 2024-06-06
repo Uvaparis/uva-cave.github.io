@@ -88,6 +88,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### Bulles
 - Bulle Nature, Loire, bulle tonique, incisive, pomme, salin **8,5 €**
 - Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6 €**
+- Piquette, Pinot Noir, fruité et rafraichissant **6 €**
 
 ### Cocktail
 - Vermouth Cocktail - Vermouth - PetNat - Zeste d'orange **7,50 €**
@@ -328,7 +329,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine de l'Epeire** - Tohu Bohu - 2022 -  Grenache noir - 36 € **Non disponible**
-- **Domaine Reveille** - Nouveaux Sauvages - 2022 - Grenache, Carignan - 34 €
+- **Domaine Reveille** - Nouveaux Sauvages - 2022 - Grenache, Carignan - 34 € **Non disponible**
 - **Domaine Reveille** - Pointe Rouge - 2021 - Carignan, Grenache - 38 €
 - **Domaine Reveille** - Franc Tireur - 2018 - Carignan - 48 €
 
