@@ -141,7 +141,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Les Vins Pirouettes** - Pulpe de Raphaël 2022 - Sylvaner, Riesling, Auxerrois, Chasselas - 33 €
 - **Geschickt** - 6 Pieds sur Terre - 2018 - Pinot noir, gris blanc, Gewurztraminer, Riesling, Muscat  - 46 €
 - **Anna, André et Yann Durrmann** - Pinot Blanc - 2022 - 39 €
-- **Anna, André et Yann Durrmann** - Pinot Blanc - 2022 - 78 € (150 cl)
+- **Anna, André et Yann Durrmann** - Pinot Blanc - 2022 - 82 € (150 cl)
 - **Anna, André et Yann Durrmann** - Riesling sur grès - 2022 - 39 €
 - **Anna, André et Yann Durrmann** - Riesling sur granit "Rebbuehl" - 2022 - 43 €
 - **Anna, André et Yann Durrmann** - Riesling sur schistes"Rabbari" - 2022 - 48 €
