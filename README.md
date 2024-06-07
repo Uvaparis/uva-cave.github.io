@@ -75,7 +75,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges 
 - P'tit vaillant, Loire, Cabernet, Groslot, frais, intense, vif **7 €**
-- Nouveaux Sauvages, Pyrénées Orientales, Grenache, Carignan, épicé **7,50 €**
 - Pino’c, Languedoc Roussillon, Pinot Noir, belle fraîcheur **7 €** 
   
 ### Blancs
@@ -180,7 +179,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 55 € - **Non disponible**
 - **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 € **Non disponible**
-- **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 € **Non disponible***
+- **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 €
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 €
 - **Domaine Mosse** - La Joute - 2022 - Chenin, Chardonnay - 49 €
@@ -202,7 +201,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 35 € 
 
 ### GRÈCE
-- **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 38 €
+- **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 38 € **Non disponible**
 
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - 55 €
