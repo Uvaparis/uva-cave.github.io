@@ -137,8 +137,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ## Blancs 75cl
 ### ALSACE
-- **Geschickt** - Le Schlouk - 2020 - Gewurztraminer, Riesling - 40 € - **Non disponible**
-- **Les Vins Pirouettes** - Pulpe de Raphaël 2022 - Sylvaner, Riesling, Auxerrois, Chasselas - 33 €
+- **Les Vins Pirouettes** - Pulpe de Raphaël 2022 - Sylvaner, Riesling, Auxerrois, Chasselas - 33 € **Non disponible**
 - **Geschickt** - 6 Pieds sur Terre - 2018 - Pinot noir, gris blanc, Gewurztraminer, Riesling, Muscat  - 46 €
 - **Anna, André et Yann Durrmann** - Pinot Blanc - 2022 - 39 €
 - **Anna, André et Yann Durrmann** - Pinot Blanc - 2022 - 82 € (150 cl)
