@@ -147,7 +147,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Anna, André et Yann Durrmann** - ZEGWUR - 2022 - Gewurztraminer - 44 € **Non disponible**
 - **La Grange de l'Oncle Charles** - Mille Lieux 2022 - assemblage de 13 cépages alsaciens - 49 €
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - 34 €
-- **Pépin** - Riesling - 2022 - 37 € 
+- **Pépin** - Riesling - 2022 - 37 €
+- **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 34 €
 
 ### ARDÈCHE
 - **Jérôme Vigne** - Les Raillères - 2021 - Viognier - 39 €
