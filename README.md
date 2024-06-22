@@ -106,6 +106,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 41 €
 - **Anna, André et Yann Durrmann** - Mu Ska-T - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 39 €
 - **Pépin** - Riesling, Gewurztraminer, Pinot gris, Silvaner - 2022 - 34€
+- **Theo Einhart** - Pet Nat - Pinot noir, Pinot gris, Gewurztraminer - 2023 - 35 €
 
 ### AUVERGNE
 - **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 44 €
@@ -147,7 +148,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **La Grange de l'Oncle Charles** - Mille Lieux 2022 - assemblage de 13 cépages alsaciens - 49 €
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - 34 €
 - **Pépin** - Riesling - 2022 - 37 €
-- **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 34 €
+- **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 34 €
+- **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - 39 €
+- **Domaine Einhart** - Oolithe - Sylvaner, Gewurztraminer, Auxerrois, Pinot Blanc, Muscat, Riesling - 34 €
 
 ### ARDÈCHE
 - **Jérôme Vigne** - Les Raillères - 2021 - Viognier - 39 €
@@ -275,6 +278,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### ALSACE 
 - **Pépin** - Pinot noir - 43 €
 - **Pépin** - Syrah, Grenache, Carignan, Cinsault - 33 €
+- **Theo Einhart** - Pinot noir - 36 €
   
 ### BEAUJOLAIS
 - **Nicolas Chemarin** - P'tit Grobis - 2023 - Gamay - 36 €
