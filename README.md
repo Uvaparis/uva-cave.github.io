@@ -17,7 +17,9 @@ Bouteilles (75cl):
 # Sunday w/ Jeff Schilde & Cédric du Fournil Éphémère 
 
 **Gaufre Haddock** - Haddock, Philadelphia, moutarde, Concombre, rhubarbe, aneth **13 €**
+
 **Gaufre Morbier** - Morbier, Salade **13 €**
+
 **Gaufre sucrée/ salée** - Crevettes séchées, sucre coco, caramel, cacahuète, crème fouettée, citron vert **10 €**
 
 _Des allergies ? Prévenez-nous :) _
