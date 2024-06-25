@@ -14,13 +14,27 @@ Bouteilles (75cl):
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
 
-# Sunday w/ Jeff Schilde & Cédric du Fournil Éphémère 
+# Assiettes à partager
 
-**Gaufre Haddock** - Haddock, Philadelphia, moutarde, Concombre, rhubarbe, aneth **13 €**
-
-**Gaufre Morbier** - Morbier, Salade **13 €**
-
-**Gaufre sucrée/ salée** - Crevettes séchées, sucre coco, caramel, cacahuète, crème fouettée, citron vert **10 €**
+**La Terre / The Land**
+- Olives vertes gros calibre **4 €**
+- Houmous de pois chiche **7 €**
+  
+**Fromages / Cheese**
+- Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
+- Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
+- Tomme de brebis caussenarde  (Millau) **9 €**
+- Comté 18 mois, huile de noix, poivre du moulin **8 €**
+- Burrata, huile d'olive, Zaatar **10 €**
+- Assiette mixte **25 €**
+  
+**Viande / Meat**
+- Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
+- Coppa d'Italie **9,5 €**
+- Chorizo Ibérique de Gland **8 €**
+- Boeuf séché - Dried beef **10 €**
+- Pâté de campagne Maison Montalet **10 €**
+- Assiette Mixte **25 €**
 
 _Des allergies ? Prévenez-nous :) _
    
