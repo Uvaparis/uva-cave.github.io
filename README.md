@@ -26,6 +26,7 @@ Bouteilles (75cl):
 - Tomme de brebis caussenarde  (Millau) **9 €**
 - Comté 18 mois, huile de noix, poivre du moulin **8 €**
 - Burrata, huile d'olive, Zaatar **10 €**
+- Morbier, poivre du moulin, huile d'olives **9 €**
 - Assiette mixte **25 €**
   
 **Viande / Meat**
@@ -74,7 +75,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges 
 - P'tit vaillant, Loire, Cabernet, Groslot, frais, intense, vif **7 €**
-- Souriez, Languedoc Roussillon, Syrah, belle fraîcheur **7 €** 
+- Pinot, Domaine Einhart, Pinot Noir, petits fruits rouges **7 €** 
   
 ### Blancs
 - Pépin blanc, Pinot Blanc, Riesling, Pinot gris, Gewurztraminer **7,50 €**
@@ -148,7 +149,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **La Grange de l'Oncle Charles** - Mille Lieux 2022 - assemblage de 13 cépages alsaciens - 49 €
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - 34 €
 - **Pépin** - Riesling - 2022 - 37 €
-- **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 34 €
+- **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 34 € **Non disponible**
 - **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - 39 €
 - **Domaine Einhart** - Oolithe - Sylvaner, Gewurztraminer, Auxerrois, Pinot Blanc, Muscat, Riesling - 34 €
 
@@ -173,7 +174,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Ratapoil** - Avis de tempete 13 - 2021 - Chenin - 50 €
 
 ### LANGUEDOC ROUSSILLON 
-- **La Cave Apicole** - Tangerine - 2022 - Chardonnay, Vermentino - 39€
+- **La Cave Apicole** - Tangerine - 2022 - Chardonnay, Vermentino - 39€ **Non disponible**
 
 ### PYRÉNÉES-ORIENTALES
 - **Domaine de l'Epeire** - Astradyne - 2022 - Macabeu - 38 €
@@ -183,18 +184,18 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 € **Non disponible**
 - **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 €
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
-- **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 €
+- **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 € **Non disponible**
 - **Domaine Mosse** - La Joute - 2022 - Chenin, Chardonnay - 49 €
 
 ### SAVOIE
--  **France Gonzalvez** - Jour Blanc - 2022 - Jacquère - 44 €
+-  **France Gonzalvez** - Jour Blanc - 2022 - Jacquère - 44 € **Non disponible**
   
 ### ALLEMAGNE
 - **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 € **Non disponible** 
 - **Brand Bros** - 2021 - Muller Thurgau - 41 € **Non disponible**
 - **Naked Friday** - 2021 - Weiss - Müller Thurgau, Schheurebe, Kerner, Riesling - 39 € 
 - **Brand Bros** - 2021 - Pinot blanc - 40€ **Non disponible**
-- **Andi Weigand** - White cuvee - 2022 - Silvaner, Müller Thurgau, Riesling, Schheurebe, Bacchus - 38 €
+- **Andi Weigand** - White cuvee - 2022 - Silvaner, Müller Thurgau, Riesling, Schheurebe, Bacchus - 38 € **Non disponible**
 - **Brand Bros** - Wilder Satz - 2022 - Chardonnay, Müller Thurgau, Silvaner - 38 € **Non disponible**
 - **Marto** - Weiss - 2021 - Bacchus, Faber, Müller Thurgau, Riesling - 40 € **Non disponible**
 
@@ -225,12 +226,12 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### LANGUEDOC ROUSILLON
 - **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€ - **Non disponible**
-- **Terrain Vague** - Molotov - 2022 - Muscat, Syrah - 52 €
+- **Terrain Vague** - Molotov - 2022 - Muscat, Syrah - 52 € **Non disponible**
 - **Chai UVA** - Macarello - Macabeu, Xarel-lo - 37 €
 - **Chai UVA** - Herr Müller - Muscat Petit Grain, Terret - 42 €
 
 ### LOIRE
-- **Domaine du Haut Planty** - One musk a night - 2021 - Melon de Bourgogne - 35 €
+- **Domaine du Haut Planty** - One musk a night - 2021 - Melon de Bourgogne - 35 € **Non disponible**
 - **Domaine Mosse** - Overmars - 2022 - Chenin - 48 € **Non disponible**
 - **Lauré et Fabrice Chaillou** - Grinadine - 2022 - Grolleau Gris - 35 €
 
@@ -260,7 +261,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Rosés 75cl
 
 ### ALSACE
-- **Domaine Pépin** - Pink - Pinot Gris, Pinot Blanc - 35 €
+- **Domaine Pépin** - Pink - Pinot Gris, Pinot Blanc - 35 € **Non disponible**
 
 ### LANGUEDOC
 - **Domaine de Cassagnas** - Fruit Vermeil 2022 - Aubun, Grenache - 36 €
