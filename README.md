@@ -78,7 +78,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Pinot, Domaine Einhart, Pinot Noir, petits fruits rouges **7 €** 
   
 ### Blancs
-- Pépin blanc, Pinot Blanc, Riesling, Pinot gris, Gewurztraminer **7,50 €**
+- Oolithe, Alsace, Sylvaner, Gewurztraminer, Auxerrois, Pinot Blanc, Pinot Gris, Riesling **7 €**
 - P'tit vaillant, Cabernet, Groslot, frais, vif **7 €**
 
 ### Orange
