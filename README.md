@@ -23,7 +23,7 @@ Bouteilles (75cl):
 **Fromages / Cheese**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
-- Tomme de brebis caussenarde  (Millau) **9 €**
+- Tomme de brebis caussenarde  (Millau) **9 €** **Non disonible**
 - Comté 18 mois, huile de noix, poivre du moulin **8 €**
 - Burrata, huile d'olive, Zaatar **10 €**
 - Morbier, poivre du moulin, huile d'olives **9 €**
