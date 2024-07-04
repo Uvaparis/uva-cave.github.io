@@ -261,7 +261,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Rosés 75cl
 
 ### ALSACE
-- **Domaine Pépin** - Pink - Pinot Gris, Pinot Blanc - 35 € **Non disponible**
+- **Domaine Pépin** - Pink - Pinot Gris, Pinot Blanc - 37 € 
 
 ### LANGUEDOC
 - **Domaine de Cassagnas** - Fruit Vermeil 2022 - Aubun, Grenache - 36 €
