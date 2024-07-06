@@ -23,7 +23,7 @@ Bouteilles (75cl):
 **Fromages / Cheese**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
-- Tomme de brebis caussenarde  (Millau) **9 €** **Non disonible**
+- Tomme de brebis caussenarde  (Millau) **9 €** 
 - Comté 18 mois, huile de noix, poivre du moulin **8 €**
 - Burrata, huile d'olive, Zaatar **10 €**
 - Morbier, poivre du moulin, huile d'olives **9 €**
@@ -62,7 +62,7 @@ Poire et Anis
 Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue 
 et de fruits tropicaux
 
-**Organic pilsner 45 days To ol** 33cl **6,50 €**
+**Organic pilsner 45 days To ol** 33cl **6,50 €** **Non disponible**
 Bière Blonde aux saveurs de cereales et de houblon, amertume modérée 
 
 **Implosion To ol** 33cl **5,50 €**
@@ -79,7 +79,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### Blancs
 - Oolithe, Alsace, Sylvaner, Gewurztraminer, Auxerrois, Pinot Blanc, Pinot Gris, Riesling **7 €**
-- P'tit vaillant, Cabernet, Groslot, frais, vif **7 €**
+- Pépin blanc, Alsace, Pinot Gris, Riesling, frais, vif **7 €**
 
 ### Orange
 - Pépin, Alsace, attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
@@ -166,7 +166,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
 - **Athénaïs de Béru** - Chablis Montserre - 2020 - Chardonnay - 67 €
-- **Julien Petitjean** - Bourgogne blanc - 2019 - Chardonnay - 47 €
+- **Julien Petitjean** - Bourgogne blanc - 2019 - Chardonnay - 47 € **Non disponible**
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
@@ -182,7 +182,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### LOIRE
 - **R. Guettier** - Désirée - 2018 - Chenin - 55 € - **Non disponible**
 - **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 € **Non disponible**
-- **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 €
+- **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 € **Non disponible**
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 € **Non disponible**
 - **Domaine Mosse** - La Joute - 2022 - Chenin, Chardonnay - 49 €
