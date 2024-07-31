@@ -98,7 +98,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ## Cidres
 ### ARDECHE
-- Association Les Petits Projets - Cidre Brut - Frais et croquant **28 €**
+- Association Les Petits Projets - Cidre Brut - Frais et croquant **28 €** **Non disponible**
 
 ## Bulles 75cl
 ### ALSACE
@@ -159,7 +159,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Patrick Bouju** - Picapol - 2021 - Picpoul - 44 € - **Non disponible**
 
 ### BEAUJOLAIS
-- **Nicolas Chemarin** - P'tit Grobis blanc - 2023 - Chardonnay - 39 €
+- **Nicolas Chemarin** - P'tit Grobis blanc - 2023 - Chardonnay - 39 € **Non disponible**
 
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
@@ -199,7 +199,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### ESPAGNE
 - **Clos Lentiscus** - Perill Blanc - 2018 - Xarello - 47 €
-- **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 35 € 
+- **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 36 € 
 
 ### GRÈCE
 - **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 38 € **Non disponible**
