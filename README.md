@@ -137,18 +137,11 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Blancs 75cl
 ### ALSACE
 - **Geschickt** - 6 Pieds sur Terre - 2018 - Pinot noir, gris blanc, Gewurztraminer, Riesling, Muscat  - 46 €
-- **Anna, André et Yann Durrmann** - Pinot Blanc - 2022 - 39 € **Non disponible**
-- **Anna, André et Yann Durrmann** - Pinot Blanc - 2022 - 82 € (150 cl) **Non disponible**
-- **Anna, André et Yann Durrmann** - Riesling sur grès - 2022 - 39 € **Non disponible**
-- **Anna, André et Yann Durrmann** - Riesling sur granit "Rebbuehl" - 2022 - 43 € **Non disponible**
-- **Anna, André et Yann Durrmann** - Riesling sur schistes"Rabbari" - 2022 - 48 € **Non disponible**
-- **Anna, André et Yann Durrmann** - ZEGWUR - 2022 - Gewurztraminer - 44 € **Non disponible**
-- **La Grange de l'Oncle Charles** - Mille Lieux 2022 - assemblage de 13 cépages alsaciens - 49 € **Non disponible**
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - 34 €
 - **Pépin** - Riesling - 2022 - 37 € **Non disponible**
-- **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 34 € **Non disponible**
+- **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 34 € 
 - **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - 39 €
-- **Domaine Einhart** - Oolithe - Sylvaner, Gewurztraminer, Auxerrois, Pinot Blanc, Muscat, Riesling - 34 € **Non disponible**
+- **Domaine Einhart** - Oolithe - Sylvaner, Gewurztraminer, Auxerrois, Pinot Blanc, Muscat, Riesling - 34 € 
 
 ### AUVERGNE
 - **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 50 € - **Non disponible**
@@ -160,21 +153,17 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
 - **Athénaïs de Béru** - Chablis Montserre - 2020 - Chardonnay - 67 €
-- **Julien Petitjean** - Bourgogne blanc - 2019 - Chardonnay - 47 € **Non disponible**
+
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
 - **Ratapoil** - Ratapoil blanc - 2023 - Chardonnay, Savagnin - 59 €
 - **Ratapoil** - Avis de tempete 13 - 2021 - Chenin - 50 €
 
-### LANGUEDOC ROUSSILLON 
-- **La Cave Apicole** - Tangerine - 2022 - Chardonnay, Vermentino - 39€ **Non disponible**
-
 ### PYRÉNÉES-ORIENTALES
 - **Domaine de l'Epeire** - Astradyne - 2022 - Macabeu - 38 €
 
 ### LOIRE
-- **R. Guettier** - Désirée - 2018 - Chenin - 55 € - **Non disponible**
 - **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 € **Non disponible**
 - **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 €
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
@@ -184,15 +173,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### SAVOIE
 -  **France Gonzalvez** - Jour Blanc - 2022 - Jacquère - 44 € **Non disponible**
   
-### ALLEMAGNE
-- **Piri** - Ponderosa - 2021 - Pinot gris, pinot noir - 46 € **Non disponible** 
-- **Brand Bros** - 2021 - Muller Thurgau - 41 € **Non disponible**
-- **Naked Friday** - 2021 - Weiss - Müller Thurgau, Schheurebe, Kerner, Riesling - 39 € **Non disponible**
-- **Brand Bros** - 2021 - Pinot blanc - 40€ **Non disponible**
-- **Andi Weigand** - White cuvee - 2022 - Silvaner, Müller Thurgau, Riesling, Schheurebe, Bacchus - 38 € **Non disponible**
-- **Brand Bros** - Wilder Satz - 2022 - Chardonnay, Müller Thurgau, Silvaner - 38 € **Non disponible**
-- **Marto** - Weiss - 2021 - Bacchus, Faber, Müller Thurgau, Riesling - 40 € **Non disponible**
-
 ### ESPAGNE
 - **Clos Lentiscus** - Perill Blanc - 2018 - Xarello - 47 €
 - **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 36 € 
@@ -218,13 +198,11 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **L'eau qui dort** - Tour de chauffe - 2023 - Maccabeu, Grenache Blanc - 39 €
 
 ### LANGUEDOC ROUSILLON
-- **La Sorga** - Kuku Yodel - 2018 - Muscat d'Alexandrie - 49€ - **Non disponible**
 - **Terrain Vague** - Molotov - 2022 - Muscat, Syrah - 52 €
 - **Chai UVA** - Macarello - Macabeu, Xarel-lo - 37 € **Non disponible**
 - **Chai UVA** - Herr Müller - Muscat Petit Grain, Terret - 42 € **Non disponible**
 
 ### LOIRE
-- **Domaine du Haut Planty** - One musk a night - 2021 - Melon de Bourgogne - 35 € **Non disponible**
 - **Domaine Mosse** - Overmars - 2022 - Chenin - 48 €
 - **Lauré et Fabrice Chaillou** - Grinadine - 2022 - Grolleau Gris - 35 € **Non disponible**
 
@@ -239,7 +217,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération de 380 jours - 54€
 
 ### ESPAGNE
-- **Clos Lentiscus** - Night Potion Skin Contact - 2021 - Xarello - 51 € **Non disponible**
 - **Celler 9+** - 3r - 2022 - Vermell Cartoixà - 39 € 
 - **Celler 9+** - 6è - 2022 - Muscat - 40 €
 - **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - 44€ 
@@ -266,7 +243,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - 49 €
 
 ### LOIRE 
-- **Les Grandes Vignes** - Groslot - 2022 - Groslot - 34 € 
+- **Les Grandes Vignes** - Groslot - 2022 - Groslot - 35 € 
 
 [haut de page](#menu)
 
@@ -327,18 +304,12 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Les Grandes Vignes** - 100% Cabernet Breton - 2021/2022 - Cabernet franc - 34 €
   
 ### PYRÉNÉES-ORIENTALES
-- **Domaine de l'Epeire** - Tohu Bohu - 2022 -  Grenache noir - 36 € **Non disponible**
-- **Domaine Reveille** - Nouveaux Sauvages - 2022 - Grenache, Carignan - 34 € **Non disponible**
 - **Domaine Reveille** - Pointe Rouge - 2021 - Carignan, Grenache - 38 €
 - **Domaine Reveille** - Franc Tireur - 2018 - Carignan - 48 €
 
 ### RHÔNE
-- **Justine Vigne** - Self Love - 2021 - Syrah - 50 € **Non disponible**
 - **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
 - **Justine Vigne** - Yoga - 2021 - Syrah - 59 €
-- **Petit Oratoire** - Les Lauzes Blanches - 2020 - Grenache, carignan - 41 € **Non disponible**
-- **Andréa Calek** - A toi nous - 2022 - Grenache, syrah - 32 € - **Non disponible**
-- **Domaine de Prapin** - Amphore Gamay - 2019 - Gamay en amphore - 49 € **Non disponible**
 
 ### SAVOIE
 - **France Gonzalvez** - Alpine - 2022 - Gamay - 44 €
@@ -346,8 +317,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **France Gonzalvez** - Miss Mond' - 2022 - Mondeuse - 55 €
 - **JY Peron** - Champ levat - 2020 - Mondeuse - 66 €
 
-### SUD OUEST
-- **Danis dans la vigne** - Life of the party - 2020 - Malbec, Cabernet Sauvignon, Segala - 32 € **Non Disponible**
 
 [haut de page](#menu)
 
