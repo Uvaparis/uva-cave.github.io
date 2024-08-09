@@ -25,16 +25,13 @@ Bouteilles (75cl):
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Comté 18 mois, huile de noix, poivre du moulin **8 €**
-- Burrata, huile d'olive, Zaatar **10 €** **Non disponible**
-- Assiette mixte **25 €**
-  
+
 **Viande / Meat**
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
 - Coppa d'Italie **9,5 €**
 - Chorizo Ibérique de Gland **8 €**
 - Boeuf séché - Dried beef **10 €**
 - Pâté de campagne Maison Montalet **10 €**
-- Assiette Mixte **25 €**
 
 _Des allergies ? Prévenez-nous :) _
    
@@ -89,7 +86,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### Bulles
 - Bulle Nature, Loire, bulle tonique, incisive, pomme, salin **8,5 €**
 - Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6 €**
-- Piquette, Pinot Noir, fruité et rafraichissant **6 €**
 
 ### Cocktail
 - Vermouth Cocktail - Vermouth - PetNat  **7,50 €**
