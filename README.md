@@ -25,6 +25,8 @@ Bouteilles (75cl):
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Comté 18 mois, huile de noix, poivre du moulin **8 €**
+- Assiette de fromages, selection de fromages du moment **25 €**
+- Assiette mixte, fromages et charcuteries du moment **25 €**
 
 **Viande / Meat**
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
@@ -32,6 +34,8 @@ Bouteilles (75cl):
 - Chorizo Ibérique de Gland **8 €**
 - Boeuf séché - Dried beef **10 €**
 - Pâté de campagne Maison Montalet **10 €**
+- Assiette de charcuterie, selection de charcuterie du moment **25 €**
+- Assiette mixte, fromages et charcuteries du moment **25 €**
 
 _Des allergies ? Prévenez-nous :) _
    
