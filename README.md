@@ -78,8 +78,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Pinot, Domaine Einhart, Pinot Noir, petits fruits rouges **7 €** 
   
 ### Blancs
-- P'tit vaillant, Loire, Blanc de Noir, Carbernet Franc, Groslot, frais, vif **7 €**
-- Pépin blanc, Alsace, Pinot Gris, Riesling, intense **7,50 €**
+- Theo Einhart blanc, Auxerrois, Pinot Blanc, Muscat, Riesling, aromatique, tout en finesse **7,50 €**
+- Pépin blanc, Alsace, Pinot Gris, Riesling, frais, minéral  **7,50 €**
 
 ### Orange
 - Pépin, Alsace, attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
@@ -169,10 +169,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### LOIRE
 - **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 € **Non disponible**
-- **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 €
+- **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 € **Non disponible**
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 €
-- **Domaine Mosse** - La Joute - 2022 - Chenin, Chardonnay - 49 €
+- **Domaine Mosse** - La Joute - 2022 - Chenin, Chardonnay - 49 € **Non disponible**
 
 ### SAVOIE
 -  **France Gonzalvez** - Jour Blanc - 2022 - Jacquère - 44 € **Non disponible**
