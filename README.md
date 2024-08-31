@@ -88,7 +88,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Groslot Rosé, Loire, 100% Groslot, rafraîchissant **7 €**
 
 ### Bulles
-- Bulle Nature, Loire, bulle tonique, incisive, pomme, salin **8,5 €**
+- Pépin Pet Nat, Ugni blanc, Picpoul, Muscat, Chardonnay, bulle tonique, incisive, pomme, salin **8,5 €**
 - Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6 €**
 
 ### Cocktail
