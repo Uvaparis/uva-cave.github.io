@@ -179,7 +179,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### ESPAGNE
 - **Clos Lentiscus** - Perill Blanc - 2018 - Xarello - 47 €
-- **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 36 € 
+- **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 36 € **Non disponible**
 
 ### GRÈCE
 - **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 38 € **Non disponible**
