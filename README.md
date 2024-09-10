@@ -31,7 +31,7 @@ Bouteilles (75cl):
 **Viande / Meat**
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
 - Coppa d'Italie **9,5 €**
-- Chorizo Ibérique de Gland **8 €**
+- Chorizo Ibérique de Gland **8 €** **Non disponible**
 - Boeuf séché - Dried beef **10 €**
 - Pâté de campagne Maison Montalet **10 €**
 - Assiette de charcuterie, selection de charcuterie du moment **25 €**
@@ -50,7 +50,7 @@ Citron gingembre, Limonade, Pomme, Orange, Menthe
 
 
 **Drink Douze** **6 €** Boisson finement pétillante 
-Poire et Anis
+Poire et Anis **Non disponible**
 
 **Oma Frida** Pétillant naturel sans alcool à base de jus de raisin (Syrah), verjus, infusions de plantes **23 €**
 
