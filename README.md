@@ -145,7 +145,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Pépin** - Riesling - 2022 - 37 € **Non disponible**
 - **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 34 € 
 - **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - 39 €
-- **Domaine Einhart** - Oolithe - Sylvaner, Gewurztraminer, Auxerrois, Pinot Blanc, Muscat, Riesling - 34 € 
+- **Domaine Einhart** - Oolithe - Sylvaner, Gewurztraminer, Auxerrois, Pinot Blanc, Muscat, Riesling - 35 € 
 
 ### AUVERGNE
 - **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 50 € - **Non disponible**
@@ -255,7 +255,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### ALSACE 
 - **Pépin** - Pinot noir - 43 €
-- **Pépin** - Syrah, Grenache, Carignan, Cinsault - 33 €
+- **Pépin** - Syrah, Grenache, Carignan, Cinsault, Muscat d'Alexandrie - 33 €
 - **Theo Einhart** - Pinot noir - 36 €
   
 ### BEAUJOLAIS
