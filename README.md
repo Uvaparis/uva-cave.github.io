@@ -75,10 +75,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges 
 - P'tit vaillant, Loire, Cabernet, Groslot, frais, intense, vif **7 €**
-- Pinot, Domaine Einhart, Pinot Noir, petits fruits rouges **7 €** 
+- Groslot, Loire, Grolleau, léger et fruité **7 €** 
   
 ### Blancs
-- Theo Einhart blanc, Auxerrois, Pinot Blanc, Muscat, Riesling, aromatique, tout en finesse **7,50 €**
+- Theo Einhart Oolithe, Sylvaner, Gewurztraminer, Auxerrois, Pinot Blanc, Muscat, Riesling, aromatique, tout en finesse **7,50 €**
 - Pépin blanc, Alsace, Pinot Gris, Riesling, frais, minéral  **7,50 €**
 
 ### Orange
@@ -143,7 +143,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Geschickt** - 6 Pieds sur Terre - 2018 - Pinot noir, gris blanc, Gewurztraminer, Riesling, Muscat  - 46 €
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - 34 €
 - **Pépin** - Riesling - 2022 - 37 € **Non disponible**
-- **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 34 € 
+- **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 35 € 
 - **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - 39 €
 - **Domaine Einhart** - Oolithe - Sylvaner, Gewurztraminer, Auxerrois, Pinot Blanc, Muscat, Riesling - 35 € 
 
@@ -256,7 +256,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### ALSACE 
 - **Pépin** - Pinot noir - 43 €
 - **Pépin** - Syrah, Grenache, Carignan, Cinsault, Muscat d'Alexandrie - 33 €
-- **Theo Einhart** - Pinot noir - 36 €
+- **Theo Einhart** - Pinot noir - 36 € **Non disponible**
   
 ### BEAUJOLAIS
 - **Nicolas Chemarin** - P'tit Grobis - 2023 - Gamay - 36 €
