@@ -2,7 +2,7 @@
 **COMMANDE AU BAR. MERCI :)**
 
 Food : 
-- [Céline Serrano cuisine chez UVA](#Céline-Serrano-cuisine-chez-UVA)
+- [# Assiettes à partager](#Assiettes-à-partager)
 
 Verres :
 - [Vins au verre](#vins-au-verre)
@@ -14,18 +14,31 @@ Bouteilles (75cl):
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
 
-# Céline Serrano cuisine chez UVA
-
-**Samedi 21 Septembre 2024**
+# Assiettes à partager
 
 - Polenta frite, Kimchi, Mayonnaise, Parmesan **10 €**
-- Sardines, Ajo blanco, Herbes fraiches **12 €**
 - Boulettes Merguez, Yaourt, Herbes fraiches **13 €**
 - Ganache chocolat noir, Huile d'olive, Fleur de sel **7,50 €**
 
+**La Terre / The Land**
 - Olives vertes gros calibre **4 €**
-- Brillat-Savarin IGP, huile d'olive, poivre **10 €**
-- Saucisson de l'Aveyron **7,5 €**
+- Houmous de pois chiche **7 €**
+  
+**Fromages / Cheese**
+- Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
+- Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
+- Tomme de brebis caussenarde  (Millau) **9 €**
+- Comté 18 mois, huile de noix, poivre du moulin **8 €**
+- Burrata, huile d'olive, Zaatar **10 €**
+- Assiette mixte **25 €**
+  
+**Viande / Meat**
+- Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
+- Coppa d'Italie **9,5 €**
+- Chorizo Ibérique de Gland **8 €**
+- Boeuf séché - Dried beef **10 €**
+- Pâté de campagne Maison Montalet **10 €**
+- Assiette Mixte **25 €**
   
 _Des allergies ? Prévenez-nous :) _
    
