@@ -2,7 +2,7 @@
 **COMMANDE AU BAR. MERCI :)**
 
 Food : 
-- [# Assiettes à partager](#Assiettes-à-partager)
+- [# Assiettes à partager](Assiettes-à-partager)
 
 Verres :
 - [Vins au verre](#vins-au-verre)
@@ -27,19 +27,19 @@ Bouteilles (75cl):
 **Fromages / Cheese**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
-- Tomme de brebis caussenarde  (Millau) **9 €**
+- Tomme de brebis caussenarde affinée (Millau) **9 €** 
+- Tomme fermiere a l'ail des ours **10 €** 
 - Comté 18 mois, huile de noix, poivre du moulin **8 €**
-- Burrata, huile d'olive, Zaatar **10 €**
-- Assiette mixte **25 €**
-  
+- Assiette de fromages, selection de fromages du moment **25 €**
+- Assiette mixte, fromages et charcuteries du moment **25 €**
+
 **Viande / Meat**
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
 - Coppa d'Italie **9,5 €**
-- Chorizo Ibérique de Gland **8 €**
 - Boeuf séché - Dried beef **10 €**
 - Pâté de campagne Maison Montalet **10 €**
-- Assiette Mixte **25 €**
-  
+- Assiette de charcuterie, selection de charcuterie du moment **25 €**
+- Assiette mixte, fromages et charcuteries du moment **25 €**
 _Des allergies ? Prévenez-nous :) _
    
 [haut de page](#menu)
