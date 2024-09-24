@@ -16,10 +16,6 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
-- Polenta frite, Kimchi, Mayonnaise, Parmesan **10 €**
-- Boulettes Merguez, Yaourt, Herbes fraiches **13 €**
-- Ganache chocolat noir, Huile d'olive, Fleur de sel **7,50 €**
-
 **La Terre / The Land**
 - Olives vertes gros calibre **4 €**
 - Houmous de pois chiche **7 €**
