@@ -51,7 +51,7 @@ Citron gingembre, Limonade, Pomme, Orange, Menthe
 **Drink Douze** **6 €** Boisson finement pétillante 
 Poire et Anis **Non disponible**
 
-**Oma Frida** Pétillant naturel sans alcool à base de jus de raisin (Syrah), verjus, infusions de plantes **23 €**
+**Oma Frida** Pétillant naturel sans alcool à base de jus de raisin (Syrah), verjus, infusions de plantes **23 €** **Non disponible**
 
 **Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **19 €**
 
@@ -88,7 +88,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Bulles
 - Pépin Pet Nat, Ugni blanc, Picpoul, Muscat, Chardonnay, bulle tonique, incisive, pomme, salin **8,5 €**
-- Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6 €**
+- Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6 €** **Non disponible**
 
 ### Cocktail
 - Vermouth Cocktail - Vermouth - PetNat  **7,50 €**
