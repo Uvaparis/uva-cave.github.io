@@ -77,7 +77,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Groslot, Loire, Grolleau, léger et fruité **7 €** 
   
 ### Blancs
-- Theo Einhart Oolithe, Sylvaner, Gewurztraminer, Auxerrois, Pinot Blanc, Muscat, Riesling, aromatique, tout en finesse **7,50 €**
+- Theo Einhart Blanc, Auxerrois, Pinot Blanc, Muscat, Riesling, aromatique, tout en finesse **7,50 €**
 - Pépin blanc, Alsace, Pinot Gris, Riesling, frais, minéral  **7,50 €**
 
 ### Orange
