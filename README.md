@@ -160,7 +160,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
-- **Ratapoil** - Ratapoil blanc - 2023 - Chardonnay, Savagnin - 59 €
+- **Ratapoil** - Ratapoil blanc - 2023 - Chardonnay, Savagnin - 59 € **Non disponible**
 - **Ratapoil** - Avis de tempete 13 - 2021 - Chenin - 50 €
 
 ### PYRÉNÉES-ORIENTALES
@@ -278,7 +278,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Julien Petitjean** - Hautes Côtes de Beaune Gymnopodie - 2020 - Pinot noir - 60 € 
 
 ### LANGUEDOC
-- **Alain Castex** - Poudre d'escampette - 2021 - Carignan, Mouvèdre, Grenache - 60 € 
+- **Alain Castex** - Poudre d'escampette - 2021 - Carignan, Mouvèdre, Grenache - 60 € **Non disponible**
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
 - **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 37€ **Non disponible**
 - **Olivier Pichon** - Grenache des Grès - 2021 - Grenache Noir - 30 € **Non disponible**
