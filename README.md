@@ -23,9 +23,10 @@ Bouteilles (75cl):
 **Fromages / Cheese**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
-- Tomme de brebis caussenarde affinée (Millau) **9 €** 
+- Tomme de brebis caussenarde affinée (Millau) **9 €** **Non disponible**
 - Tomme fermiere a l'ail des ours **10 €** 
-- Comté 18 mois, huile de noix, poivre du moulin **8 €**
+- Comté 24 mois, poivre du moulin, huile d'olives **8 €**
+- Ossau Iraty Fermier, poivre du moulin, huile d'olives **9 €**
 - Assiette de fromages, selection de fromages du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
@@ -47,13 +48,7 @@ _Des allergies ? Prévenez-nous :) _
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
 Citron gingembre, Limonade, Pomme, Orange, Menthe
 
-
-**Drink Douze** **6 €** Boisson finement pétillante 
-Poire et Anis **Non disponible**
-
-**Oma Frida** Pétillant naturel sans alcool à base de jus de raisin (Syrah), verjus, infusions de plantes **23 €** **Non disponible**
-
-**Le trio Noots de Romain Verger** Pétillant de Surreau - 75cl - **19 €**
+**Oma Frida** Pétillant naturel sans alcool à base de jus de raisin (Syrah), verjus, infusions de plantes **23 €** **Non disponible*
 
 ## Bières
 
@@ -73,8 +68,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- P'tit vaillant, Loire, Cabernet, Groslot, frais, intense, vif **7 €**
-- Groslot, Loire, Grolleau, léger et fruité **7 €** 
+- P'tit vaillant, Loire, Cabernet, Groslot, intense, vif, épicé  **7 €**
+- Théo Einhart Rouge, 100% Pinot Noir, fruité, léger  **7 €** 
   
 ### Blancs
 - Theo Einhart Blanc, Auxerrois, Pinot Blanc, Muscat, Riesling, aromatique, tout en finesse **7,50 €**
@@ -87,7 +82,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Groslot Rosé, Loire, 100% Groslot, rafraîchissant **7 €**
 
 ### Bulles
-- Pépin Pet Nat, Ugni blanc, Picpoul, Muscat, Chardonnay, bulle tonique, incisive, pomme, salin **8,5 €**
+- Pet Nat PuR'aisin Theo Einhart, Syrah, Gewurztraminer, Pinot Gris, Riesling **8 €**
 - Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6 €** **Non disponible**
 
 ### Cocktail
@@ -99,6 +94,11 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### ARDECHE
 - Association Les Petits Projets - Cidre Brut - Frais et croquant **28 €** **Non disponible**
 
+### SAVOIE
+- Fermintmel - Cidre Extra-Brut "Wider en Chautagne" 2023 - Co-fermentation de reinette grise et de marcs de mondeuse **24 €**
+
+- Poiré demi sec, melange Cressane, Conférence et Louise Bonne **24 €**
+  
 ## Bulles 75cl
 ### ALSACE
 - **Geschickt** - Crémant Brut Nature - 2017 - Assemblage de Pinots - 45 €
@@ -144,7 +144,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Pépin** - Riesling - 2022 - 37 € **Non disponible**
 - **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 35 € 
 - **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - 39 €
-- **Domaine Einhart** - Oolithe - Sylvaner, Gewurztraminer, Auxerrois, Pinot Blanc, Muscat, Riesling - 35 € 
+- **Domaine Einhart** - Colline des Anciens - Riesling, Gewurztraminer, Pinot Gris 2021 - 41 €
 
 ### AUVERGNE
 - **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 50 € - **Non disponible**
