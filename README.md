@@ -91,9 +91,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 [haut de page](#menu)
 
 ## Cidres
-### ARDECHE
-- Association Les Petits Projets - Cidre Brut - Frais et croquant **28 €** **Non disponible**
-
 ### SAVOIE
 - Fermintmel - Cidre Extra-Brut "Wider en Chautagne" 2023 - Co-fermentation de reinette grise et de marcs de mondeuse **24 €**
 
@@ -114,16 +111,12 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 44 €
 
 ### JURA
-- **Casa Antolia** - Cade meu carnaval - 2019 - Chardonnay, Ugni blanc, Sauvignon - 48 € **Non disponible**
 - **Christelle & Yves Roy** - Novice - Chardonnay - 50 € 
 
 ### LOIRE
 - **Les Grandes Vignes** - Bulle Nature - 2022 - Grolleau gris, Chenin, Cabernet Franc, Chardonnay - 38 €
 - **Domaine Mosse** - Moussamoussette - 2021 - Grolleau gris, Pineau d'aunis - 39 €
 - **Thomas Zurbach** - Like a bird on the wire - 2021 - Chenin - 40 €
-  
-### ALLEMAGNE
-- **Andi Weigand** - Pet Nat - 2022 - Müller-Thurgau, Bacchus, Scheurebe - **Non disponible**
 
 ### ESPAGNE
 - **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - 38 €
@@ -141,17 +134,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### ALSACE
 - **Geschickt** - 6 Pieds sur Terre - 2018 - Pinot noir, gris blanc, Gewurztraminer, Riesling, Muscat  - 46 €
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - 34 €
-- **Pépin** - Riesling - 2022 - 37 € **Non disponible**
 - **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 35 € 
 - **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - 39 €
 - **Domaine Einhart** - Colline des Anciens - Riesling, Gewurztraminer, Pinot Gris 2021 - 41 €
-
-### AUVERGNE
-- **Patrick Bouju** - J Jacquere - 2018 - Jacquere - 50 € - **Non disponible**
-- **Patrick Bouju** - Picapol - 2021 - Picpoul - 44 € - **Non disponible**
-
-### BEAUJOLAIS
-- **Nicolas Chemarin** - P'tit Grobis blanc - 2023 - Chardonnay - 39 € **Non disponible**
 
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
@@ -160,28 +145,18 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
-- **Ratapoil** - Ratapoil blanc - 2023 - Chardonnay, Savagnin - 59 € **Non disponible**
 - **Ratapoil** - Avis de tempete 13 - 2021 - Chenin - 50 €
 
 ### PYRÉNÉES-ORIENTALES
 - **Domaine de l'Epeire** - Astradyne - 2022 - Macabeu - 38 €
 
 ### LOIRE
-- **Thomas Zurbach** - Les Mouettes - 2022 - Chenin - 39 € **Non disponible**
-- **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 € **Non disponible**
+- **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 €
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 €
-- **Domaine Mosse** - La Joute - 2022 - Chenin, Chardonnay - 49 € **Non disponible**
-
-### SAVOIE
--  **France Gonzalvez** - Jour Blanc - 2022 - Jacquère - 44 € **Non disponible**
   
 ### ESPAGNE
 - **Clos Lentiscus** - Perill Blanc - 2018 - Xarello - 47 €
-- **Celler 9+** - 1r Base - 2022 - Cartoixà, Macabeu - 36 € **Non disponible**
-
-### GRÈCE
-- **Ligas & Bouju** - Livia - 2019 - Muscat d'Alexandrie - 38 € **Non disponible**
 
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - 55 €
@@ -194,7 +169,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### ALSACE
 - **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewurztraminer, Riesling, Pinot Gris - 61 € 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
-- **Westerberg** - Théo Einhart - 2021 - Gewurztraminer, Riesling - 41 € - **Non disponible**
 - **Pépin** - Gewurztraminer, Pinot gris - 2022 - 38 €
 
 ### AUVERGNE
@@ -202,12 +176,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### LANGUEDOC ROUSILLON
 - **Terrain Vague** - Molotov - 2022 - Muscat, Syrah - 52 €
-- **Chai UVA** - Macarello - Macabeu, Xarel-lo - 37 € **Non disponible**
-- **Chai UVA** - Herr Müller - Muscat Petit Grain, Terret - 42 € **Non disponible**
 
 ### LOIRE
 - **Domaine Mosse** - Overmars - 2022 - Chenin - 48 €
-- **Lauré et Fabrice Chaillou** - Grinadine - 2022 - Grolleau Gris - 35 € **Non disponible**
 
 ### SAVOIE
 - **France Gonzalvez** - Point de chute - 2022 - Jacquère - 48 €
@@ -225,7 +196,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - 44€ 
 
 ### ITALIE
-- **La Stoppa** - Ageno - 2018 - Malvasia Ortrugo Trebbiano - 78 € **Non disponible**
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - 69 € (50cl)
 - **Alessandro Viola** - Sinfonia di Bianco - 2021 - Grillo - 61 €
 
@@ -238,9 +208,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### LANGUEDOC
 - **Domaine de Cassagnas** - Fruit Vermeil 2022 - Aubun, Grenache - 36 €
-
-### ALLEMAGNE
-- **Brand Bros** - Wild Rosé - 2020 - Portugieser - 36 € - **Non disponible**
 
 ### ITALIE
 - **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - 49 €
@@ -255,15 +222,13 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### ALSACE 
 - **Pépin** - Pinot noir - 43 €
 - **Pépin** - Syrah, Grenache, Carignan, Cinsault, Muscat d'Alexandrie - 33 €
-- **Theo Einhart** - Pinot noir - 36 € **Non disponible**
+- **Theo Einhart** - Pinot noir - 36 € 
   
 ### BEAUJOLAIS
-- **Nicolas Chemarin** - P'tit Grobis - 2023 - Gamay - 36 €
-- **Nicolas Chemarin** - La Haute Ronze - 2021 - Gamay (AOC Régnié, élevage 20 mois en foudre) - 45 € **Non disponible**
+- **Nicolas Chemarin** - P'tit Grobis - 2023 - Gamay - 36 
 - **L'Épicurieux** - Whole lotta Love - 2020 - Gamay (AOP Brouilly) - 43 €
   
 ### AUVERGNE
-- **Patrick Bouju** - Môl - 2020 - Merlot, carignan, syrah - 39 € **Non Disponible**
 - **L'eau qui dort** - Toï-Toï - 2023 - Cinsault, Grenache, Gamay, Pinot noir - 37 €
 - **L'eau qui dort** - Bosco - 2023 - 90% Pinot noir, 10% Gamay - 39 €
 - **L'eau qui dort** - Zeppa•o - 2022 - Barbera - 45 €
@@ -278,18 +243,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Julien Petitjean** - Hautes Côtes de Beaune Gymnopodie - 2020 - Pinot noir - 60 € 
 
 ### LANGUEDOC
-- **Alain Castex** - Poudre d'escampette - 2021 - Carignan, Mouvèdre, Grenache - 60 € **Non disponible**
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
-- **La Cave Apicole** - Carbo Culte - 2022 - Grenache, Syrah, Lledoner Pelut, Mourvèdre, Carignan - 37€ **Non disponible**
-- **Olivier Pichon** - Grenache des Grès - 2021 - Grenache Noir - 30 € **Non disponible**
-- **La Cave Apicole** - Gorgorlou - 2022 - Carignan Noir - 44 € **Non disponible**
-- **Domaine de Cassagnas** - Hunga - 2022 - Aubun, Grenache - 34 € **Non disponible**
-- **Kohki iwata** - WA - 2023 - Cinsault, Pinot Noir - 31 € **Non disponible**
-- **Kohki iwata** - Souriez - 2022 - Syrah - 33 € **Non disponible**
-- **Kohki iwata** - Pino'c - 2022 - Pinot Noir - 34 € **Non disponible**
 - **Chai UVA** - Sumo - 2022 - Cinsault, Carignan - 39 €
 - **Chai UVA** - Fruchtfleisch - 2023 - Merlot, Grenache, Colombier, Muscat - 40 €
-- **Kohki iwata** - Clairet - 2022 - Merlot, Chenin - 33 € **Non disponible**
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2016 - Pineau d’aunis - 133 € (150 cl)
