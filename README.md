@@ -72,7 +72,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Théo Einhart Rouge, 100% Pinot Noir, fruité, léger  **7 €** 
   
 ### Blancs
-- Theo Einhart Blanc, Auxerrois, Pinot Blanc, Muscat, Riesling, aromatique, tout en finesse **7,50 €**
+- P’tit vaillant, Loire, Blanc de Noir, Cabernet, Groslot, sec, frais, vif  **7 €**
 - Pépin blanc, Alsace, Pinot Gris, Riesling, frais, minéral  **7,50 €**
 
 ### Orange
