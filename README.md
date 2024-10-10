@@ -116,8 +116,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### LOIRE
 - **Les Grandes Vignes** - Bulle Nature - 2022 - Grolleau gris, Chenin, Cabernet Franc, Chardonnay - 38 €
 - **Domaine Mosse** - Moussamoussette - 2021 - Grolleau gris, Pineau d'aunis - 39 €
-- **Thomas Zurbach** - Like a bird on the wire - 2021 - Chenin - 40 €
 
+### LANGUEDOC
+- **Kohki Iwata** - Kadodepart - 2022 - Cinsault, Mourvedre, Vermentino - 37 €
+  
 ### ESPAGNE
 - **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - 38 €
 - **Celler 9+** - 1r Escumosos - 2022 - Cartoixà - 39 €
@@ -142,6 +144,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
 - **Athénaïs de Béru** - Chablis Montserre - 2020 - Chardonnay - 67 €
 
+### ARDECHE
+- **Les Bois Perdus** - Polichinelle - 2023 - Rousanne, Marsanne - 38 €
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
@@ -246,6 +250,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
 - **Chai UVA** - Sumo - 2022 - Cinsault, Carignan - 39 €
 - **Chai UVA** - Fruchtfleisch - 2023 - Merlot, Grenache, Colombier, Muscat - 40 €
+- **Kohki Iwata** - WA - 2023 - Cinsault, Pinot Noir - 35 €
+- **Kohki Iwata** - Souriez - 2021 - Syrah - 35 €
+- **Kohki Iwata** - Pino‘c - 2022 - Pinot Noir - 37 €
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2016 - Pineau d’aunis - 133 € (150 cl)
@@ -266,10 +273,13 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Domaine Reveille** - Pointe Rouge - 2021 - Carignan, Grenache - 38 €
 - **Domaine Reveille** - Franc Tireur - 2018 - Carignan - 48 €
 
-### RHÔNE
+### ARDECHE
 - **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
 - **Justine Vigne** - Yoga - 2021 - Syrah - 59 €
-
+- **Les Bois Perdus** - Elle danse - 2023 - Merlot, Syrah, Cinsault - 35 €
+- **Les Bois Perdus** - Aphrodite - 2023 - Syrah, Grenache - 38 €
+- **Les Bois Perdus** - Elle tremble - 2023 - Merlot - 37 €
+  
 ### SAVOIE
 - **France Gonzalvez** - Alpine - 2022 - Gamay - 44 €
 - **France Gonzalvez** - Toni P - 2022 - Pinot Noir - 48 €
