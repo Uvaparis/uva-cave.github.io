@@ -79,9 +79,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### Orange
 - Pépin, Alsace, attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
 
-### Rosé
-- Groslot Rosé, Loire, 100% Groslot, rafraîchissant **7 €**
-
 ### Bulles
 - Pet Nat PuR'aisin Theo Einhart, Syrah, Gewurztraminer, Pinot Gris, Riesling **8 €**
 - Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6 €** **Non disponible**
