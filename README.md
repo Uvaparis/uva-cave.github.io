@@ -131,7 +131,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ## Blancs 75cl
 ### ALSACE
-- **Geschickt** - 6 Pieds sur Terre - 2018 - Pinot noir, gris blanc, Gewurztraminer, Riesling, Muscat  - 46 €
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - 34 €
 - **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 35 € 
 - **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - 39 €
