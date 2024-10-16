@@ -18,13 +18,13 @@ Bouteilles (75cl):
 
 **La Terre / The Land**
 - Olives vertes gros calibre **4 €**
-- Houmous de pois chiche **7 €** **non disponible**
+- Houmous de pois chiche **7 €**
 
   
 **Fromages / Cheese**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
-- Tomme de brebis caussenarde affinée (Millau) **9 €** **Non disponible**
+- Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Comté 24 mois, poivre du moulin, huile d'olives **8 €**
 - Ossau Iraty Fermier, poivre du moulin, huile d'olives **9 €**
 - Assiette de fromages, selection de fromages du moment **25 €**
@@ -48,7 +48,7 @@ _Des allergies ? Prévenez-nous :) _
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
 Citron gingembre, Limonade, Pomme, Orange, Menthe
 
-**Oma Frida** Pétillant naturel sans alcool à base de jus de raisin (Syrah), verjus, infusions de plantes **23 €** **Non disponible*
+**Oma Frida** Pétillant naturel sans alcool à base de jus de raisin (Syrah), verjus, infusions de plantes **23 €** **Non disponible**
 
 ## Bières
 
