@@ -70,7 +70,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges 
 - P'tit vaillant, Loire, Cabernet, Groslot, intense, vif, épicé  **7 €**
-- Théo Einhart Rouge, 100% Pinot Noir, fruité, léger  **7 €** 
+- Les Bois Perdus, Elle danse, Ardèche, Merlot, Syrah, Cinsault, léger   **7 €** 
   
 ### Blancs
 - P’tit vaillant, Loire, Blanc de Noir, Cabernet, Groslot, sec, frais, vif  **7 €**
@@ -173,7 +173,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Pépin** - Gewurztraminer, Pinot gris - 2022 - 38 €
 
 ### AUVERGNE
-- **L'eau qui dort** - Tour de chauffe - 2023 - Maccabeu, Grenache Blanc - 39 €
+- **L'eau qui dort** - Tour de chauffe - 2023 - Maccabeu, Grenache Blanc - 39 € **Non disponible** 
 
 ### LANGUEDOC ROUSILLON
 - **Terrain Vague** - Molotov - 2022 - Muscat, Syrah - 52 €
