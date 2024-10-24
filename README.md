@@ -73,7 +73,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Les Bois Perdus, Elle danse, Ardèche, Merlot, Syrah, Cinsault, léger   **7 €** 
   
 ### Blancs
-- P’tit vaillant, Loire, Blanc de Noir, Cabernet, Groslot, sec, frais, vif  **7 €**
+- Polichinelle, Ardèche, Les Bois Perdus, Roussanne, Marsanne, Grenache blanc, 8 €**
 - Pépin blanc, Alsace, Pinot Gris, Riesling, frais, minéral  **7,50 €**
 
 ### Orange
