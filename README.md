@@ -140,6 +140,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
 - **Athénaïs de Béru** - Chablis Montserre - 2020 - Chardonnay - 67 €
+- **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 40 € 
 
 ### ARDECHE
 - **Les Bois Perdus** - Polichinelle - 2023 - Rousanne, Marsanne - 38 €
@@ -244,7 +245,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - 95 €
-- **Julien Petitjean** - Hautes Côtes de Beaune Gymnopodie - 2020 - Pinot noir - 60 € 
+- **Julien Petitjean** - Hautes Côtes de Beaune Gymnopodie - 2020 - Pinot noir - 60 €
+- **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - 40€ 
 
 ### LANGUEDOC
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
