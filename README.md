@@ -144,6 +144,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### ARDECHE
 - **Les Bois Perdus** - Polichinelle - 2023 - Rousanne, Marsanne - 38 €
+- **Loublachon** - Zazou 2023 - Sauvignon Blanc - 37 € 
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
@@ -173,6 +174,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
 - **Pépin** - Gewurztraminer, Pinot gris - 2022 - 38 €
 
+### ARDECHE 
+- **Loublachon** - Inébriant - 2023 - Chardonnay, Viognier - 38€
+  
 ### AUVERGNE
 - **L'eau qui dort** - Tour de chauffe - 2023 - Maccabeu, Grenache Blanc - 39 € **Non disponible** 
 
@@ -225,7 +229,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### ALSACE 
 - **Pépin** - Pinot noir - 43 €
 - **Pépin** - Syrah, Grenache, Carignan, Cinsault, Muscat d'Alexandrie - 33 €
-- **Theo Einhart** - Pinot noir - 36 € 
+- **Theo Einhart** - Pinot noir - 36 €
+
+## ARDECHE 
+- **Loublachon** - Pétrichor - Grenache Noir - 36€
   
 ### BEAUJOLAIS
 - **Nicolas Chemarin** - P'tit Grobis - 2023 - Gamay - 36 
