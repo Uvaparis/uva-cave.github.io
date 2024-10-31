@@ -70,7 +70,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges 
 - P'tit vaillant, Loire, Cabernet, Groslot, intense, vif, épicé  **7 €**
-- Les Bois Perdus, Elle danse, Ardèche, Merlot, Syrah, Cinsault, léger   **7 €** 
+- Kohki Iwata, WA, 2023 - Cinsault, Pinot Noir, léger  **7 €** 
   
 ### Blancs
 - Polichinelle, Ardèche, Les Bois Perdus, Roussanne, Marsanne, Grenache blanc, 8 €**
