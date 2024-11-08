@@ -25,7 +25,7 @@ Bouteilles (75cl):
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
-- Comté 24 mois, poivre du moulin, huile d'olives **8 €** **non disponible**
+- Comté 24 mois, poivre du moulin, huile d'olives **8 €** 
 - Ossau Iraty Fermier, poivre du moulin, huile d'olives **9 €**
 - Charolais fermier, poivre du moulin, huile d'olives **8 €**
 - Assiette de fromages, selection de fromages du moment **25 €**
@@ -49,11 +49,13 @@ _Des allergies ? Prévenez-nous :) _
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
 Citron gingembre, Limonade, Pomme, Orange, Menthe
 
-**Oma Frida** Pétillant naturel sans alcool à base de jus de raisin (Syrah), verjus, infusions de plantes **23 €** **Non disponible**
+**Oma Frida** Pétillant naturel sans alcool à base de jus de raisin (Syrah), verjus, infusions de plantes **23 €**
 
 ## Bières
 
-**IPA To ol Whirl Domination** 33cl **6,60 €**
+**IPA To ol Whirl Domination** 33cl **6,60 €**  **Non Disponible** 
+
+
 Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue 
 et de fruits tropicaux
 
