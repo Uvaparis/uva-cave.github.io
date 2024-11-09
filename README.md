@@ -75,7 +75,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Kohki Iwata, WA, 2023 - Cinsault, Pinot Noir, léger  **7 €** 
   
 ### Blancs
-- Polichinelle, Ardèche, Les Bois Perdus, Roussanne, Marsanne, Grenache blanc, 8 €**
+- Zazou, Ardèche, Loublachon, Sauvignon Blanc, Belle salinité **7,5€** 
 - Pépin blanc, Alsace, Pinot Gris, Riesling, frais, minéral  **7,50 €**
 
 ### Orange
