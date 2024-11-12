@@ -137,28 +137,20 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - 39 €
 
 ### BOURGOGNE
-- **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 104 €
+- **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 90 €
 - **Athénaïs de Béru** - Chablis Montserre - 2020 - Chardonnay - 67 €
 - **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 40 € 
 
 ### ARDECHE
-- **Les Bois Perdus** - Polichinelle - 2023 - Rousanne, Marsanne - 38 €
 - **Loublachon** - Zazou 2023 - Sauvignon Blanc - 37 € 
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
-- **Ratapoil** - Avis de tempete 13 - 2021 - Chenin - 50 €
-
-### PYRÉNÉES-ORIENTALES
-- **Domaine de l'Epeire** - Astradyne - 2022 - Macabeu - 38 €
 
 ### LOIRE
 - **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 €
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 €
-  
-### ESPAGNE
-- **Clos Lentiscus** - Perill Blanc - 2018 - Xarello - 47 €
 
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - 55 €
@@ -180,15 +172,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### AUVERGNE
 - **L'eau qui dort** - Tour de chauffe - 2023 - Maccabeu, Grenache Blanc - 39 € **Non disponible** 
 
-### LANGUEDOC ROUSILLON
-- **Terrain Vague** - Molotov - 2022 - Muscat, Syrah - 52 €
-
-### LOIRE
-- **Domaine Mosse** - Overmars - 2022 - Chenin - 48 €
-
 ### SAVOIE
 - **France Gonzalvez** - Point de chute - 2022 - Jacquère - 48 €
-- **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - 84 €
+- **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - 74 €
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - 90 €
 
 ### JURA
