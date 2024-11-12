@@ -213,20 +213,17 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Rouges 75cl
 
 ### ALSACE 
-- **Pépin** - Pinot noir - 43 €
-- **Pépin** - Syrah, Grenache, Carignan, Cinsault, Muscat d'Alexandrie - 33 €
 - **Theo Einhart** - Pinot noir - 36 €
 
 ## ARDECHE 
 - **Loublachon** - Pétrichor - Grenache Noir - 36€
   
 ### BEAUJOLAIS
-- **Nicolas Chemarin** - P'tit Grobis - 2023 - Gamay - 36 
-- **L'Épicurieux** - Whole lotta Love - 2020 - Gamay (AOP Brouilly) - 43 €
+- **Nicolas Chemarin** - P'tit Grobis - 2023 - Gamay - 36 €
   
 ### AUVERGNE
 - **L'eau qui dort** - Toï-Toï - 2023 - Cinsault, Grenache, Gamay, Pinot noir - 37 €
-- **L'eau qui dort** - Bosco - 2023 - 90% Pinot noir, 10% Gamay - 39 €
+- **L'eau qui dort** - Bosco - 2023 - 90% Pinot noir, 10% Gamay - 39 € **Non Disponible**
 - **L'eau qui dort** - Zeppa•o - 2022 - Barbera - 45 €
 
 ### JURA
@@ -238,7 +235,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - 95 €
-- **Julien Petitjean** - Hautes Côtes de Beaune Gymnopodie - 2020 - Pinot noir - 60 €
 - **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - 40€ 
 
 ### LANGUEDOC
@@ -271,7 +267,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### ARDECHE
 - **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
 - **Justine Vigne** - Yoga - 2021 - Syrah - 59 €
-- **Les Bois Perdus** - Elle danse - 2023 - Merlot, Syrah, Cinsault - 35 €
 - **Les Bois Perdus** - Aphrodite - 2023 - Syrah, Grenache - 38 €
 - **Les Bois Perdus** - Elle tremble - 2023 - Merlot - 37 €
   
