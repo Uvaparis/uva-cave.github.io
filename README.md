@@ -53,7 +53,7 @@ Limonade
 
 ## Bières
 
-**IPA To ol Whirl Domination** 33cl **6,60 €** 
+**IPA To ol Whirl Domination** 33cl **6,60 €** **Non disponible** 
 Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue 
 et de fruits tropicaux
 
@@ -73,14 +73,14 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Kohki Iwata, WA, 2023 - Cinsault, Pinot Noir, léger  **7 €** 
   
 ### Blancs
-- Zazou, Ardèche, Loublachon, Sauvignon Blanc, Belle salinité **7,5€** 
+- Zazou, Ardèche, Loublachon, Sauvignon Blanc, Belle salinité **7,50€** 
 - Pépin blanc, Alsace, Pinot Gris, Riesling, frais, minéral  **7,50 €**
 
 ### Orange
 - Pépin, Alsace, attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
 
 ### Bulles
-- Pet Nat PuR'aisin Theo Einhart, Syrah, Gewurztraminer, Pinot Gris, Riesling **8 €**
+- Pet Nat Pépin, Ugni blanc, picpoul, muscat, chardonnay **8 €**
 - Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6,50 €**
 
 ### Cocktail
