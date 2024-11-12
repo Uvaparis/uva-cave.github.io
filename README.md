@@ -53,7 +53,7 @@ Limonade
 
 ## Bières
 
-**IPA To ol Whirl Domination** 33cl **6,60 €** **Non disponible** 
+**IPA To ol Whirl Domination** 33cl **6,60 €** 
 Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue 
 et de fruits tropicaux
 
