@@ -26,8 +26,8 @@ Bouteilles (75cl):
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Comté 24 mois, poivre du moulin, huile d'olives **8 €** 
-- Ossau Iraty Fermier, poivre du moulin, huile d'olives **9 €**
-- Charolais fermier, poivre du moulin, huile d'olives **8 €**
+- Ossau Iraty Fermier, poivre du moulin, huile d'olives **9 €** **Non disponible**
+- Charolais fermier, poivre du moulin, huile d'olives **8 €** **Non disponible**
 - Assiette de fromages, selection de fromages du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
@@ -53,9 +53,7 @@ Limonade
 
 ## Bières
 
-**IPA To ol Whirl Domination** 33cl **6,60 €**  **Non Disponible** 
-
-
+**IPA To ol Whirl Domination** 33cl **6,60 €** 
 Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue 
 et de fruits tropicaux
 
@@ -83,7 +81,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Bulles
 - Pet Nat PuR'aisin Theo Einhart, Syrah, Gewurztraminer, Pinot Gris, Riesling **8 €**
-- Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6 €** **Non disponible**
+- Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6,50 €**
 
 ### Cocktail
 - Vermouth Cocktail - Vermouth - PetNat  **7,50 €**
@@ -99,7 +97,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Bulles 75cl
 ### ALSACE
 - **Geschickt** - Crémant Brut Nature - 2017 - Assemblage de Pinots - 45 €
-- **Anna, André et Yann Durrmann** - Grizzling - Riesling, Pinot Blanc - 39 €
+- **Anna, André et Yann Durrmann** - Grizzling - Riesling, Pinot Blanc - 39 € **Non disponible**
 - **Anna, André et Yann Durrmann** - Toqué PG - Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 41 €
