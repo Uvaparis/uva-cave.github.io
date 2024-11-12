@@ -84,7 +84,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6,50 €**
 
 ### Cocktail
-- Vermouth Cocktail - Vermouth - PetNat  **7,50 €**
+- Vermouth Cocktail - Vermouth - PetNat  **8€**
 
 [haut de page](#menu)
 
