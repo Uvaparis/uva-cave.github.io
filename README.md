@@ -22,7 +22,7 @@ Bouteilles (75cl):
 
   
 **Fromages / Cheese**
-- Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €** g
+- Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €** 
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Comté 24 mois, poivre du moulin, huile d'olives **8 €** 
@@ -139,10 +139,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 90 €
 - **Athénaïs de Béru** - Chablis Montserre - 2020 - Chardonnay - 67 €
-- **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 40 € 
+- **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 43 € 
 
 ### ARDECHE
-- **Loublachon** - Zazou 2023 - Sauvignon Blanc - 37 € 
+- **Loublachon** - Zazou 2023 - Sauvignon Blanc - 39 € 
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
@@ -167,21 +167,21 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Domaine Einhart** - Colline des Anciens - Riesling, Gewurztraminer, Pinot Gris 2021 - 41 €
 
 ### ARDECHE 
-- **Loublachon** - Inébriant - 2023 - Chardonnay, Viognier - 38€
+- **Loublachon** - Inébriant - 2023 - Chardonnay, Viognier - 39 € 
   
 ### AUVERGNE
 - **L'eau qui dort** - Tour de chauffe - 2023 - Maccabeu, Grenache Blanc - 39 € **Non disponible** 
 
 ### SAVOIE
 - **France Gonzalvez** - Point de chute - 2022 - Jacquère - 48 €
-- **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - 74 €
+- **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - 77 €
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - 90 €
 
 ### JURA
 - **Alice Bouvot** - Mus’cat - 2021 - Muscat - 59 €
 - **Jérôme Arnoux** - Paradoxe - 2020 - Savagnin macéré - 52 €
 - **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération de 380 jours - 54€
-- **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - 46€ 
+- **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - 48 € 
 
 ### ESPAGNE
 - **Celler 9+** - 3r - 2022 - Vermell Cartoixà - 39 € 
@@ -217,9 +217,13 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ## ARDECHE 
 - **Loublachon** - Pétrichor - Grenache Noir - 36€
+- **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
+- **Justine Vigne** - Yoga - 2021 - Syrah - 59 €
+- **Les Bois Perdus** - Aphrodite - 2023 - Syrah, Grenache - 39 €
+- **Les Bois Perdus** - Elle tremble - 2023 - Merlot - 38 €
   
 ### BEAUJOLAIS
-- **Nicolas Chemarin** - P'tit Grobis - 2023 - Gamay - 36 €
+- **Nicolas Chemarin** - P'tit Grobis Appellation Beaujolais Villages 2023 - Gamay - 36 €
   
 ### AUVERGNE
 - **L'eau qui dort** - Toï-Toï - 2023 - Cinsault, Grenache, Gamay, Pinot noir - 37 €
@@ -230,12 +234,13 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Ratapoil** - Ratapoil Rouge - 2023 - Gamay, Poulsard, Trousseau - 59 €
 - **Ratapoil** - L'ingénu - 2022 - Pinot Noir - 59 €
 - **Christelle et Gilles Wicky** - Trois cépages - 2021 - Poulsard, Trousseau, Gamay - 54 €
-- **L'oiseau rodeur** - Bagatelle - 2023 - Pinot noir - 47€
-- **L'oiseau rodeur** - Eau fugitive - 2023 - Poulsard - 47€
+- **L'oiseau rodeur** - Bagatelle - 2023 - Pinot noir - 49 € 
+- **L'oiseau rodeur** - Eau fugitive - 2023 - Poulsard - 49 € 
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - 95 €
-- **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - 40€ 
+- **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - 43 €
+- **François Ecot** - L'insolent - 2023 - Pineau d'aunis, Pinot Noir - 46 € 
 
 ### LANGUEDOC
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
@@ -253,18 +258,15 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **J-P Robinot** - Prélude - 2018 - Pineau d’aunis - 91 €
 - **F. Saint Lô** - Hey Gro - 2021 - Grolleau - 49 €
 - **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
-- **Domaine Mosse** - Bangarang - 2023 - Pineau d'aunis, Chenin - 37 €
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
 - **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - 32 €
 - **Les Grandes Vignes** - 100% Groslot - 2022/ 2023 - Groslot - 35 €
 - **Les Grandes Vignes** - 100% Pineau d'Aunis - 2022/2023 - Pineau d’aunis - 37 €
-- **Les Grandes Vignes** - 100% Cabernet Breton - 2021/2022 - Cabernet franc - 34 €
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Reveille** - Pointe Rouge - 2021 - Carignan, Grenache - 38 €
 - **Domaine Reveille** - Franc Tireur - 2018 - Carignan - 48 €
 
-### ARDECHE
 - **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
 - **Justine Vigne** - Yoga - 2021 - Syrah - 59 €
 - **Les Bois Perdus** - Aphrodite - 2023 - Syrah, Grenache - 38 €
