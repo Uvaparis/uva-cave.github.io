@@ -69,8 +69,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- P'tit vaillant, Loire, Cabernet, Groslot, intense, vif, épicé  **7 €**
-- Kohki Iwata, WA, 2023 - Cinsault, Pinot Noir, léger  **7 €** 
+- Aphrodite, Les bois perdus - Syrah, Grenache, épicé, bel équilibre  **8 €** 
+- Kohki Iwata, Pino'c 2023 - Pinot Noir, léger  **7,5 €** 
   
 ### Blancs
 - Zazou, Ardèche, Loublachon, Sauvignon Blanc, Belle salinité **7,50€** 
