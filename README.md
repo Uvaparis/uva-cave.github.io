@@ -278,6 +278,13 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **France Gonzalvez** - Miss Mond' - 2022 - Mondeuse - 55 €
 - **JY Peron** - Champ levat - 2020 - Mondeuse - 66 €
 
+  ### Espagne
+  - **Bodegas Coruña del Conde** - BCDC - 2019/2020 - Merlot - 44 €
+  - **Bodegas Coruña del Conde** - I'm natural don't panic 2022 - Trempranillo, Merlot, Cab sauvignon - 44 €
+ 
+  - **La Senda** - 1984 - 2023 - Mencia - 44 €
+  - **La Senda** - La Barbacana - Alicante Bouschet - 44 € 
+
 
 [haut de page](#menu)
 
