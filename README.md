@@ -69,8 +69,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges 
-- Aphrodite, Les bois perdus - Syrah, Grenache, épicé, bel équilibre  **8 €** 
-- Kohki Iwata, Pino'c 2023 - Pinot Noir, léger  **7,5 €** 
+- Elle tremble, Les bois perdus - Merlot, épicé, bel équilibre  **8 €** 
+- Kohki Iwata, Pino'c 2023 - Pinot Noir, léger  **7 €** 
   
 ### Blancs
 - Zazou, Ardèche, Loublachon, Sauvignon Blanc, Belle salinité **7,50€** 
