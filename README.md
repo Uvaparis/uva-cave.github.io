@@ -226,8 +226,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### BEAUJOLAIS
 - **Nicolas Chemarin** - P'tit Grobis Appellation Beaujolais Villages 2023 - Gamay - 36 €
+- **Nicolas Chelarin** - Premier Jus AOP Beaujolais Village 2023 - Gamay 35 €
   
 ### AUVERGNE
+- **L'eau qui dort** - Nova - 2023 - Gamay infusé dans les marcs de chardonnay - 35 € 
 - **L'eau qui dort** - Toï-Toï - 2023 - Cinsault, Grenache, Gamay, Pinot noir - 37 €
 - **L'eau qui dort** - Bosco - 2023 - 90% Pinot noir, 10% Gamay - 39 € **Non Disponible**
 - **L'eau qui dort** - Zeppa•o - 2022 - Barbera - 45 €
