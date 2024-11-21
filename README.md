@@ -68,7 +68,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ## Vins au verre
 
-### Rouges 
+### Rouges Beaujolais Nouveau ! 
+- Nova, L'eau qui dort, Gamay, marcs de chardonnay **7 €**
+- Premier Jus, Gamay AOP Beaujolais-Villages **7 €** 
 - Elle tremble, Les bois perdus - Merlot, épicé, bel équilibre  **8 €** 
 - Kohki Iwata, Pino'c 2023 - Pinot Noir, léger  **7 €** 
   
