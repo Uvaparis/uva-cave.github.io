@@ -16,7 +16,7 @@ Bouteilles (75cl):
 
 # Assiettes à partager
 
-- Grilled Cheese, comté 24 mois, tomme de brebis, harissa ** 7€ ** 
+- Grilled Cheese, comté 24 mois, tomme de brebis, harissa ** 6,50 ** 
 
 **La Terre / The Land**
 - Olives vertes gros calibre **4 €**
