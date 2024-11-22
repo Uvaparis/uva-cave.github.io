@@ -109,9 +109,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Pépin** - Riesling, Gewurztraminer, Pinot gris, Silvaner - 2022 - 36 €
 - **Theo Einhart** - Pet Nat - Pinot noir, Pinot gris, Gewurztraminer - 2023 - 35 €
 
-### AUVERGNE
-- **Patrick Bouju** - Festejar - 2021 - Gamay d'Auvergne - 44 €
-
 ### JURA
 - **Christelle & Yves Roy** - Novice - Chardonnay - 50 € 
 
