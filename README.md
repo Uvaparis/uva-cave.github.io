@@ -69,7 +69,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges Beaujolais Nouveau ! 
-- Premier Jus, Gamay AOP Beaujolais-Villages - Gamay  **7 €** 
+- Premier Jus, Gamay AOP Beaujolais-Villages **7 €** 
 - Kohki Iwata, Pino'c 2023 - Pinot Noir **7 €** 
   
 ### Blancs
