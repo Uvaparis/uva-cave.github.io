@@ -27,7 +27,7 @@ Bouteilles (75cl):
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Comté 24 mois, poivre du moulin, huile d'olives **8 €** 
 - Ossau Iraty Fermier, poivre du moulin, huile d'olives **9 €** 
-- Charolais fermier, poivre du moulin, huile d'olives **8 €** Non Disponible 
+- Charolais fermier, poivre du moulin, huile d'olives **8 €** **Non Disponible** 
 - Assiette de fromages, selection de fromages du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
@@ -68,8 +68,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ## Vins au verre
 
-### Rouges Beaujolais Nouveau ! 
-- Premier Jus, Gamay AOP Beaujolais-Villages **7 €** 
+### Rouges
+- Premier Jus, 2024 - Gamay AOP Beaujolais-Villages **7 €** 
 - Kohki Iwata, Pino'c 2023 - Pinot Noir **7 €** 
   
 ### Blancs
@@ -80,7 +80,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Pépin, Alsace, attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
 
 ### Bulles
-- Pet Nat Pépin, Ugni blanc, picpoul, muscat, chardonnay **8 €**
+- Pet Nat, Kohki Iwata, Kadodépart, Cinsault, Mourvèdre, Vermentino **8 €**
 - Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6,50 €**
 
 ### Cocktail
@@ -102,8 +102,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 41 €
 - **Anna, André et Yann Durrmann** - Mu Ska-T - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 39 €
-- **Pépin** - Riesling, Gewurztraminer, Pinot gris, Silvaner - 2022 - 36 €
-- **Theo Einhart** - Pet Nat - Pinot noir, Pinot gris, Gewurztraminer - 2023 - 35 €
+- **Pépin** - Riesling, Gewurztraminer, Pinot gris, Silvaner - 2022 - 36 € **Non disponible**
+- **Theo Einhart** - Pet Nat - Pinot noir, Pinot gris, Gewurztraminer - 2023 - 35 € **Non disponible**
 
 ### JURA
 - **Christelle & Yves Roy** - Novice - Chardonnay - 50 € 
@@ -167,7 +167,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Loublachon** - Inébriant - 2023 - Chardonnay, Viognier - 39 € 
   
 ### AUVERGNE
-- **L'eau qui dort** - Tour de chauffe - 2023 - Maccabeu, Grenache Blanc - 39 € **Non disponible** 
+- **L'eau qui dort** - Tour de chauffe - 2023 - Maccabeu, Grenache Blanc - 39 € 
 
 ### SAVOIE
 - **France Gonzalvez** - Point de chute - 2022 - Jacquère - 48 €
@@ -181,7 +181,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - 48 € 
 
 ### ESPAGNE
-- **Celler 9+** - 3r - 2022 - Vermell Cartoixà - 39 € 
+- **Celler 9+** - 3r - 2022 - Vermell Cartoixà - 39 € **Non disponible**
 - **Celler 9+** - 6è - 2022 - Muscat - 40 €
 - **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - 44€ 
 
@@ -202,9 +202,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### ITALIE
 - **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - 49 €
 
-### LOIRE 
-- **Les Grandes Vignes** - Groslot - 2022 - Groslot - 35 € 
-
 [haut de page](#menu)
 
 ## Rouges 75cl
@@ -215,13 +212,12 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## ARDECHE 
 - **Loublachon** - Pétrichor - Grenache Noir - 36€
 - **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
-- **Justine Vigne** - Yoga - 2021 - Syrah - 59 €
-- **Les Bois Perdus** - Aphrodite - 2023 - Syrah, Grenache - 39 €
+- **Les Bois Perdus** - Aphrodite - 2023 - Syrah, Grenache - 39 € **Non disponible**
 - **Les Bois Perdus** - Elle tremble - 2023 - Merlot - 38 €
   
 ### BEAUJOLAIS
 - **Nicolas Chemarin** - P'tit Grobis Appellation Beaujolais Villages 2023 - Gamay - 36 €
-- **Nicolas Chelarin** - Premier Jus AOP Beaujolais Village 2023 - Gamay 35 €
+- **Nicolas Chelarin** - Premier Jus AOP Beaujolais Village 2024 - Gamay 35 €
   
 ### AUVERGNE
 - **L'eau qui dort** - Nova - 2023 - Gamay infusé dans les marcs de chardonnay - 35 € 
@@ -230,7 +226,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **L'eau qui dort** - Zeppa•o - 2022 - Barbera - 45 €
 
 ### JURA
-- **Ratapoil** - Ratapoil Rouge - 2023 - Gamay, Poulsard, Trousseau - 59 €
 - **Ratapoil** - L'ingénu - 2022 - Pinot Noir - 59 €
 - **Christelle et Gilles Wicky** - Trois cépages - 2021 - Poulsard, Trousseau, Gamay - 54 €
 - **L'oiseau rodeur** - Bagatelle - 2023 - Pinot noir - 49 € 
@@ -245,7 +240,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
 - **Chai UVA** - Sumo - 2022 - Cinsault, Carignan - 39 €
 - **Chai UVA** - Fruchtfleisch - 2023 - Merlot, Grenache, Colombier, Muscat - 40 €
-- **Kohki Iwata** - WA - 2023 - Cinsault, Pinot Noir - 35 €
+- **Kohki Iwata** - WA - 2023 - Cinsault, Pinot Noir - 35 € **Non disponible**
 - **Kohki Iwata** - Souriez - 2021 - Syrah - 35 €
 - **Kohki Iwata** - Pino‘c - 2022 - Pinot Noir - 37 €
 
@@ -255,21 +250,14 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - 52 €
 - **J-P Robinot** - Concerto - 2020 - Pineau d’aunis - 56 € 
 - **J-P Robinot** - Prélude - 2018 - Pineau d’aunis - 91 €
-- **F. Saint Lô** - Hey Gro - 2021 - Grolleau - 49 €
 - **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
-- **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 €
+- **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 € 
 - **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - 32 €
 - **Les Grandes Vignes** - 100% Groslot - 2022/ 2023 - Groslot - 35 €
 - **Les Grandes Vignes** - 100% Pineau d'Aunis - 2022/2023 - Pineau d’aunis - 37 €
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Reveille** - Pointe Rouge - 2021 - Carignan, Grenache - 38 €
-- **Domaine Reveille** - Franc Tireur - 2018 - Carignan - 48 €
-
-- **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
-- **Justine Vigne** - Yoga - 2021 - Syrah - 59 €
-- **Les Bois Perdus** - Aphrodite - 2023 - Syrah, Grenache - 38 €
-- **Les Bois Perdus** - Elle tremble - 2023 - Merlot - 37 €
   
 ### SAVOIE
 - **France Gonzalvez** - Alpine - 2022 - Gamay - 44 €
