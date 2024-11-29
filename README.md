@@ -248,7 +248,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **R. Guettier** - Enchanteresse - 2019 - Pineau d’aunis - 59 €
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - 52 €
 - **J-P Robinot** - Concerto - 2020 - Pineau d’aunis - 56 € 
-- **J-P Robinot** - Prélude - 2018 - Pineau d’aunis - 91 €
+- **J-P Robinot** - Prélude - 2018 - Pineau d’aunis - 97 €
 - **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 € 
 - **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - 32 €
