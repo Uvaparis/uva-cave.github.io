@@ -27,7 +27,7 @@ Bouteilles (75cl):
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Comté 24 mois, poivre du moulin, huile d'olives **8 €** 
 - Ossau Iraty Fermier, poivre du moulin, huile d'olives **9 €** 
-- Charolais fermier, poivre du moulin, huile d'olives **8 €** **Non Disponible** 
+- Charolais fermier, poivre du moulin, huile d'olives **8 €** 
 - Assiette de fromages, selection de fromages du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
