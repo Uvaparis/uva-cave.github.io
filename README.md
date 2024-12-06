@@ -70,7 +70,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges
 - Premier Jus, 2024 - Gamay AOP Beaujolais-Villages **7 €** 
-- Kohki Iwata, Pino'c 2023 - Pinot Noir **7 €** 
+- Kohki Iwata, Souriez 2021 - Sirah **7 €** 
   
 ### Blancs
 - Zazou, Ardèche, Loublachon, Sauvignon Blanc, Belle salinité **7,50€** 
