@@ -69,12 +69,12 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Premier Jus, 2024 - Gamay AOP Beaujolais-Villages **7 €** 
-- Kohki Iwata, Souriez 2021 - Sirah **7 €** 
+- Groslot 2023 - Famille Vaillant Les Grandes Vignes **7,5€** 
+- Kohki Iwata, Souriez 2021 - Syrah **7 €** 
   
 ### Blancs
 - Zazou, Ardèche, Loublachon, Sauvignon Blanc, Belle salinité **7,50€** 
-- Pépin blanc, Alsace, Pinot Gris, Riesling, frais, minéral  **7,50 €**
+- P'tit Vaillant , Les Grandes Vignes,groslot cabernet, sec, frais, minéral  **7€**
 
 ### Orange
 - Pépin, Alsace, attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
