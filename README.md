@@ -22,7 +22,7 @@ Bouteilles (75cl):
 
   
 **Fromages / Cheese**
-- Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €** **Non disponible**
+- Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €** 
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Comté 24 mois, poivre du moulin, huile d'olives **8 €** 
@@ -93,6 +93,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Fermintmel - Cidre Extra-Brut "Wider en Chautagne" 2023 - Co-fermentation de reinette grise et de marcs de mondeuse **24 €**
 
 - Poiré demi sec, melange Cressane, Conférence et Louise Bonne **24 €**
+
+- Cidre Vicious - Fred Pruchon - Cidre Brut 2022 - 9 variétés de pommes à cidre **26** 
   
 ## Bulles 75cl
 ### ALSACE
@@ -112,9 +114,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Les Grandes Vignes** - Bulle Nature - 2022 - Grolleau gris, Chenin, Cabernet Franc, Chardonnay - 38 €
 - **Domaine Mosse** - Moussamoussette - 2021 - Grolleau gris, Pineau d'aunis - 39 €
 
-### LANGUEDOC
-- **Kohki Iwata** - Kadodepart - 2022 - Cinsault, Mourvedre, Vermentino - 37 €
-  
 ### ESPAGNE
 - **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - 38 €
 - **Celler 9+** - 1r Escumosos - 2022 - Cartoixà - 39 €
@@ -160,7 +159,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewurztraminer, Riesling, Pinot Gris - 61 € 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
 - **Pépin** - Gewurztraminer, Pinot gris - 2022 - 38 €
-- **Domaine Einhart** - Colline des Anciens - Riesling, Gewurztraminer, Pinot Gris 2021 - 41 €
+- **Domaine Einhart** - Colline des Anciens - Riesling, Gewurztraminer, Pinot Gris 2021 - 41 € **Non disponible** 
 
 ### ARDECHE 
 - **Loublachon** - Inébriant - 2023 - Chardonnay, Viognier - 39 € 
@@ -180,7 +179,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - 48 € 
 
 ### ESPAGNE
-- **Celler 9+** - 3r - 2022 - Vermell Cartoixà - 39 € **Non disponible**
 - **Celler 9+** - 6è - 2022 - Muscat - 40 €
 - **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - 44€ 
 
@@ -206,22 +204,18 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Rouges 75cl
 
 ### ALSACE 
-- **Theo Einhart** - Pinot noir - 36 €
+- **Theo Einhart** - Pinot noir - 36 € **Non disponible** 
 
 ## ARDECHE 
 - **Loublachon** - Pétrichor - Grenache Noir - 36€
 - **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
 - **Les Bois Perdus** - Aphrodite - 2023 - Syrah, Grenache - 39 € **Non disponible**
-- **Les Bois Perdus** - Elle tremble - 2023 - Merlot - 38 €
+- **Les Bois Perdus** - Elle tremble - 2023 - Merlot - 38 € **Non disponible** 
   
 ### BEAUJOLAIS
-- **Nicolas Chemarin** - P'tit Grobis Appellation Beaujolais Villages 2023 - Gamay - 36 €
-- **Nicolas Chelarin** - Premier Jus AOP Beaujolais Village 2024 - Gamay 35 €
+- **Nicolas Chemarin** - P'tit Grobis Appellation Beaujolais Villages 2023 - Gamay - 36 € **Non disponible** 
   
-### AUVERGNE
-- **L'eau qui dort** - Nova - 2023 - Gamay infusé dans les marcs de chardonnay - 35 € 
-- **L'eau qui dort** - Toï-Toï - 2023 - Cinsault, Grenache, Gamay, Pinot noir - 37 €
-- **L'eau qui dort** - Bosco - 2023 - 90% Pinot noir, 10% Gamay - 39 € **Non Disponible**
+### AUVERGNE 
 - **L'eau qui dort** - Zeppa•o - 2022 - Barbera - 45 €
 
 ### JURA
@@ -241,25 +235,24 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Chai UVA** - Fruchtfleisch - 2023 - Merlot, Grenache, Colombier, Muscat - 40 €
 - **Kohki Iwata** - WA - 2023 - Cinsault, Pinot Noir - 35 € **Non disponible**
 - **Kohki Iwata** - Souriez - 2021 - Syrah - 35 €
-- **Kohki Iwata** - Pino‘c - 2022 - Pinot Noir - 37 €
+- **Kohki Iwata** - Pino‘c - 2022 - Pinot Noir - 37 € **Non disponible** 
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2016 - Pineau d’aunis - 133 € (150 cl)
 - **R. Guettier** - Enchanteresse - 2019 - Pineau d’aunis - 59 €
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - 52 €
 - **J-P Robinot** - Concerto - 2020 - Pineau d’aunis - 56 € 
-- **Domaine Mosse** - Bisou - 2022 - Grolleau gris, Grolleau noir, Côt - 38€
 - **Jérôme Lambert** - Le Zudefruit - 2020 - Grolleau - 40 € 
 - **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - 32 €
 - **Les Grandes Vignes** - 100% Groslot - 2022/ 2023 - Groslot - 35 €
 - **Les Grandes Vignes** - 100% Pineau d'Aunis - 2022/2023 - Pineau d’aunis - 37 €
   
 ### PYRÉNÉES-ORIENTALES
-- **Domaine Reveille** - Pointe Rouge - 2021 - Carignan, Grenache - 38 €
+- **Domaine Reveille** - Pointe Rouge - 2021 - Carignan, Grenache - 38 € **Non disponible** 
   
 ### SAVOIE
-- **France Gonzalvez** - Alpine - 2022 - Gamay - 44 €
 - **France Gonzalvez** - Toni P - 2022 - Pinot Noir - 48 €
+- **France Gonzalvez** - Alpine - 2022 - Gamay - 44€ 
 - **France Gonzalvez** - Miss Mond' - 2022 - Mondeuse - 55 €
 - **JY Peron** - Champ levat - 2020 - Mondeuse - 66 €
 
