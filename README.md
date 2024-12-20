@@ -129,7 +129,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Blancs 75cl
 ### ALSACE
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - 34 €
-- **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 35 € 
+- **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 35 € **Non disponible**
 - **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - 39 €
 
 ### BOURGOGNE
