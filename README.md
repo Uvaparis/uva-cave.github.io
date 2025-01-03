@@ -73,7 +73,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Pineau d'aunis - Famille Vaillant Les Grandes Vignes **7,50€** 
   
 ### Blancs
-- Zazou, Ardèche, Loublachon, Sauvignon Blanc, Belle salinité **7,50€** 
+- Pépin, Alsace, Limpide, arômes délicats d'agrumes **7,50€** 
 - P'tit Vaillant , Les Grandes Vignes,groslot cabernet, sec, frais, minéral  **7€**
 
 ### Orange
