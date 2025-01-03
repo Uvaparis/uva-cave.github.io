@@ -18,7 +18,7 @@ Bouteilles (75cl):
 
 **La Terre / The Land**
 - Olives vertes gros calibre **4 €**
-- Houmous de pois chiche **7 €**
+- Houmous de pois chiche **7 €** **Non disponible ** 
 
   
 **Fromages / Cheese**
