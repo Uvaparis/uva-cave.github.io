@@ -18,7 +18,7 @@ Bouteilles (75cl):
 
 **La Terre / The Land**
 - Olives vertes gros calibre **4 €**
-- Houmous de pois chiche **7 €** **Non disponible ** 
+- Houmous de pois chiche **7 €** 
 
   
 **Fromages / Cheese**
@@ -134,7 +134,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 90 €
-- **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 43 € 
+- **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 43 € **Non disponible**
 
 ### ARDECHE
 - **Loublachon** - Zazou 2023 - Sauvignon Blanc - 39 € 
