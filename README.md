@@ -70,7 +70,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges
 - Groslot 2023 - Famille Vaillant Les Grandes Vignes **7,50€** 
-- Pineau d'aunis - Famille Vaillant Les Grandes Vignes **7,50€** 
+- P'tit Vaillant grolot cabernet - Famille Vaillant Les Grandes Vignes **7€**
   
 ### Blancs
 - Pépin, Alsace, Limpide, arômes délicats d'agrumes **7,50€** 
