@@ -137,10 +137,11 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 43 € **Non disponible**
 
 ### ARDECHE
-- **Loublachon** - Zazou 2023 - Sauvignon Blanc - 39 € 
+- **Loublachon** - Zazou 2023 - Sauvignon Blanc - 39 € **Non disponible** 
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
+- **Tony Bornard** - Les Chassagnes - 2020 - Savagnin - 74€ 
 
 ### LOIRE
 - **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 €
@@ -222,7 +223,11 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Ratapoil** - L'ingénu - 2022 - Pinot Noir - 59 €
 - **Christelle et Gilles Wicky** - Trois cépages - 2021 - Poulsard, Trousseau, Gamay - 54 €
 - **L'oiseau rodeur** - Bagatelle - 2023 - Pinot noir - 49 € 
-- **L'oiseau rodeur** - Eau fugitive - 2023 - Poulsard - 49 € 
+- **L'oiseau rodeur** - Eau fugitive - 2023 - Poulsard - 49 €
+- **Novice** - Merci - 2021 - Poulsard - 54€
+- **Tony Bornard** - Le Pinot Ctambule - 2020 - Pinot - 48€
+- **Valentin Morel** - AOP Côtes du Jura Contrôlée - 2021 - Poulsard pinot trousseau 69€ 
+
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - 95 €
