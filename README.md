@@ -27,7 +27,7 @@ Bouteilles (75cl):
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Comté 24 mois, poivre du moulin, huile d'olives **8 €** 
 - Ossau Iraty Fermier, poivre du moulin, huile d'olives **9 €** 
-- Charolais fermier, poivre du moulin, huile d'olives **8 €** 
+- Le Gour Noir Fermier (chèvre), poivre du moulin, huile d'olives **8 €** 
 - Assiette de fromages, selection de fromages du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
@@ -69,7 +69,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Groslot 2023 - Famille Vaillant Les Grandes Vignes **7,50€** 
+- Pineau d'aunis - Famille Vaillant Les Grandes Vignes **7,50€** 
 - P'tit Vaillant grolot cabernet - Famille Vaillant Les Grandes Vignes **7€**
   
 ### Blancs
@@ -80,7 +80,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Pépin, Alsace, attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
 
 ### Bulles
-- Pet Nat, Kohki Iwata, Kadodépart, Cinsault, Mourvèdre, Vermentino **8 €**
+- Pet Nat, Bulle Nature Famille Vaillant Chardo, chenin  **8 €**
 - Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6,50 €**
 
 ### Cocktail
@@ -98,17 +98,12 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ## Bulles 75cl
 ### ALSACE
-- **Geschickt** - Crémant Brut Nature - 2017 - Assemblage de Pinots - 45 €
 - **Anna, André et Yann Durrmann** - Grizzling - Riesling, Pinot Blanc - 39 € **Non disponible**
 - **Anna, André et Yann Durrmann** - Toqué PG - Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 41 €
 - **Anna, André et Yann Durrmann** - Mu Ska-T - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 39 €
-- **Pépin** - Riesling, Gewurztraminer, Pinot gris, Silvaner - 2022 - 36 € **Non disponible**
-- **Theo Einhart** - Pet Nat - Pinot noir, Pinot gris, Gewurztraminer - 2023 - 35 € **Non disponible**
-
-### JURA
-- **Christelle & Yves Roy** - Novice - Chardonnay - 50 € 
+- **Pépin** - Riesling, Gewurztraminer, Pinot gris, Silvaner - 2022 - 36 € 
 
 ### LOIRE
 - **Les Grandes Vignes** - Bulle Nature - 2022 - Grolleau gris, Chenin, Cabernet Franc, Chardonnay - 38 €
@@ -134,7 +129,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 90 €
-- **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 43 € **Non disponible**
+- **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 43 €
 
 ### ARDECHE
 - **Loublachon** - Zazou 2023 - Sauvignon Blanc - 39 € **Non disponible** 
