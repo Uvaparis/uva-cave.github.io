@@ -129,7 +129,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 90 €
-- **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 43 €
+- **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 43 € **Non disponible**
 
 ### ARDECHE
 - **Loublachon** - Zazou 2023 - Sauvignon Blanc - 39 € **Non disponible** 
