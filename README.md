@@ -233,9 +233,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
 - **Chai UVA** - Sumo - 2022 - Cinsault, Carignan - 39 €
 - **Chai UVA** - Fruchtfleisch - 2023 - Merlot, Grenache, Colombier, Muscat - 40 €
-- **Kohki Iwata** - WA - 2023 - Cinsault, Pinot Noir - 35 € **Non disponible**
-- **Kohki Iwata** - Souriez - 2021 - Syrah - 35 €
-- **Kohki Iwata** - Pino‘c - 2022 - Pinot Noir - 37 € **Non disponible** 
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2016 - Pineau d’aunis - 133 € (150 cl)
