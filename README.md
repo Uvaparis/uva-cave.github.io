@@ -47,9 +47,10 @@ _Des allergies ? Prévenez-nous :) _
 ## Soft
 **Les filles de l’ouest** 33cl **5,5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Limonade
+Limonade / Rhubarbe / Citron Gilgembre / Menthe 
 
-**Oma Frida** Pétillant naturel sans alcool à base de jus de raisin (Syrah), verjus, infusions de plantes **23 €**
+**Oma Frida** 75 cl **23 €**
+Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de plantes 
 
 ## Bières
 
@@ -69,22 +70,24 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Pineau d'aunis - Famille Vaillant Les Grandes Vignes **7,50€** 
-- P'tit Vaillant grolot cabernet - Famille Vaillant Les Grandes Vignes **7€**
+- Pinte Fouillette - GAEC de Loublachon - Ardèche - Merlot  **7,50€** 
+- P'tit Vaillant - Famille Vaillant - Blanc de noir Grolot, Cabernet  **7€**
   
 ### Blancs
-- Pépin, Alsace, Limpide, arômes délicats d'agrumes **7,50€** 
-- P'tit Vaillant , Les Grandes Vignes,groslot cabernet, sec, frais, minéral  **7€**
+- Pépin - Alsace - Pinot blanc, Riesling - Arômes délicats d'agrumes **7,50€** 
+- Zazou - GAEC de Loublachon - Ardèche - Sauvignon blanc léger et gourmand **7,50 €**
 
 ### Orange
-- Pépin, Alsace, attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
+- Pépin - Alsace - Gewurztraminer, Muscat, Pinot gris, Auxerrois, Sylvaner - Attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
 
 ### Bulles
-- Pet Nat, Bulle Nature Famille Vaillant Chardo, chenin  **8 €**
-- Oma Frida, pétillant naturel sans alcool de jus de raisin (syrah), verjus et infusion de plantes **6,50 €**
+- Pet Nat - Bulle Nature - Famille Vaillant - Chardo, chenin  **8 €**
+  
+### Bulle Sans Alcool 
+- Oma Frida, pétillant naturel sans alcool de jus de raisin, verjus et infusion de plantes **6,50 €**
 
 ### Cocktail
-- Vermouth Cocktail - Vermouth - PetNat  **8€**
+- Vermouth Cocktail - Vermouth + Pétillant blanc  **8€**
 
 [haut de page](#menu)
 
