@@ -174,18 +174,18 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - 90 €
 
 ### JURA
-- **Alice Bouvot** - Mus’cat - 2021 - Muscat - 59 €
-- **Jérôme Arnoux** - Paradoxe - 2020 - Savagnin macéré - 52 €
-- **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération de 380 jours - 54€
-- **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - 48 € 
+- **Alice Bouvot** - Mus’cat - 2021 - Muscat - **59€**
+- **Jérôme Arnoux** - Paradoxe - 2020 - Savagnin macéré - **52€**
+- **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération de 380 jours - **54€**
+- **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - **48€**
 
 ### ESPAGNE
-- **Celler 9+** - 6è - 2022 - Muscat - 40 €
-- **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - 44€ 
+- **Celler 9+** - 6è - 2022 - Muscat - **40€**
+- **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - **44€**
 
 ### ITALIE
-- **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - 69 € (50cl)
-- **Alessandro Viola** - Sinfonia di Bianco - 2021 - Grillo - 61 €
+- **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - **69€** (50cl)
+- **Alessandro Viola** - Sinfonia di Bianco - 2021 - Grillo - **61€**
 
 [haut de page](#menu)
 
@@ -205,47 +205,44 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Rouges 75cl
 
 ### ALSACE 
-- **Theo Einhart** - Pinot noir - 36 € **Non disponible** 
+- **Pepin** - Alsace - Pinot noir - **43€** 
 
 ## ARDECHE 
-- **Loublachon** - Pétrichor - Grenache Noir - 36€
-- **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
-  
-### BEAUJOLAIS
-- **Nicolas Chemarin** - P'tit Grobis Appellation Beaujolais Villages 2023 - Gamay - 36 € **Non disponible** 
+- **Loublachon** - Pétrichor - Grenache Noir - **37€** 
+- **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
   
 ### AUVERGNE 
-- **L'eau qui dort** - Zeppa•o - 2022 - Barbera - 45 €
+- **L'eau qui dort** - Zeppa•o - 2022 - Barbera - **45€**
 
 ### JURA
-- **Ratapoil** - L'ingénu - 2022 - Pinot Noir - 59 €
-- **Christelle et Gilles Wicky** - Trois cépages - 2021 - Poulsard, Trousseau, Gamay - 54 €
-- **L'oiseau rodeur** - Bagatelle - 2023 - Pinot noir - 49 € 
-- **L'oiseau rodeur** - Eau fugitive - 2023 - Poulsard - 49 €
-- **Novice** - Merci - 2021 - Poulsard - 54€
-- **Tony Bornard** - Le Pinot Ctambule - 2020 - Pinot - 48€
-- **Valentin Morel** - AOP Côtes du Jura Contrôlée - 2021 - Poulsard pinot trousseau 69€ 
+- **Ratapoil** - L'ingénu - 2022 - Pinot Noir - **59€**
+- **Christelle et Gilles Wicky** - Trois cépages - 2021 - Poulsard, Trousseau, Gamay -**54€**
+- **L'oiseau rodeur** - Bagatelle - 2023 - Pinot noir - **49€**
+- **L'oiseau rodeur** - Eau fugitive - 2023 - Poulsard - **49€**
+- **Novice** - Merci - 2021 - Poulsard - **54€**
+- **Tony Bornard** - Le Pinot Ctambule - 2020 - Pinot - **48€**
+- **Valentin Morel** - AOP Côtes du Jura Contrôlée - 2021 - Poulsard, pinot, trousseau **69€**
 
 
 ### BOURGOGNE
-- **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - 95 €
-- **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - 43 €
-- **François Ecot** - L'insolent - 2023 - Pineau d'aunis, Pinot Noir - 46 € 
+- **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
+- **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - **43€**
+- **François Ecot** - L'insolent - 2023 - Pineau d'aunis, Pinot Noir - **46€**
 
 ### LANGUEDOC
-- **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - 48 €
-- **Chai UVA** - Sumo - 2022 - Cinsault, Carignan - 39 €
-- **Chai UVA** - Fruchtfleisch - 2023 - Merlot, Grenache, Colombier, Muscat - 40 €
+- **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - **48€**
+- **Chai UVA** - Sumo - 2022 - Cinsault, Carignan - **39€**
+- **Chai UVA** - Fruchtfleisch - 2023 - Merlot, Grenache, Colombier, Muscat - **40€**
 
 ### LOIRE
-- **R. Guettier** - Enchanteresse - 2016 - Pineau d’aunis - 133 € (150 cl)
-- **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - 52 €
-- **J-P Robinot** - Concerto - 2020 - Pineau d’aunis - 56 € 
-- **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - 32 €
-- **Les Grandes Vignes** - 100% Pineau d'Aunis - 2022/2023 - Pineau d’aunis - 37 €
+- **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
+- **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **52€**
+- **J-P Robinot** - Concerto - 2020 - Pineau d’aunis - **56€** 
+- **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - **32 €**
+- **Les Grandes Vignes** - Pineau d'Aunis - 2022/2023 - Pineau d’aunis - **37 €**
   
 ### PYRÉNÉES-ORIENTALES
-- **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache -
+- **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€** 
 - **Domaine Cotzé** - Samso 2023 - Cinsault - **43€**
   
 ### SAVOIE
