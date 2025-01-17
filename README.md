@@ -136,14 +136,13 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 43 € **Non disponible**
 
 ### ARDECHE
-- **Loublachon** - Zazou 2023 - Sauvignon Blanc - 39 € **Non disponible** 
+- **Loublachon** - Zazou 2023 - Sauvignon Blanc - 39 € 
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
 - **Tony Bornard** - Les Chassagnes - 2020 - Savagnin - 74€ 
 
 ### LOIRE
-- **Les Grandes Vignes** - Le P'tit Vaillant Blanc - 2022/ 2023 - Grolleau noir, Cabernet franc - 33 €
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 €
 
@@ -211,8 +210,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## ARDECHE 
 - **Loublachon** - Pétrichor - Grenache Noir - 36€
 - **Justine Vigne** - 1826 - 2021 - Carignan - 68 €
-- **Les Bois Perdus** - Aphrodite - 2023 - Syrah, Grenache - 39 € **Non disponible**
-- **Les Bois Perdus** - Elle tremble - 2023 - Merlot - 38 € **Non disponible** 
   
 ### BEAUJOLAIS
 - **Nicolas Chemarin** - P'tit Grobis Appellation Beaujolais Villages 2023 - Gamay - 36 € **Non disponible** 
@@ -242,27 +239,26 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### LOIRE
 - **R. Guettier** - Enchanteresse - 2016 - Pineau d’aunis - 133 € (150 cl)
-- **R. Guettier** - Enchanteresse - 2019 - Pineau d’aunis - 59 €
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - 52 €
 - **J-P Robinot** - Concerto - 2020 - Pineau d’aunis - 56 € 
 - **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - 32 €
 - **Les Grandes Vignes** - 100% Pineau d'Aunis - 2022/2023 - Pineau d’aunis - 37 €
   
 ### PYRÉNÉES-ORIENTALES
-- **Domaine Reveille** - Pointe Rouge - 2021 - Carignan, Grenache - 38 € **Non disponible** 
+- **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache -
+- **Domaine Cotzé** - Samso 2023 - Cinsault - **43€**
   
 ### SAVOIE
-- **France Gonzalvez** - Toni P - 2022 - Pinot Noir - 48 €
-- **France Gonzalvez** - Alpine - 2022 - Gamay - 44€ 
-- **France Gonzalvez** - Miss Mond' - 2022 - Mondeuse - 55 €
-- **JY Peron** - Champ levat - 2020 - Mondeuse - 66 €
+- **France Gonzalvez** - Toni P - 2022 - Pinot Noir - **48€** 
+- **France Gonzalvez** - Alpine - 2022 - Gamay - **44€** 
+- **France Gonzalvez** - Miss Mond' - 2022 - Mondeuse - **55€** 
+- **JY Peron** - Champ levat - 2020 - Mondeuse - **66€** 
 
   ### Espagne
-  - **Bodegas Coruña del Conde** - BCDC - 2019/2020 - Merlot - 44 €
-  - **Bodegas Coruña del Conde** - I'm natural don't panic 2022 - Trempranillo, Merlot, Cab sauvignon - 44 €
- 
-  - **La Senda** - 1984 - 2023 - Mencia - 44 €
-  - **La Senda** - La Barbacana - Alicante Bouschet - 44 € 
+  - **Bodegas Coruña del Conde** - BCDC - 2019/2020 - Merlot - **44€**
+  - **Bodegas Coruña del Conde** - I'm natural don't panic 2022 - Trempranillo, Merlot, Cab sauvignon - **44€** 
+  - **La Senda** - 1984 - 2023 - Mencia - **44€**
+  - **La Senda** - La Barbacana - Alicante Bouschet - **44€** 
 
 
 [haut de page](#menu)
