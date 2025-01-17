@@ -126,7 +126,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - 34 €
 - **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 35 € **Non disponible**
 - **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - 39 €
-
+- **Le Clos Liebau** - Riesling - 2023 - 45€
+- **Le Clos Liebau** - Sylvaner - 2023 - 45€ 
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 90 €
 - **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 43 € **Non disponible**
@@ -152,7 +153,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Oranges 75cl
 
 ### ALSACE
-- **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewurztraminer, Riesling, Pinot Gris - 61 € 
+- **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewurztraminer, Riesling, Pinot Gris - 61 €
+- **Le Clos Liebau** - Pinot gris, auxerois, une pointe de Gewurztraminer - 2023 - 40 €
+- **Le Clos Liebau** - L'oeuf ou la poule - Macération de 7 jours de Gewurztraminer - 2023 - 45€ 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
 - **Pépin** - Gewurztraminer, Pinot gris - 2022 - 38 €
 - **Domaine Einhart** - Colline des Anciens - Riesling, Gewurztraminer, Pinot Gris 2021 - 41 € **Non disponible** 
