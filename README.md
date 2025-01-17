@@ -179,6 +179,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération de 380 jours - **54€**
 - **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - **48€**
 
+## PYRENEES-ORIENTALES 
+- **Domaine Cotze** - Transhumancia - Muscat - Macération de 10 jours **43€** 
+
 ### ESPAGNE
 - **Celler 9+** - 6è - 2022 - Muscat - **40€**
 - **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - **44€**
@@ -208,7 +211,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Pepin** - Alsace - Pinot noir - **43€** 
 
 ## ARDECHE 
-- **Loublachon** - Pétrichor - Grenache Noir - **37€** 
+- **Loublachon** - Pétrichor - Grenache Noir - **37€**
+- **Loublachon** - Pinte Fouillette - Merlot - **37€** 
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
   
 ### AUVERGNE 
