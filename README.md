@@ -220,6 +220,12 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### AUVERGNE 
 - **L'eau qui dort** - Zeppa•o - 2022 - Barbera - **45€**
+- 
+
+## BEAUJOLAIS 
+- **Aperolibre** - Fabien Forest Appelation Beaujolais Village Protégée - 2024 - Gamay - **34€**
+- **Volcanic** - Fabien Forest Appelation Beaujolais Protegée - 2020 - Gamay - **36€**
+- **Granitic** - Fabien Forest Appelation Morgon Protégée  - 2020 - Gamay - **36€**
 
 ### JURA
 - **Ratapoil** - L'ingénu - 2022 - Pinot Noir - **59€**
