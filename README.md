@@ -52,6 +52,9 @@ Limonade / Rhubarbe / Citron Gilgembre / Menthe
 **Oma Frida** 75 cl **23 €**
 Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de plantes 
 
+**San Pellegrino** 33cl **4€** 
+Eau pétillante 
+
 ## Bières
 
 **IPA To ol Whirl Domination** 33cl **6,60 €** 
