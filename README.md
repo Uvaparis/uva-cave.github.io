@@ -74,7 +74,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges
 - Pinte Fouillette - GAEC de Loublachon - Ardèche - Merlot  **7,50€** 
-- P'tit Vaillant - Famille Vaillant - Blanc de noir Grolot, Cabernet  **7€**
+- Apéro Libre - Gamay   **7€**
   
 ### Blancs
 - Pépin - Alsace - Pinot blanc, Riesling - Arômes délicats d'agrumes **7,50€** 
