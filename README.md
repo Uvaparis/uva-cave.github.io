@@ -167,9 +167,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### ARDECHE 
 - **Loublachon** - Inébriant - 2023 - Chardonnay, Viognier - 39 € 
-  
-### AUVERGNE
-- **L'eau qui dort** - Tour de chauffe - 2023 - Maccabeu, Grenache Blanc - 39 € 
 
 ### SAVOIE
 - **France Gonzalvez** - Point de chute - 2022 - Jacquère - 48 €
