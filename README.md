@@ -22,11 +22,11 @@ Bouteilles (75cl):
 
   
 **Fromages / Cheese**
-- Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €** 
+- Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €** **Non disponible**
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Comté 24 mois, poivre du moulin, huile d'olives **8 €** 
-- Ossau Iraty Fermier, poivre du moulin, huile d'olives **9 €** 
+- Ossau Iraty Fermier, poivre du moulin, huile d'olives **9 €** **Non disponible**
 - Le Gour Noir Fermier (chèvre), poivre du moulin, huile d'olives **8 €** 
 - Assiette de fromages, selection de fromages du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
