@@ -217,7 +217,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### AUVERGNE 
 - **L'eau qui dort** - Zeppa•o - 2022 - Barbera - **45€**
-- 
 
 ## BEAUJOLAIS 
 - **Aperolibre** - Fabien Forest Appelation Beaujolais Village Protégée - 2024 - Gamay - **34€**
@@ -248,7 +247,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **52€**
 - **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - **Non disponible** 
-- **Les Grandes Vignes** - Pineau d'Aunis - 2022/2023 - Pineau d’aunis - **37 €**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€** 
