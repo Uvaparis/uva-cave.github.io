@@ -27,7 +27,6 @@ Bouteilles (75cl):
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Comté 24 mois, poivre du moulin, huile d'olives **8 €** 
 - Ossau Iraty Fermier, poivre du moulin, huile d'olives **9 €** 
-- Chèvre Sakura No Ha (Feuille de cerisier), poivre du moulin, huile d'olives **7 €**
 - Assiette de fromages, selection de fromages du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
@@ -100,7 +99,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 - Poiré demi sec, melange Cressane, Conférence et Louise Bonne **24 €**
 
-- Cidre Vicious - Fred Pruchon - Cidre Brut 2022 - 9 variétés de pommes à cidre **26** 
+- Cidre Vicious - Fred Pruchon - Cidre Brut 2022 - 9 variétés de pommes à cidre **26€** 
   
 ## Bulles 75cl
 ### ALSACE
@@ -121,9 +120,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### HONGRIE
 - **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - 55€
-
-## Champagne 75cl
-- **Françoise Martinot** - Bistrotage Brut - 2017 - Pinot Noir - 89 €
 
 [haut de page](#menu)
 
@@ -235,12 +231,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
-- **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - **43€**
-- **François Ecot** - L'insolent - 2023 - Pineau d'aunis, Pinot Noir - **46€**
+- **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - **43€** **Non disponible** 
 
 ### LANGUEDOC
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - **48€**
-- **Chai UVA** - Sumo - 2022 - Cinsault, Carignan - **39€**
 - **Chai UVA** - Fruchtfleisch - 2023 - Merlot, Grenache, Colombier, Muscat - **40€**
 
 ### LOIRE
