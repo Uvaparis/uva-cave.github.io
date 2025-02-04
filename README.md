@@ -14,7 +14,7 @@ Bouteilles (75cl):
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
 
-# Assiettes à partager
+## Assiettes à partager
 
 **La Terre / The Land**
 - Olives vertes gros calibre **4 €**
