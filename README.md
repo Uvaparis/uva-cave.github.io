@@ -25,7 +25,7 @@ Bouteilles (75cl):
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €** 
 - Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
-- Comté 24 mois, poivre du moulin, huile d'olives **8 €** **Non disponible** 
+- Comté 24 mois, poivre du moulin, huile d'olives **8 €**
 - Ossau Iraty Fermier, poivre du moulin, huile d'olives **9 €** 
 - Assiette de fromages, selection de fromages du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
@@ -73,7 +73,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges
 - Pinte Fouillette - GAEC de Loublachon - Ardèche - Merlot  **7,50€** 
-- Apéro Libre - Gamay   **7€**
+- Groslot - Famille Vaillant - Loire  **7,50€** 
   
 ### Blancs
 - Pépin - Alsace - Pinot blanc, Riesling - Arômes délicats d'agrumes **7,50€** 
@@ -111,39 +111,40 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Pépin** - Riesling, Gewurztraminer, Pinot gris, Silvaner - 2022 - 36 € 
 
 ### LOIRE
-- **Les Grandes Vignes** - Bulle Nature - 2022 - Grolleau gris, Chenin, Cabernet Franc, Chardonnay - 38 €
-- **Domaine Mosse** - Moussamoussette - 2021 - Grolleau gris, Pineau d'aunis - 39 €
+- **Les Grandes Vignes** - Bulle Nature - 2022 - Grolleau gris, Chenin, Cabernet Franc, Chardonnay - **38€**
+- **Domaine Mosse** - Moussamoussette - 2021 - Grolleau gris, Pineau d'aunis - **39 €**
 
 ### ESPAGNE
-- **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - 38 €
-- **Celler 9+** - 1r Escumosos - 2022 - Cartoixà - 39€ 
+- **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - **38 €**
+- **Celler 9+** - 1r Escumosos - 2022 - Cartoixà - **39€**
   
 ### HONGRIE
-- **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - 55€
+- **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - **55€**
 
 [haut de page](#menu)
 
 ## Blancs 75cl
 ### ALSACE
-- **Pépin** - Assemblage de cépages alsaciens - 2022 - 34 €
+- **Pépin** - Assemblage de cépages alsaciens - 2022 - **34 €**
 - **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 35 € **Non disponible**
-- **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - 39 €
-- **Le Clos Liebau** - Riesling - 2023 - 45€
-- **Le Clos Liebau** - Sylvaner - 2023 - 45€ 
+- **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - **39 €**
+- **Le Clos Liebau** - Riesling - 2023 - **45€**
+- **Le Clos Liebau** - Sylvaner - 2023 - **45€** 
 ### BOURGOGNE
-- **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - 90 €
+- **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - **90 €** 
 - **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 43 € **Non disponible**
 
 ### ARDECHE
-- **Loublachon** - Zazou 2023 - Sauvignon Blanc - 39 € 
+- **Loublachon** - Zazou 2023 - Sauvignon Blanc - **39 €** 
 
 ### JURA
-- **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - 156 € (150cl)
-- **Tony Bornard** - Les Chassagnes - 2020 - Savagnin - 74€ 
+- **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
+- **Tony Bornard** - Les Chassagnes - 2020 - Savagnin - **74€** 
 
 ### LOIRE
-- **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - 37 €
-- **Les Grandes Vignes** - La Varenne du Poirier - Chenin - 42 €
+- **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - **37 €** 
+- **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **42 €**
+- **Les Grandes Vignes** - Le P'tit Vaillant blanc de noir - Groslot Cabernet **33 €** 
 
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - 55 €
@@ -240,7 +241,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **52€**
-- **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc - **Non disponible** 
+- **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc **32 €** 
+- **Les Grandes Vignes** - Pineau d'Aunis 2023 - **37 €**
+- **Les Grandes Vignes** - Groslot 2023 - **35 €** 
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€** 
