@@ -72,7 +72,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Pinte Fouillette - GAEC de Loublachon - Ardèche - Merlot  **7,50€** 
+- Pétrichor - GAEC de Loublachon - Ardèche - Grenache  **7,50€** 
 - Groslot - Famille Vaillant - Loire  **7,50€** 
   
 ### Blancs
