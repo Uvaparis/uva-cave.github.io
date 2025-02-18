@@ -88,9 +88,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### Bulle Sans Alcool 
 - Oma Frida, pétillant naturel sans alcool de jus de raisin, verjus et infusion de plantes **6,50 €**
 
-### Cocktail
-- Vermouth Cocktail - Vermouth + Pétillant blanc  **8€**
-
 [haut de page](#menu)
 
 ## Cidres
@@ -103,7 +100,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ## Bulles 75cl
 ### ALSACE
-- **Anna, André et Yann Durrmann** - Grizzling - Riesling, Pinot Blanc - 39 € **Non disponible**
+- **Domaine Einhart** - Pet Nat de Théo - Sylvaner, Gewurztraminer **36**
 - **Anna, André et Yann Durrmann** - Toqué PG - Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 41 €
@@ -126,7 +123,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Blancs 75cl
 ### ALSACE
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - **34 €**
-- **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 35 € **Non disponible**
+- **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 35 € 
 - **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - **39 €**
 - **Le Clos Liebau** - Riesling - 2023 - **45€**
 - **Le Clos Liebau** - Sylvaner - 2023 - **45€** 
@@ -160,7 +157,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Le Clos Liebau** - L'oeuf ou la poule - Macération de 7 jours de Gewurztraminer - 2023 - 45€ 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
 - **Pépin** - Gewurztraminer, Pinot gris - 2022 - 38 €
-- **Domaine Einhart** - Colline des Anciens - Riesling, Gewurztraminer, Pinot Gris 2021 - 41 € **Non disponible** 
+- **Domaine Einhart** - Puls'Art Macération Gewurztraminer macération 1 semaine **39€**
+- **Domaine Einhart** - Westerberg Geswurstraminer, riesling **45€** 
 
 ### ARDECHE 
 - **Loublachon** - Inébriant - 2023 - Chardonnay, Viognier - 39 € 
@@ -206,7 +204,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### ALSACE 
 - **Pepin** - Alsace - Pinot noir - **43€** 
-
+- **Domaine Einhart** - Alsace - Pinot noir - **36**
+  
 ## ARDECHE 
 - **Loublachon** - Pétrichor - Grenache Noir - **37€**
 - **Loublachon** - Pinte Fouillette - Merlot - **37€** 
