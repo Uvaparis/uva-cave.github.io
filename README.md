@@ -56,11 +56,11 @@ Eau pétillante
 
 ## Bières
 
-**IPA To ol Whirl Domination** 33cl **6,60 €** 
+**IPA To ol Whirl Domination** 33cl **6,60 €** **Non disponible** 
 Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue 
 et de fruits tropicaux
 
-**Organic pilsner 45 days To ol** 33cl **6,50 €** 
+**Organic pilsner 45 days To ol** 33cl **6,50 €** **Non disponible**
 Bière Blonde aux saveurs de cereales et de houblon, amertume modérée 
 
 **Implosion To ol** 33cl **5,50 €**
@@ -73,7 +73,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges
 - Pétrichor - GAEC de Loublachon - Ardèche - Grenache  **7,50€** 
-- Groslot - Famille Vaillant - Loire  **7,50€** 
+- P'tit Vaillant - Blanc de noir - Groslot Cabernet - Loire **7€** 
   
 ### Blancs
 - Pépin - Alsace - Pinot blanc, Riesling - Arômes délicats d'agrumes **7,50€** 
