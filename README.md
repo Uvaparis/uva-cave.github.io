@@ -100,7 +100,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ## Bulles 75cl
 ### ALSACE
-- **Domaine Einhart** - Pet Nat de Théo - Sylvaner, Gewurztraminer **36**
+- **Domaine Einhart** - Pet Nat de Théo - Sylvaner, Gewurztraminer **36€**
 - **Anna, André et Yann Durrmann** - Toqué PG - Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 41 €
@@ -123,8 +123,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Blancs 75cl
 ### ALSACE
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - **34 €**
-- **Domaine Einhart** - Auxerrois, Pinot Blanc, Muscat, Riesling - 2023 - 35 € 
-- **Domaine Einhart** - Puls'art - Gewurztraminer - 2022 - **39 €**
+- **Domaine Einhart** - Auxerrois - 2024 - 35 € 
 - **Le Clos Liebau** - Riesling - 2023 - **45€**
 - **Le Clos Liebau** - Sylvaner - 2023 - **45€** 
 ### BOURGOGNE
@@ -214,8 +213,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### AUVERGNE 
 - **L'eau qui dort** - Zeppa•o - 2022 - Barbera - **45€**
 
-## BEAUJOLAIS 
-- **Aperolibre** - Fabien Forest Appelation Beaujolais Village Protégée - 2024 - Gamay - **34€**
+## BEAUJOLAIS
 - **Volcanic** - Fabien Forest Appelation Beaujolais Protegée - 2020 - Gamay - **36€**
 - **Granitic** - Fabien Forest Appelation Morgon Protégée  - 2020 - Gamay - **36€**
 
