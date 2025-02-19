@@ -128,7 +128,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - 
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - **90 €** 
-- **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 43 € **Non disponible**
+- **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - **43 €**
 
 ### ARDECHE
 - **Loublachon** - Zazou 2023 - Sauvignon Blanc - **39 €** 
@@ -233,7 +233,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
-- **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - **43€** **Non disponible** 
+- **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - **43€** 
 
 ### LANGUEDOC
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - **48€**
