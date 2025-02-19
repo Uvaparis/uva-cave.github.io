@@ -56,11 +56,11 @@ Eau pétillante
 
 ## Bières
 
-**IPA To ol Whirl Domination** 33cl **6,60 €** **Non disponible** 
+**IPA To ol Whirl Domination** 33cl **6,60 €** 
 Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue 
 et de fruits tropicaux
 
-**Organic pilsner 45 days To ol** 33cl **6,50 €** **Non disponible**
+**Organic pilsner 45 days To ol** 33cl **6,50 €** 
 Bière Blonde aux saveurs de cereales et de houblon, amertume modérée 
 
 **Implosion To ol** 33cl **5,50 €**
@@ -125,7 +125,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - **34 €**
 - **Domaine Einhart** - Auxerrois - 2024 - 35 € 
 - **Le Clos Liebau** - Riesling - 2023 - **45€**
-- **Le Clos Liebau** - Sylvaner - 2023 - **45€** 
+- **Le Clos Liebau** - Sylvaner - 2023 - **45€**
+- 
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - **90 €** 
 - **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - 43 € **Non disponible**
@@ -140,7 +141,11 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### LOIRE
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - **37 €** 
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **42 €**
-- **Les Grandes Vignes** - Le P'tit Vaillant blanc de noir - Groslot Cabernet **33 €** 
+- **Les Grandes Vignes** - Le P'tit Vaillant blanc de noir - Groslot Cabernet **33 €**
+
+### SAVOIE 
+- **Guillaume Cancelloni** - Dégaine - Cairn - Jacquère - **40 €**
+- **Guillaule Cancelloni** - Dégaine - Les Cosmiques - Altesse - **42 €** 
 
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - 55 €
@@ -250,7 +255,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **France Gonzalvez** - Toni P - 2022 - Pinot Noir - **48€** 
 - **France Gonzalvez** - Alpine - 2022 - Gamay - **44€** 
 - **France Gonzalvez** - Miss Mond' - 2022 - Mondeuse - **55€** 
-- **JY Peron** - Champ levat - 2020 - Mondeuse - **66€** 
+- **JY Peron** - Champ levat - 2020 - Mondeuse - **66€**
+- **Guillaume Cancelloni** - Dégaine - Cerro Chalten - Pinot noir **44€**
 
   ### Espagne
   - **Bodegas Coruña del Conde** - BCDC - 2019/2020 - Merlot - **44€**
