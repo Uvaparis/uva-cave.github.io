@@ -71,8 +71,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Pétrichor - GAEC de Loublachon - Ardèche - Grenache  **7,50€** 
-- P'tit Vaillant - Blanc de noir - Groslot Cabernet - Loire **7€** 
+- Théo Einhart - Alsace - Pinot Noir   **7,50€** 
+- P'tit Vaillant - Blanc de noir - Groslot Cabernet - Loire **7€**
+  
   
 ### Blancs
 - Pépin - Alsace - Pinot blanc, Riesling - Arômes délicats d'agrumes **7,50€** 
