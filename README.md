@@ -82,7 +82,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Pépin - Alsace - Gewurztraminer, Muscat, Pinot gris, Auxerrois, Sylvaner - Attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
 
 ### Bulles
-- Pet Nat - Bulle Nature - Famille Vaillant - Chardo, chenin  **8 €**
+- Pet Nat - WA Sud - Kadodépart - Cinsault, Mourvèdre - Arômes de fruits blancs de roses et d'agrumes  **8 €**
   
 ### Bulle Sans Alcool 
 - Oma Frida, pétillant naturel sans alcool de jus de raisin, verjus et infusion de plantes **6,50 €**
