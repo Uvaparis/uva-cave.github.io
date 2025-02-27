@@ -72,15 +72,18 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges
 - Théo Einhart - Alsace - Pinot Noir   **7,50€** 
-- P'tit Vaillant - Blanc de noir - Groslot Cabernet - Loire **7€**
+- Aphrodite - Les Bois Perdus - Syrah, Grenache **7,50**
   
   
 ### Blancs
 - Pépin - Alsace - Pinot blanc, Riesling - Arômes délicats d'agrumes **7,50€** 
 - Zazou - GAEC de Loublachon - Ardèche - Sauvignon blanc léger et gourmand **7,50 €**
+- P'tit Vaillant - Blanc de Noir - Groslot, Cabernet - Sec, minéral **7,50**
 
 ### Orange
 - Pépin - Alsace - Gewurztraminer, Muscat, Pinot gris, Auxerrois, Sylvaner - Attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
+
+- Transumancia - Wilfried Garcia - Roussillon - Muscat - **8€** Belle macération aromatique **8€**
 
 ### Bulles
 - Pet Nat - WA Sud - Kadodépart - Cinsault, Mourvèdre - Arômes de fruits blancs de roses et d'agrumes  **8 €**
