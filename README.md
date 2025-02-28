@@ -207,12 +207,15 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Rouges 75cl
 
 ### ALSACE 
-- **Pepin** - Alsace - Pinot noir - **43€** 
-- **Domaine Einhart** - Alsace - Pinot noir - **36**
+- **Pepin** - Alsace - Pinot Noir - **43€** 
+- **Domaine Einhart** - Alsace - Pinot noir - **36€** 
   
 ## ARDECHE 
 - **Loublachon** - Pétrichor - Grenache Noir - **37€**
-- **Loublachon** - Pinte Fouillette - Merlot - **37€** 
+- **Les Bois Perdus** - Elle danse - Merlot, Cinsault, Grenache - **38€**
+- **Les Bois Perdus** - Embrasse moi - Grenache Noir - **37€**
+- **Les Bois Perdus** - Aphrodite - Syrah, Grenache - **39€**
+- **Les Bois Perdus** - Elle Tremble - Merlot - **38€**
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
   
 ### AUVERGNE 
