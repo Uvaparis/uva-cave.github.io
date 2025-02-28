@@ -71,22 +71,19 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Théo Einhart - Alsace - Pinot Noir   **7,50€** 
-- Aphrodite - Les Bois Perdus - Syrah, Grenache **7,50**
+- Théo Einhart - Alsace - Pinot Noir - Arômes de cerise noire, léger et velouté  **7,50€** 
+- Aphrodite - Les Bois Perdus - Ardèche - Syrah, Grenache - Solaire, tannins soyeux **7,50**
   
   
 ### Blancs
-- Pépin - Alsace - Pinot blanc, Riesling - Arômes délicats d'agrumes **7,50€** 
-- Zazou - GAEC de Loublachon - Ardèche - Sauvignon blanc léger et gourmand **7,50 €**
-- P'tit Vaillant - Blanc de Noir - Groslot, Cabernet - Sec, minéral **7,50**
+- Théo Einhart - Alsace - Auxerrois - Sec et salin, saveurs de poire **7,50€**
+- P'tit Vaillant - Blanc de Noir - Groslot, Cabernet - Sec, minéral **7,50€**
 
 ### Orange
 - Pépin - Alsace - Gewurztraminer, Muscat, Pinot gris, Auxerrois, Sylvaner - Attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
 
-- Transumancia - Wilfried Garcia - Roussillon - Muscat - **8€** Belle macération aromatique **8€**
-
-### Bulles
-- Pet Nat - WA Sud - Kadodépart - Cinsault, Mourvèdre - Arômes de fruits blancs de roses et d'agrumes  **8 €**
+### Bulle
+- Théo Einhart - Gewurztraminer, pinot noir - Frais et lèger, arômes de citron et de pêche **8 €**
   
 ### Bulle Sans Alcool 
 - Oma Frida, pétillant naturel sans alcool de jus de raisin, verjus et infusion de plantes **6,50 €**
@@ -103,7 +100,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ## Bulles 75cl
 ### ALSACE
-- **Domaine Einhart** - Pet Nat de Théo - Sylvaner, Gewurztraminer **36€**
+- **Domaine Einhart** - Pet Nat de Théo - Gewurztraminer, pinot noir **36€**
 - **Anna, André et Yann Durrmann** - Toqué PG - Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 41 €
