@@ -178,7 +178,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération de 380 jours - **54€**
 - **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - **48€**
 
-## PYRENEES-ORIENTALES 
+### PYRENEES-ORIENTALES 
 - **Domaine Cotze** - Transhumancia - Muscat - Macération de 10 jours **43€** 
 
 ### ESPAGNE
@@ -210,7 +210,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Pepin** - Alsace - Pinot Noir - **43€** 
 - **Domaine Einhart** - Alsace - Pinot noir - **36€** 
   
-## ARDECHE 
+### ARDECHE 
 - **Loublachon** - Pétrichor - Grenache Noir - **37€**
 - **Les Bois Perdus** - Elle danse - Merlot, Cinsault, Grenache - **38€**
 - **Les Bois Perdus** - Embrasse moi - Grenache Noir - **37€**
@@ -221,9 +221,12 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### AUVERGNE 
 - **L'eau qui dort** - Zeppa•o - 2022 - Barbera - **45€**
 
-## BEAUJOLAIS
-- **Volcanic** - Fabien Forest Appelation Beaujolais Protegée - 2020 - Gamay - **36€**
-- **Granitic** - Fabien Forest Appelation Morgon Protégée  - 2020 - Gamay - **36€**
+### BEAUJOLAIS
+- **Volcanic** - Fabien Forest Appelation Beaujolais Protegée - 2020 - Gamay - **36€** **non disponible**
+- **Granitic** - Fabien Forest Appelation Morgon Protégée  - 2020 - Gamay - **36€** 
+- **Easy game** - Maï LAM et Sébastien MORIN - 2023 - Gamay - **39 €**
+- **L'indigene**- Maï LAM - 2023 - Gamay - **À venir**
+- **La passion du produit**- Sébastien Morin - Cinsault - **À venir**
 
 ### JURA
 - **Ratapoil** - L'ingénu - 2022 - Pinot Noir - **59€**
@@ -233,7 +236,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Novice** - Merci - 2021 - Poulsard - **54€**
 - **Tony Bornard** - Le Pinot Ctambule - 2020 - Pinot - **48€**
 - **Valentin Morel** - AOP Côtes du Jura Contrôlée - 2021 - Poulsard, pinot, trousseau **69€**
-
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
