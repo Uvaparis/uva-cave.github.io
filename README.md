@@ -123,7 +123,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Blancs 75cl
 ### ALSACE
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - **34 €**
-- **Domaine Einhart** - Auxerrois - 2024 - 35 € 
+- **Domaine Einhart** - Auxerrois - 2024 - **35 €** 
 - **Le Clos Liebau** - Riesling - 2023 - **45€**
 - **Le Clos Liebau** - Sylvaner - 2023 - **45€**
 - 
@@ -148,18 +148,18 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Guillaule Cancelloni** - Dégaine - Les Cosmiques - Altesse - **42 €** 
 
 ### HONGRIE
-- **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - 55 €
-- **Istvan Bencze** - Riesling - 2020 - Riesling - 58 €
+- **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - **55 €**
+- **Istvan Bencze** - Riesling - 2020 - Riesling - **58 €**
 
 [haut de page](#menu)
 
 ## Oranges 75cl
 
 ### ALSACE
-- **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewurztraminer, Riesling, Pinot Gris - 61 €
-- **Le Clos Liebau** - Pinot gris, auxerois, une pointe de Gewurztraminer - 2023 - 40 €
-- **Le Clos Liebau** - L'oeuf ou la poule - Macération de 7 jours de Gewurztraminer - 2023 - 45€ 
-- **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - 140 € (150 cl)
+- **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewurztraminer, Riesling, Pinot Gris - **61 €**
+- **Le Clos Liebau** - Pinot gris, auxerois, une pointe de Gewurztraminer - 2023 - **40 €**
+- **Le Clos Liebau** - L'oeuf ou la poule - Macération de 7 jours de Gewurztraminer - 2023 - **45€** 
+- **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - **140 €** (150 cl)
 - **Pépin** - Gewurztraminer, Pinot gris - 2022 - 38 €
 - **Domaine Einhart** - Puls'Art Macération Gewurztraminer macération 1 semaine **39€**
 - **Domaine Einhart** - Westerberg Geswurstraminer, riesling **45€** 
@@ -168,9 +168,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Loublachon** - Inébriant - 2023 - Chardonnay, Viognier - 39 € 
 
 ### SAVOIE
-- **France Gonzalvez** - Point de chute - 2022 - Jacquère - 48 €
-- **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - 77 €
-- **J-Y Peron** - La Grande Journée - 2020 - Altesse - 90 €
+- **France Gonzalvez** - Point de chute - 2022 - Jacquère - **48 €**
+- **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - **77 €**
+- **J-Y Peron** - La Grande Journée - 2020 - Altesse - **90 €**
 
 ### JURA
 - **Alice Bouvot** - Mus’cat - 2021 - Muscat - **59€**
@@ -222,11 +222,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **L'eau qui dort** - Zeppa•o - 2022 - Barbera - **45€**
 
 ### BEAUJOLAIS
-- **Volcanic** - Fabien Forest Appelation Beaujolais Protegée - 2020 - Gamay - **36€** **non disponible**
-- **Granitic** - Fabien Forest Appelation Morgon Protégée  - 2020 - Gamay - **36€** 
-- **Easy game** - Maï LAM et Sébastien MORIN - 2023 - Gamay - **39 €**
-- **L'indigene**- Maï LAM - 2023 - Gamay - **À venir**
-- **La passion du produit**- Sébastien Morin - Cinsault - **À venir**
+- **Easy game** - Maï Lam et Sébastien Morin - 2023 - Gamay - **40€**
+- **L'indigene** - Beaujolais-Villages - Maï Lam et Sébastien Morin - 2023 - Gamay - **41€**
+- **La passion du produit** - Maï Lam et Sébastien Morin - 2023 - Gamay - **45€** 
 
 ### JURA
 - **Ratapoil** - L'ingénu - 2022 - Pinot Noir - **59€**
