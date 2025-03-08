@@ -71,7 +71,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Théo Einhart - Alsace - Pinot Noir - Arômes de cerise noire, léger et velouté  **7,50€** 
+- Domaine Vaillant - Pineau d'Aunis - Léger, poivré, fruits rouges   **7,50€** 
 - Aphrodite - Les Bois Perdus - Ardèche - Syrah, Grenache - Solaire, tannins soyeux **7,50**
   
   
