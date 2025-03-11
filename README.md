@@ -16,7 +16,7 @@ Bouteilles (75cl):
   
   Résidence Bryan Debouche en cuisine du Mardi 11 Mars au Samedi 15 Mars 2025
   
-## Assiettes
+## Assiettes à partager
 
 - Olives vertes gros calibre **4 €**
 - Croissant fourré, boudin noir, morbier, sauce katsuobushi **12 €**
