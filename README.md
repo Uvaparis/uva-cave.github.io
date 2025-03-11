@@ -201,7 +201,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### ALSACE 
 - **Pepin** - Alsace - Pinot Noir - **43€** 
-- **Domaine Einhart** - Alsace - Pinot noir - **36€** 
+- **Domaine Einhart** - Alsace - Pinot noir - **36€** **Non disponible**
   
 ### ARDECHE 
 - **Loublachon** - Pétrichor - Grenache Noir - **37€**
