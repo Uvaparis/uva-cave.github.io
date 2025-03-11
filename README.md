@@ -13,29 +13,22 @@ Bouteilles (75cl):
 - [Oranges](#oranges-75cl)
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
-
-## Assiettes à partager
-
-**La Terre / The Land**
-- Olives vertes gros calibre **4 €**
-- Houmous de pois chiche **7 €** 
-
   
-**Fromages / Cheese**
-- Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €** 
-- Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
-- Tomme de brebis caussenarde affinée (Millau) **9 €** 
-- Comté 24 mois, poivre du moulin, huile d'olives **8 €**
-- Assiette de fromages, selection de fromages du moment **25 €**
-- Assiette mixte, fromages et charcuteries du moment **25 €**
+  Résidence Bryan Debouche en cuisine du Mardi 11 Mars au Samedi 15 Mars 2025
+  
+## Assiettes
 
-**Viande / Meat**
-- Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
-- Coppa d'Italie **9,5 €**
-- Boeuf séché - Dried beef **10 €**
-- Pâté de campagne Maison Montalet **10 €**
-- Assiette de charcuterie, selection de charcuterie du moment **25 €**
-- Assiette mixte, fromages et charcuteries du moment **25 €**
+- Olives vertes gros calibre **4 €**
+- Croissant fourré, boudin noir, morbier, sauce katsuobushi **12 €**
+- Sardine, coppa, épinards **8 €**
+- Aburi de boeuf de l'Aubrac **13€**
+- Pain perdu salé, oeuf confit, oeufs de truite **9€**
+- Couteaux confits à l'huile d'agrumes, lait ribot, boudin blanc grillée et agrumes **9€**
+- Millefeuille aux pleurotes, jaunes d'oeuf confit (VG) **9€**
+- Assiette de fromages, Saint-Maur de Touraine, Comté 18 mois, Bleu des Loubières fermier, Morbier, Saint-Nectaire **13,50€**
+- Pain perdu façon crème brulée aux agrumes **9€** 
+
+
 _Des allergies ? Prévenez-nous :) _
    
 [haut de page](#menu)
