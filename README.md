@@ -14,7 +14,7 @@ Bouteilles (75cl):
 - [Rosés](#rosés-75cl)
 - [Rouges](#rouges-75cl)
   
-  Résidence Bryan Debouche en cuisine du Mardi 11 Mars au Samedi 15 Mars 2025
+  **Résidence Bryan Debouche en cuisine du Mardi 11 Mars au Samedi 15 Mars 2025**
   
 ## Assiettes à partager
 
