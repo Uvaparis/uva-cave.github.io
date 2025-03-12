@@ -25,7 +25,7 @@ Bouteilles (75cl):
 - Pain perdu salé, oeuf confit, oeufs de truite **9€**
 - Couteaux confits à l'huile d'agrumes, lait ribot, boudin blanc grillée et agrumes **9€**
 - Millefeuille aux pleurotes, jaunes d'oeuf confit (VG) **9€**
-- Assiette de fromages, Saint-Maur de Touraine, Comté 18 mois, Bleu des Loubières fermier, Morbier, Saint-Nectaire **13,50€**
+- Assiette de fromages, Saint-Maur de Touraine, Comté 18 mois, Bleu des Loubières fermier, Morbier, Saint-Nectaire **15€**
 - Pain perdu façon crème brulée aux agrumes **9€** 
 
 
