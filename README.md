@@ -21,7 +21,7 @@ Bouteilles (75cl):
 - Olives vertes gros calibre **4 €**
 - Croissant fourré, boudin noir, morbier, sauce katsuobushi **12 €**
 - Sardine, coppa, épinards **9 €**
-- Aburi de boeuf de l'Aubrac, oeuf de truite et bourgeons d'ail des ours **13€**
+- Aburi de boeuf de l'Aubrac, oeuf de truite et bourgeons d'ail des ours **14€**
 - Pain perdu salé, oeuf confit, oeufs de truite **11€**
 - Couteaux confits à l'huile d'agrumes, lait ribot, boudin blanc grillée et agrumes **12€**
 - Millefeuille aux pleurotes, jaunes d'oeuf confit (VG) **12€** 
