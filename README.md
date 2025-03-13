@@ -64,7 +64,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Domaine Vaillant - Pineau d'Aunis - Léger, poivré, fruits rouges   **7,50€** 
+- Théo Einhart - Alsace - Pinot noir - Arômes de cerise noire, léger et velouté **7,50€** 
 - Aphrodite - Les Bois Perdus - Ardèche - Syrah, Grenache - Solaire, tannins soyeux **7,50**
   
   
@@ -101,7 +101,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Pépin** - Riesling, Gewurztraminer, Pinot gris, Silvaner - 2022 - 36 € 
 
 ### LOIRE
-- **Les Grandes Vignes** - Bulle Nature - 2022 - Grolleau gris, Chenin, Cabernet Franc, Chardonnay - **38€**
 - **Domaine Mosse** - Moussamoussette - 2021 - Grolleau gris, Pineau d'aunis - **39 €**
 
 ### ESPAGNE
@@ -119,7 +118,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Domaine Einhart** - Auxerrois - 2024 - **35 €** 
 - **Le Clos Liebau** - Riesling - 2023 - **45€**
 - **Le Clos Liebau** - Sylvaner - 2023 - **45€**
-- 
+  
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - **90 €** 
 - **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - **43 €**
@@ -201,7 +200,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### ALSACE 
 - **Pepin** - Alsace - Pinot Noir - **43€** 
-- **Domaine Einhart** - Alsace - Pinot noir - **36€** **Non disponible**
+- **Domaine Einhart** - Alsace - Pinot noir - **36€**
   
 ### ARDECHE 
 - **Loublachon** - Pétrichor - Grenache Noir - **37€**
