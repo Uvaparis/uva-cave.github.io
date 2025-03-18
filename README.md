@@ -21,10 +21,10 @@ Bouteilles (75cl):
 - Olives vertes gros calibre **4 €**
 - Croissant fourré, boudin noir, morbier, sauce katsuobushi **12 €**
 - Aburi de boeuf de l'Aubrac, oeuf de truite et bourgeons d'ail des ours **14€**
-- Pain perdu salé, persil, câpres, citron, oeufs de truite **10€**
+- Pain perdu salé, boudin blanc, persil, câpres, citron **10€**
 - Tartine pain beurre harissa sardine grillé **12€** 
 - Millefeuille aux pleurotes, soja noir  **12€** 
-- Assiette de fromages, Saint-Maur de Touraine, Comté 18 mois, Bleu des Loubières fermier, Le Sablé de Wissant, Saint-Nectaire **15€**
+- Assiette de fromages, Saint-Maur de Touraine, Comté 18 mois, Bleu des Loubières fermier, pavé de Wissant, Saint-Nectaire **15€**
 - Pain perdu façon crème brulée aux agrumes **10€** 
 
 
