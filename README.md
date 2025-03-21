@@ -24,9 +24,8 @@ Bouteilles (75cl):
 - Snack, boudin blanc, persil, câpres, citron **10€**
 - Double tartine, pain beurré, harissa, sardines grillées **12€** 
 - Millefeuille aux pleurotes, soja noir  **12€** 
-- Assiette de fromages, Saint-Maur de Touraine, Comté 18 mois, pavé de Wissant, Saint-Nectaire **15€**
 - Pain perdu façon crème brulée aux agrumes **10€** 
-
+- Assiette mixte (fromages et charcuteries) **25 €**
 
 _Des allergies ? Prévenez-nous :) _
    
