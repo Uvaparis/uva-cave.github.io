@@ -63,7 +63,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges
 - Théo Einhart - Alsace - Pinot noir - Arômes de cerise noire, léger et velouté **7,50€** 
-- Aphrodite - Les Bois Perdus - Ardèche - Syrah, Grenache - Solaire, tannins soyeux **7,50**
+- Embrasse-moi - Les Bois Perdus - Ardèche - Grenache - Solaire, tannins soyeux **7,50**
   
   
 ### Blancs
