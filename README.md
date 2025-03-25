@@ -18,14 +18,25 @@ Bouteilles (75cl):
   
 ## Assiettes à partager
 
+ **La Terre / The Land**
 - Olives vertes gros calibre **4 €**
-- Croissant fourré, boudin noir, morbier, sauce katsuobushi **12 €**
-- Aburi de boeuf de l'Aubrac, oeuf de truite et bourgeons d'ail des ours **14€**
-- Snack, boudin blanc, persil, câpres, citron **10€**
-- Double tartine, pain beurré, harissa, sardines grillées **12€** 
-- Millefeuille aux pleurotes, soja noir  **12€** 
-- Pain perdu façon crème brulée aux agrumes **10€** 
-- Assiette mixte (fromages et charcuteries) **25 €**
+- Houmous de pois chiche **7 €** 
+
+**Fromages / Cheese**
+- Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €** 
+- Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
+- Tomme de brebis caussenarde affinée (Millau) **9 €** 
+- Comté 24 mois, poivre du moulin, huile d'olives **8 €**
+- Assiette de fromages, selection de fromages du moment **25 €**
+- Assiette mixte, fromages et charcuteries du moment **25 €**
+
+**Viande / Meat**
+- Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
+- Coppa d'Italie **9,5 €**
+- Boeuf séché - Dried beef **10 €**
+- Pâté de campagne Maison Montalet **10 €**
+- Assiette de charcuterie, selection de charcuterie du moment **25 €**
+- Assiette mixte, fromages et charcuteries du moment **25 €**
 
 _Des allergies ? Prévenez-nous :) _
    
