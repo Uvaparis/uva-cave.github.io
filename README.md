@@ -76,7 +76,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Théo Einhart - Alsace - Pinot noir - Arômes de cerise noire, léger et velouté **7,50€** 
 - Elle danse - Les Bois Perdus - Ardèche - Merlot, Syrah, Cinsault - Solaire, tannins soyeux **7,50€**
   
-  
 ### Blancs
 - Théo Einhart - Alsace - Auxerrois - Sec et salin, saveurs de poire **7,50€**
 - P'tit Vaillant - Blanc de Noir - Groslot, Cabernet - Sec, minéral **7,50€**
@@ -143,6 +142,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - **37 €** 
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **42 €**
 - **Les Grandes Vignes** - Le P'tit Vaillant blanc de noir - Groslot Cabernet **33 €**
+- **Renaud Guettier** - La belle Egarée 2022 - Chenin - **44€** 
 
 ### SAVOIE 
 - **Guillaume Cancelloni** - Dégaine - Cairn - Jacquère - **40 €**
