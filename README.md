@@ -73,7 +73,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Théo Einhart - Alsace - Pinot noir - Arômes de cerise noire, léger et velouté **7,50€** 
+- P'tit Vaillant - Domaine Vaillant - Loire - Groslot, Cabernet - Fruits noirs, du corps **7,50€** 
 - Elle danse - Les Bois Perdus - Ardèche - Merlot, Syrah, Cinsault - Solaire, tannins soyeux **7,50€**
   
 ### Blancs
