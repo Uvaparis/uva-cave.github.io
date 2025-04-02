@@ -77,11 +77,11 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Elle danse - Les Bois Perdus - Ardèche - Merlot, Syrah, Cinsault - Solaire, tannins soyeux **7,50€**
   
 ### Blancs
-- Théo Einhart - Alsace - Auxerrois - Sec et salin, saveurs de poire **7,50€**
+- Pépin - Alsace -  Pinot, riesling, auxerrois - Arômes de fleurs blanches et de fruits à chait blanche  **7,50€**
 - P'tit Vaillant - Blanc de Noir - Groslot, Cabernet - Sec, minéral **7,50€**
 
 ### Orange
-- Pépin - Alsace - Gewurztraminer, Muscat, Pinot gris, Auxerrois, Sylvaner - Attaque fraîche sur les agrumes, bel équilibre, finale longue sur les épices **8 €**
+- Théo Einhart - Alsace - Pinot gris, gewurz, auxerrois, muscat, riesling - Sec, notes d'abricot **8 €**
 
 ### Bulle
 - Théo Einhart - Gewurztraminer, pinot noir - Frais et lèger, arômes de citron et de pêche **8 €**
