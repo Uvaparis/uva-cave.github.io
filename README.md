@@ -46,7 +46,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Soft
 **Les filles de l’ouest** 33cl **5,5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Limonade / Rhubarbe / Citron Gilgembre / Menthe 
+Limonade / Rhubarbe / Citron Gingembre / Menthe 
 
 **Oma Frida** 75 cl **23 €**
 Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de plantes 
@@ -74,6 +74,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### Rouges
 - P'tit Vaillant - Domaine Vaillant - Loire - Groslot, Cabernet - Fruits noirs, du corps **7,50€** 
 - Elle danse - Les Bois Perdus - Ardèche - Merlot, Syrah, Cinsault - Solaire, tannins soyeux **7,50€**
+- Nouveaux Sauvages - Dolaine Reveille - Roussillon - Grenache, Carignan - Du fruits, de l'énergie de la fraîcheur **7,50€** 
   
 ### Blancs
 - Pépin - Alsace -  Pinot, riesling, auxerrois - Arômes de fleurs blanches et de fruits à chait blanche  **7,50€**
@@ -178,9 +179,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération de 380 jours - **54€**
 - **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - **48€**
 
-### PYRENEES-ORIENTALES 
-- **Domaine Cotze** - Transhumancia - Muscat - Macération de 10 jours **43€** 
-
 ### ESPAGNE
 - **Celler 9+** - 6è - 2022 - Muscat - **40€**
 - **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - **44€**
@@ -195,9 +193,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### ALSACE
 - **Domaine Pépin** - Pink - Pinot Gris, Pinot Blanc - 37 € 
-
-### LANGUEDOC
-- **Domaine de Cassagnas** - Fruit Vermeil 2022 - Aubun, Grenache - 36 €
 
 ### ITALIE
 - **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - 49 €
@@ -253,6 +248,13 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€** 
 - **Domaine Cotzé** - Samso 2023 - Cinsault - **43€**
+
+## ROUSSILLON 
+- **Domaine Reveille** - Ultra Violet 2020 - Syrah **39€**
+- **Domaine Reveille** - Veige 2019 - Syrah, Grenache **40€**
+- **Domaine Reveille** - Franc Tireur 2019 - Carignan, Grenache **43€**
+- **Domaine Reveille** - Nouveaux Sauvages 2022 - Grenache, Carignan **37€**
+- **Domaine Reveille** - Pointe Rouge 2021 Carignan, Grenache **39€** 
   
 ### SAVOIE
 - **France Gonzalvez** - Toni P - 2022 - Pinot Noir - **48€** 
