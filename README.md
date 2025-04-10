@@ -110,6 +110,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### LOIRE
 - **Domaine Mosse** - Moussamoussette - 2021 - Grolleau gris, Pineau d'aunis - **39 €**
+- **Renaud Guettier** - La Grapperie - 2023 - Pink Rosé - Pineau d'aunis, chenin **39€** 
 
 ### ESPAGNE
 - **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - **38 €**
@@ -240,6 +241,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
+- **R. Guettier** - Adonis 2023 - Pineau d'aunis **41€**
+- **R. Guettier** - Enchanteresse 2022 - Pineau d'aunis vieilles vignes **47€**
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **52€**
 - **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc **32 €** 
 - **Les Grandes Vignes** - Pineau d'Aunis 2023 - **37 €**
