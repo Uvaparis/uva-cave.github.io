@@ -73,7 +73,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges
 - P'tit Vaillant - Domaine Vaillant - Loire - Groslot, Cabernet - Fruits noirs, du corps **7,50€** 
-- Elle danse - Les Bois Perdus - Ardèche - Merlot, Syrah, Cinsault - Solaire, tannins soyeux **7,50€**
 - Nouveaux Sauvages - Dolaine Reveille - Roussillon - Grenache, Carignan - Du fruits, de l'énergie de la fraîcheur **7,50€** 
   
 ### Blancs
