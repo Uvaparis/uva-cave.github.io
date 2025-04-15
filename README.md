@@ -71,8 +71,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- P'tit Vaillant - Domaine Vaillant - Loire - Groslot, Cabernet - Fruits noirs, du corps **7,50€** 
-- Nouveaux Sauvages - Dolaine Reveille - Roussillon - Grenache, Carignan - Du fruits, de l'énergie de la fraîcheur **7,50€** 
+- Ultra Violet - Domaine Reveille - Rousillon - Syrah - Tanins souple, vivacité, fraîcheur **8€**
+- Pinte Fouillette - Loublachon - Ardèche - Merlot - Arômes de mûre et cassis accompagnés de notes épicées **7€** 
   
 ### Blancs
 - Pépin - Alsace -  Pinot, riesling, auxerrois - Arômes de fleurs blanches et de fruits à chait blanche  **7,50€**
