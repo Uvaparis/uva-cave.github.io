@@ -76,13 +76,13 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### Blancs
 - Pépin - Alsace -  Pinot, riesling, auxerrois - Arômes de fleurs blanches et de fruits à chait blanche  **7,50€**
-- P'tit Vaillant - Blanc de Noir - Groslot, Cabernet - Sec, minéral **7,50€**
+- Zazou - Loublachon - Ardèche - Sauvignon blanc - Frais, gourmand **7,50€**
 
 ### Orange
 - Théo Einhart - Alsace - Pinot gris, gewurz, auxerrois, muscat, riesling - Sec, notes d'abricot **8 €**
 
 ### Bulle
-- Théo Einhart - Gewurztraminer, pinot noir - Frais et lèger, arômes de citron et de pêche **8 €**
+- Pépin Pétillant Naturel - Alsace - Muscat, ugni blanc, picpoul, chardonnay - Arômes frais d'agrumes et de fleurs blanches **8 €**
   
 ### Bulle Sans Alcool 
 - Oma Frida, pétillant naturel sans alcool de jus de raisin, verjus et infusion de plantes **6,50 €**
@@ -135,8 +135,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
-- **Tony Bornard** - Les Chassagnes - 2020 - Savagnin - **74€** 
-
+  
 ### LOIRE
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - **37 €** 
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **42 €**
