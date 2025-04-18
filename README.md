@@ -23,8 +23,9 @@ Bouteilles (75cl):
 
 **Fromages / Cheese**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
-- Comté 21 mois, huile d'huile, poivre du moulin - **9€**
-- Saint-Nectaire fermier - Farmer Saint-Nectaire **9 €**
+- Comté 21 mois - **9€**
+- Brie de Nangis - **9€**
+- Burrata des Pouilles, huile d'olivé, poivre du moulin (Italie) **11€**
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Assiette de fromages, selection de fromages du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
@@ -101,7 +102,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ## Bulles 75cl
 ### ALSACE
-- **Domaine Einhart** - Pet Nat de Théo - Gewurztraminer, pinot noir **36€**
 - **Anna, André et Yann Durrmann** - Toqué PG - Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris - 39 €
 - **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 41 €
