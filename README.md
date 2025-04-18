@@ -25,7 +25,7 @@ Bouteilles (75cl):
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Comté 21 mois, huile de noix - **9€**
 - Brie de Nangis - **9€**
-- Burrata des Pouilles, huile d'olivé, poivre du moulin 250g (Italie) **12€**
+- Burrata des Pouilles, huile d'olivé, poivre du moulin 250g (Italie) **14€**
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Assiette de fromages, selection de fromages du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
