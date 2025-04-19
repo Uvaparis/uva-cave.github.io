@@ -74,7 +74,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges
 - Ultra Violet - Domaine Reveille - Rousillon - Syrah - Tanins souple, vivacité, fraîcheur **8€**
-- P'tit Vaillant - Domaine Vaillant - Loire - Groslot, Cabernet - Longueur en bouche **7,5€** 
 - Pinte Fouillette - Loublachon - Ardèche - Merlot - Arômes de mûre et cassis accompagnés de notes épicées **7€** 
   
 ### Blancs
