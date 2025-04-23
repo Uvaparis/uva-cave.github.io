@@ -84,8 +84,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Théo Einhart - Alsace - Pinot gris, gewurz, auxerrois, muscat, riesling - Sec, notes d'abricot **8 €**
 
 ### Bulle
-- Bencze - Hongrie - Pétillant Naturel - Pinot blanc, pinot noir, chenin **8,50€**
-  
+- Pét Nat Théo - Alsace - Pinot noir, Pinot gris, gewurz - Sec, arômes de fleurs blanches **8€**
+
 ### Bulle Sans Alcool 
 - Oma Frida, pétillant naturel sans alcool de jus de raisin, verjus et infusion de plantes **6,50 €**
 
