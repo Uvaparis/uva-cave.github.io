@@ -22,10 +22,10 @@ Bouteilles (75cl):
 - Houmous de pois chiche **7 €** 
 
 **Fromages / Cheese**
+- Burrata des Pouilles 250g, huile d'olive, poivre du moulin **14€**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Comté 21 mois, huile de noix - **9€**
 - Brie de Nangis - **9€**
-- Burrata des Pouilles, huile d'olivé, poivre du moulin 250g (Italie) **14€**
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Assiette de fromages, selection de fromages du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
@@ -138,6 +138,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
   
 ### LOIRE
+- **Christophe Bosque** - Domaine de Vini - Melon de Bougogne - **35€**
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - **37 €** 
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **42 €**
 - **Les Grandes Vignes** - Le P'tit Vaillant blanc de noir - Groslot Cabernet **33 €**
