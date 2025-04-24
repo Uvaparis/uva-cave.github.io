@@ -114,9 +114,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### ESPAGNE
 - **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - **38 €**
 - **Celler 9+** - 1r Escumosos - 2022 - Cartoixà - **39€**
-  
-### HONGRIE
-- **Bencze Birtok** - Pétillant - 2021 - Chenin, Pinot blanc, Pinot noir, Riesling - **55€**
 
 [haut de page](#menu)
 
@@ -146,7 +143,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### SAVOIE 
 - **Guillaume Cancelloni** - Dégaine - Cairn - Jacquère - **40 €**
-- **Guillaule Cancelloni** - Dégaine - Les Cosmiques - Altesse - **42 €** 
+- **Guillaule Cancelloni** - Dégaine - Les Cosmiques - Altesse - **42 €**
+
+### GRECE
+- **Sous le végétal** - Livia - 2019 - Muscat d'alexandrie - **45€** 
 
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - **55 €**
@@ -219,7 +219,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### BEAUJOLAIS
 - **Easy game** - Maï Lam et Sébastien Morin - 2023 - Gamay - **40€**
 - **L'indigene** - Beaujolais-Villages - Maï Lam et Sébastien Morin - 2023 - Gamay - **41€**
-- **La passion du produit** - Maï Lam et Sébastien Morin - 2023 - Gamay - **45€** 
+- **La passion du produit** - Maï Lam et Sébastien Morin - 2023 - Gamay - **45€**
+- **Domaine Belicard** - Morgon - Terrain rouge - 2021 - Gamay **37€** 
 
 ### JURA
 - **Ratapoil** - L'ingénu - 2022 - Pinot Noir - **59€**
