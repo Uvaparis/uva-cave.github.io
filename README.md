@@ -74,7 +74,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges
 - Ultra Violet - Domaine Reveille - Rousillon - Syrah - Tanins souple, vivacité, fraîcheur **8€**
-- Pinte Fouillette - Loublachon - Ardèche - Merlot - Arômes de mûre et cassis accompagnés de notes épicées **7€** 
+- Kohki Iwata - Languedoc - Cuvée Sou - Carignan, Malbec - Léger, fruits rouges **7€**
   
 ### Blancs
 - Pépin - Alsace -  Pinot, riesling, auxerrois - Arômes de fleurs blanches et de fruits à chait blanche  **7,50€**
@@ -83,8 +83,11 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### Orange
 - Théo Einhart - Alsace - Pinot gris, gewurz, auxerrois, muscat, riesling - Sec, notes d'abricot **8 €**
 
+### Rosé
+- Pépin Pink - Alsace - Nores subtiles de pêche juteuse **7,5€** 
+
 ### Bulle
-- Pét Nat Théo - Alsace - Pinot noir, Pinot gris, gewurz - Sec, arômes de fleurs blanches **8€**
+- Kadodépart - Languedoc - Kohki Iwata - Cinsault - Sec, superbe fruit **8€** 
 
 ### Bulle Sans Alcool 
 - Oma Frida, pétillant naturel sans alcool de jus de raisin, verjus et infusion de plantes **6,50 €**
