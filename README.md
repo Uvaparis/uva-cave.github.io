@@ -78,7 +78,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### Blancs
 - Pépin - Alsace -  Pinot, riesling, auxerrois - Arômes de fleurs blanches et de fruits à chait blanche  **7,50€**
-- Zazou - Loublachon - Ardèche - Sauvignon blanc - Frais, gourmand **7,50€**
 
 ### Orange
 - Théo Einhart - Alsace - Pinot gris, gewurz, auxerrois, muscat, riesling - Sec, notes d'abricot **8 €**
