@@ -240,6 +240,11 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### LANGUEDOC
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - **48€**
 - **Chai UVA** - Fruchtfleisch - 2023 - Merlot, Grenache, Colombier, Muscat - **40€**
+- **Kohki Iwata** - Cuvée WA sud - 2024 - Cinsault, Pinot  **35€**
+- **Kohki Iwata** - Souriez - 2022 - Syrah **38€**
+- **Kohki Iwata** - Pino'c - 2023 - Pinot **38€**
+- **Kohki Iwata** - Sou - 2024 - Carignan, Malbec **36€** 
+
 
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
