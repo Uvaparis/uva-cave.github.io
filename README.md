@@ -77,7 +77,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Kohki Iwata - Languedoc - Cuvée Sou - Carignan, Malbec - Léger, fruits rouges **7€**
   
 ### Blancs
-- Pépin - Alsace -  Pinot, riesling, auxerrois - Arômes de fleurs blanches et de fruits à chait blanche  **7,50€**
+- Pépin - Alsace -  Pinot, riesling, auxerrois - Arômes de fleurs blanches et de fruits à chait blanche  **7,50€** (Vin à la tireuse) 
 - P'tit Vaillant - Loire - Blanc de noir - Grolleau, Cabernet - Vif, frais, fruité **7,50€** 
 
 ### Orange
@@ -152,7 +152,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - **55 €**
-- **Istvan Bencze** - Riesling - 2020 - Riesling - **58 €**
+- **Istvan Bencze** - Riesling - 2020 **58 €**
 
 [haut de page](#menu)
 
@@ -164,7 +164,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Le Clos Liebau** - L'oeuf ou la poule - Macération de 7 jours de Gewurztraminer - 2023 - **45€** 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - **140 €** (150 cl)
 - **Pépin** - Gewurztraminer, Pinot gris - 2022 - 38 €
-- **Domaine Einhart** - Puls'Art Macération Gewurztraminer macération 1 semaine **39€**
 - **Domaine Einhart** - Westerberg Geswurstraminer, riesling **45€** 
 
 ### ARDECHE 
@@ -209,9 +208,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### ARDECHE 
 - **Loublachon** - Pétrichor - Grenache Noir - **37€**
-- **Les Bois Perdus** - Elle danse - Merlot, Cinsault, Grenache - **38€**
-- **Les Bois Perdus** - Embrasse moi - Grenache Noir - **37€**
-- **Les Bois Perdus** - Aphrodite - Syrah, Grenache - **39€**
 - **Les Bois Perdus** - Elle Tremble - Merlot - **38€**
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
   
@@ -226,7 +222,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### JURA
 - **Ratapoil** - L'ingénu - 2022 - Pinot Noir - **59€**
-- **Christelle et Gilles Wicky** - Trois cépages - 2021 - Poulsard, Trousseau, Gamay -**54€**
 - **L'oiseau rodeur** - Bagatelle - 2023 - Pinot noir - **49€**
 - **L'oiseau rodeur** - Eau fugitive - 2023 - Poulsard - **49€**
 - **Novice** - Merci - 2021 - Poulsard - **54€**
