@@ -277,7 +277,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 [haut de page](#menu)
 
-*Les bouteilles sont disponibles à emporter avant 22h00 avec un droit de bouchon de 7€ en moins.*
+*Les bouteilles sont disponibles à emporter avant 22h00*
 *Commande sur place jusqu'à 23h00*
 
 *Prix net en euros TTC.*
