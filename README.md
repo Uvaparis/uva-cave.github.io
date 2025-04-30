@@ -78,12 +78,13 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### Blancs
 - Pépin - Alsace -  Pinot, riesling, auxerrois - Arômes de fleurs blanches et de fruits à chait blanche  **7,50€**
+- P'tit Vaillant - Loire - Blanc de noir - Grolleau, Cabernet - Vif, frais, fruité **7,50€** 
 
 ### Orange
 - Théo Einhart - Alsace - Pinot gris, gewurz, auxerrois, muscat, riesling - Sec, notes d'abricot **8 €**
 
 ### Rosé
-- Pépin Pink - Alsace - Nores subtiles de pêche juteuse **7,5€** 
+- Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€** 
 
 ### Bulle
 - Kadodépart - Languedoc - Kohki Iwata - Cinsault - Sec, superbe fruit **8€** 
@@ -103,11 +104,11 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ## Bulles 75cl
 ### ALSACE
-- **Anna, André et Yann Durrmann** - Toqué PG - Pinot Gris - 39 €
-- **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris - 39 €
-- **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 41 €
-- **Anna, André et Yann Durrmann** - Mu Ska-T - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc - 39 €
-- **Pépin** - Riesling, Gewurztraminer, Pinot gris, Silvaner - 2022 - 36 € 
+- **Anna, André et Yann Durrmann** - Toqué PG - Pinot Gris **39€**
+- **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris **39€**
+- **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc **41€**
+- **Anna, André et Yann Durrmann** - Mu Ska-T - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc **39€**
+- **Kadodépart** - Mourvedre, Carignan, Grenache Gris - 2024 **40€** 
 
 ### LOIRE
 - **Domaine Mosse** - Moussamoussette - 2021 - Grolleau gris, Pineau d'aunis - **39 €**
@@ -115,7 +116,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### ESPAGNE
 - **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - **38 €**
-- **Celler 9+** - 1r Escumosos - 2022 - Cartoixà - **39€**
 
 [haut de page](#menu)
 
