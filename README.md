@@ -86,9 +86,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### Rosé
 - Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€** 
 
-### Bulle
-- Kadodépart - Languedoc - Kohki Iwata - Cinsault - Sec, superbe fruit **8€** 
-
 ### Bulle Sans Alcool 
 - Oma Frida, pétillant naturel sans alcool de jus de raisin, verjus et infusion de plantes **6,50 €**
 
