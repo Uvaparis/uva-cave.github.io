@@ -34,7 +34,6 @@ Bouteilles (75cl):
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
 - Coppa d'Italie **9,5 €**
 - Boeuf séché - Dried beef **10 €**
-- Pâté de campagne Maison Montalet **10 €**
 - Assiette de charcuterie, selection de charcuterie du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
