@@ -22,7 +22,6 @@ Bouteilles (75cl):
 - Houmous de pois chiche **7 €** 
 
 **Fromages / Cheese**
-- Burrata des Pouilles 250g, huile d'olive, poivre du moulin **14€**
 - Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Comté 21 mois, huile de noix - **9€**
 - Brie de Nangis - **9€**
