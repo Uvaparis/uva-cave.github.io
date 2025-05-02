@@ -22,9 +22,7 @@ Bouteilles (75cl):
 - Houmous de pois chiche **7 €** 
 
 **Fromages / Cheese**
-- Brillat-Savarin IGP, huile d'olive, poivre du moulin - Brillat Savarin, olive oil, freshly pepper **10 €**
 - Comté 21 mois, huile de noix - **9€**
-- Brie de Nangis - **9€**
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Assiette de fromages, selection de fromages du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
