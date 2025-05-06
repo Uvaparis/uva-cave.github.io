@@ -22,9 +22,8 @@ Bouteilles (75cl):
 - Houmous de pois chiche **7 €** 
 
 **Fromages / Cheese**
-- Comté 21 mois, huile de noix - **9€**
+- Comté 21 mois, huile de noix **9€** 
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
-- Assiette de fromages, selection de fromages du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
 **Viande / Meat**
@@ -101,7 +100,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris **39€**
 - **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc **41€**
 - **Anna, André et Yann Durrmann** - Mu Ska-T - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc **39€**
-- **Kadodépart** - Mourvedre, Carignan, Grenache Gris - 2024 **40€** 
 
 ### LOIRE
 - **Domaine Mosse** - Moussamoussette - 2021 - Grolleau gris, Pineau d'aunis - **39 €**
