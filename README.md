@@ -73,7 +73,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges
 - Ultra Violet - Domaine Reveille - Rousillon - Syrah - Tanins souple, vivacité, fraîcheur **8€**
-- Kohki Iwata - Languedoc - Cuvée Sou - Carignan, Malbec - Léger, fruits rouges **7€**
+- Kohki Iwata - Languedoc - Pino'c - Pinot - Léger, fruits rouges **7€**
   
 ### Blancs
 - Pépin - Alsace -  Pinot, riesling, auxerrois - Arômes de fleurs blanches et de fruits à chait blanche  **7,50€** (Vin à la tireuse) 
