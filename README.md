@@ -22,9 +22,11 @@ Bouteilles (75cl):
 - Houmous de pois chiche **7 €** 
 
 **Fromages / Cheese**
-- Comté 21 mois, huile de noix **9€** 
+- Burrata (250g) Caseari Pugliesi, Italie **14€** 
+- Brie de Nangis 
+- Comté 21 mois (Marcel Petite, Jura) huile de noix **9€** 
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
-- Assiette mixte, fromages et charcuteries du moment **25 €**
+- Assiette de fromages et charcuteries du moment **25 €**
 
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
