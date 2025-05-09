@@ -77,6 +77,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
+- Groslot Domaine Vaillant - sur le fruit épicé léger **7,5€**
 - Ultra Violet - Domaine Reveille - Rousillon - Syrah - Tanins souple, vivacité, fraîcheur **8€**
 - Kohki Iwata - Languedoc - Pino'c - Pinot - Léger, fruits rouges **7€**
   
