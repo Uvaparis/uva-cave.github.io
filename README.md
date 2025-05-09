@@ -37,6 +37,11 @@ Bouteilles (75cl):
 - Assiette de charcuterie, selection de charcuterie du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
+**Dessert**
+
+- Fondant chocolat noir avec nappage caramel beurre salé **6,50€**
+
+  
 _Des allergies ? Prévenez-nous :) _
    
 [haut de page](#menu)
