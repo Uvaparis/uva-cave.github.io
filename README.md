@@ -22,10 +22,10 @@ Bouteilles (75cl):
 - Houmous de pois chiche **7 €** 
 
 **Fromages / Cheese**
-- Burrata (250g) Caseari Pugliesi, Italie **14€**
+- Burrata 250g Caseari Pugliesi, Italie **14€**
 - Brillat-Savarin IGP **10€**
 - Brie de Nangis **9€**
-- Comté 21 mois (Marcel Petite, Jura) huile de noix **9€** 
+- Comté 21 mois Marcel Petite, Jura) huile de noix **9€** 
 - Tomme de brebis caussenarde affinée (Millau) **9 €** 
 - Assiette de fromages et charcuteries du moment **25 €**
 
