@@ -73,7 +73,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Groslot Domaine Vaillant - sur le fruit épicé léger **7,5€**
 - Ultra Violet - Domaine Reveille - Rousillon - Syrah - Tanins souple, vivacité, fraîcheur **8€**
 - Kohki Iwata - Languedoc - Pino'c - Pinot - Léger, fruits rouges **7€**
   
@@ -180,10 +179,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération de 380 jours - **54€**
 - **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - **48€**
 
-### ESPAGNE
-- **Celler 9+** - 6è - 2022 - Muscat - **40€**
-- **Cellar9+** - SALUT! - 2023 - Sumoll - 1 Litre - **44€**
-
 ### ITALIE
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - **69€** (50cl)
 - **Alessandro Viola** - Sinfonia di Bianco - 2021 - Grillo - **61€**
@@ -203,7 +198,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Rouges 75cl
 
 ### ALSACE 
-- **Pepin** - Alsace - Pinot Noir - **43€** 
 - **Domaine Einhart** - Alsace - Pinot noir - **36€**
   
 ### ARDECHE 
@@ -226,7 +220,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **L'oiseau rodeur** - Eau fugitive - 2023 - Poulsard - **49€**
 - **Novice** - Merci - 2021 - Poulsard - **54€**
 - **Tony Bornard** - Le Pinot Ctambule - 2020 - Pinot - **48€**
-- **Valentin Morel** - AOP Côtes du Jura Contrôlée - 2021 - Poulsard, pinot, trousseau **69€**
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
