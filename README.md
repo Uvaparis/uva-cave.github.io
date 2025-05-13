@@ -37,10 +37,6 @@ Bouteilles (75cl):
 - Assiette de charcuterie, selection de charcuterie du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
-**Dessert**
-
-- Fondant chocolat noir avec nappage caramel beurre salé **6,50€**
-
   
 _Des allergies ? Prévenez-nous :) _
    
@@ -89,7 +85,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Théo Einhart - Alsace - Pinot gris, gewurz, auxerrois, muscat, riesling - Sec, notes d'abricot **8 €**
 
 ### Rosé
-- Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€** 
+- Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€**
+
+## Pétillant 
+- Brand Bros - Allemagne - Piquette - Vin léger, légèrement pétillant, élaboré à partir de marc de raisin, raffraîchissante et peu alcoolisée **6€** 
 
 ### Bulle Sans Alcool 
 - Oma Frida, pétillant naturel sans alcool de jus de raisin, verjus et infusion de plantes **6,50 €**
