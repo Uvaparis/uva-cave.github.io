@@ -31,6 +31,7 @@ Bouteilles (75cl):
 
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
+- Bresaola Puntanca IGP - Viande de boeuf séché **12€**
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
 - Coppa d'Italie **9,5 €**
 - Boeuf séché - Dried beef **10 €**
