@@ -34,7 +34,6 @@ Bouteilles (75cl):
 - Bresaola Puntanca IGP - Viande de boeuf séché **12€**
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
 - Coppa d'Italie **9,5 €**
-- Boeuf séché - Dried beef **10 €**
 - Assiette de charcuterie, selection de charcuterie du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
@@ -75,7 +74,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges
 - Ultra Violet - Domaine Reveille - Rousillon - Syrah - Tanins souple, vivacité, fraîcheur **8€**
-- Kohki Iwata - Languedoc - Pino'c - Pinot - Léger, fruits rouges **7€**
+- France Gonzalvez - Alpine - Gamay de Savoie et du Beaujolais - Arômes de fraise des bois **8€** 
   
 ### Blancs
 - Pépin - Alsace -  Pinot, riesling, auxerrois - Arômes de fleurs blanches et de fruits à chait blanche  **7,50€** (Vin à la tireuse) 
@@ -88,7 +87,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€**
 
 ## Pétillant 
-- Brand Bros - Allemagne - Piquette - Vin léger, légèrement pétillant, élaboré à partir de marc de raisin, raffraîchissante et peu alcoolisée **6€** 
+- Bulle Nature - Domaine Vaillant - Chardonnay, groslot gris, cabernet franc, chenin - Frais
 
 ### Bulle Sans Alcool 
 - Oma Frida, pétillant naturel sans alcool de jus de raisin, verjus et infusion de plantes **6,50 €**
