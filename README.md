@@ -87,7 +87,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€**
 
 ## Pétillant 
-- Bulle Nature - Domaine Vaillant - Chardonnay, groslot gris, cabernet franc, chenin - Frais
+- Bulle Nature - Domaine Vaillant - Chardonnay, groslot gris, cabernet franc, chenin - Frais, arôme de pommes **8€**
 
 ### Bulle Sans Alcool 
 - Oma Frida, pétillant naturel sans alcool de jus de raisin, verjus et infusion de plantes **6,50 €**
