@@ -72,8 +72,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Ultra Violet - Domaine Reveille - Rousillon - Syrah - Tanins souple, vivacité, fraîcheur **8€**
-- France Gonzalvez - Alpine - Gamay de Savoie et du Beaujolais - Arômes de fraise des bois **8€** 
+- Veine 2019 - Domaine Reveille - Rousillon - Syrah Grenache  - Tanins souple, vivacité, fraîcheur **8€**
+- Alpine 2023 - Gamay de Savoie et du Beaujolais - Arômes de fraise des bois **8€** 
   
 ### Blancs
 - Pépin - Alsace -  Pinot, riesling, auxerrois - Arômes de fleurs blanches et de fruits à chait blanche  **7,50€** (Vin à la tireuse) 
@@ -110,7 +110,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### LOIRE
 - **Domaine Mosse** - Moussamoussette - 2021 - Grolleau gris, Pineau d'aunis - **39 €**
-- **Renaud Guettier** - La Grapperie - 2023 - Pink Rosé - Pineau d'aunis, chenin **39€** 
+- **Renaud Guettier** - La Grapperie - 2023 - Pink Rosé - Pineau d'aunis, Chenin **39€**
+- **Domaine Vaillant** - Bulle Nature - 2023 - Chenin, Groslot Gris, Cab Franc, Chardonnay **38€** 
 
 ### ESPAGNE
 - **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - **38 €**
@@ -248,7 +249,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ## ROUSSILLON 
 - **Domaine Reveille** - Ultra Violet 2020 - Syrah **39€**
-- **Domaine Reveille** - Veige 2019 - Syrah, Grenache **40€**
+- **Domaine Reveille** - Veine 2019 - Syrah, Grenache **40€**
 - **Domaine Reveille** - Franc Tireur 2019 - Carignan, Grenache **43€**
 - **Domaine Reveille** - Nouveaux Sauvages 2022 - Grenache, Carignan **37€**
 - **Domaine Reveille** - Pointe Rouge 2021 Carignan, Grenache **39€** 
