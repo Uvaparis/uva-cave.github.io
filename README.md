@@ -72,7 +72,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Veine 2019 - Domaine Reveille - Rousillon - Syrah Grenache  - Tanins souple, vivacité, fraîcheur **8€**
+- Toni P. 2022 France Gonzalvez Pinot léger, robe framboise,  **8€**
 - Alpine 2023 - Gamay de Savoie et du Beaujolais - Arômes de fraise des bois **8€** 
   
 ### Blancs
