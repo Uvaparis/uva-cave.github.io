@@ -72,8 +72,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Toni P. 2022 France Gonzalvez Pinot léger, robe framboise,  **8€**
-- Alpine 2023 - Gamay de Savoie et du Beaujolais - Arômes de fraise des bois **8€** 
+- Groslot 2023 - Domaine Vaillant - Loire - Fruits Rouges, léger  **7,50€**
+- Veine 2019 - France Crispeels - AOP Côtes du Rousillon - Syrah, grenache - Fruits noirs **8€**
   
 ### Blancs
 - Pépin - Alsace -  Pinot, riesling, auxerrois - Arômes de fleurs blanches et de fruits à chait blanche  **7,50€** (Vin à la tireuse) 
