@@ -30,7 +30,6 @@ Bouteilles (75cl):
 
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
-- Bresaola Puntanca IGP - Viande de boeuf séché **10€**
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
 - Coppa d'Italie **9,5 €**
 - Assiette de charcuterie, selection de charcuterie du moment **25 €**
@@ -123,7 +122,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - **34 €**
 - **Domaine Einhart** - Auxerrois - 2024 - **35 €** 
 - **Le Clos Liebau** - Riesling - 2023 - **45€**
-- **Le Clos Liebau** - Sylvaner - 2023 - **45€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - **90 €** 
@@ -136,15 +134,11 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
   
 ### LOIRE
-- **Christophe Bosque** - Domaine de Vini - Melon de Bougogne - **35€**
+- **Christophe Bosque** - Domaine de Vini 0,72 - Melon de Bougogne - **35€**
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - **37 €** 
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **42 €**
 - **Les Grandes Vignes** - Le P'tit Vaillant blanc de noir - Groslot Cabernet **33 €**
-- **Renaud Guettier** - La belle Egarée 2022 - Chenin - **44€** 
-
-### SAVOIE 
-- **Guillaume Cancelloni** - Dégaine - Cairn - Jacquère - **40 €**
-- **Guillaule Cancelloni** - Dégaine - Les Cosmiques - Altesse - **42 €**
+- **Renaud Guettier** - La belle Egarée 2022 - Chenin - **44€**
 
 ### GRECE
 - **Sous le végétal** - Livia - 2019 - Muscat d'alexandrie - **45€** 
@@ -255,8 +249,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Domaine Reveille** - Pointe Rouge 2021 Carignan, Grenache **39€** 
   
 ### SAVOIE
-- **France Gonzalvez** - Toni P - 2022 - Pinot Noir - **48€** 
-- **France Gonzalvez** - Alpine - 2022 - Gamay - **44€** 
 - **France Gonzalvez** - Miss Mond' - 2022 - Mondeuse - **55€** 
 - **JY Peron** - Champ levat - 2020 - Mondeuse - **66€**
 - **Guillaume Cancelloni** - Dégaine - Cerro Chalten - Pinot noir **44€**
