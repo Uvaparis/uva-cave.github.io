@@ -23,8 +23,7 @@ Bouteilles (75cl):
 
 **Fromages / Cheese**
 - Burrata 250g Caseari Pugliesi, Italie **14€**
-- Comté 21 mois Marcel Petite, Jura) huile de noix **9€** 
-- Tomme de brebis caussenarde affinée (Millau) **9 €**
+- Comté 21 mois Marcel Petite, Jura, huile de noix **9€** 
 - Saint Nectaire **9€**
 - Assiette de fromages et charcuteries du moment **25 €**
 
@@ -152,7 +151,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Oranges 75cl
 
 ### ALSACE
-- **Geschickt** - Grand Cru Kaefferkopf Purberg 2020 - Gewurztraminer, Riesling, Pinot Gris - **61 €**
 - **Le Clos Liebau** - Pinot gris, auxerois, une pointe de Gewurztraminer - 2023 - **40 €**
 - **Le Clos Liebau** - L'oeuf ou la poule - Macération de 7 jours de Gewurztraminer - 2023 - **45€** 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - **140 €** (150 cl)
