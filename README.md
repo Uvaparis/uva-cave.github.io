@@ -70,8 +70,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Groslot 2023 - Domaine Vaillant - Loire - Fruits Rouges, léger  **7,50€**
-- Kohki Iwata 2022 - Languedoc - Syrah **7,50€** 
+- Nicolas Chemarin - Beaujolais - Hors Zone - Grenache, gamay. Frais glouglou **7,50€**
+- Kohki Iwata 2022 - Languedoc - Syrah. Fruits noirs **7,50€** 
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
