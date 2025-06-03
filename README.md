@@ -156,7 +156,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Domaine Einhart** - Westerberg Geswurstraminer, riesling **45€** 
 
 ### ARDECHE 
-- **Loublachon** - Inébriant - 2023 - Chardonnay, Viognier - 39 € 
+- **Loublachon** - Inébriant - 2023 - Chardonnay, Viognier - **39€**
+- **Tomomoto** - Cuvée Louis - 2024 - Roussanne Macération de 7 jours - **39€** 
 
 ### SAVOIE
 - **France Gonzalvez** - Point de chute - 2022 - Jacquère - **48 €**
