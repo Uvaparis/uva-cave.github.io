@@ -104,11 +104,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Anna, André et Yann Durrmann** - Toqué PG - Pinot Gris **39€**
 - **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris **39€**
 - **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc **41€**
-- **Anna, André et Yann Durrmann** - Mu Ska-T - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc **39€**
 
 ### LOIRE
 - **Domaine Mosse** - Moussamoussette - 2021 - Grolleau gris, Pineau d'aunis - **39 €**
-- **Renaud Guettier** - La Grapperie - 2023 - Pink Rosé - Pineau d'aunis, Chenin **39€**
 - **Domaine Vaillant** - Bulle Nature - 2023 - Chenin, Groslot Gris, Cab Franc, Chardonnay **38€** 
 
 ### ESPAGNE
@@ -199,6 +197,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### AUVERGNE 
 - **L'eau qui dort** - Zeppa•o - 2022 - Barbera - **45€**
+- **Tomomoto** - Cueillette Sauvage - 2023 - Gamay **44€**
+- **Tomomoto** - Une sot dans la mare - 2021 - Marselan, Merlot **39€**
 
 ### BEAUJOLAIS
 - **Easy game** - Maï Lam et Sébastien Morin - 2023 - Gamay - **40€**
@@ -223,8 +223,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Kohki Iwata** - Cuvée WA sud - 2024 - Cinsault, Pinot  **35€**
 - **Kohki Iwata** - Souriez - 2022 - Syrah **38€**
 - **Kohki Iwata** - Pino'c - 2023 - Pinot **38€**
-- **Kohki Iwata** - Sou - 2024 - Carignan, Malbec **36€** 
-
 
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
@@ -240,14 +238,11 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Domaine Cotzé** - Samso 2023 - Cinsault - **43€**
 
 ## ROUSSILLON 
-- **Domaine Reveille** - Ultra Violet 2020 - Syrah **39€**
-- **Domaine Reveille** - Veine 2019 - Syrah, Grenache **40€**
 - **Domaine Reveille** - Franc Tireur 2019 - Carignan, Grenache **43€**
 - **Domaine Reveille** - Nouveaux Sauvages 2022 - Grenache, Carignan **37€**
 - **Domaine Reveille** - Pointe Rouge 2021 Carignan, Grenache **39€** 
   
 ### SAVOIE
-- **France Gonzalvez** - Miss Mond' - 2022 - Mondeuse - **55€** 
 - **JY Peron** - Champ levat - 2020 - Mondeuse - **66€**
 - **Guillaume Cancelloni** - Dégaine - Cerro Chalten - Pinot noir **44€**
 
