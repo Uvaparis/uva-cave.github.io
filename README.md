@@ -71,7 +71,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### Rouges
 - Groslot 2023 - Domaine Vaillant - Loire - Fruits Rouges, léger  **7,50€**
-- Veine 2019 - France Crispeels - AOP Côtes du Rousillon - Syrah, grenache - Fruits noirs **8€**
+- Kohki Iwata 2022 - Languedoc - Syrah **7,50€** 
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
