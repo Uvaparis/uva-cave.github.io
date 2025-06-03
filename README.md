@@ -74,7 +74,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Veine 2019 - France Crispeels - AOP Côtes du Rousillon - Syrah, grenache - Fruits noirs **8€**
   
 ### Blancs
-- Pépin - Alsace -  Pinot, riesling, auxerrois - Arômes de fleurs blanches et de fruits à chait blanche  **7,50€** (Vin à la tireuse) 
+- Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
 - P'tit Vaillant - Loire - Blanc de noir - Grolleau, Cabernet - Vif, frais, fruité **7,50€** 
 
 ### Orange
