@@ -203,6 +203,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ### BEAUJOLAIS
 - **Easy game** - Maï Lam et Sébastien Morin - 2023 - Gamay - **40€**
+- **Nicolas Chemarin** - P'tit Grobis 2023 - Gamay - **39€**
+- **Nicolas Chemarin** - Hors zone Grenache Gamay - **39€** 
 - **L'indigene** - Beaujolais-Villages - Maï Lam et Sébastien Morin - 2023 - Gamay - **41€**
 - **La passion du produit** - Maï Lam et Sébastien Morin - 2023 - Gamay - **45€**
 - **Domaine Belicard** - Morgon - Terrain rouge - 2021 - Gamay **37€** 
