@@ -23,7 +23,7 @@ Bouteilles (75cl):
 
 **Fromages / Cheese**
 - Burrata 250g Caseari Pugliesi, Italie **14€**
-- Comté 21 mois Marcel Petite, Jura, huile de noix **9€** 
+- Comté 24 mois Marcel Petite, Jura, huile de noix **9€** 
 - Saint Nectaire **9€**
 - Assiette de fromages et charcuteries du moment **25 €**
 
