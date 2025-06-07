@@ -78,7 +78,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - P'tit Vaillant - Loire - Blanc de noir - Grolleau, Cabernet - Vif, frais, fruité **7,50€** 
 
 ### Orange
-- Théo Einhart - Alsace - Pinot gris, gewurz, auxerrois, muscat, riesling - Sec, notes d'abricot **8 €**
+- Nicolas Chemarin - Hors Zone - Muscat, chardonnay **8 €**
 
 ### Rosé
 - Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€**
