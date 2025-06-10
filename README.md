@@ -101,8 +101,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ## Bulles 75cl
 ### ALSACE
-- **Anna, André et Yann Durrmann** - Noctambulle rouge - 2022 - 75% Pinot noir, 25% Pinot Gris **39€**
-- **Anna, André et Yann Durrmann** - Gaz de Schistes (orange) - 2022 - 60% Muscat macéré, 20% Riesling, 20% Pinot blanc **41€**
+- **Pepin** - Petnat - 2023 - Chardonnay, muscat, gewurztraminer, riesling **37€**
+- **Théo Einhart** - Petnat - 2023 - Pinot gris, Pinot noir, Gewurztraminer **36€** 
 
 ### LOIRE
 - **Domaine Vaillant** - Bulle Nature - 2023 - Chenin, Groslot Gris, Cab Franc, Chardonnay **38€** 
