@@ -19,7 +19,10 @@ Bouteilles (75cl):
 
  **La Terre / The Land**
 - Olives Bella di Cerignola, Italie **4 €**
-- Houmous de pois chiche **7 €** 
+- Houmous de pois chiche **7 €**
+
+**La Mer / The Sea** 
+- Sardines marinées au basilic **8€**
 
 **Fromages / Cheese**
 - Burrata 250g Caseari Pugliesi, Italie **14€**
@@ -44,7 +47,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Soft
 **Les filles de l’ouest** 33cl **5,5 €**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Limonade / Rhubarbe / Citron Gingembre / Menthe 
+Limonade / Citron Gingembre / Menthe 
 
 **Oma Frida** 75 cl **23 €**
 Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de plantes 
