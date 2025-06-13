@@ -57,10 +57,6 @@ Eau pétillante
 
 ## Bières
 
-**IPA To ol Whirl Domination** 33cl **6,60 €** 
-Saveurs d'agrumes, de pamplemousse, de houblon, de papaye, de mangue 
-et de fruits tropicaux
-
 **Organic pilsner 45 days To ol** 33cl **6,50 €** 
 Bière Blonde aux saveurs de cereales et de houblon, amertume modérée 
 
