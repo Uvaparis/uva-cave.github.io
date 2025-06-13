@@ -26,6 +26,7 @@ Bouteilles (75cl):
 
 **Fromages / Cheese**
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
+- Tomme Caussenarde, Aveyron **9€** 
 - Saint Nectaire **9€**
 - Assiette de fromages et charcuteries du moment **25 €**
 
