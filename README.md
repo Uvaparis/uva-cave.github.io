@@ -25,9 +25,11 @@ Bouteilles (75cl):
 - Sardines marinées au basilic **8€**
 
 **Fromages / Cheese**
+- Burratina 100g poivre, huile d'olive **10€**
+- Brillat Savarin IGP **10€**
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
 - Tomme Caussenarde, Aveyron **9€** 
-- Saint Nectaire **9€**
+- Saint-Nectaire **9€**
 - Assiette de fromages et charcuteries du moment **25 €**
 
 **Viande / Meat**
@@ -77,7 +79,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - P'tit Vaillant - Loire - Blanc de noir - Grolleau, Cabernet - Vif, frais, fruité **7,50€** 
 
 ### Orange
-- Nicolas Chemarin - Hors Zone - Muscat, chardonnay **8 €**
+- Théo Einhart - Alsace - Westerberg - Riesling, Gewurztraminer **8,50€**
 
 ### Rosé
 - Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€**
