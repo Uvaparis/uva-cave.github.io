@@ -62,6 +62,9 @@ Eau pétillante
 **Organic pilsner 45 days To ol** 33cl **6,50 €** 
 Bière Blonde aux saveurs de cereales et de houblon, amertume modérée 
 
+**IPA To ol** 33cl **6,60€**
+Bière aux saveurs fraîchement houblonées d'agrumes et de pêche 
+
 **Implosion To ol** 33cl **5,50 €**
 Bière sans alcool aux arômes floraux et fruités 
 
