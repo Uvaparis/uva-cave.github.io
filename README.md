@@ -25,7 +25,7 @@ Bouteilles (75cl):
 - Sardines marinées au basilic **8€**
 
 **Fromages / Cheese**
-- Burratina 100g poivre, huile d'olive **10€**
+- Burrata 250g poivre, huile d'olive **14€**
 - Brillat Savarin IGP **10€**
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
 - Tomme Caussenarde, Aveyron **9€** 
