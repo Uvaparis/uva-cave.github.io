@@ -74,8 +74,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Vins au verre
 
 ### Rouges
-- Nicolas Chemarin - Beaujolais - Hors Zone - Grenache, gamay. Frais glouglou **7,50€**
-- Kohki Iwata 2022 - Languedoc - Syrah. Fruits noirs **7,50€** 
+- Pinot noir 2023 - Théo Einhart - Notes de fruits rouges **7,50€**
+- Kohki Iwata 2022 - Languedoc - Syrah - Equilibre entre structure tannisue et vicacité **7,50€** 
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
@@ -106,13 +106,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Bulles 75cl
 ### ALSACE
 - **Pepin** - Petnat - 2023 - Chardonnay, muscat, gewurztraminer, riesling **37€**
+  
 - **Théo Einhart** - Petnat - 2023 - Pinot gris, Pinot noir, Gewurztraminer **36€** 
-
-### LOIRE
-- **Domaine Vaillant** - Bulle Nature - 2023 - Chenin, Groslot Gris, Cab Franc, Chardonnay **38€** 
-
-### ESPAGNE
-- **Clos Lentiscus** - Blanc Brut Nature - 2020 - Malvasia - **38 €**
 
 [haut de page](#menu)
 
@@ -133,7 +128,8 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
   
 ### LOIRE
-- **Christophe Bosque** - Domaine de Vini 0,72 - Melon de Bougogne - **35€**
+- **Le détour** - Phillipe Chevarin - Chenin - **35€** 
+- **Christophe Bosque** - Domaine de Vini 0,72 - Melon de Bougogne - **Non disponible**
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - **37 €** 
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **42 €**
 - **Les Grandes Vignes** - Le P'tit Vaillant blanc de noir - Groslot Cabernet **33 €**
