@@ -21,9 +21,6 @@ Bouteilles (75cl):
 - Olives Bella di Cerignola, Italie **4 €**
 - Houmous de pois chiche **7 €**
 
-**La Mer / The Sea** 
-- Sardines marinées au basilic **8€**
-
 **Fromages / Cheese**
 - Burrata 250g poivre, huile d'olive **14€**
 - Brillat Savarin IGP **10€**
@@ -47,9 +44,12 @@ _Des allergies ? Prévenez-nous :) _
 # Carte des Softs, Bières et Vins
 
 ## Soft
-**Les filles de l’ouest** 33cl **5,5 €**
+**Les filles de l’ouest** 33cl **5,50€**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
 Limonade / Citron Gingembre / Menthe 
+
+**UMA Ginger Beer** 33cl **5,50€**
+Infusion pétillante de racines de gingembre
 
 **Oma Frida** 75 cl **23 €**
 Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de plantes 
