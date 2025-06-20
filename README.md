@@ -87,9 +87,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### Rosé
 - Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€**
 
-## Pétillant 
-- Bulle Nature - Domaine Vaillant - Chardonnay, groslot gris, cabernet franc, chenin - Frais, arôme de pommes **8€**
-
 ### Bulle Sans Alcool 
 - Oma Frida, pétillant naturel sans alcool de jus de raisin, verjus et infusion de plantes **6,50 €**
 
@@ -102,12 +99,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - Poiré demi sec, melange Cressane, Conférence et Louise Bonne **24 €**
 
 - Cidre Vicious - Fred Pruchon - Cidre Brut 2022 - 9 variétés de pommes à cidre **26€** 
-  
-## Bulles 75cl
-### ALSACE
-- **Pepin** - Petnat - 2023 - Chardonnay, muscat, gewurztraminer, riesling **37€**
-  
-- **Théo Einhart** - Petnat - 2023 - Pinot gris, Pinot noir, Gewurztraminer **36€** 
 
 [haut de page](#menu)
 
@@ -226,6 +217,9 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Kohki Iwata** - Pino'c - 2023 - Pinot **38€**
 
 ### LOIRE
+- **Phillipe Chevarin** - Plongeon Blouge - 2023 - Grolleau, Melon de bourgogne **34€**
+- **Phillipe Chevarin** - La décrue - 2023 - Gamay **35€**
+- **Phillipe Chevarin** - Le Magny - 2023 - Vieilles variétés de gamay **38€**
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **R. Guettier** - Adonis 2023 - Pineau d'aunis **41€**
 - **R. Guettier** - Enchanteresse 2022 - Pineau d'aunis vieilles vignes **47€**
