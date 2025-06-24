@@ -57,16 +57,13 @@ Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de pl
 **San Pellegrino** 33cl **4€** 
 Eau pétillante 
 
+**Implosion To ol** 33cl **5,50 €**
+Bière sans alcool aux arômes floraux et fruités 
+
 ## Bières
 
 **Organic pilsner 45 days To ol** 33cl **6,50 €** 
-Bière Blonde aux saveurs de cereales et de houblon, amertume modérée 
-
-**IPA To ol** 33cl **6,60€**
-Bière aux saveurs fraîchement houblonées d'agrumes et de pêche 
-
-**Implosion To ol** 33cl **5,50 €**
-Bière sans alcool aux arômes floraux et fruités 
+Bière Blonde aux saveurs de cereales et de houblon, amertume modérée  
 
 **Cantillon** Kriek 100% Lambic Bio - 75cl **40 €**
 Désaltérante, saveurs de fruits rouges et d'agrumes
@@ -82,10 +79,13 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - P'tit Vaillant - Loire - Blanc de noir - Grolleau, Cabernet - Vif, frais, fruité **7,50€** 
 
 ### Orange
-- Théo Einhart - Alsace - Westerberg - Riesling, Gewurztraminer **8,50€**
+- Pépin - Alsace - Gewurztrapiner, pinot gris, pinot blanc **8€** 
 
 ### Rosé
 - Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€**
+
+### Pétillant 
+- Coince ta bulle - Bordeaux - Sémillion, finement pétillant, fruité **8€**
 
 ### Bulle Sans Alcool 
 - Oma Frida, pétillant naturel sans alcool de jus de raisin, verjus et infusion de plantes **6,50 €**
