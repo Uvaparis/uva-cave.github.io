@@ -104,7 +104,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 ## Blancs 75cl
 ### ALSACE
-- **Pépin** - Assemblage de cépages alsaciens - 2022 - **34 €**
+- **Pépin** - Assemblage de cépages alsaciens - 2022 - **35€**
 - **Domaine Einhart** - Auxerrois - 2024 - **35 €** 
 - **Le Clos Liebau** - Riesling - 2023 - **45€**
   
@@ -120,7 +120,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
   
 ### LOIRE
 - **Le détour** - Phillipe Chevarin - Chenin - **35€** 
-- **Christophe Bosque** - Domaine de Vini 0,72 - Melon de Bougogne - **Non disponible**
+- **Christophe Bosque** - Domaine de Vini 0,72 - Melon de Bougogne - **35€**
 - **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - **37 €** 
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **42 €**
 - **Les Grandes Vignes** - Le P'tit Vaillant blanc de noir - Groslot Cabernet **33 €**
@@ -141,21 +141,18 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 - **Le Clos Liebau** - Pinot gris, auxerois, une pointe de Gewurztraminer - 2023 - **40 €**
 - **Le Clos Liebau** - L'oeuf ou la poule - Macération de 7 jours de Gewurztraminer - 2023 - **45€** 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - **140 €** (150 cl)
-- **Pépin** - Gewurztraminer, Pinot gris - 2022 - 38 €
+- **Pépin** - Gewurztraminer, Pinot gris - 2022 **38€**
 - **Domaine Einhart** - Westerberg Geswurstraminer, riesling **45€** 
 
 ### ARDECHE 
-- **Loublachon** - Inébriant - 2023 - Chardonnay, Viognier - **39€**
+- **Loublachon** - Inébriant - 2023 - Chardonnay, Viognier - **33€**
 - **Tomomoto** - Cuvée Louis - 2024 - Roussanne Macération de 7 jours - **39€** 
 
 ### SAVOIE
-- **France Gonzalvez** - Point de chute - 2022 - Jacquère - **48 €**
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - **77 €**
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - **90 €**
 
 ### JURA
-- **Alice Bouvot** - Mus’cat - 2021 - Muscat - **59€**
-- **Jérôme Arnoux** - Paradoxe - 2020 - Savagnin macéré - **52€**
 - **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération de 380 jours - **54€**
 - **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - **48€**
 
@@ -168,7 +165,7 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ## Rosés 75cl
 
 ### ALSACE
-- **Domaine Pépin** - Pink - Pinot Gris, Pinot Blanc - 37 € 
+- **Domaine Pépin** - Pink - Pinot Gris, Pinot Blanc - **37€**
 
 ### ITALIE
 - **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - 49 €
@@ -193,7 +190,6 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 ### BEAUJOLAIS
 - **Easy game** - Maï Lam et Sébastien Morin - 2023 - Gamay - **40€**
 - **Nicolas Chemarin** - P'tit Grobis 2023 - Gamay - **39€**
-- **Nicolas Chemarin** - Hors zone Grenache Gamay - **39€** 
 - **L'indigene** - Beaujolais-Villages - Maï Lam et Sébastien Morin - 2023 - Gamay - **41€**
 - **La passion du produit** - Maï Lam et Sébastien Morin - 2023 - Gamay - **45€**
 - **Domaine Belicard** - Morgon - Terrain rouge - 2021 - Gamay **37€** 
