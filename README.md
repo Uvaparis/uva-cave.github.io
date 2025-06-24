@@ -102,6 +102,16 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 [haut de page](#menu)
 
+## Pétillants 75cl 
+### ALSACE 
+- Pépin - Ugni blanc, picpoul, muscat, chardonnay **38€**
+
+### BORDEAUX 
+- Coince ta bulle 2023 - Château de Frédignac - Sémillion **39€**
+
+## ESPAGNE 
+- Clos Lentiscus 2018 - Nuria - Cartoixa Vermel **40€**
+
 ## Blancs 75cl
 ### ALSACE
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - **35€**
