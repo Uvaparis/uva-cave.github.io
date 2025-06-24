@@ -102,6 +102,10 @@ Désaltérante, saveurs de fruits rouges et d'agrumes
 
 [haut de page](#menu)
 
+## Champagne Morgane Fleury 
+- Fleur d'étoile Extra-brut Pinot noit, chardonnay **98€**
+Un champagne subtil et expressif, à la fois mûr et raffraîchissant. 
+
 ## Pétillants 75cl 
 ### ALSACE 
 - Pépin - Ugni blanc, picpoul, muscat, chardonnay **38€**
