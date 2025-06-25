@@ -46,7 +46,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Soft
 **Les filles de l’ouest** 33cl **5,50€**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Limonade / Citron Gingembre / Menthe 
+Limonade / Menthe 
 
 **UMA Ginger Beer** 33cl **5,50€**
 Infusion pétillante de racines de gingembre
