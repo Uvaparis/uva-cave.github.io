@@ -115,6 +115,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ## ESPAGNE 
 - Clos Lentiscus 2018 - Nuria - Cartoixa Vermel **40€**
+- Clos Lentiscus 2020 - Blanc Brut Nature - Méthode traditionnelle - Malvasia de Sitges **40€** 
 
 ## Blancs 75cl
 ### ALSACE
