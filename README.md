@@ -68,15 +68,17 @@ Bière sans alcool aux arômes floraux et fruités
 ### Rouges
 - Pinot noir 2023 - Théo Einhart - Notes de fruits rouges **7,50€**
 - Kohki Iwata 2022 - Languedoc - Syrah - Equilibre entre structure tannisue et vicacité **7,50€**
-- Canetta - Vin rouge en canette - Trempranillo - Fruits mûrs, épices, notes légèrement grillées **6,50€** 
+- Canetta - Vin rouge en canette - Tempranillo - Fruits mûrs, épices, notes légèrement grillées **6,50€** 
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
 - P'tit Vaillant - Loire - Blanc de noir - Grolleau, Cabernet - Vif, frais, fruité **7,50€** 
-
+- Canetta - Vin blanc en canette - Xarello, macabeu & Parellada - Belle acidité et juste équilibre **6,5€**
+  
 ### Orange
 - Pépin - Alsace - Gewurztrapiner, pinot gris, pinot blanc **8€** 
-
+- Canetta - Vin orange en canetta - Cartoixà de Marina - Macération de 5 jours, arômes de petits fruits rouges de garrigue et de poivre rose **6,5€**
+  
 ### Rosé
 - Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€**
 
