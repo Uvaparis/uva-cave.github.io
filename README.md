@@ -67,7 +67,8 @@ Bière sans alcool aux arômes floraux et fruités
 
 ### Rouges
 - Pinot noir 2023 - Théo Einhart - Notes de fruits rouges **7,50€**
-- Kohki Iwata 2022 - Languedoc - Syrah - Equilibre entre structure tannisue et vicacité **7,50€** 
+- Kohki Iwata 2022 - Languedoc - Syrah - Equilibre entre structure tannisue et vicacité **7,50€**
+- Canetta - Vin rouge en canette - Trempranillo - Fruits mûrs, épices, notes légèrement grillées **6,50€** 
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
