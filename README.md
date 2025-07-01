@@ -23,6 +23,7 @@ Bouteilles (75cl):
 
 **Fromages / Cheese**
 - Brillat Savarin IGP **10€**
+- Burrata, huile d'olive **14€**
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
 - Tomme Caussenarde, Aveyron **9€** 
 - Saint-Nectaire **9€**
@@ -44,7 +45,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Soft
 **Les filles de l’ouest** 33cl **5,50€**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Limonade / Menthe 
+Limonade 
 
 **UMA Ginger Beer** 33cl **5,50€**
 Infusion pétillante de racines de gingembre
@@ -60,11 +61,7 @@ Bière sans alcool aux arômes floraux et fruités
 
 ## Bières
 
-**Organic pilsner 45 days To ol** 33cl **6,50 €** 
-Bière Blonde aux saveurs de cereales et de houblon, amertume modérée  
-
-**Cantillon** Kriek 100% Lambic Bio - 75cl **40 €**
-Désaltérante, saveurs de fruits rouges et d'agrumes
+**Non disponible**
 
 ## Vins au verre
 
