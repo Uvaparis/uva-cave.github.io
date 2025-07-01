@@ -133,8 +133,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
   
 ### LOIRE
 - **Le détour** - Phillipe Chevarin - Chenin - **35€** 
-- **Christophe Bosque** - Domaine de Vini 0,72 - Melon de Bougogne - **35€**
-- **Les Grandes Vignes** - Pin'Eau de Loère - 2022/ 2023 - Chenin - **37 €** 
+- **Christophe Bosque** - Domaine de Vini 0,72 - Melon de Bougogne - **35€** 
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **42 €**
 - **Les Grandes Vignes** - Le P'tit Vaillant blanc de noir - Groslot Cabernet **33 €**
 - **Renaud Guettier** - La belle Egarée 2022 - Chenin - **44€**
@@ -158,7 +157,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Domaine Einhart** - Westerberg Geswurstraminer, riesling **45€** 
 
 ### ARDECHE 
-- **Loublachon** - Inébriant - 2023 - Chardonnay, Viognier - **33€**
 - **Tomomoto** - Cuvée Louis - 2024 - Roussanne Macération de 7 jours - **39€** 
 
 ### SAVOIE
@@ -171,7 +169,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ### ITALIE
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - **69€** (50cl)
-- **Alessandro Viola** - Sinfonia di Bianco - 2021 - Grillo - **61€**
 
 [haut de page](#menu)
 
@@ -181,7 +178,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Domaine Pépin** - Pink - Pinot Gris, Pinot Blanc - **37€**
 
 ### ITALIE
-- **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - 49 €
+- **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - **49€**
 
 [haut de page](#menu)
 
@@ -226,7 +223,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Kohki Iwata** - Pino'c - 2023 - Pinot **38€**
 
 ### LOIRE
-- **Phillipe Chevarin** - Plongeon Blouge - 2023 - Grolleau, Melon de bourgogne **34€**
 - **Phillipe Chevarin** - La décrue - 2023 - Gamay **35€**
 - **Phillipe Chevarin** - Le Magny - 2023 - Vieilles variétés de gamay **38€**
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
@@ -235,7 +231,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **52€**
 - **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc **32 €** 
 - **Les Grandes Vignes** - Pineau d'Aunis 2023 - **37 €**
-- **Les Grandes Vignes** - Groslot 2023 - **35 €** 
+- **Les Grandes Vignes** - Groslot 2023 - **37€** 
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€** 
