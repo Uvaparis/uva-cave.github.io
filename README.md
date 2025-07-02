@@ -37,7 +37,7 @@ Bouteilles (75cl):
 
 **Dessert**
 
-- Glace chocolat noir 1 boule **3€** 2 boules **5,5€**
+- Glace chocolat noir 1 boule **3€**       2 boules **5,5€**
 
   
 _Des allergies ? Prévenez-nous :) _
@@ -65,7 +65,8 @@ Bière sans alcool aux arômes floraux et fruités
 
 ## Bières
 
-**Non disponible**
+**To ol Pilsner** 33cl **6,50€** 
+Fraîche légère désaltérante 
 
 ## Vins au verre
 
