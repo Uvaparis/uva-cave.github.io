@@ -35,6 +35,10 @@ Bouteilles (75cl):
 - Assiette de charcuterie, selection de charcuterie du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
+**Dessert**
+
+- Glace chocolat noir 1 boule **3€** 2 boules **5,5€**
+
   
 _Des allergies ? Prévenez-nous :) _
    
