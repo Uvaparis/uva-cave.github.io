@@ -143,7 +143,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
   
 ### LOIRE
 - **Le détour** - Phillipe Chevarin - Chenin - **35€** 
-- **Christophe Bosque** - Domaine de Vini 0,72 - Melon de Bougogne - **35€** 
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **42 €**
 - **Les Grandes Vignes** - Le P'tit Vaillant blanc de noir - Groslot Cabernet **33 €**
 - **Renaud Guettier** - La belle Egarée 2022 - Chenin - **44€**
