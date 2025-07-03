@@ -132,7 +132,11 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - **43 €**
 
 ### ARDECHE
-- **Loublachon** - Zazou 2023 - Sauvignon Blanc - **39 €** 
+- **Loublachon** - Zazou 2023 - Sauvignon Blanc - **39 €**
+
+### AUVERGNE
+- **L'eau qui dort** - L'amour toujours 2024 - Ugni blanc, grenache blanc **40€**
+- **L'eau qui dort** - Ume 2024 - Chardonnay muscaté **35€** 
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
@@ -156,7 +160,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ## Oranges 75cl
 
 ### ALSACE
-- **Le Clos Liebau** - Pinot gris, auxerois, une pointe de Gewurztraminer - 2023 - **40 €**
+- **Le Clos Liebau** - Pinot gris, auxerois, une pointe de Gewurztraminer - 2023 - **Non disponible** 
 - **Le Clos Liebau** - L'oeuf ou la poule - Macération de 7 jours de Gewurztraminer - 2023 - **45€** 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - **140 €** (150 cl)
 - **Pépin** - Gewurztraminer, Pinot gris - 2022 **38€**
@@ -199,9 +203,12 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
   
 ### AUVERGNE 
-- **L'eau qui dort** - Zeppa•o - 2022 - Barbera - **45€**
-- **Tomomoto** - Cueillette Sauvage - 2023 - Gamay **44€**
-- **Tomomoto** - Une sot dans la mare - 2021 - Marselan, Merlot **39€**
+- **L'eau qui dort** - Zeppa•o 2022 - Barbera - **45€**
+- **L'eau qui dort** - Toï Toï 2024 - Gamay, Cinsault **38€**
+- **L'eau qui dort** - L'eau des fleurs 2024 - Vieilles vignes de gamay d'Auvergne **43€**
+- **L'eau qui dort** - Bosco 2024 - Pinot noir **43€** 
+- **Tomomoto** - Cueillette Sauvage 2023 - Gamay **44€**
+- **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
 
 ### BEAUJOLAIS
 - **Easy game** - Maï Lam et Sébastien Morin - 2023 - Gamay - **40€**
