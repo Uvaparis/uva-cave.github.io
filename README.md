@@ -31,6 +31,7 @@ Bouteilles (75cl):
 
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
+- Longe de porc séchée - Tranchée finement - Aveyron **10€** 
 - Saucisson de l'Aveyron - Dried Porc Sausage **7,5 €**
 - Assiette de charcuterie, selection de charcuterie du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
