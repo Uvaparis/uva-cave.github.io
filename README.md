@@ -37,7 +37,6 @@ Bouteilles (75cl):
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
 **Dessert**
-
 - Glace chocolat noir 1 boule **3€**       2 boules **5,5€**
 
   
@@ -50,12 +49,12 @@ _Des allergies ? Prévenez-nous :) _
 ## Soft
 **Les filles de l’ouest** 33cl **5,50€**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-Limonade 
+**Non disponible**
 
 **UMA Ginger Beer** 33cl **5,50€**
 Infusion pétillante de racines de gingembre
 
-**Oma Frida** 75 cl **23 €**
+**Oma Frida** 75 cl **6,50€** au verre et **23 €** la bouteille
 Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de plantes 
 
 **San Pellegrino** 33cl **4€** 
@@ -83,16 +82,12 @@ Fraîche légère désaltérante
   
 ### Orange
 - Pépin - Alsace - Gewurztrapiner, pinot gris, pinot blanc **8€** 
-- Canetta - Vin orange en canetta - Cartoixà de Marina - Macération de 5 jours, arômes de petits fruits rouges de garrigue et de poivre rose **6,5€**
   
 ### Rosé
 - Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€**
 
 ### Pétillant 
 - Coince ta bulle - Bordeaux - Sémillion, finement pétillant, fruité **8€**
-
-### Bulle Sans Alcool 
-- Oma Frida, pétillant naturel sans alcool de jus de raisin, verjus et infusion de plantes **6,50 €**
 
 [haut de page](#menu)
 
