@@ -72,7 +72,7 @@ Fraîche légère désaltérante
 ## Vins au verre
 
 ### Rouges
-- Pinot noir 2023 - Théo Einhart - Notes de fruits rouges **7,50€**
+- La décrue - Philippe Chevarin - Loire - Gamay - Petits fruits rouges, léger **7,50€**
 - Kohki Iwata 2022 - Languedoc - Syrah - Equilibre entre structure tannisue et vicacité **7,50€**
 - Canetta - Vin rouge en canette - Tempranillo - Fruits mûrs, épices, notes légèrement grillées **6,50€** 
   
