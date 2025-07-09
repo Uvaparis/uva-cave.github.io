@@ -109,12 +109,12 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ### ALSACE 
 - Pépin - Ugni blanc, picpoul, muscat, chardonnay **38€**
 
-### BORDEAUX 
-- Coince ta bulle 2023 - Château de Frédignac - Sémillion **39€**
-
 ## ESPAGNE 
 - Clos Lentiscus 2018 - Nuria - Cartoixa Vermel **40€**
-- Clos Lentiscus 2020 - Blanc Brut Nature - Méthode traditionnelle - Malvasia de Sitges **40€** 
+- Clos Lentiscus 2020 - Blanc Brut Nature - Méthode traditionnelle - Malvasia de Sitges **40€**
+
+## SUD OUEST 
+- La petite odysée 2022 - Nuage magique - Antoine Bernardin - Cabernet sauvignon, chardonnay, merlot **39€** 
 
 ## Blancs 75cl
 ### ALSACE
