@@ -68,6 +68,9 @@ Bière sans alcool aux arômes floraux et fruités
 **To ol Pilsner** 33cl **6,50€** 
 Fraîche légère désaltérante 
 
+**To ol IPA** 33cl **6,60** 
+Fraîche, fruité, légère amertume 
+
 ## Vins au verre
 
 ### Rouges
