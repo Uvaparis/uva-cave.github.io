@@ -117,7 +117,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - Clos Lentiscus 2020 - Blanc Brut Nature - Méthode traditionnelle - Malvasia de Sitges **40€**
 
 ## SUD OUEST 
-- La petite odysée 2022 - Nuage magique - Antoine Bernardin - Cabernet sauvignon, chardonnay, merlot **39€** 
+- La Petite odysée 2022 - Nuage magique - Antoine Bernardin - Cabernet sauvignon, chardonnay, merlot **39€** 
 
 ## Blancs 75cl
 ### ALSACE
@@ -134,7 +134,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ### AUVERGNE
 - **L'eau qui dort** - L'amour toujours 2024 - Ugni blanc, grenache blanc **40€**
-- **L'eau qui dort** - Ume 2024 - Chardonnay muscaté **35€** 
+- **L'eau qui dort** - Ume 2024 - Chardonnay muscaté **35€** Vin à la tireuse
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
@@ -157,31 +157,30 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ## Oranges 75cl
 
 ### ALSACE
-- **Le Clos Liebau** - Pinot gris, auxerois, une pointe de Gewurztraminer - 2023 - **Non disponible**
+- **Le Clos Liebau** - Pinot gris, auxerois, une pointe de Gewurztraminer - 2023 - Légère amertume, vif, tannins légers, persistance fraîche **40€** 
   
-- **Le Clos Liebau** - L'oeuf ou la poule - Macération de 7 jours de Gewurztraminer - 2023 - **45€**
+- **Le Clos Liebau** - L'oeuf ou la poule - Macération de 7 jours de Gewurztraminer - 2023 - Expressif, fluide, aux accents épicés et floraux avce une finale à la fois salivante et finement amère **45€**
   
-- **Domaine Achillée** - Eveil des sens 2022 - Rieesling, muscat, pinot blanc, pinot gris, pinot noir, gewurztraminer - Macération entre 8 et 10 jours en cuve **39€**
+- **Domaine Achillée** - Eveil des sens 2022 - Riesling, muscat, pinot blanc, pinot gris, pinot noir, gewurztraminer - Macération entre 8 et 10 jours en cuve Agrumes frais, fleurs blanches, fruits tropicaux **39€**
   
 - **Pépin** - Riesling - Saveurs d'agrumes juteux, pêche blanche, accompagnés d'une minéraliré saline et finale légèrement épicée **40€**
   
-- **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - **140 €** (150 cl)
+- **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl) 
   
-- **Pépin** - Gewurztraminer, Pinot gris - 2022 **38€**
-
-### ARDECHE 
-- **Tomomoto** - Cuvée Louis - 2024 - Roussanne Macération de 7 jours - **39€** 
+- **Pépin** - Gewurztraminer, Pinot gris 2022 - Expressif et équilibré, offrant une belle complexité aromatique et une structure tannique soyeuse **38€**
 
 ### SAVOIE
-- **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - **77 €**
-- **J-Y Peron** - La Grande Journée - 2020 - Altesse - **90 €**
+- **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **77 €**
+  
+- **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **90 €**
 
 ### JURA
-- **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération de 380 jours - **54€**
-- **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - **48€**
+- **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération semi-carbonique de 360 jours en bouteille après 5 ans de garde - Fruits jaunes, bonbons, sous-bois, structuré mais avec une touche funk vibrant et sobre à la fois **54€**
+  
+- **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - Arômes frais et croquants, fraises juteuses, pamplemousse rose avec des notes délicates de fruits rouges typiques du Poulsard **48€**
 
 ### ITALIE
-- **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - **69€** (50cl)
+- **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - Moelleux, fruité, richesse aromatique (abricot, pêche, poire) **69€** (50cl)
 
 [haut de page](#menu)
 
