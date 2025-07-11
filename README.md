@@ -58,7 +58,9 @@ Infusion pétillante de racines de gingembre
 Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de plantes 
 
 **San Pellegrino** 33cl **4€** 
-Eau pétillante 
+
+**Orezza** 1L **7€**
+Eau minérale pétillante de Corse 
 
 **Implosion To ol** 33cl **5,50 €**
 Bière sans alcool aux arômes floraux et fruités 
