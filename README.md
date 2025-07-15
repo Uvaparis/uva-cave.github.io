@@ -82,7 +82,7 @@ Fraîche, fruité, légère amertume
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
-- P'tit Vaillant - Loire - Blanc de noir - Grolleau, Cabernet - Vif, frais, fruité **7,50€** 
+- L'eau qui dort - Ume 2024 - Chardonnay muscaté **7,5€** (Vin à la tireuse) 
 - Canetta - Vin blanc en canette - Xarello, macabeu & Parellada - Belle acidité et juste équilibre **6,5€**
   
 ### Orange
