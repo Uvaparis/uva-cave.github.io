@@ -48,11 +48,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Soft
 **Les filles de l’ouest** 33cl **5,50€**
-Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique :
-**Non disponible**
-
-**UMA Ginger Beer** 33cl **5,50€**
-Infusion pétillante de racines de gingembre
+Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique (au choix : Rhubarbe, limonade, menthe, citron) 
 
 **Oma Frida** 75 cl **6,50€** au verre et **23 €** la bouteille
 Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de plantes 
