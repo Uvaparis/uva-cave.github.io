@@ -23,15 +23,14 @@ Bouteilles (75cl):
 
 **Fromages / Cheese**
 - Brillat Savarin IGP **10€**
-- Burrata, huile d'olive **14€**
+- Burrata, huile d'olive **Non disponible**
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
 - Tomme Caussenarde, Aveyron **9€** 
 - Saint-Nectaire **9€**
 - Assiette de fromages et charcuteries du moment **25 €**
 
 **Viande / Meat**
-- Pâté de campagne artisanal - Maison Montalet (120g) **10€**
-- Longe de porc séchée, tranchée finement - Aveyron **10€** 
+- Pâté de campagne artisanal - Maison Montalet (120g) **10€** 
 - Saucisson de l'Aveyron **7,5 €**
 - Assiette de charcuterie, selection de charcuterie du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
