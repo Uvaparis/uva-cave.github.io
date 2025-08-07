@@ -73,13 +73,11 @@ Fraîche, fruité, légère amertume
 
 ### Rouges
 - La décrue - Philippe Chevarin - Loire - Gamay - Petits fruits rouges, léger **7,50€**
-- Kohki Iwata 2022 - Languedoc - Syrah - Equilibre entre structure tannisue et vicacité **7,50€**
-- Canetta - Vin rouge en canette - Tempranillo - Fruits mûrs, épices, notes légèrement grillées **6,50€** 
+- Kohki Iwata 2022 - Languedoc - Cuvée WA - Cinsault, pinot noir - Tannin moyen, retour épicé **7,50€**
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
 - L'eau qui dort - Ume 2024 - Chardonnay muscaté **7,5€** (Vin à la tireuse) 
-- Canetta - Vin blanc en canette - Xarello, macabeu & Parellada - Belle acidité et juste équilibre **6,5€**
   
 ### Orange
 - Pépin - Alsace - Gewurztrapiner, pinot gris, pinot blanc **8€** 
@@ -88,7 +86,7 @@ Fraîche, fruité, légère amertume
 - Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€**
 
 ### Pétillant 
-- Coince ta bulle - Bordeaux - Sémillion, finement pétillant, fruité **8€**
+- Pépin Pét Nat - Fraîcheur, bulle fines mais vivaces **8€**
 
 [haut de page](#menu)
 
@@ -121,14 +119,10 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ### ALSACE
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - **35€**
 - **Domaine Einhart** - Auxerrois - 2024 - **35 €** 
-- **Le Clos Liebau** - Riesling - 2023 - **45€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - **90 €** 
 - **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - **43 €**
-
-### ARDECHE
-- **Loublachon** - Zazou 2023 - Sauvignon Blanc - **39 €**
 
 ### AUVERGNE
 - **L'eau qui dort** - L'amour toujours 2024 - Ugni blanc, grenache blanc **40€**
@@ -138,13 +132,11 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
   
 ### LOIRE
-- **Le détour** - Phillipe Chevarin - Chenin - **35€** 
-- **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **42 €**
-- **Les Grandes Vignes** - Le P'tit Vaillant blanc de noir - Groslot Cabernet **33 €**
+- **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **Non disponible**
 - **Renaud Guettier** - La belle Egarée 2022 - Chenin - **44€**
 
 ### GRECE
-- **Sous le végétal** - Livia - 2019 - Muscat d'alexandrie - **45€** 
+- **Sous le végétal** - Livia - 2019 - Muscat d'alexandrie - **Non disponible**
 
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - **55 €**
@@ -159,7 +151,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
   
 - **Le Clos Liebau** - L'oeuf ou la poule - Macération de 7 jours de Gewurztraminer - 2023 - Expressif, fluide, aux accents épicés et floraux avce une finale à la fois salivante et finement amère **45€**
   
-- **Domaine Achillée** - Eveil des sens 2022 - Riesling, muscat, pinot blanc, pinot gris, pinot noir, gewurztraminer - Macération entre 8 et 10 jours en cuve Agrumes frais, fleurs blanches, fruits tropicaux **39€**
+- **Domaine Achillée** - Eveil des sens 2022 - Riesling, muscat, pinot blanc, pinot gris, pinot noir, gewurztraminer - Macération entre 8 et 10 jours en cuve Agrumes frais, fleurs blanches, fruits tropicaux **Non disponible**
   
 - **Pépin** - Riesling - Saveurs d'agrumes juteux, pêche blanche, accompagnés d'une minéraliré saline et finale légèrement épicée **40€**
   
@@ -211,7 +203,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
 
 ### BEAUJOLAIS
-- **Easy game** - Maï Lam et Sébastien Morin - 2023 - Gamay - **40€**
 - **Nicolas Chemarin** - P'tit Grobis 2023 - Gamay - **39€**
 - **L'indigene** - Beaujolais-Villages - Maï Lam et Sébastien Morin - 2023 - Gamay - **41€**
 - **La passion du produit** - Maï Lam et Sébastien Morin - 2023 - Gamay - **45€**
@@ -244,7 +235,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **52€**
 - **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc **32 €** 
 - **Les Grandes Vignes** - Pineau d'Aunis 2023 - **37 €**
-- **Les Grandes Vignes** - Groslot 2023 - **37€** 
+- **Les Grandes Vignes** - Groslot 2023 **Non disponible**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€** 
