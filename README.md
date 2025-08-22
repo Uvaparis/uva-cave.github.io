@@ -23,7 +23,7 @@ Bouteilles (75cl):
 
 **Fromages / Cheese**
 - Brillat Savarin IGP **10€**
-- Burrata, huile d'olive **Non disponible**
+- Burrata, huile d'olive **14€**
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
 - Tomme Caussenarde, Aveyron **9€** 
 - Saint-Nectaire **9€**
@@ -108,7 +108,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - Pépin - Ugni blanc, picpoul, muscat, chardonnay **38€**
 
 ## ESPAGNE 
-- Clos Lentiscus 2018 - Nuria - Cartoixa Vermel **40€**
 - Clos Lentiscus 2020 - Blanc Brut Nature - Méthode traditionnelle - Malvasia de Sitges **40€**
 
 ## SUD OUEST 
@@ -117,11 +116,14 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ## Blancs 75cl
 ### ALSACE
 - **Pépin** - Assemblage de cépages alsaciens - 2022 - **35€**
-- **Domaine Einhart** - Auxerrois - 2024 - **35 €** 
+- **Domaine Einhart** - Auxerrois - 2024 - **35 €**
+
+### BEAUJOLAIS 
+- **Nicolas Chemarin** - P'tit Grobis blanc - 2023 - **39€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - **90 €** 
-- **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - **43 €**
+- **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - **Non disponible**
 
 ### AUVERGNE
 - **L'eau qui dort** - L'amour toujours 2024 - Ugni blanc, grenache blanc **40€**
@@ -132,7 +134,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
   
 ### LOIRE
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **Non disponible**
-- **Renaud Guettier** - La belle Egarée 2022 - Chenin - **44€**
 
 ### GRECE
 - **Sous le végétal** - Livia - 2019 - Muscat d'alexandrie - **Non disponible**
@@ -146,10 +147,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ## Oranges 75cl
 
 ### ALSACE
-- **Le Clos Liebau** - Pinot gris, auxerois, une pointe de Gewurztraminer - 2023 - Légère amertume, vif, tannins légers, persistance fraîche **40€** 
-  
-- **Le Clos Liebau** - L'oeuf ou la poule - Macération de 7 jours de Gewurztraminer - 2023 - Expressif, fluide, aux accents épicés et floraux avce une finale à la fois salivante et finement amère **45€**
-  
+
 - **Domaine Achillée** - Eveil des sens 2022 - Riesling, muscat, pinot blanc, pinot gris, pinot noir, gewurztraminer - Macération entre 8 et 10 jours en cuve Agrumes frais, fleurs blanches, fruits tropicaux **Non disponible**
   
 - **Pépin** - Riesling - Saveurs d'agrumes juteux, pêche blanche, accompagnés d'une minéraliré saline et finale légèrement épicée **40€**
@@ -167,6 +165,10 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération semi-carbonique de 360 jours en bouteille après 5 ans de garde - Fruits jaunes, bonbons, sous-bois, structuré mais avec une touche funk vibrant et sobre à la fois **54€**
   
 - **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - Arômes frais et croquants, fraises juteuses, pamplemousse rose avec des notes délicates de fruits rouges typiques du Poulsard **48€**
+
+### PYRENEES-ORIENTALES 
+
+- **Raphäel Rous** - Amics - 2024 - Muscat petits grains - Macération pendant 10 jours - Arômes vif, délicatement salin due au terroir **39€** 
 
 ### ITALIE
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - Moelleux, fruité, richesse aromatique (abricot, pêche, poire) **69€** (50cl)
