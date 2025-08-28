@@ -71,7 +71,7 @@ Fraîche, fruité, légère amertume
 ## Vins au verre
 
 ### Rouges
-- La décrue - Philippe Chevarin - Loire - Gamay - Petits fruits rouges, léger **7,50€**
+- Domaine Vaillant - Pineau d'aunis - Notes de poivre blanc, fraise des bois **7,50€**
 - Kohki Iwata 2022 - Languedoc - Cuvée WA - Cinsault, pinot noir - Tannin moyen, retour épicé **7,50€**
   
 ### Blancs
@@ -111,7 +111,8 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - Clos Lentiscus 2020 - Blanc Brut Nature - Méthode traditionnelle - Malvasia de Sitges **40€**
 
 ## SUD OUEST 
-- La Petite odysée 2022 - Nuage magique - Antoine Bernardin - Cabernet sauvignon, chardonnay, merlot **39€** 
+- La Petite odysée 2022 - Nuage magique - Antoine Bernardin - Cabernet sauvignon, chardonnay, merlot **39€**
+- Coince ta bulle 2023 - Sémillion - **39€**
 
 ## Blancs 75cl
 ### ALSACE
@@ -125,10 +126,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - **90 €** 
 - **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - **Non disponible**
 
-### AUVERGNE
-- **L'eau qui dort** - L'amour toujours 2024 - Ugni blanc, grenache blanc **40€**
-- **L'eau qui dort** - Ume 2024 - Chardonnay muscaté **35€** Vin à la tireuse
-
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
   
@@ -136,7 +133,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **Non disponible**
 
 ### GRECE
-- **Sous le végétal** - Livia - 2019 - Muscat d'alexandrie - **Non disponible**
+- **Sous le végétal** - Livia - 2019 - Muscat d'alexandrie **45€**
 
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - **55 €**
@@ -228,7 +225,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Kohki Iwata** - Pino'c - 2023 - Pinot **38€**
 
 ### LOIRE
-- **Phillipe Chevarin** - La décrue - 2023 - Gamay **35€**
 - **Phillipe Chevarin** - Le Magny - 2023 - Vieilles variétés de gamay **38€**
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **R. Guettier** - Adonis 2023 - Pineau d'aunis **41€**
