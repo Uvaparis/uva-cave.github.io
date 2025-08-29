@@ -111,7 +111,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - Clos Lentiscus 2020 - Blanc Brut Nature - Méthode traditionnelle - Malvasia de Sitges **40€**
 
 ## LOIRE
-- Bulle Nature 2023 - Domaine Vaillant - Chenin blanc, groslot gris, cabernet franc, chardonnay 
+- Bulle Nature 2023 - Domaine Vaillant - Chenin blanc, groslot gris, cabernet franc, chardonnay **38€**
 
 ## SUD OUEST 
 - La Petite odysée 2022 - Nuage magique - Antoine Bernardin - Cabernet sauvignon, chardonnay, merlot **39€**
@@ -133,7 +133,9 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
   
 ### LOIRE
-- **Les Grandes Vignes** - La Varenne du Poirier - Chenin - **Non disponible**
+- **Les Grandes Vignes** - La Varenne du Poirier 2023 - Chenin - **42€**
+- **Les Grandes Vignes** - Le P'tit Vaillant 2023 - Groslot, cabernet - **33€**
+- **Les Grandes Vignes** - Pin'eau de Loere 2023 - Chenin - **37€**
 
 ### GRECE
 - **Sous le végétal** - Livia - 2019 - Muscat d'alexandrie **45€**
