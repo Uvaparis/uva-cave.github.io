@@ -76,7 +76,7 @@ Fraîche, fruité, légère amertume
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
-- L'eau qui dort - Ume 2024 - Chardonnay muscaté **7,5€** (Vin à la tireuse) 
+- 0,72 Blanc - Loire - Melon de Bourgogne - Arômes de poire croquante,équilibre entre tension et rondeur **7,5€** 
   
 ### Orange
 - Pépin - Alsace - Gewurztrapiner, pinot gris, pinot blanc **8€** 
@@ -109,6 +109,9 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ## ESPAGNE 
 - Clos Lentiscus 2020 - Blanc Brut Nature - Méthode traditionnelle - Malvasia de Sitges **40€**
+
+## LOIRE
+- Bulle Nature 2023 - Domaine Vaillant - Chenin blanc, groslot gris, cabernet franc, chardonnay 
 
 ## SUD OUEST 
 - La Petite odysée 2022 - Nuage magique - Antoine Bernardin - Cabernet sauvignon, chardonnay, merlot **39€**
