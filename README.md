@@ -62,9 +62,6 @@ Bière sans alcool aux arômes floraux et fruités
 
 ## Bières
 
-**To ol Pilsner** 33cl **6,50€** 
-Fraîche légère désaltérante 
-
 **To ol IPA** 33cl **6,60** 
 Fraîche, fruité, légère amertume 
 
@@ -143,6 +140,11 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - **55 €**
 - **Istvan Bencze** - Riesling - 2020 **58 €**
+
+### ROUSSILLON
+
+- **Phosphore** - Domaine Réveille 2023 -  Muscat petit grain, Carignan blanc **39€**
+- **Carpe** - Domaine Réveille 2021 - Grenache gris, Muscat petit grain **39€** 
 
 [haut de page](#menu)
 
