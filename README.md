@@ -98,8 +98,6 @@ Fraîche, fruité, légère amertume
 Un champagne subtil et expressif, à la fois mûr et raffraîchissant. 
 
 ## Pétillants 75cl 
-### ALSACE 
-- Pépin - Ugni blanc, picpoul, muscat, chardonnay **38€**
 
 ## ESPAGNE 
 - Clos Lentiscus 2020 - Blanc Brut Nature - Méthode traditionnelle - Malvasia de Sitges **40€**
@@ -113,7 +111,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ## Blancs 75cl
 ### ALSACE
-- **Pépin** - Assemblage de cépages alsaciens - 2022 - **35€**
 - **Domaine Einhart** - Auxerrois - 2024 - **35 €**
 
 ### BEAUJOLAIS 
