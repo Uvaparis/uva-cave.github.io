@@ -149,6 +149,8 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ### ALSACE
 
+- **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Fruits mûrs abricot sec, figue **45€**
+  
 - **Domaine Achillée** - Eveil des sens 2022 - Riesling, muscat, pinot blanc, pinot gris, pinot noir, gewurztraminer - Macération entre 8 et 10 jours en cuve Agrumes frais, fleurs blanches, fruits tropicaux **Non disponible**
   
 - **Pépin** - Riesling - Saveurs d'agrumes juteux, pêche blanche, accompagnés d'une minéraliré saline et finale légèrement épicée **40€**
