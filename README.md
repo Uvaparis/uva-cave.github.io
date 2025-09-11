@@ -35,10 +35,7 @@ Bouteilles (75cl):
 - Assiette de charcuterie, selection de charcuterie du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
-**Dessert**
-- Glace chocolat noir 1 boule **3€**       2 boules **5,5€**
 
-  
 _Des allergies ? Prévenez-nous :) _
    
 [haut de page](#menu)
@@ -68,7 +65,7 @@ Fraîche, fruité, légère amertume
 ## Vins au verre
 
 ### Rouges
-- Domaine Vaillant - Pineau d'aunis - Notes de poivre blanc, fraise des bois **7,50€**
+- Pointe Rouge 2021 - Domaine Reveille - Roussillon - Carignan, grenache - Fruit noir, tannin soyeux **7,50€**
 - Kohki Iwata 2022 - Languedoc - Cuvée WA - Cinsault, pinot noir - Tannin moyen, retour épicé **7,50€**
   
 ### Blancs
@@ -82,7 +79,7 @@ Fraîche, fruité, légère amertume
 - Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€**
 
 ### Pétillant 
-- Pépin Pét Nat - Fraîcheur, bulle fines mais vivaces **8€**
+- Bulle Nature 2023 - Loire - Chenin, Groslot gris, cabernet franc, chardonnay -  Fraîcheur, bulle fines mais vivaces **8€**
 
 [haut de page](#menu)
 
