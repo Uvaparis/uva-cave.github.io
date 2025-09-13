@@ -65,7 +65,7 @@ Fraîche, fruité, légère amertume
 ## Vins au verre
 
 ### Rouges
-- Pointe Rouge 2021 - Domaine Reveille - Roussillon - Carignan, grenache - Fruit noir, tannin soyeux **7,50€**
+- Pinte Fouillette - Ardèche - Loublachon - Merlot - Fruits rouges écrasés, notes florales discrètes **7,50€**
 - Kohki Iwata 2022 - Languedoc - Cuvée WA - Cinsault, pinot noir - Tannin moyen, retour épicé **7,50€**
   
 ### Blancs
