@@ -79,7 +79,7 @@ Fraîche, fruité, légère amertume
 - 0,72 Blanc - Loire - Melon de Bourgogne - Arômes de poire croquante,équilibre entre tension et rondeur **7,5€** 
   
 ### Orange
-- Pépin - Alsace - Gewurztrapiner, pinot gris, pinot blanc **8€** 
+- Nicolas Chemarin - Hors Zone - Chardonnay, Gewurzttaminer - Un vin frais, original, juteux  **8€** 
   
 ### Rosé
 - Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€**
