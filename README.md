@@ -59,7 +59,13 @@ Bière sans alcool aux arômes floraux et fruités
 
 ## Bières
 
-**To ol IPA** 33cl **6,60** 
+**Popihn Pils** 33cl **6,50€**
+Légère, rafraîchissante, amertume modérée, arôme herbacée
+
+**Popihn Pale Ale** 33cl **6,50€**
+Notes de pins, agrumes, résine, amertume marquée
+
+**To ol IPA** 33cl **6,50€** 
 Fraîche, fruité, légère amertume 
 
 ## Vins au verre
