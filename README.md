@@ -70,6 +70,10 @@ Fraîche, fruité, légère amertume
 
 ## Vins au verre
 
+## Vermouth Cocktail 
+- Vermouth rouge, eau pétillante, une tranche d'orange **8,50€**
+
+
 ### Rouges
 - Pinte Fouillette - Ardèche - Loublachon - Merlot - Fruits rouges écrasés, notes florales discrètes **7,50€**
 - Kohki Iwata 2022 - Languedoc - Cuvée WA - Cinsault, pinot noir - Tannin moyen, retour épicé **7,50€**
