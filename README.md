@@ -82,7 +82,7 @@ Fraîche, fruité, légère amertume
 - Nicolas Chemarin - Hors Zone - Chardonnay, Gewurzttaminer - Un vin frais, original, juteux  **8€** 
   
 ### Rosé
-- Pépin Pink - Alsace - Notes subtiles de pêche juteuse **7,5€**
+- L'Arroseur 2023 - Loire - Notes subtiles de pêche juteuse **7,5€**
 
 ### Pétillant 
 - Bulle Nature 2023 - Loire - Chenin, Groslot gris, cabernet franc, chardonnay -  Fraîcheur, bulle fines mais vivaces **8€**
