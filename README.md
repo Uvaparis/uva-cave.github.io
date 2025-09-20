@@ -17,25 +17,13 @@ Bouteilles (75cl):
   
 ## Assiettes à partager
 
- **La Terre / The Land**
-- Olives Bella di Cerignola, Italie **4 €**
-- Houmous de pois chiche **7 €**
+ **Hot-doggy-dog 9,5€**
+- Pain hot-dog, saucisse Mozer de Frankfort, pickles de carotte jaune, moutarde et ketchup
 
-**Fromages / Cheese**
-- Brillat Savarin IGP **10€**
-- Burrata, huile d'olive **14€**
-- Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
-- Tomme Caussenarde, Aveyron **9€** 
-- Saint-Nectaire **9€**
-- Assiette de fromages et charcuteries du moment **25 €**
+**Kimcheese 9,5€**
+Bun, béchamel aux triples fromages, ail et kimchi maison
 
-**Viande / Meat**
-- Pâté de campagne artisanal - Maison Montalet (120g) **10€** 
-- Saucisson de l'Aveyron **7,5 €**
-- Assiette de charcuterie, selection de charcuterie du moment **25 €**
-- Assiette mixte, fromages et charcuteries du moment **25 €**
-
-
+**Cookie chocolat blanc - pécan 3,5€**
 _Des allergies ? Prévenez-nous :) _
    
 [haut de page](#menu)
