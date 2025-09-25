@@ -17,13 +17,14 @@ Bouteilles (75cl):
   
 ## Assiettes à partager
 
+**Grilled Cheese au Beaufort & Comté** **8€**
+
  **La Terre / The Land**
 - Olives Bella di Cerignola, Italie **4 €**
 - Houmous de pois chiche **7 €**
 
 **Fromages / Cheese**
 - Brillat Savarin IGP **10€**
-- Burrata, huile d'olive **14€**
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
 - Tomme Caussenarde, Aveyron **9€** 
 - Saint-Nectaire **9€**
@@ -64,9 +65,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 **Popihn Pale Ale** 33cl **6,50€**
 Notes de pins, agrumes, résine, amertume marquée
 
-**To ol IPA** 33cl **6,50€** 
-Fraîche, fruité, légère amertume 
-
 ## Vins au verre
 
 ## Vermouth Cocktail 
@@ -74,8 +72,8 @@ Fraîche, fruité, légère amertume
 
 
 ### Rouges
-- Pinte Fouillette - Ardèche - Loublachon - Merlot - Fruits rouges écrasés, notes florales discrètes **7,50€**
-- Kohki Iwata 2022 - Languedoc - Cuvée WA - Cinsault, pinot noir - Tannin moyen, retour épicé **7,50€**
+- Pétrichor - Ardèche - Loublachon - Merlot - Fruits rouges écrasés, notes florales discrètes **7,50€**
+- Kohki Iwata 2022 - Languedoc - Cuvée Pinot - Pinot noir - Tannin moyen, retour épicé **7,50€**
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
@@ -85,18 +83,18 @@ Fraîche, fruité, légère amertume
 - Nicolas Chemarin - Hors Zone - Chardonnay, Gewurzttaminer - Un vin frais, original, juteux  **8€** 
   
 ### Rosé
-- L'Arroseur 2023 - Loire - Notes subtiles de pêche juteuse **7,5€**
+- L'Arroseur 2023 - Loire - Grolleau -  Notes subtiles de pêche juteuse **7,5€**
 
 ### Pétillant 
-- Bulle Nature 2023 - Loire - Chenin, Groslot gris, cabernet franc, chardonnay -  Fraîcheur, bulle fines mais vivaces **8€**
+- La petite odysée 2022 - Sud-Ouest - Cabernet sauvignon - Frais, léger, arômes de fraise et de rhubarbe  **8€**
 
 [haut de page](#menu)
 
 ## Cidres
 ### SAVOIE
-- Fermintmel - Cidre Extra-Brut "Wider en Chautagne" 2023 - Co-fermentation de reinette grise et de marcs de mondeuse **24 €**
+- Fermintmel - Cidre Extra-Brut "Wider en Chautagne" 2023 - Co-fermentation de reinette grise et de marcs de mondeuse **26€**
 
-- Poiré demi sec, melange Cressane, Conférence et Louise Bonne **24 €**
+- Poiré demi sec, melange Cressane, Conférence et Louise Bonne **26€**
 
 - Cidre Vicious - Fred Pruchon - Cidre Brut 2022 - 9 variétés de pommes à cidre **26€** 
 
