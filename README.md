@@ -17,7 +17,7 @@ Bouteilles (75cl):
   
 ## Assiettes à partager
 
-**Grilled Cheese au Beaufort & Comté** **8€**
+- Grilled Cheese au Beaufort & Comté **8€**
 
  **La Terre / The Land**
 - Olives Bella di Cerignola, Italie **4 €**
@@ -70,7 +70,6 @@ Notes de pins, agrumes, résine, amertume marquée
 ## Vermouth Cocktail 
 - Vermouth rouge, eau pétillante, une tranche d'orange **8,50€**
 
-
 ### Rouges
 - Pétrichor - Ardèche - Loublachon - Merlot - Fruits rouges écrasés, notes florales discrètes **7,50€**
 - Kohki Iwata 2022 - Languedoc - Cuvée Pinot - Pinot noir - Tannin moyen, retour épicé **7,50€**
@@ -114,6 +113,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ## SUD OUEST 
 - La Petite odysée 2022 - Nuage magique - Antoine Bernardin - Cabernet sauvignon, chardonnay, merlot **39€**
+  
 - Coince ta bulle 2023 - Sémillion - **39€**
 
 ## Blancs 75cl
@@ -125,7 +125,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - **90 €** 
-- **François Ecot** - Yonne - Trans-onirique - 2023 - Aligoté - **Non disponible**
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
@@ -155,13 +154,11 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Fruits mûrs abricot sec, figue **45€**
   
-- **Domaine Achillée** - Eveil des sens 2022 - Riesling, muscat, pinot blanc, pinot gris, pinot noir, gewurztraminer - Macération entre 8 et 10 jours en cuve Agrumes frais, fleurs blanches, fruits tropicaux **Non disponible**
-  
 - **Pépin** - Riesling - Saveurs d'agrumes juteux, pêche blanche, accompagnés d'une minéraliré saline et finale légèrement épicée **40€**
   
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl) 
   
-- **Pépin** - Gewurztraminer, Pinot gris 2022 - Expressif et équilibré, offrant une belle complexité aromatique et une structure tannique soyeuse **38€**
+- **Pépin Orange**- Gewurztraminer, Pinot gris 2022 - Expressif et équilibré, offrant une belle complexité aromatique et une structure tannique soyeuse **38€**
 
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **77 €**
@@ -171,7 +168,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ### JURA
 - **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération semi-carbonique de 360 jours en bouteille après 5 ans de garde - Fruits jaunes, bonbons, sous-bois, structuré mais avec une touche funk vibrant et sobre à la fois **54€**
   
-- **L'oiseau rodeur** - Arpeggi 2023 - Macération de 10 jours Pinot gris poulsard - Arômes frais et croquants, fraises juteuses, pamplemousse rose avec des notes délicates de fruits rouges typiques du Poulsard **48€**
+- **L'oiseau rodeur** - Arpegi - 2023 - Macération de 10 jours Pinot gris poulsard - Arômes frais et croquants, fraises juteuses, pamplemousse rose avec des notes délicates de fruits rouges typiques du Poulsard **48€**
 
 ### PYRENEES-ORIENTALES 
 
@@ -183,9 +180,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 [haut de page](#menu)
 
 ## Rosés 75cl
-
-### ALSACE
-- **Domaine Pépin** - Pink - Pinot Gris, Pinot Blanc - **37€**
 
 ### ITALIE
 - **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - **49€**
@@ -206,7 +200,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **L'eau qui dort** - Zeppa•o 2022 - Barbera - **45€**
 - **L'eau qui dort** - Toï Toï 2024 - Gamay, Cinsault **38€**
 - **L'eau qui dort** - L'eau des fleurs 2024 - Vieilles vignes de gamay d'Auvergne **43€**
-- **L'eau qui dort** - Bosco 2024 - Pinot noir **43€** 
 - **Tomomoto** - Cueillette Sauvage 2023 - Gamay **44€**
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
 
@@ -219,7 +212,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ### JURA
 - **Ratapoil** - L'ingénu - 2022 - Pinot Noir - **59€**
 - **L'oiseau rodeur** - Bagatelle - 2023 - Pinot noir - **49€**
-- **L'oiseau rodeur** - Eau fugitive - 2023 - Poulsard - **49€**
 - **Novice** - Merci - 2021 - Poulsard - **54€**
 - **Tony Bornard** - Le Pinot Ctambule - 2020 - Pinot - **48€**
 
@@ -230,8 +222,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ### LANGUEDOC
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - **48€**
 - **Chai UVA** - Fruchtfleisch - 2023 - Merlot, Grenache, Colombier, Muscat - **40€**
-- **Kohki Iwata** - Cuvée WA sud - 2024 - Cinsault, Pinot  **35€**
-- **Kohki Iwata** - Souriez - 2022 - Syrah **38€**
 - **Kohki Iwata** - Pino'c - 2023 - Pinot **38€**
 
 ### LOIRE
@@ -241,8 +231,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **R. Guettier** - Enchanteresse 2022 - Pineau d'aunis vieilles vignes **47€**
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **52€**
 - **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc **32 €** 
-- **Les Grandes Vignes** - Pineau d'Aunis 2023 - **37 €**
-- **Les Grandes Vignes** - Groslot 2023 **Non disponible**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€** 
