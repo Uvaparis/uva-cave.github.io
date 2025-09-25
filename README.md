@@ -230,7 +230,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **R. Guettier** - Adonis 2023 - Pineau d'aunis **41€**
 - **R. Guettier** - Enchanteresse 2022 - Pineau d'aunis vieilles vignes **47€**
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **52€**
-- **Les Grandes Vignes** - Le P'tit Vaillant Rouge - 2022/ 2023 - Grolleau, Cabernet franc **32 €** 
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€** 
@@ -238,8 +237,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ## ROUSSILLON 
 - **Domaine Reveille** - Franc Tireur 2019 - Carignan, Grenache **43€**
-- **Domaine Reveille** - Nouveaux Sauvages 2022 - Grenache, Carignan **37€**
-- **Domaine Reveille** - Pointe Rouge 2021 Carignan, Grenache **39€** 
   
 ### SAVOIE
 - **JY Peron** - Champ levat - 2020 - Mondeuse - **66€**
