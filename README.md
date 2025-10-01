@@ -76,7 +76,7 @@ Notes de pins, agrumes, résine, amertume marquée
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
-- 0,72 Blanc - Loire - Melon de Bourgogne - Arômes de poire croquante,équilibre entre tension et rondeur **7,5€** 
+- Domaine Reveille - Carpe - Grenache gris, Marsanne - Fraîcheur saline et tension **7,5€** 
   
 ### Orange
 - Nicolas Chemarin - Hors Zone - Chardonnay, Gewurzttaminer - Un vin frais, original, juteux  **8€** 
@@ -119,6 +119,9 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ## Blancs 75cl
 ### ALSACE
 - **Domaine Einhart** - Auxerrois - 2024 - **35 €**
+
+### ARDECHE 
+- **Les Bois Perdus** - Roussanne, Marsanne - 2024 **39€**
 
 ### BEAUJOLAIS 
 - **Nicolas Chemarin** - P'tit Grobis blanc - 2023 - **39€**
@@ -190,6 +193,10 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ### ALSACE 
 - **Domaine Einhart** - Alsace - Pinot noir - **36€**
+
+### AUVERGNE 
+- **Les Bois Perdus** - Elle danse - Syrah **38€**
+- **Les Bois Perdus** - Elle tremble - Merlot **38€** 
   
 ### ARDECHE 
 - **Loublachon** - Pétrichor - Grenache Noir - **37€**
