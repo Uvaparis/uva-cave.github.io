@@ -33,6 +33,7 @@ Bouteilles (75cl):
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€** 
 - Saucisson de l'Aveyron **7,5 €**
+- Coppa Artisanale **9,50€**
 - Assiette de charcuterie, selection de charcuterie du moment **25 €**
 - Assiette mixte, fromages et charcuteries du moment **25 €**
 
@@ -45,6 +46,8 @@ _Des allergies ? Prévenez-nous :) _
 ## Soft
 **Les filles de l’ouest** 33cl **5,50€**
 Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique (au choix : Rhubarbe, limonade, menthe, citron) 
+
+**Iessi il frizzante** Sprizt italien sans alcool, frais pétillant aromatique **6,50€**
 
 **Oma Frida** 75 cl **6,50€** au verre et **23 €** la bouteille
 Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de plantes 
