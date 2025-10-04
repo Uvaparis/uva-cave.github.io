@@ -24,7 +24,6 @@ Bouteilles (75cl):
 - Houmous de pois chiche **7 €**
 
 **Fromages / Cheese**
-- Brillat Savarin IGP **10€**
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
 - Tomme Caussenarde, Aveyron **9€** 
 - Saint-Nectaire **9€**
