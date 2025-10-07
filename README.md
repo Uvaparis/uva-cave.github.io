@@ -24,6 +24,7 @@ Bouteilles (75cl):
 - Houmous de pois chiche **7 €**
 
 **Fromages / Cheese**
+- Brillat savarin **10€**
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
 - Tomme Caussenarde, Aveyron **9€** 
 - Saint-Nectaire **9€**
@@ -81,7 +82,7 @@ Notes de pins, agrumes, résine, amertume marquée
 - Domaine Reveille - Carpe - Grenache gris, Marsanne - Fraîcheur saline et tension **7,5€** 
   
 ### Orange
-- Nicolas Chemarin - Hors Zone - Chardonnay, Gewurzttaminer - Un vin frais, original, juteux  **8€** 
+- Pepin Orange  - Gewurzttaminer - Un vin frais, original, juteux  **8€** 
   
 ### Rosé
 - L'Arroseur 2023 - Loire - Grolleau -  Notes subtiles de pêche juteuse **7,5€**
