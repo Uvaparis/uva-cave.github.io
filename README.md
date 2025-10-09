@@ -105,6 +105,9 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ## Pétillants 75cl 
 
+## ALSACE
+- Les Jardin en chantants - Pét Nat 2023 - Pinot, auxerrois **40€**
+
 ## ESPAGNE 
 - Clos Lentiscus 2020 - Blanc Brut Nature - Méthode traditionnelle - Malvasia de Sitges **40€**
 
