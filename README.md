@@ -34,8 +34,8 @@ Bouteilles (75cl):
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€** 
 - Saucisson de l'Aveyron **7,5 €**
 - Coppa Artisanale **9,50€**
-- Assiette de charcuterie, selection de charcuterie du moment **25 €**
-- Assiette mixte, fromages et charcuteries du moment **25 €**
+- Assiette de charcuterie, selection de charcuterie du moment **26€**
+- Assiette mixte, fromages et charcuteries du moment **26€**
 
 _Des allergies ? Prévenez-nous :) _
    
@@ -65,9 +65,6 @@ Bière sans alcool aux arômes floraux et fruités
 **Popihn Pils** 33cl **6,50€**
 Légère, rafraîchissante, amertume modérée, arôme herbacée
 
-**Popihn Pale Ale** 33cl **6,50€**
-Notes de pins, agrumes, résine, amertume marquée
-
 ## Vins au verre
 
 ## Vermouth Cocktail 
@@ -79,10 +76,10 @@ Notes de pins, agrumes, résine, amertume marquée
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
-- Domaine Reveille - Carpe - Grenache gris, Marsanne - Fraîcheur saline et tension **7,5€** 
+- Domaine Reveille - Phosphore - Muscat petit grain, carignan blanc - Fruits blancs frais, salin **7,5€** 
   
 ### Orange
-- Pepin Orange  - Gewurzttaminer - Un vin frais, original, juteux  **8€** 
+- Pepin Orange  - Gewurztraminer, riesling - Agrumes confits, écorces d'orange, notes florales et épicées  **8€** 
   
 ### Rosé
 - L'Arroseur 2023 - Loire - Grolleau -  Notes subtiles de pêche juteuse **7,5€**
@@ -160,6 +157,10 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Fruits mûrs abricot sec, figue **45€**
   
+- **Bourrach** - Les Jardins En Chantants - Pinot auxerrois chardonnay - Notes d'agrumes confits, fleurs blanches, touche miellée **40€**
+
+- **Gniff** - Les Jardins En Chantants - Gewurztraliner, muscat, riesling, pinot gris - Notes de roses de litchi, épices douces **40€**
+
 - **Pépin** - Riesling - Saveurs d'agrumes juteux, pêche blanche, accompagnés d'une minéraliré saline et finale légèrement épicée **40€**
   
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl) 
