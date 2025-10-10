@@ -17,8 +17,6 @@ Bouteilles (75cl):
   
 ## Assiettes à partager
 
-- Grilled Cheese au Beaufort & Comté et coppa **8€**
-
  **La Terre / The Land**
 - Olives Bella di Cerignola, Italie **4 €**
 - Houmous de pois chiche **7 €**
