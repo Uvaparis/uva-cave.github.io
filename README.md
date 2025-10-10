@@ -43,7 +43,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Soft
 **Les filles de l’ouest** 33cl **5,50€**
-Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique (au choix : Rhubarbe, limonade, menthe, citron) 
+Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique (au choix : Rhubarbe, limonade, citron) 
 
 **Iessi il frizzante** Sprizt italien sans alcool, frais pétillant aromatique **6,50€**
 
@@ -146,9 +146,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Istvan Bencze** - Riesling - 2020 **58 €**
 
 ### ROUSSILLON
-
 - **Phosphore** - Domaine Réveille 2023 -  Muscat petit grain, Carignan blanc **39€**
-- **Carpe** - Domaine Réveille 2021 - Grenache gris, Muscat petit grain **39€** 
 
 [haut de page](#menu)
 
@@ -174,12 +172,9 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **90 €**
 
 ### JURA
-- **Christelle et Gilles Wicky** - Jurassique - 2016 - Chardonnay - Macération semi-carbonique de 360 jours en bouteille après 5 ans de garde - Fruits jaunes, bonbons, sous-bois, structuré mais avec une touche funk vibrant et sobre à la fois **54€**
-  
 - **L'oiseau rodeur** - Arpegi - 2023 - Macération de 10 jours Pinot gris poulsard - Arômes frais et croquants, fraises juteuses, pamplemousse rose avec des notes délicates de fruits rouges typiques du Poulsard **48€**
 
 ### PYRENEES-ORIENTALES 
-
 - **Raphäel Rous** - Amics - 2024 - Muscat petits grains - Macération pendant 10 jours - Arômes vif, délicatement salin due au terroir **39€** 
 
 ### ITALIE
@@ -225,7 +220,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Ratapoil** - L'ingénu - 2022 - Pinot Noir - **59€**
 - **L'oiseau rodeur** - Bagatelle - 2023 - Pinot noir - **49€**
 - **Novice** - Merci - 2021 - Poulsard - **54€**
-- **Tony Bornard** - Le Pinot Ctambule - 2020 - Pinot - **48€**
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
@@ -234,14 +228,13 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ### LANGUEDOC
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - **48€**
 - **Chai UVA** - Fruchtfleisch - 2023 - Merlot, Grenache, Colombier, Muscat - **40€**
-- **Kohki Iwata** - Pino'c - 2023 - Pinot **38€**
 
 ### LOIRE
 - **Phillipe Chevarin** - Le Magny - 2023 - Vieilles variétés de gamay **38€**
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **R. Guettier** - Adonis 2023 - Pineau d'aunis **41€**
 - **R. Guettier** - Enchanteresse 2022 - Pineau d'aunis vieilles vignes **47€**
-- **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **52€**
+- **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€** 
