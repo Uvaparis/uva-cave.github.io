@@ -148,11 +148,12 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ## Oranges 75cl
 
 ### ALSACE
-
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Fruits mûrs abricot sec, figue **45€**
   
-- **Bourrach** - Les Jardins En Chantants - Pinot auxerrois chardonnay - Notes d'agrumes confits, fleurs blanches, touche miellée **40€**
+- **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€** 
 
+- **Nicolas Chemarin** - Hors Zone 2023 - Chardonnay, Gewurztraminer - Notes florales, sec **39€**
+  
 - **Gniff** - Les Jardins En Chantants - Gewurztraliner, muscat, riesling, pinot gris - Notes de roses de litchi, épices douces **40€**
 
 - **Pépin** - Riesling - Saveurs d'agrumes juteux, pêche blanche, accompagnés d'une minéraliré saline et finale légèrement épicée **40€**
@@ -167,7 +168,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **90 €**
 
 ### JURA
-- **L'oiseau rodeur** - Arpegi - 2023 - Macération de 10 jours Pinot gris poulsard - Arômes frais et croquants, fraises juteuses, pamplemousse rose avec des notes délicates de fruits rouges typiques du Poulsard **48€**
+- **Wicky** - Blanc de macération - 
 
 ### PYRENEES-ORIENTALES 
 - **Raphäel Rous** - Amics - 2024 - Muscat petits grains - Macération pendant 10 jours - Arômes vif, délicatement salin due au terroir **39€** 
