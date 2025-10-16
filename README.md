@@ -42,18 +42,24 @@ _Des allergies ? Prévenez-nous :) _
 # Carte des Softs, Bières et Vins
 
 ## Soft
-**Les filles de l’ouest** 33cl **5,50€**
-Schorles : Boissons pétillantes aux fruits issus de l’agriculture biologique (au choix : Rhubarbe, limonade, citron) 
+**Les filles de l’ouest** 33cl 
+Schorles **5,50€**
+Boissons pétillantes aux fruits issus de l’agriculture biologique
+(au choix : Rhubarbe, limonade, citron) 
 
-**Iessi il frizzante** Sprizt italien sans alcool, frais pétillant aromatique **6,50€**
+**Iessi il frizzante** **6,50€**
+Sprizt italien sans alcool, frais pétillant aromatique
 
-**Oma Frida** 75 cl **6,50€** au verre et **23 €** la bouteille
-Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de plantes 
+**Oma Frida** 
+Verre **6,50€**
+Bouteille **23€**
+Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de plantes
 
-**San Pellegrino** 33cl **4€** 
+**San Pellegrino** **4€** 
+Canette 33cl 
 
-**Implosion To ol** 33cl **5,50 €**
-Bière sans alcool aux arômes floraux et fruités 
+**Implosion To ol** **5,50 €**
+Cannette 33cl, Bière sans alcool aux arômes floraux et fruités 
 
 ## Bières
 
