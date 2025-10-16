@@ -26,7 +26,7 @@ Bouteilles (75cl):
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
 - Tomme Caussenarde, Aveyron **9€** 
 - Saint-Nectaire **9€**
-- Assiette de fromages et charcuteries du moment **25 €**
+- Assiette de fromages et charcuteries du moment **26€**
 
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€** 
