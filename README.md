@@ -52,9 +52,6 @@ Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de pl
 
 **San Pellegrino** 33cl **4€** 
 
-**Orezza** 1L **7€**
-Eau minérale pétillante de Corse 
-
 **Implosion To ol** 33cl **5,50 €**
 Bière sans alcool aux arômes floraux et fruités 
 
@@ -66,24 +63,21 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## Vins au verre
 
 ## Vermouth Cocktail 
-- Vermouth rouge, eau pétillante, une tranche d'orange **8,50€**
+- Vermouth rouge, eau pétillante **8,50€**
 
 ### Rouges
-- Pétrichor - Ardèche - Loublachon - Merlot - Fruits rouges écrasés, notes florales discrètes **7,50€**
-- Kohki Iwata 2022 - Languedoc - Cuvée Pinot - Pinot noir - Tannin moyen, retour épicé **7,50€**
+- I'm natural don't panic - Bodega Coruña del conde, Espagne - Tempranillo charpenté, notes de fruits noirs et d'épices **7,50€**
+- L'eau des fleurs - L'eau qui dort - Auvergne - Gamay, pinot noir - Fruits rouges, fraîcheur **8€**
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
 - Domaine Reveille - Phosphore - Muscat petit grain, carignan blanc - Fruits blancs frais, salin **7,5€** 
   
 ### Orange
-- Pepin Orange  - Gewurztraminer, riesling - Agrumes confits, écorces d'orange, notes florales et épicées  **8€** 
-  
-### Rosé
-- L'Arroseur 2023 - Loire - Grolleau -  Notes subtiles de pêche juteuse **7,5€**
+- Achillé - Alsace - Pinot gris macéré - Fruits secs, écorce d'orange, notes florales et épicées. **8€** 
 
 ### Pétillant 
-- La petite odysée 2022 - Sud-Ouest - Cabernet sauvignon - Frais, léger, arômes de fraise et de rhubarbe  **8€**
+- Coince ta bulle - Sud-Ouest - Sémillion - Bulles fines, notes de pomme verte et fleurs blanches **8€**
 
 [haut de page](#menu)
 
@@ -119,16 +113,17 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ## Blancs 75cl
 ### ALSACE
-- **Domaine Einhart** - Auxerrois - 2024 - **35 €**
+- **Domaine Einhart** - Auxerrois - 2024 - **35 €** (Vin à la tireuse)
+- **Bourrach** - Les Jardins En Chantants - Pinot auxerrois chardonnay - Notes d'agrumes confits, fleurs blanches, touche miellée **40€**
 
 ### ARDECHE 
-- **Les Bois Perdus** - Roussanne, Marsanne - 2024 **39€**
+- **Les Bois Perdus** - Polichinelle 2023 -  Roussanne, Marsanne  **39€**
 
 ### BEAUJOLAIS 
-- **Nicolas Chemarin** - P'tit Grobis blanc - 2023 - **39€**
+- **Nicolas Chemarin** - P'tit Grobis blanc 2023 - Chardonnay - **39€**
   
 ### BOURGOGNE
-- **Domaine de Chassorney** - Saint Romain - 2021 - Chardonnay - **90 €** 
+- **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €** 
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
@@ -139,7 +134,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Les Grandes Vignes** - Pin'eau de Loere 2023 - Chenin - **37€**
 
 ### GRECE
-- **Sous le végétal** - Livia - 2019 - Muscat d'alexandrie **45€**
+- **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **45€**
 
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - **55 €**
