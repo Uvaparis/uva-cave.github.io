@@ -168,7 +168,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **90 €**
 
 ### JURA
-- **Wicky** - Blanc de macération - 
+- **Wicky** - Blanc de macération - Chardonnay 2020 - Orange, citron confit, tension saline **54€**
 
 ### PYRENEES-ORIENTALES 
 - **Raphäel Rous** - Amics - 2024 - Muscat petits grains - Macération pendant 10 jours - Arômes vif, délicatement salin due au terroir **39€** 
@@ -213,7 +213,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Domaine Belicard** - Morgon - Terrain rouge - 2021 - Gamay **37€** 
 
 ### JURA
-- **Ratapoil** - L'ingénu - 2022 - Pinot Noir - **59€**
 - **L'oiseau rodeur** - Bagatelle - 2023 - Pinot noir - **49€**
 - **Novice** - Merci - 2021 - Poulsard - **54€**
 
@@ -234,7 +233,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€** 
-- **Domaine Cotzé** - Samso 2023 - Cinsault - **43€**
 
 ## ROUSSILLON 
 - **Domaine Reveille** - Franc Tireur 2019 - Carignan, Grenache **43€**
@@ -245,7 +243,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
   ### Espagne
   - **Bodegas Coruña del Conde** - BCDC - 2019/2020 - Merlot - **44€**
-  - **Bodegas Coruña del Conde** - I'm natural don't panic 2022 - Trempranillo, Merlot, Cab sauvignon - **44€** 
+  - **Bodegas Coruña del Conde** - I'm natural don't panic 2022 - Trempranillo  **44€** 
   - **La Senda** - 1984 - 2023 - Mencia - **44€**
   - **La Senda** - La Barbacana - Alicante Bouschet - **44€** 
 
