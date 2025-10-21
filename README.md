@@ -236,6 +236,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **R. Guettier** - Adonis 2023 - Pineau d'aunis **41€**
 - **R. Guettier** - Enchanteresse 2022 - Pineau d'aunis vieilles vignes **47€**
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
+- **Chin-chin** - Domaine Perrault-Jadaud - 2023 - Côt, chenin - **39€**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€** 
