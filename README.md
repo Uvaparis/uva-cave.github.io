@@ -77,7 +77,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
-- Domaine Reveille - Phosphore - Muscat petit grain, carignan blanc - Fruits blancs frais, salin **7,5€** 
+- Domaine Perrault-Jadaud - Bestiaire 2023 - Chardonnay, chenin - Sec, tension du chenin et rondeur du chardonnay **7,5€** 
   
 ### Orange
 - Achillé - Alsace - Pinot gris macéré - Fruits secs, écorce d'orange, notes florales et épicées. **8€** 
