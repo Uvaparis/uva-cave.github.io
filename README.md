@@ -73,7 +73,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### Rouges
 - I'm natural don't panic - Bodega Coruña del conde, Espagne - Tempranillo charpenté, notes de fruits noirs et d'épices **7,50€**
-- L'eau des fleurs - L'eau qui dort - Auvergne - Gamay, pinot noir - Fruits rouges, fraîcheur **8€**
+- 
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
