@@ -24,7 +24,6 @@ Bouteilles (75cl):
 **Fromages / Cheese**
 - Brillat savarin **10€**
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
-- Cantal fermier **9,50**
 - Saint-Nectaire **9€**
 - Assiette de fromages et charcuteries du moment **26€**
 
@@ -73,7 +72,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### Rouges
 - I'm natural don't panic - Bodega Coruña del conde, Espagne - Tempranillo charpenté, notes de fruits noirs et d'épices **7,50€**
-- 
+- Guillaume Cancelloni - Free solo - Savoie - Mourvèdre - poivrée, arôme de prune **8€**
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
@@ -83,7 +82,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Achillé - Alsace - Pinot gris macéré - Fruits secs, écorce d'orange, notes florales et épicées. **8€** 
 
 ### Pétillant 
-- Coince ta bulle - Sud-Ouest - Sémillion - Bulles fines, notes de pomme verte et fleurs blanches **8€**
+- Pétillant naturel - Perraud & Jadaud - Loire - Méthode ancestrale **8€**
 
 [haut de page](#menu)
 
