@@ -71,7 +71,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Vermouth rouge, eau pétillante **8,50€**
 
 ### Rouges
-- I'm natural don't panic - Bodega Coruña del conde, Espagne - Tempranillo charpenté, notes de fruits noirs et d'épices **7,50€**
+- Le Magny - Chavarin Philippe - Loire - Gamay - Notes fruitées, léger **7,50€**
 - Guillaume Cancelloni - Free solo - Savoie - Mourvèdre - poivrée, arôme de prune **8€**
   
 ### Blancs
