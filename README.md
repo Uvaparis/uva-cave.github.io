@@ -25,6 +25,7 @@ Bouteilles (75cl):
 - Brillat savarin **10€**
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
 - Saint-Nectaire **9€**
+- Cantal fermier **9€**
 - Assiette de fromages et charcuteries du moment **26€**
 
 **Viande / Meat**
@@ -105,12 +106,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ## ALSACE
 - Les Jardin en chantants - Pét Nat 2023 - Pinot, auxerrois **40€**
 
-## ESPAGNE 
-- Clos Lentiscus 2020 - Blanc Brut Nature - Méthode traditionnelle - Malvasia de Sitges **40€**
-
-## LOIRE
-- Bulle Nature 2023 - Domaine Vaillant - Chenin blanc, groslot gris, cabernet franc, chardonnay **38€**
-
 ## SUD OUEST 
 - La Petite odysée 2022 - Nuage magique - Antoine Bernardin - Cabernet sauvignon, chardonnay, merlot **39€**
   
@@ -135,8 +130,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
   
 ### LOIRE
 - **Les Grandes Vignes** - La Varenne du Poirier 2023 - Chenin - **42€**
-- **Les Grandes Vignes** - Le P'tit Vaillant 2023 - Groslot, cabernet - **33€**
-- **Les Grandes Vignes** - Pin'eau de Loere 2023 - Chenin - **37€**
 - **Bestiaire, Domaine Perrault-Jadaud** - Chenin, chardonnay 2023 - **39€**
 
 ### GRECE
@@ -145,9 +138,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ### HONGRIE
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - **55 €**
 - **Istvan Bencze** - Riesling - 2020 **58 €**
-
-### ROUSSILLON
-- **Phosphore** - Domaine Réveille 2023 -  Muscat petit grain, Carignan blanc **39€**
 
 [haut de page](#menu)
 
@@ -207,7 +197,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
   
 ### AUVERGNE 
 - **L'eau qui dort** - Zeppa•o 2022 - Barbera - **45€**
-- **L'eau qui dort** - Toï Toï 2024 - Gamay, Cinsault **38€**
 - **L'eau qui dort** - L'eau des fleurs 2024 - Vieilles vignes de gamay d'Auvergne **43€**
 - **Tomomoto** - Cueillette Sauvage 2023 - Gamay **44€**
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
@@ -250,7 +239,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
   ### Espagne
   - **Bodegas Coruña del Conde** - BCDC - 2019/2020 - Merlot - **44€**
-  - **Bodegas Coruña del Conde** - I'm natural don't panic 2022 - Trempranillo  **44€** 
   - **La Senda** - 1984 - 2023 - Mencia - **44€**
   - **La Senda** - La Barbacana - Alicante Bouschet - **44€** 
 
