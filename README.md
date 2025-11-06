@@ -73,7 +73,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### Rouges
 - Elle danse - Les Bois Perdus - Auvergne - Notes fruitées, léger **7,50€**
-- Franc tireur - Carignan - Domaine Réveille - Poivrée, tanins souples **8€**
+- Franc tireur - Carignan - Roussillon - Domaine Réveille - Poivrée, tanins souples **8€**
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
