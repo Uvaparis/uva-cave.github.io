@@ -72,15 +72,15 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Vermouth rouge, eau pétillante **8,50€**
 
 ### Rouges
-- Le Magny - Chavarin Philippe - Loire - Gamay - Notes fruitées, léger **7,50€**
-- Guillaume Cancelloni - Free solo - Savoie - Mourvèdre - poivrée, arôme de prune **8€**
+- Elle danse - Les Bois Perdus - Auvergne - Notes fruitées, léger **7,50€**
+- Franc tireur - Carignan - Domaine Réveille - Poivrée, tanins souples **8€**
   
 ### Blancs
 - Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
 - Domaine Perrault-Jadaud - Bestiaire 2023 - Chardonnay, chenin - Sec, tension du chenin et rondeur du chardonnay **7,5€** 
   
 ### Orange
-- Achillé - Alsace - Pinot gris macéré - Fruits secs, écorce d'orange, notes florales et épicées. **8€** 
+- Pépin Orange - Gewurztraminer, auxerrois - Attaque fraîche sur l'agrume **8€** 
 
 ### Pétillant 
 - Pétillant naturel - Perraud & Jadaud - Loire - Méthode ancestrale **8€**
