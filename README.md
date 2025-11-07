@@ -164,7 +164,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Pépin Orange** - Gewurztraminer, Pinot gris 2022 - Expressif et équilibré, offrant une belle complexité aromatique et une structure tannique soyeuse **38€** (Vin à la tireuse)
 
 ### LOIRE 
-- **Domaine Mosse** - Chenin - Fruits jaunes mangue, abricot, touche d'amers **42€**
+- **Domaine Mosse** - Overmars Chenin - Fruits jaunes mangue, abricot, touche d'amers **42€**
 
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **77 €**
