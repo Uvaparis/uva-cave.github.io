@@ -72,12 +72,13 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Vermouth rouge, eau pétillante **8,50€**
 
 ### Rouges
-- Elle danse - Les Bois Perdus - Auvergne - Notes fruitées, léger **7,50€**
+- Elle danse - Syrah, Cinsault - Les Bois Perdus - Auvergne - Notes fruitées, léger **7,50€**
 - Franc tireur - Carignan - Roussillon - Domaine Réveille - Poivrée, tanins souples **8€**
   
 ### Blancs
-- Philippe Chevarin - Melon 2024 - Melon de Bourgogne - Frais, salin, minéral **7,50€**
-- Domaine Perrault-Jadaud - Bestiaire 2023 - Chardonnay, chenin - Sec, tension du chenin et rondeur du chardonnay **7,50€**
+- Philippe Chevarin - Melon 2024 - Loire - Melon de Bourgogne - Frais, salin, minéral **7,50€**
+- Domaine Perrault-Jadaud - Bestiaire 2023 - Loire - Chardonnay, chenin - Sec, tension du chenin et rondeur du chardonnay **7,50€**
+- Polichinelle - Les Bois Perdus Auvergne - Roussanne, Marsanne 2024 - Blanc tendu, salivant, belle gourmandise **7,50€** 
   
 ### Orange
 - Pépin Orange - Gewurztraminer, auxerrois - Attaque fraîche sur l'agrume **8€** (Vin à la tireuse)
@@ -226,7 +227,9 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - **48€**
 
 ### LOIRE
-- **Phillipe Chevarin** - Le Magny - 2023 - Vieilles variétés de gamay **38€**
+- **Phillipe Chevarin** - Le Magny - Vieilles variétés de gamay **36€**
+- **Philippe Chevarin** - La décrue - Gamay teinturier **36€**
+- **Philippe Chevarin** - Les sentinelles - Gamay du Beaujolais **36€** 
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **R. Guettier** - Adonis 2023 - Pineau d'aunis **41€**
 - **R. Guettier** - Enchanteresse 2022 - Pineau d'aunis vieilles vignes **47€**
