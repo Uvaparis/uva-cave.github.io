@@ -105,7 +105,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ## ALSACE
 - Les Jardin en chantants - Pét Nat 2023 - Pinot, auxerrois **40€**
-- Pépin Pét Nat 2024 - 
+- Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **40€**
 
 ## SUD OUEST
 - Coince ta bulle 2023 - Sémillion - **39€**
@@ -116,8 +116,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ## Blancs 75cl
 ### ALSACE
-- **Domaine Einhart** - Auxerrois - 2024 - **35 €** (Vin à la tireuse)
-- **Bourrach** - Les Jardins En Chantants - Pinot auxerrois chardonnay - Notes d'agrumes confits, fleurs blanches, touche miellée **40€**
+- **Bourrach** - Les Jardins En Chantants - Pinot auxerrois chardonnay - **40€**
 
 ### ARDECHE 
 - **Les Bois Perdus** - Polichinelle 2023 -  Roussanne, Marsanne  **39€**
@@ -140,7 +139,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **45€**
 
 ### HONGRIE
-- **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű, Kéknyelű - **55 €**
+- **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű - **55 €**
 - **Istvan Bencze** - Riesling - 2020 **58 €**
 
 [haut de page](#menu)
@@ -160,7 +159,10 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
   
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl) 
   
-- **Pépin Orange**- Gewurztraminer, Pinot gris 2022 - Expressif et équilibré, offrant une belle complexité aromatique et une structure tannique soyeuse **38€**
+- **Pépin Orange** - Gewurztraminer, Pinot gris 2022 - Expressif et équilibré, offrant une belle complexité aromatique et une structure tannique soyeuse **38€** (Vin à la tireuse)
+
+### LOIRE 
+- **Domaine Mosse** - Chenin - Fruits jaunes mangue, abricot, touche d'amers **42€**
 
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **77 €**
@@ -221,7 +223,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ### LANGUEDOC
 - **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - **48€**
-- **Chai UVA** - Fruchtfleisch - 2023 - Merlot, Grenache, Colombier, Muscat - **40€**
 
 ### LOIRE
 - **Phillipe Chevarin** - Le Magny - 2023 - Vieilles variétés de gamay **38€**
@@ -243,7 +244,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
   ### Espagne
   - **Bodegas Coruña del Conde** - BCDC - 2019/2020 - Merlot - **44€**
-  - **La Senda** - 1984 - 2023 - Mencia - **44€**
   - **La Senda** - La Barbacana - Alicante Bouschet - **44€** 
 
 
