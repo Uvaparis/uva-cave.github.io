@@ -134,6 +134,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 - **Les Grandes Vignes** - La Varenne du Poirier 2023 - Chenin - **42€**
 - **Bestiaire, Domaine Perrault-Jadaud** - Chenin, chardonnay 2023 - **39€**
 - **Domaine Mosse** - Chenin 2024 **40€**
+- **Philippe Chevarin** - Melon 2025 - **36€**
 
 ### GRECE
 - **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **45€**
