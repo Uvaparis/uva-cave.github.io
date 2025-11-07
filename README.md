@@ -80,7 +80,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Domaine Perrault-Jadaud - Bestiaire 2023 - Chardonnay, chenin - Sec, tension du chenin et rondeur du chardonnay **7,5€** 
   
 ### Orange
-- Pépin Orange - Gewurztraminer, auxerrois - Attaque fraîche sur l'agrume **8€** 
+- Pépin Orange - Gewurztraminer, auxerrois - Attaque fraîche sur l'agrume **8€** (Vin à la tireuse)
 
 ### Pétillant 
 - Pétillant naturel - Perraud & Jadaud - Loire - Méthode ancestrale **8€**
@@ -105,11 +105,14 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ## ALSACE
 - Les Jardin en chantants - Pét Nat 2023 - Pinot, auxerrois **40€**
+- Pépin Pét Nat 2024 - 
 
-## SUD OUEST 
-- La Petite odysée 2022 - Nuage magique - Antoine Bernardin - Cabernet sauvignon, chardonnay, merlot **39€**
-  
+## SUD OUEST
 - Coince ta bulle 2023 - Sémillion - **39€**
+
+## LOIRE 
+- Moussamoussettes Pét Nat Rosé 2024 - Grolleau noir, cabernet franc, pineau d'aunis - **40€**
+
 
 ## Blancs 75cl
 ### ALSACE
@@ -131,6 +134,7 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ### LOIRE
 - **Les Grandes Vignes** - La Varenne du Poirier 2023 - Chenin - **42€**
 - **Bestiaire, Domaine Perrault-Jadaud** - Chenin, chardonnay 2023 - **39€**
+- **Domaine Mosse** - Chenin 2024 **40€**
 
 ### GRECE
 - **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **45€**
