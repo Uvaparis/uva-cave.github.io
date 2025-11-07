@@ -76,8 +76,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Franc tireur - Carignan - Roussillon - Domaine Réveille - Poivrée, tanins souples **8€**
   
 ### Blancs
-- Domaine Einhart - Alsace - Le blanc de Théo - Auxerois - Frais, sec, agrumes  **7,50€** (Vin à la tireuse) 
-- Domaine Perrault-Jadaud - Bestiaire 2023 - Chardonnay, chenin - Sec, tension du chenin et rondeur du chardonnay **7,5€** 
+- Philippe Chevarin - Melon 2024 - Melon de Bourgogne - Frais, salin, minéral **7,50€**
+- Domaine Perrault-Jadaud - Bestiaire 2023 - Chardonnay, chenin - Sec, tension du chenin et rondeur du chardonnay **7,50€**
   
 ### Orange
 - Pépin Orange - Gewurztraminer, auxerrois - Attaque fraîche sur l'agrume **8€** (Vin à la tireuse)
