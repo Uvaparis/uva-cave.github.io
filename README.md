@@ -55,9 +55,6 @@ Verre **6,50€**
 Bouteille **23€**
 Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de plantes
 
-**San Pellegrino** **4€** 
-Canette 33cl 
-
 **Implosion To ol** **5,50 €**
 Cannette 33cl, Bière sans alcool aux arômes floraux et fruités 
 
@@ -72,16 +69,15 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Vermouth rouge, eau pétillante **8,50€**
 
 ### Rouges
-- Elle danse - Syrah, Cinsault - Les Bois Perdus - Auvergne - Notes fruitées, léger **7,50€**
-- Franc tireur - Carignan - Roussillon - Domaine Réveille - Poivrée, tanins souples **8€**
+- Perraud & Jadaud - Chin Chin -  Côt, chenin - Loire - Juteux, fruité, léger **7,50€**
+- Sébastien Morin - La passion du produit - Cinsault - Beaujolais - Fluide, épicée, tannin fins **8€**
   
 ### Blancs
 - Philippe Chevarin - Melon 2024 - Loire - Melon de Bourgogne - Frais, salin, minéral **7,50€**
-- Domaine Perrault-Jadaud - Bestiaire 2023 - Loire - Chardonnay, chenin - Sec, tension du chenin et rondeur du chardonnay **7,50€**
 - Polichinelle - Les Bois Perdus Auvergne - Roussanne, Marsanne 2024 - Blanc tendu, salivant, belle gourmandise **7,50€** 
   
 ### Orange
-- Pépin Orange - Gewurztraminer, auxerrois - Attaque fraîche sur l'agrume **8€** (Vin à la tireuse)
+- Nicolas Chemarin - Hors Zone - Chardonnay, muscat - Beaujolais - Aromatique, juteux, floral **8€** (Vin à la tireuse)
 
 ### Pétillant 
 - Pétillant naturel - Perraud & Jadaud - Loire - Méthode ancestrale **8€**
@@ -99,17 +95,14 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 [haut de page](#menu)
 
 ## Champagne Morgane Fleury 
-- Fleur d'étoile Extra-brut Pinot noit, chardonnay **98€**
-Un champagne subtil et expressif, à la fois mûr et raffraîchissant. 
+- Fleur d'étoile Extra-brut Pinot noit, chardonnay **98€** **Non disponible**
+Un champagne subtil et expressif, à la fois mûr et raffraîchissant
 
 ## Pétillants 75cl 
 
 ## ALSACE
 - Les Jardin en chantants - Pét Nat 2023 - Pinot, auxerrois **40€**
 - Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **40€**
-
-## SUD OUEST
-- Coince ta bulle 2023 - Sémillion - **39€**
 
 ## LOIRE 
 - Moussamoussettes Pét Nat Rosé 2024 - Grolleau noir, cabernet franc, pineau d'aunis - **40€**
@@ -192,14 +185,9 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ## Rouges 75cl
 
 ### ALSACE 
-- **Domaine Einhart** - Alsace - Pinot noir - **36€**
+- **Domaine Einhart** - Alsace - Pinot noir - **36€** **Non disponible**
 
-### AUVERGNE 
-- **Les Bois Perdus** - Elle danse - Syrah **38€**
-- **Les Bois Perdus** - Elle tremble - Merlot **38€** 
-  
-### ARDECHE 
-- **Loublachon** - Pétrichor - Grenache Noir - **37€**
+### AUVERGNE
 - **Les Bois Perdus** - Elle Tremble - Merlot - **38€**
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
   
@@ -211,7 +199,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 
 ### BEAUJOLAIS
 - **Nicolas Chemarin** - P'tit Grobis 2023 - Gamay - **39€**
-- **L'indigene** - Beaujolais-Villages - Maï Lam et Sébastien Morin - 2023 - Gamay - **41€**
 - **La passion du produit** - Maï Lam et Sébastien Morin - 2023 - Gamay - **45€**
 - **Domaine Belicard** - Morgon - Terrain rouge - 2021 - Gamay **37€** 
 
@@ -222,9 +209,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
 - **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - **43€** 
-
-### LANGUEDOC
-- **Mas Coutelou** - Mourvèdre - 2020 - Mourvèdre - **48€**
 
 ### LOIRE
 - **Phillipe Chevarin** - Le Magny - Vieilles variétés de gamay **36€**
@@ -239,9 +223,6 @@ Un champagne subtil et expressif, à la fois mûr et raffraîchissant.
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€** 
 
-## ROUSSILLON 
-- **Domaine Reveille** - Franc Tireur 2019 - Carignan, Grenache **43€**
-  
 ### SAVOIE
 - **JY Peron** - Champ levat - 2020 - Mondeuse - **66€**
 - **Guillaume Cancelloni** - Dégaine - Cerro Chalten - Pinot noir **44€**
