@@ -72,8 +72,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Vermouth rouge, eau pétillante **8,50€**
 
 ### Rouges
-- Perraud & Jadaud - Chin Chin -  Côt, chenin - Loire - Juteux, fruité, léger **7,50€**
-- Sébastien Morin - La passion du produit - Cinsault - Beaujolais - Fluide, épicée, tannin fins **8€**
+- Bang Nouveau 2025 - Mosse - Grolleau Gris, gamay **7€** / **34€** la bouteille 
+- Premier Jus 2025 - N.Chemarin - Gamay **7€** / **34€** la bouteille 
   
 ### Blancs
 - Philippe Chevarin - Melon 2024 - Loire - Melon de Bourgogne - Frais, salin, minéral **7,50€**
@@ -97,9 +97,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 [haut de page](#menu)
 
-## Champagne Morgane Fleury 
-- Fleur d'étoile Extra-brut Pinot noit, chardonnay **98€** **Non disponible**
-Un champagne subtil et expressif, à la fois mûr et raffraîchissant
+## Champagne Eric Collinet Extra Brut - AOP Côte des bars - Pinot, chardonnay - **78€** 
 
 ## Pétillants 75cl 
 
