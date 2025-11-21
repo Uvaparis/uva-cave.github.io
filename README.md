@@ -73,7 +73,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### Rouges
 - Bang Nouveau 2025 - Mosse - Grolleau Gris, gamay **7€** / **34€** la bouteille 
-- Premier Jus 2025 - N.Chemarin - Gamay **7€** / **34€** la bouteille 
+- La passion du produit 2022 - Sébastien Morin - Cinsault **8€** / **45** la bouteille 
   
 ### Blancs
 - Philippe Chevarin - Melon 2024 - Loire - Melon de Bourgogne - Frais, salin, minéral **7,50€**
