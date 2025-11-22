@@ -17,9 +17,6 @@ Bouteilles (75cl):
   
 ## Assiettes à partager
 
-**Grilled Cheese** **9€**
-Beaufort, cantal fermier, coppa, pain de mie artisanal
-
  **La Terre / The Land**
 - Olives Bella di Cerignola, Italie **4 €**
 - Houmous de pois chiche **7 €**
