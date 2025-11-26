@@ -77,7 +77,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Polichinelle - Les Bois Perdus Auvergne - Roussanne, Marsanne 2024 - Blanc tendu, salivant, belle gourmandise **7,50€** 
   
 ### Orange
-- Nicolas Chemarin - Hors Zone - Chardonnay, muscat - Beaujolais - Aromatique, juteux, floral **8€** (Vin à la tireuse)
+- Pépin Orange - Alsace - Aromatique, agrumes, floral **8€** (Vin à la tireuse)
 
 ### Pétillant 
 - Pétillant naturel - Perraud & Jadaud - Loire - Méthode ancestrale **8€**
