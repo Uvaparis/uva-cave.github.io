@@ -135,6 +135,9 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű - **55 €**
 - **Istvan Bencze** - Riesling - 2020 **58 €**
 
+### ROUSSILLON 
+- Transhumancia 2024 - Muscat petit grain **40€** 
+
 [haut de page](#menu)
 
 ## Oranges 75cl
@@ -166,7 +169,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Wicky** - Blanc de macération - Chardonnay 2020 - Orange, citron confit, tension saline **54€**
 
 ### PYRENEES-ORIENTALES 
-- **Raphäel Rous** - Amics - 2024 - Muscat petits grains - Macération pendant 10 jours - Arômes vif, délicatement salin due au terroir **39€** 
+- **Transhumancia** - Chassez le naturel 2023 - Grenache gris - Frais, légèrement salin **41€**
 
 ### ITALIE
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - Moelleux, fruité, richesse aromatique (abricot, pêche, poire) **69€** (50cl)
@@ -191,7 +194,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
   
 ### AUVERGNE 
 - **L'eau qui dort** - Zeppa•o 2022 - Barbera - **45€**
-- **L'eau qui dort** - L'eau des fleurs 2024 - Vieilles vignes de gamay d'Auvergne **43€**
 - **Tomomoto** - Cueillette Sauvage 2023 - Gamay **44€**
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
 
@@ -202,7 +204,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### JURA
 - **L'oiseau rodeur** - Bagatelle - 2023 - Pinot noir - **49€**
-- **Novice** - Merci - 2021 - Poulsard - **54€**
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
@@ -211,7 +212,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ### LOIRE
 - **Phillipe Chevarin** - Le Magny - Vieilles variétés de gamay **36€**
 - **Philippe Chevarin** - La décrue - Gamay teinturier **36€**
-- **Philippe Chevarin** - Les sentinelles - Gamay du Beaujolais **36€** 
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **R. Guettier** - Adonis 2023 - Pineau d'aunis **41€**
 - **R. Guettier** - Enchanteresse 2022 - Pineau d'aunis vieilles vignes **47€**
@@ -219,7 +219,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Chin-chin** - Domaine Perrault-Jadaud - 2023 - Côt, chenin - **39€**
   
 ### PYRÉNÉES-ORIENTALES
-- **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€** 
+- **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€**
+- **Daomaine Cotzé** - Riptide 2023 - Carignan Muscat Syrah **41€** 
 
 ### SAVOIE
 - **JY Peron** - Champ levat - 2020 - Mondeuse - **66€**
