@@ -73,7 +73,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - La passion du produit 2022 - Sébastien Morin - Cinsault **8€** / **45** la bouteille 
   
 ### Blancs
-- Philippe Chevarin - Melon 2024 - Loire - Melon de Bourgogne - Frais, salin, minéral **7,50€**
+- Trabshumancia Blanc - Domaine Cotzé - Roussillon - Muscat petit grain Sec, salin **8€**
+- Philippe Chevarin - Melon 2024 - Loire - Melon de Bourgogne - Frais, minéral **7,50€**
 - Polichinelle - Les Bois Perdus Auvergne - Roussanne, Marsanne 2024 - Blanc tendu, salivant, belle gourmandise **7,50€** 
   
 ### Orange
