@@ -22,7 +22,7 @@ Bouteilles (75cl):
 - Houmous de pois chiche **7 €**
 
 **Fromages / Cheese**
-- Brillat savarin **10€**
+
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
 - Saint-Nectaire **9€**
 - Cantal fermier **9€**
