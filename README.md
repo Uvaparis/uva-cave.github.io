@@ -70,12 +70,11 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Vermouth rouge, eau pétillante **8,50€**
 
 ### Rouges
-- Bang Nouveau 2025 - Mosse - Grolleau Gris, gamay **7€** / **34€** la bouteille 
-- La passion du produit 2022 - Sébastien Morin - Cinsault **8€** / **45** la bouteille 
+- Bang Nouveau 2025 - Mosse - Grolleau Gris, gamay **7€** Léger, fruité
+- Les Arrels 2023 - Pyrénées-Orientales - Grenache noir **8€** Solaire, épicée
   
 ### Blancs
-- Trabshumancia Blanc - Domaine Cotzé - Roussillon - Muscat petit grain Sec, salin **8€**
-- Philippe Chevarin - Melon 2024 - Loire - Melon de Bourgogne - Frais, minéral **7,50€**
+- Transhumancia Blanc - Domaine Cotzé - Roussillon - Muscat petit grain Sec, salin **8€**
 - Polichinelle - Les Bois Perdus Auvergne - Roussanne, Marsanne 2024 - Blanc tendu, salivant, belle gourmandise **7,50€** 
   
 ### Orange
