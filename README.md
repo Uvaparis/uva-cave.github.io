@@ -29,7 +29,8 @@ Bouteilles (75cl):
 - Assiette de fromages et charcuteries du moment **26€**
 
 **Viande / Meat**
-- Pâté de campagne artisanal - Maison Montalet (120g) **10€** 
+- Pâté de campagne artisanal - Maison Montalet (120g) **10€**
+- Terrine de campagne d'Aveyron **9€**
 - Saucisson de l'Aveyron **7,5 €**
 - Coppa Artisanale **9,50€**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
