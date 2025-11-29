@@ -24,7 +24,7 @@ Bouteilles (75cl):
 **Fromages / Cheese**
 
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
-- Saint-Nectaire **9€**
+- Saint-Nectaire **9€** (Uniquement sur l'assiette mixte ou de fromages)
 - Cantal fermier **9€**
 - Assiette de fromages et charcuteries du moment **26€**
 
