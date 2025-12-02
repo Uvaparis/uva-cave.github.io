@@ -75,7 +75,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
   
 ### Blancs
 - Transhumancia Blanc - Domaine Cotzé - Roussillon - Muscat petit grain Sec, salin **8€**
-- Polichinelle - Les Bois Perdus Auvergne - Roussanne, Marsanne 2024 - Blanc tendu, salivant, belle gourmandise **7,50€** 
+- Nicolas chemarin - P'tit grobis - Beaujolais - Chardonnay, sec, notes de pêches blanche **8€**
   
 ### Orange
 - Pépin Orange - Alsace - Aromatique, agrumes, floral **8€** (Vin à la tireuse)
