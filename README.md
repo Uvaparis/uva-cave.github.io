@@ -81,7 +81,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Pépin Orange - Alsace - Aromatique, agrumes, floral **8€** (Vin à la tireuse)
 
 ### Pétillant 
-- Pétillant naturel - Perraud & Jadaud - Loire - Méthode ancestrale **8€**
+- Pétillant naturel - Pépin Pét Nat - Muscat - Notes citronées **8€**
 
 [haut de page](#menu)
 
@@ -127,7 +127,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Les Grandes Vignes** - La Varenne du Poirier 2023 - Chenin - **42€**
 - **Bestiaire, Domaine Perrault-Jadaud** - Chenin, chardonnay 2023 - **39€**
 - **Domaine Mosse** - Chenin 2024 **40€**
-
+- **De Vini** - Loire - Melon de bourgogne **35€**
+  
 ### GRECE
 - **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **45€**
 
@@ -136,7 +137,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Istvan Bencze** - Riesling - 2020 **58 €**
 
 ### ROUSSILLON 
-- Transhumancia 2024 - Muscat petit grain **40€** 
+- **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **40€** 
 
 [haut de page](#menu)
 
