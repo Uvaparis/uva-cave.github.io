@@ -127,7 +127,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Les Grandes Vignes** - La Varenne du Poirier 2023 - Chenin - **42€**
 - **Bestiaire, Domaine Perrault-Jadaud** - Chenin, chardonnay 2023 - **39€**
 - **Domaine Mosse** - Chenin 2024 **40€**
-- **Philippe Chevarin** - Melon 2025 - **36€**
 
 ### GRECE
 - **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **45€**
@@ -144,6 +143,11 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## Oranges 75cl
 
 ### ALSACE
+
+- **Domaine Einhart** - Puls'art 2022 - Gewurztraminer - 10 jours de macération **39€**
+
+- **Domaine Einhart** - L'intrépide 2022 - Pinot gris - 6 à 8 jours de macération **39€**
+  
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Fruits mûrs abricot sec, figue **45€**
   
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€** 
