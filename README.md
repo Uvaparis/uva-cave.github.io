@@ -191,7 +191,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## Rouges 75cl
 
 ### ALSACE 
-- **Domaine Einhart** - Alsace - Pinot noir - **36€** **Non disponible**
+- **Domaine Einhart** - Albermohn 2023 - Alsace - Pinot noir - **40€**
 
 ### AUVERGNE
 - **Les Bois Perdus** - Elle Tremble - Merlot - **38€**
