@@ -30,6 +30,7 @@ Bouteilles (75cl):
 
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
+- Pâté croûte de chez Viande Viande (Paris 3ème) **12€**
 - Terrine de campagne d'Aveyron **9€**
 - Saucisson de l'Aveyron **7,5 €**
 - Coppa Artisanale **9,50€**
