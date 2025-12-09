@@ -71,7 +71,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Vermouth rouge, eau pétillante **8,50€**
 
 ### Rouges
-- Bang Nouveau 2025 - Mosse - Grolleau Gris, gamay **7€** Léger, fruité
+- Détour - Phillipe Chevarin - Gamay **7€** Léger, fruité
 - Les Arrels 2023 - Pyrénées-Orientales - Grenache noir **8€** Solaire, épicée
   
 ### Blancs
