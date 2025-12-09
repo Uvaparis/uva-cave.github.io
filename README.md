@@ -79,7 +79,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Nicolas chemarin - P'tit grobis - Beaujolais - Chardonnay, sec, notes de pêches blanche **8€**
   
 ### Orange
-- Pépin Orange - Alsace - Aromatique, agrumes, floral **8€** (Vin à la tireuse)
+- Pulsart - Théo Einhart - Alsace - Aromatique, agrumes, floral **8€** (Vin à la tireuse)
 
 ### Pétillant 
 - Pétillant naturel - Pépin Pét Nat - Muscat - Notes citronées **8€**
