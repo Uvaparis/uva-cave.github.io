@@ -47,7 +47,7 @@ _Des allergies ? Prévenez-nous :) _
 **Les filles de l’ouest** 33cl 
 Schorles **5,50€**
 Boissons pétillantes aux fruits issus de l’agriculture biologique
-(au choix : Rhubarbe, limonade, citron) 
+(au choix : Limonade, citron) 
 
 **Iessi il frizzante** **6,50€**
 Sprizt italien sans alcool, frais pétillant aromatique
@@ -72,7 +72,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### Rouges
 - Détour - Phillipe Chevarin - Gamay **7€** Léger, fruité
-- Les Arrels 2023 - Pyrénées-Orientales - Grenache noir **8€** Solaire, épicée
+- Arias - Mouton noir 2018 - Pyrénées-Orientales - Carignan, cinsault, grenache **8€** Solaire, épicée
   
 ### Blancs
 - Transhumancia Blanc - Domaine Cotzé - Roussillon - Muscat petit grain Sec, salin **8€**
