@@ -30,8 +30,8 @@ Bouteilles (75cl):
 
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
-- Pâté croûte de chez Viande Viande (Paris 3ème) **12€**
-- Terrine de campagne d'Aveyron **9€**
+- Chorizo Picante **8€**
+- Boeuf séchée **10€**
 - Saucisson de l'Aveyron **7,5 €**
 - Coppa Artisanale **9,50€**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
@@ -71,16 +71,16 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Vermouth rouge, eau pétillante **8,50€**
 
 ### Rouges
-- Détour - Phillipe Chevarin - Gamay **7€** Léger, fruité
-- Arias - Mouton noir 2018 - Pyrénées-Orientales - Carignan, cinsault, grenache **8€** Solaire, épicée
+- Premier Jus Beaujolais - Nicolas Chemarin - Gamay - Léger, fruité **7,50€**
+- BCDC Espagne - Tempranillo - Solair, épicée **8€** 
   
 ### Blancs
 - Transhumancia Blanc - Domaine Cotzé - Roussillon - Muscat petit grain Sec, salin **8€**
-- Nicolas chemarin - P'tit grobis - Beaujolais - Chardonnay, sec, notes de pêches blanche **8€**
+- Théo Einhart Blanc - Auxerrois - Alsace - Sec, agrumes **7,50€**
   
 ### Orange
-- Pulsart - Théo Einhart - Alsace - Aromatique, agrumes, floral **8€** (Vin à la tireuse)
-
+- Pulsart - Théo Einhart - Alsace - Aromatique, agrumes, floral **8€**
+  
 ### Pétillant 
 - Pétillant naturel - Pépin Pét Nat - Muscat - Notes citronées **8€**
 
@@ -114,9 +114,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### ARDECHE 
 - **Les Bois Perdus** - Polichinelle 2023 -  Roussanne, Marsanne  **39€**
-
-### BEAUJOLAIS 
-- **Nicolas Chemarin** - P'tit Grobis blanc 2023 - Chardonnay - **39€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €** 
@@ -124,8 +121,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
   
-### LOIRE
-- **Les Grandes Vignes** - La Varenne du Poirier 2023 - Chenin - **42€**
+### LOIR
 - **Bestiaire, Domaine Perrault-Jadaud** - Chenin, chardonnay 2023 - **39€**
 - **Domaine Mosse** - Chenin 2024 **40€**
 - **De Vini** - Loire - Melon de bourgogne **35€**
@@ -149,20 +145,12 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Domaine Einhart** - Puls'art 2022 - Gewurztraminer - 10 jours de macération **39€**
 
 - **Domaine Einhart** - L'intrépide 2022 - Pinot gris - 6 à 8 jours de macération **39€**
-  
-- **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Fruits mûrs abricot sec, figue **45€**
-  
-- **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€** 
 
-- **Nicolas Chemarin** - Hors Zone 2023 - Chardonnay, Gewurztraminer - Notes florales, sec **39€**
-  
-- **Gniff** - Les Jardins En Chantants - Gewurztraliner, muscat, riesling, pinot gris - Notes de roses de litchi, épices douces **40€**
+- **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
 
 - **Pépin** - Riesling - Saveurs d'agrumes juteux, pêche blanche, accompagnés d'une minéraliré saline et finale légèrement épicée **40€**
   
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl) 
-  
-- **Pépin Orange** - Gewurztraminer, Pinot gris 2022 - Expressif et équilibré, offrant une belle complexité aromatique et une structure tannique soyeuse **38€** (Vin à la tireuse)
 
 ### LOIRE 
 - **Domaine Mosse** - Overmars Chenin - Fruits jaunes mangue, abricot, touche d'amers **42€**
@@ -205,7 +193,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
 
 ### BEAUJOLAIS
-- **Nicolas Chemarin** - P'tit Grobis 2023 - Gamay - **39€**
 - **Domaine Belicard** - Morgon - Terrain rouge - 2021 - Gamay **37€** 
 
 ### JURA
@@ -216,8 +203,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - **43€** 
 
 ### LOIRE
-- **Phillipe Chevarin** - Le Magny - Vieilles variétés de gamay **36€**
-- **Philippe Chevarin** - La décrue - Gamay teinturier **36€**
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **R. Guettier** - Adonis 2023 - Pineau d'aunis **41€**
 - **R. Guettier** - Enchanteresse 2022 - Pineau d'aunis vieilles vignes **47€**
