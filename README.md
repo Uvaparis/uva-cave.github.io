@@ -76,13 +76,13 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
   
 ### Blancs
 - Transhumancia Blanc - Domaine Cotzé - Roussillon - Muscat petit grain Sec, salin **8€**
-- Théo Einhart Blanc - Auxerrois - Alsace - Sec, agrumes **7,50€**
+- Théo Einhart Blanc - Auxerrois - Alsace - Sec, agrumes **7,50€** (Vin à la tireuse)
   
 ### Orange
 - Pulsart - Théo Einhart - Alsace - Aromatique, agrumes, floral **8€**
   
 ### Pétillant 
-- Pétillant naturel - Pépin Pét Nat - Muscat - Notes citronées **8€**
+- Pétillant naturel - Alsace - Macération de 6 jours sur lattes - Pinot gris, pinot noir, gewurztraminer - Fruité, bulle légère **8€**
 
 [haut de page](#menu)
 
