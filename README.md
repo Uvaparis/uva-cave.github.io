@@ -72,7 +72,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### Rouges
 - Premier Jus Beaujolais - Nicolas Chemarin - Gamay - Léger, fruité **7,50€**
-- BCDC Espagne - Tempranillo - Solair, épicée **8€** 
+- BCDC Espagne - Tempranillo - Solaire épicée **8€** 
   
 ### Blancs
 - Transhumancia Blanc - Domaine Cotzé - Roussillon - Muscat petit grain Sec, salin **8€**
@@ -96,7 +96,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 [haut de page](#menu)
 
-## Champagne Eric Collinet Extra Brut - AOP Côte des bars - Pinot, chardonnay - **78€** 
+## CHAMPAGNE
+- Eric Collinet Extra Brut - AOP Côte des bars - Pinot, chardonnay - **78€** 
 
 ## Pétillants 75cl 
 
