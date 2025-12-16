@@ -23,7 +23,7 @@ Bouteilles (75cl):
 
 **Fromages / Cheese**
 - Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
-- Brillat-savarin, huile d'olive, poivre **10€**
+- Morbier **9€**
 - Saint-Nectaire **9€** 
 - Cantal fermier **9€**
 - Assiette de fromages et charcuteries du moment **26€**
