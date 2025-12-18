@@ -47,7 +47,7 @@ _Des allergies ? Prévenez-nous :) _
 **Les filles de l’ouest** 33cl 
 Schorles **5,50€**
 Boissons pétillantes aux fruits issus de l’agriculture biologique
-(au choix : Limonade, citron) 
+(au choix : Limonade, menthe) 
 
 **Iessi il frizzante** **6,50€**
 Sprizt italien sans alcool, frais pétillant aromatique
@@ -115,6 +115,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### ARDECHE 
 - **Les Bois Perdus** - Polichinelle 2023 -  Roussanne, Marsanne  **39€**
+- **Les Bois Perdus** - Illuminée 2024 - Chardonnay **42€**
+- **Sylvain Bock** - Ne fais pas semblant 2024 - Chardonnay, grenache blanc **42€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €** 
@@ -122,9 +124,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
   
-### LOIR
-- **Bestiaire, Domaine Perrault-Jadaud** - Chenin, chardonnay 2023 - **39€**
-- **Domaine Mosse** - Chenin 2024 **40€**
+### LOIRE
 - **De Vini** - Loire - Melon de bourgogne **35€**
   
 ### GRECE
