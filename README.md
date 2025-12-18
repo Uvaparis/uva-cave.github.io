@@ -187,8 +187,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ### AUVERGNE
 - **Les Bois Perdus** - Elle Tremble - Merlot - **38€**
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
-  
-### AUVERGNE 
+- **Antonin Azzoni** - Le raisin et l'ange - Syrah, grenache **39€**
 - **L'eau qui dort** - Zeppa•o 2022 - Barbera - **45€**
 - **Tomomoto** - Cueillette Sauvage 2023 - Gamay **44€**
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
