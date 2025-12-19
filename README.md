@@ -71,15 +71,15 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Vermouth rouge, eau pétillante **8,50€**
 
 ### Rouges
-- Premier Jus Beaujolais - Nicolas Chemarin - Gamay - Léger, fruité **7,50€**
-- BCDC Espagne - Tempranillo - Solaire épicée **8€** 
+- Rouge Détour - Gamay - Léger, fruité **7,50€**
+- I'm natural don't panic Espagne - Tempranillo - Solaire épicée **8€** 
   
 ### Blancs
 - Transhumancia Blanc - Domaine Cotzé - Roussillon - Muscat petit grain Sec, salin **8€**
 - Théo Einhart Blanc - Auxerrois - Alsace - Sec, agrumes **7,50€** (Vin à la tireuse)
   
 ### Orange
-- Pulsart - Théo Einhart - Alsace - Aromatique, agrumes, floral **8€**
+- Chassez le naturel - Domaine Cotzé - Grenache gris -  Notes agrumes **8€**
   
 ### Pétillant 
 - Pétillant naturel - Alsace - Macération de 6 jours sur lattes - Pinot gris, pinot noir, gewurztraminer - Fruité, bulle légère **8€**
@@ -110,11 +110,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 
 ## Blancs 75cl
-### ALSACE
-- **Bourrach** - Les Jardins En Chantants - Pinot auxerrois chardonnay - **40€**
 
 ### ARDECHE 
-- **Les Bois Perdus** - Polichinelle 2023 -  Roussanne, Marsanne  **39€**
 - **Les Bois Perdus** - Illuminée 2024 - Chardonnay **42€**
 - **Sylvain Bock** - Ne fais pas semblant 2024 - Chardonnay, grenache blanc **42€**
   
@@ -143,14 +140,9 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### ALSACE
 
-- **Domaine Einhart** - Puls'art 2022 - Gewurztraminer - 10 jours de macération **39€**
-
 - **Domaine Einhart** - L'intrépide 2022 - Pinot gris - 6 à 8 jours de macération **39€**
-
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
-
 - **Pépin** - Riesling - Saveurs d'agrumes juteux, pêche blanche, accompagnés d'une minéraliré saline et finale légèrement épicée **40€**
-  
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl) 
 
 ### LOIRE 
@@ -158,7 +150,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **77 €**
-  
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **90 €**
 
 ### JURA
