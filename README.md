@@ -102,8 +102,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## Pétillants 75cl 
 
 ## ALSACE
-- Les Jardin en chantants - Pét Nat 2023 - Pinot, auxerrois **40€**
-- Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **40€**
+- Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€** **Non disponible**
 
 ## LOIRE 
 - Moussamoussettes Pét Nat Rosé 2024 - Grolleau noir, cabernet franc, pineau d'aunis - **40€**
