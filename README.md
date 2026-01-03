@@ -81,8 +81,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ### Orange
 - Chassez le naturel - Domaine Cotzé - Grenache gris -  Notes agrumes **8€**
   
-### Pétillant 
-- Pétillant naturel - Alsace - Macération de 6 jours sur lattes - Pinot gris, pinot noir, gewurztraminer - Fruité, bulle légère **8€**
+### Cidre 
+- Cidre Vicious - Fred Pruchon - Cidre Brut 2022 - 9 variétés de pommes à cidre **7€**
 
 [haut de page](#menu)
 
