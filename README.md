@@ -194,7 +194,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
-- **R. Guettier** - Adonis 2023 - Pineau d'aunis **41€**
 - **R. Guettier** - Enchanteresse 2022 - Pineau d'aunis vieilles vignes **47€**
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
 - **Chin-chin** - Domaine Perrault-Jadaud - 2023 - Côt, chenin - **39€**
@@ -208,7 +207,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Guillaume Cancelloni** - Dégaine - Cerro Chalten - Pinot noir **44€**
 
   ### Espagne
-  - **Bodegas Coruña del Conde** - BCDC - 2019/2020 - Merlot - **44€**
+  - **Bodegas Coruña del Conde** - Dont panic 2019/2020 - Merlot - **44€**
   - **La Senda** - La Barbacana - Alicante Bouschet - **44€** 
 
 
