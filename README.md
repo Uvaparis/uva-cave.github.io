@@ -22,7 +22,6 @@ Bouteilles (75cl):
 - Houmous de pois chiche **7 €**
 
 **Fromages / Cheese**
-- Comté 24 mois Marcel Petite, Jura, huile de noix **10€**
 - Morbier **9€**
 - Saint-Nectaire **9€** 
 - Cantal fermier **9€**
