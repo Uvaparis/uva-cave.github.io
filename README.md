@@ -70,18 +70,18 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Vermouth rouge, eau pétillante **8,50€**
 
 ### Rouges
-- Rouge Détour - Gamay - Léger, fruité **7,50€**
+- Nour - Le vin des Pauzes - Ardèche - Grenache, cinsault  **7,50€**
 - I'm natural don't panic Espagne - Tempranillo - Solaire épicée **8€** 
   
 ### Blancs
-- Transhumancia Blanc - Domaine Cotzé - Roussillon - Muscat petit grain Sec, salin **8€**
-- Théo Einhart Blanc - Auxerrois - Alsace - Sec, agrumes **7,50€** (Vin à la tireuse)
+- Pépin Blanc - Alsace - Pinot blanc, riesling, pinot auxerrois **7,50€** 
+- Illuminée - Les Bois Perdus - Chardonnay **7,50€**
   
 ### Orange
 - Chassez le naturel - Domaine Cotzé - Grenache gris -  Notes agrumes **8€**
   
-### Cidre 
-- Cidre Vicious - Fred Pruchon - Cidre Brut 2022 - 9 variétés de pommes à cidre **7€**
+### Pétillant 
+- Pépin pet nat - Alsace - Ugni blanc, picpoul, muscat, chardonnay **8€**
 
 [haut de page](#menu)
 
