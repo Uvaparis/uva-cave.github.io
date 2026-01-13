@@ -111,6 +111,9 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ## Blancs 75cl
 
+### ALSACE 
+- **Pepin blanc** - Auxerrois, riesling, pinot blanc **35€** 
+
 ### ARDECHE 
 - **Les Bois Perdus** - Illuminée 2024 - Chardonnay **42€**
 - **Sylvain Bock** - Ne fais pas semblant 2024 - Chardonnay, grenache blanc **42€**
@@ -120,9 +123,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
-  
-### LOIRE
-- **De Vini** - Loire - Melon de bourgogne **35€**
   
 ### GRECE
 - **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **45€**
@@ -178,6 +178,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### ARDECHE 
 - **Les lendemains qui chantent** - Pulpe Friction - Ardèche - Grenache **38€**
+- **Maud Adnot** - Pomelos - Merlot - **37€**
 
 ### AUVERGNE
 - **Les Bois Perdus** - Elle Tremble - Merlot - **38€**
