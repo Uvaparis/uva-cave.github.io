@@ -173,13 +173,18 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## Rouges 75cl
 
 ### ALSACE 
-- **Domaine Einhart** - Albermohn 2023 - Alsace - Pinot noir - **40€**
+- **Domaine Einhart** - Albermohn 2023 - Alsace - Pinot noir **40€**
+- **Pépin rouge** - Syrah, carignan, grenache, muscat d'alexandrie **35€** 
+
+### ARDECHE 
+- **Les lendemains qui chantent** - Pulpe Friction - Ardèche - Grenache **38€**
 
 ### AUVERGNE
 - **Les Bois Perdus** - Elle Tremble - Merlot - **38€**
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
 - **Antonin Azzoni** - Le raisin et l'ange - Syrah, grenache **39€**
 - **L'eau qui dort** - Zeppa•o 2022 - Barbera - **45€**
+- **L'eau qui dort** - Bosco 2024 - Pinot noir - **43€**
 - **Tomomoto** - Cueillette Sauvage 2023 - Gamay **44€**
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
 
