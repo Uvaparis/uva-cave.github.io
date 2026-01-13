@@ -112,14 +112,17 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## Blancs 75cl
 
 ### ALSACE 
-- **Pepin blanc** - Auxerrois, riesling, pinot blanc **35€** 
+- **Théo Einhart** - Auxerrois - Vin à la tireuse **35€** 
 
 ### ARDECHE 
 - **Les Bois Perdus** - Illuminée 2024 - Chardonnay **42€**
 - **Sylvain Bock** - Ne fais pas semblant 2024 - Chardonnay, grenache blanc **42€**
   
 ### BOURGOGNE
-- **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €** 
+- **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €**
+
+## LOIRE 
+- **De vici** 0,72 blanc 2019 -  Melon de bourgogne - **35€** 
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
