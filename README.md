@@ -73,7 +73,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Vermouth rouge, eau pétillante **8,50€**
 
 ### Rouges
-- Pulpe Friction - Les lendemains qui chantent - Ardèche - Grenache  **7,50€**
+- L'intrépide - Alsace - Pinot gris - Léger, fruité **7,50€**
 - I'm natural don't panic Espagne - Tempranillo - Solaire épicée **8€** 
   
 ### Blancs
@@ -94,8 +94,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 - Poiré demi sec, melange Cressane, Conférence et Louise Bonne **26€**
 
-- Cidre Vicious - Fred Pruchon - Cidre Brut 2022 - 9 variétés de pommes à cidre **26€** 
-
 [haut de page](#menu)
 
 ## CHAMPAGNE
@@ -104,7 +102,10 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## Pétillants 75cl 
 
 ## ALSACE
-- Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€** 
+- Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€**
+- Yann Durmann 2023 - Mus Ska T - Muscat, riesling, pinot blanc **39€**
+- Yann Durmann 2022 - Noctambule - Pinot noir, pinot gris **39€**
+- Yann Durmann 2024 - Grizzling - Riesling **39€**
 
 ## LOIRE 
 - Moussamoussettes Pét Nat Rosé 2024 - Grolleau noir, cabernet franc, pineau d'aunis - **40€**
