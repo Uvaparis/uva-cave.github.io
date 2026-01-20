@@ -116,6 +116,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ### ALSACE 
 - **Théo Einhart** - Auxerrois - Vin à la tireuse **35€**
 - **Yann Durmann** - Ron-rond 2024 - Gewurztraliner, pinot blanc, sylvaner (Bouteille de 1L) **41€**
+- **Yann Durmann** - Riesling sur schistes Rabbari 2024 **39€**
+- **Yann Durmann** - Sylvaner 2024 **39€** 
 
 ### ARDECHE 
 - **Les Bois Perdus** - Illuminée 2024 - Chardonnay **42€**
