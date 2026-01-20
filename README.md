@@ -60,7 +60,7 @@ Canette 25cl
 - Poire & Anis 
 
 **Implosion To ol** **5€**
-Cannette 33cl, Bière sans alcool aux arômes floraux et fruités 
+Canette 33cl, Bière sans alcool aux arômes floraux et fruités 
 
 ## Bières
 
@@ -114,7 +114,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## Blancs 75cl
 
 ### ALSACE 
-- **Théo Einhart** - Auxerrois - Vin à la tireuse **35€** 
+- **Théo Einhart** - Auxerrois - Vin à la tireuse **35€**
+- **Yann Durmann** - Ron-rond 2024 - Gewurztraliner, pinot blanc, sylvaner (Bouteille de 1L) **41€**
 
 ### ARDECHE 
 - **Les Bois Perdus** - Illuminée 2024 - Chardonnay **42€**
@@ -127,7 +128,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **De vici** 0,72 blanc 2019 -  Melon de bourgogne - **35€** 
 
 ### JURA
-- **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (150cl)
+- **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl) 
   
 ### GRECE
 - **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **45€**
@@ -137,7 +138,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Istvan Bencze** - Riesling - 2020 **58 €**
 
 ### ROUSSILLON 
-- **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **40€** 
+- **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **80€** (MAGNUM 150cl) 
 
 [haut de page](#menu)
 
@@ -145,9 +146,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### ALSACE
 
-- **Domaine Einhart** - L'intrépide 2022 - Pinot gris - 6 à 8 jours de macération **39€**
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
-- **Pépin** - Riesling - Saveurs d'agrumes juteux, pêche blanche, accompagnés d'une minéraliré saline et finale légèrement épicée **40€**
+- **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **45€** 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl) 
 
 ### LOIRE 
@@ -182,7 +182,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Pépin rouge** - Syrah, carignan, grenache, muscat d'alexandrie **35€** 
 
 ### ARDECHE 
-- **Les lendemains qui chantent** - Pulpe Friction - Ardèche - Grenache **38€**
 - **Maud Adnot** - Pomelos - Merlot - **37€**
 
 ### AUVERGNE
