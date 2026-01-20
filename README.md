@@ -48,15 +48,16 @@ _Des allergies ? Prévenez-nous :) _
 **Les filles de l’ouest** 33cl 
 Schorles **5,50€**
 Boissons pétillantes aux fruits issus de l’agriculture biologique
-(au choix : Limonade, menthe) 
+(au choix : Limonade, menthe, rhubarbe) 
 
 **Iessi il frizzante** **6,50€**
 Sprizt italien sans alcool, frais pétillant aromatique
 
-**Oma Frida** 
-Verre **6,50€**
-Bouteille **23€**
-Pétillant naturel sans alcool à base de jus de raisin, verjus, infusions de plantes
+**Douze Boisson pétillante** **6€**
+Canette 25cl 
+- Abricot & Zaatar
+- Orange Sanguine & Piment
+- Poire & Anis 
 
 **Implosion To ol** **5€**
 Cannette 33cl, Bière sans alcool aux arômes floraux et fruités 
