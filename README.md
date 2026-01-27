@@ -23,16 +23,13 @@ Bouteilles (75cl):
 
 **Fromages / Cheese**
 - Morbier **9€**
-- Brillat-savarin **10€**
 - Comté AOP 21 mois d'affinage **10€**
 - Saint-Nectaire **9€** 
-- Cantal fermier **9€**
 - Assiette de fromages et charcuteries du moment **26€**
 
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
-- Chorizo Picante **8€**
-- Boeuf séchée **10€**
+- Boeuf séché **10€**
 - Saucisson de l'Aveyron **7,5 €**
 - Coppa Artisanale **9,50€**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
@@ -48,7 +45,7 @@ _Des allergies ? Prévenez-nous :) _
 **Les filles de l’ouest** 33cl 
 Schorles **5,50€**
 Boissons pétillantes aux fruits issus de l’agriculture biologique
-(au choix : Limonade, menthe, rhubarbe) 
+(au choix : Limonade, menthe, rhubarbe, citron fringuant)
 
 **Iessi il frizzante** **6,50€**
 Sprizt italien sans alcool, frais pétillant aromatique
