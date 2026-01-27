@@ -71,17 +71,17 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### Rouges
 - L'intrépide - Alsace - Pinot gris - Léger, fruité **7,50€**
-- I'm natural don't panic Espagne - Tempranillo - Solaire épicée **8€** 
+- Pépin rouge - Alsace - Grenache, carignan  **8€** 
   
 ### Blancs
-- Théo Einhart - Alsace - Pinot blanc,auxerrois **7,50€** 
-- Illuminée - Les Bois Perdus - Chardonnay **7,50€**
+- Yann Durmann -  Ron-rond blanc - Pinot blanc,riesling, muscat, gewurztraminer **7,50€** 
+- Illuminée - Ardèche - Les Bois Perdus - Chardonnay **7,50€**
   
 ### Orange
 - Pépin Orange - Alsace - Auxerrois, sylvaner, gewurztraminer  **8€**
   
 ### Pétillant 
-- Pépin pet nat - Alsace - Ugni blanc, picpoul, muscat, chardonnay **8€**
+- Yann durmann - Alsace - Pét nat - Riesling  **8€** 
 
 [haut de page](#menu)
 
@@ -94,7 +94,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 [haut de page](#menu)
 
 ## CHAMPAGNE
-- Eric Collinet Extra Brut - AOP Côte des bars - Pinot, chardonnay - **78€** 
+- Eric Collinet Extra Brut - AOP Côte des bars - Pinot, chardonnay - **78€** **Non disponoble**
 
 ## Pétillants 75cl 
 
