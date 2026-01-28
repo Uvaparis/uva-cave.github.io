@@ -200,7 +200,11 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
-- **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - **43€** 
+- **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - **43€**
+
+### LANGUEDOC 
+- **WA** Kohki Iwata - Cinsault, pinot noir **35€**
+- **Souriez** Kohki Iwita - Syrah **35€**
 
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
