@@ -22,7 +22,7 @@ Bouteilles (75cl):
 - Houmous de pois chiche **7 €**
 
 **La Mer / The Sea** 
-- Anchois de Cantabrie **11,50€** 
+- Anchois de Cantabrie **10€**
 
 **Fromages / Cheese**
 - Morbier **9€**
