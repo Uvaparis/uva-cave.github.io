@@ -21,6 +21,9 @@ Bouteilles (75cl):
 - Olives Bella di Cerignola, Italie **4 €**
 - Houmous de pois chiche **7 €**
 
+**La Mer / The Sea** 
+- Anchois de Cantabrie **11,50€** 
+
 **Fromages / Cheese**
 - Morbier **9€**
 - Brillat savarin **10€**
