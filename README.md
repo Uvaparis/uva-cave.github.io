@@ -111,7 +111,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## Blancs 75cl
 
 ### ALSACE 
-- **Théo Einhart** - Auxerrois - Vin à la tireuse **35€**
+- **Pépin Blanc** - Riesling, pinot blanc 2024 **36€** 
 - **Yann Durmann** - Ron-rond 2024 - Gewurztraliner, pinot blanc, sylvaner (Bouteille de 1L) **41€**
 - **Yann Durmann** - Riesling sur schistes Rabbari 2024 **39€**
 - **Yann Durmann** - Sylvaner 2024 **39€** 
