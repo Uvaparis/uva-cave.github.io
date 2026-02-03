@@ -117,14 +117,10 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Yann Durmann** - Sylvaner 2024 **39€** 
 
 ### ARDECHE 
-- **Les Bois Perdus** - Illuminée 2024 - Chardonnay **42€**
-- **Sylvain Bock** - Ne fais pas semblant 2024 - Chardonnay, grenache blanc **42€**
+- **Les Bois Perdus** - Illuminée 2024 - Chardonnay **39€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €**
-
-## LOIRE 
-- **De vici** 0,72 blanc 2019 -  Melon de bourgogne - **35€** 
 
 ### JURA
 - **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl) 
@@ -159,9 +155,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ### JURA
 - **Wicky** - Blanc de macération - Chardonnay 2020 - Orange, citron confit, tension saline **54€**
 
-### PYRENEES-ORIENTALES 
-- **Transhumancia** - Chassez le naturel 2023 - Grenache gris - Frais, légèrement salin **41€**
-
 ### ITALIE
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - Moelleux, fruité, richesse aromatique (abricot, pêche, poire) **69€** (50cl)
 
@@ -184,7 +177,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Maud Adnot** - Pomelos - Merlot - **37€**
 
 ### AUVERGNE
-- **Les Bois Perdus** - Elle Tremble - Merlot - **38€**
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
 - **Antonin Azzoni** - Le raisin et l'ange - Syrah, grenache **39€**
 - **L'eau qui dort** - Zeppa•o 2022 - Barbera - **45€**
@@ -193,10 +185,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
 
 ### BEAUJOLAIS
-- **Domaine Belicard** - Morgon - Terrain rouge - 2021 - Gamay **37€** 
-
-### JURA
-- **L'oiseau rodeur** - Bagatelle - 2023 - Pinot noir - **49€**
+- **Nicolas chemarin** - P'tit grobis - gamay **39€**
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
