@@ -101,6 +101,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ## ALSACE
 - Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€**
+- La mi fa - Domaine du petit bouchon - Sylvaner **40€** 
 - Yann Durmann 2023 - Mus Ska T - Muscat, riesling, pinot blanc **39€**
 - Yann Durmann 2022 - Noctambule - Pinot noir, pinot gris **39€**
 - Yann Durmann 2024 - Grizzling - Riesling **39€**
@@ -145,6 +146,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### ALSACE
 
+- **Y'a de tout Solera** - Domaine du petit bouchon - Vincent Larcelet **36€**
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **45€** 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl) 
