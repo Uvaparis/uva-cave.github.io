@@ -116,7 +116,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## Blancs 75cl
 
 ### ALSACE 
-- **Pépin Blanc** - Riesling, pinot blanc 2024 **36€** 
+- **Pépin Blanc** - Riesling, pinot blanc 2024 **36€**
 - **Yann Durmann** - Ron-rond 2024 - Gewurztraliner, pinot blanc, sylvaner (Bouteille de 1L) **41€**
 - **Yann Durmann** - Riesling sur schistes Rabbari 2024 **39€**
 - **Yann Durmann** - Sylvaner 2024 **39€** 
@@ -147,8 +147,10 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ### ALSACE
 
 - **Y'a de tout Solera** - Domaine du petit bouchon - Vincent Larcelet **36€**
+- **La Mi Fa** - Domaine du petit bouchon - Vincent Larcelet - Sylavner, muscat **40€**
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
-- **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **45€** 
+- **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **45€**
+- **Pépin Orange** - Gewurztraliner **38€** 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl) 
 
 ### LOIRE 
