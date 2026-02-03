@@ -108,6 +108,9 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## LOIRE 
 - Moussamoussettes Pét Nat Rosé 2024 - Grolleau noir, cabernet franc, pineau d'aunis - **40€**
 
+## ROUSSILLON 
+- Kadodépart Pét Nat 2024 - Mourvedre, carignan, grenache gris **39€** 
+
 
 ## Blancs 75cl
 
