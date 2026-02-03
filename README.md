@@ -95,7 +95,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 [haut de page](#menu)
 
 ## CHAMPAGNE
-- Eric Collinet Extra Brut - AOP Côte des bars - Pinot, chardonnay - **78€** **Non disponoble**
+- Eric Collinet Extra Brut - AOP Côte des bars - Pinot, chardonnay - **78€** **Non disponible**
 
 ## Pétillants 75cl 
 
