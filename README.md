@@ -75,8 +75,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Domaine Gan - Roussillon - WA - Cinsault, pinot noir - tanin moyen, fruit noir  **8€** 
   
 ### Blancs
-- Yann Durmann -  Ron-rond blanc - Pinot blanc,riesling, muscat, gewurztraminer **7,50€** 
-- Illuminée - Ardèche - Les Bois Perdus - Chardonnay **7,50€**
+- Yann Durmann -  Ron-rond blanc - Pinot blanc,riesling, muscat, gewurztraminer **8€**
+- Illuminée - Ardèche - Les Bois Perdus - Chardonnay **8€**
   
 ### Orange
 - Nicolas Chemarin - Beaujolais - Hors zone - Macération de muscat, presse direct de chardonnay (Vin à la tireuse)  **8€**
