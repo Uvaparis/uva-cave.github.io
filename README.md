@@ -26,6 +26,7 @@ Bouteilles (75cl):
 
 **Fromages / Cheese**
 - Morbier **9€**
+- Tomme de brebis caussenarde **9€**
 - Comté AOP 21 mois d'affinage **10€**
 - Saint-Nectaire **9€** 
 - Assiette de fromages et charcuteries du moment **26€**
