@@ -26,7 +26,6 @@ Bouteilles (75cl):
 
 **Fromages / Cheese**
 - Morbier **9€**
-- Brillat savarin **10€**
 - Comté AOP 21 mois d'affinage **10€**
 - Saint-Nectaire **9€** 
 - Assiette de fromages et charcuteries du moment **26€**
@@ -51,9 +50,6 @@ Schorles **5,50€**
 Boissons pétillantes aux fruits issus de l’agriculture biologique
 (au choix : Limonade, menthe, rhubarbe, citron fringuant)
 
-**Iessi il frizzante** **6,50€**
-Sprizt italien sans alcool, frais pétillant aromatique
-
 **Douze Boisson pétillante** **6€**
 Canette 25cl 
 - Abricot & Zaatar
@@ -75,14 +71,14 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### Rouges
 - L'intrépide - Alsace - Pinot gris - Léger, fruité **7,50€**
-- Pépin rouge - Alsace - Grenache, carignan  **8€** 
+- Domaine Gan - Roussillon - WA - Cinsault, pinot noir - tanin moyen, fruit noir  **8€** 
   
 ### Blancs
 - Yann Durmann -  Ron-rond blanc - Pinot blanc,riesling, muscat, gewurztraminer **7,50€** 
 - Illuminée - Ardèche - Les Bois Perdus - Chardonnay **7,50€**
   
 ### Orange
-- Pépin Orange - Alsace - Auxerrois, sylvaner, gewurztraminer  **8€**
+- Nicolas Chemarin - Beaujolais - Hors zone - Macération de muscat, presse direct de chardonnay (Vin à la tireuse)  **8€**
   
 ### Pétillant 
 - Yann durmann - Alsace - Pét nat - Riesling  **8€** 
