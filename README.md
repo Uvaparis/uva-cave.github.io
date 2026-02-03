@@ -198,7 +198,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - **43€**
 
 ### LANGUEDOC 
-- **WA** Kohki Iwata - Cinsault, pinot noir **35€**
+- **WA** Kohki Iwata - Cinsault, pinot noir **36€**
 - **Souriez** Kohki Iwita - Syrah **35€**
 
 ### LOIRE
