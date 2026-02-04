@@ -82,7 +82,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Nicolas Chemarin - Beaujolais - Hors zone - Macération de muscat, presse direct de chardonnay (Vin à la tireuse)  **8€**
   
 ### Pétillant 
-- Yann durmann - Alsace - Pét nat - Riesling  **8€** 
+- Kadodépart Pét nat - Kohki Iwata - Cinsault, mourvèdre, vermentino  **8€** 
 
 [haut de page](#menu)
 
