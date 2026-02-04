@@ -71,7 +71,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Vermouth rouge, eau pétillante **8,50€**
 
 ### Rouges
-- L'intrépide - Alsace - Pinot gris - Léger, fruité **7,50€**
+- P'tit Grobis - Nicolas Chemarin - gamay - léger  **7,50€**
 - Domaine Gan - Roussillon - WA - Cinsault, pinot noir - tanin moyen, fruit noir  **8€** 
   
 ### Blancs
