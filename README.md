@@ -100,18 +100,14 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## Pétillants 75cl 
 
 ## ALSACE
-- Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€**
-- La mi fa - Domaine du petit bouchon - Sylvaner **40€** 
-- Yann Durmann 2023 - Mus Ska T - Muscat, riesling, pinot blanc **39€**
+- Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€** 
 - Yann Durmann 2022 - Noctambule - Pinot noir, pinot gris **39€**
-- Yann Durmann 2024 - Grizzling - Riesling **39€**
 
 ## LOIRE 
 - Moussamoussettes Pét Nat Rosé 2024 - Grolleau noir, cabernet franc, pineau d'aunis - **40€**
 
 ## ROUSSILLON 
 - Kadodépart Pét Nat 2024 - Mourvedre, carignan, grenache gris **39€** 
-
 
 ## Blancs 75cl
 
@@ -120,6 +116,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Yann Durmann** - Ron-rond 2024 - Gewurztraliner, pinot blanc, sylvaner (Bouteille de 1L) **41€**
 - **Yann Durmann** - Riesling sur schistes Rabbari 2024 **39€**
 - **Yann Durmann** - Sylvaner 2024 **39€** 
+- **La mi fa** - Domaine du petit bouchon - Sylvaner **40€**
 
 ### ARDECHE 
 - **Les Bois Perdus** - Illuminée 2024 - Chardonnay **39€**
