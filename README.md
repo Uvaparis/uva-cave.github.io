@@ -120,12 +120,19 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### ARDECHE 
 - **Les Bois Perdus** - Illuminée 2024 - Chardonnay **39€**
+
+### BEAUJOLAIS 
+- **P'tit grobis** - Nicolas Chemarin - Chardonnay **41€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €**
 
 ### JURA
-- **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl) 
+- **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl)
+
+### LOIRE
+- **P'tit Vaillant Blanc** - Domaine Vaillant - Blanc de noirs - Grolleau, Cabernet franc **35€**
+- **La Varenne du poirier** - Domaine Vaillant - Chenin **42€** 
   
 ### GRECE
 - **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **45€**
@@ -184,8 +191,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ### AUVERGNE
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
 - **Antonin Azzoni** - Le raisin et l'ange - Syrah, grenache **39€**
-- **L'eau qui dort** - Zeppa•o 2022 - Barbera - **45€**
-- **L'eau qui dort** - Bosco 2024 - Pinot noir - **43€**
 - **Tomomoto** - Cueillette Sauvage 2023 - Gamay **44€**
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
 
