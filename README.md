@@ -77,7 +77,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Vaillant blanc - Domaine Vaillant - Loire - Blanc de noir - Groslot, cabernet **7,50€**
   
 ### Orange
-- Nicolas Chemarin - Beaujolais - Hors zone - Macération de muscat, presse direct de chardonnay (Vin à la tireuse)  **8€**
+- Nicolas Chemarin - Beaujolais - Languedoc - Hors zone - Macération de muscat, presse direct de chardonnay (Vin à la tireuse)  **8€**
   
 ### Pétillant 
 - Kadodépart Pét nat - Kohki Iwata - Cinsault, mourvèdre, vermentino  **8€** 
@@ -103,6 +103,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ## LOIRE 
 - Moussamoussettes Pét Nat Rosé 2024 - Grolleau noir, cabernet franc, pineau d'aunis - **40€**
+- Bulle Nature - Domaine Vaillant - Chenin, groslot gris, cabernet franc **39€**
 
 ## ROUSSILLON 
 - Kadodépart Pét Nat 2024 - Mourvedre, carignan, grenache gris **39€** 
