@@ -18,6 +18,7 @@ Bouteilles (75cl):
 ## Assiettes à partager
 
  **La Terre / The Land**
+- Olives Bella di cerignola **4€**
 - Houmous de pois chiche **7 €**
 
 **Fromages / Cheese**
@@ -72,8 +73,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Domaine Gan - Roussillon - WA - Cinsault, pinot noir - tanin moyen, fruit noir  **8€** 
   
 ### Blancs
-- Yann Durmann -  Ron-rond blanc - Pinot blanc,riesling, muscat, gewurztraminer **8€**
-- Illuminée - Ardèche - Les Bois Perdus - Chardonnay **8€**
+- P'tit grobis - Nicolas Chemarin - Beaujolais - Chardonnay **8€**
+- Vaillant blanc - Domaine Vaillant - Loire - Blanc de noir - Groslot, cabernet **7,50€**
   
 ### Orange
 - Nicolas Chemarin - Beaujolais - Hors zone - Macération de muscat, presse direct de chardonnay (Vin à la tireuse)  **8€**
@@ -110,7 +111,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### ALSACE 
 - **Pépin Blanc** - Riesling, pinot blanc 2024 **36€**
-- **Yann Durmann** - Ron-rond 2024 - Gewurztraliner, pinot blanc, sylvaner (Bouteille de 1L) **41€**
 - **Yann Durmann** - Riesling sur schistes Rabbari 2024 **39€**
 - **Yann Durmann** - Sylvaner 2024 **39€** 
 - **La mi fa** - Domaine du petit bouchon - Sylvaner **40€**
