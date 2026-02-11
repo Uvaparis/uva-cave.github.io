@@ -80,7 +80,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Nicolas Chemarin - Beaujolais - Languedoc - Hors zone - Macération de muscat, presse direct de chardonnay (Vin à la tireuse)  **8€**
   
 ### Pétillant 
-- Kadodépart Pét nat - Kohki Iwata - Cinsault, mourvèdre, vermentino  **8€** 
+- Kadodépart Pét nat - Kohki Iwata - Languedoc - Cinsault, mourvèdre, vermentino  **8€** 
 
 [haut de page](#menu)
 
@@ -126,7 +126,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €**
 
 ### JURA
-- **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl)
+-  **Christelle et Gilles Wicky** - Côtes du Jura - Appellation côtes du Jura Controlée - Chardonnay **55€** 
+-  **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl)
 
 ### LOIRE
 - **P'tit Vaillant Blanc** - Domaine Vaillant - Blanc de noirs - Grolleau, Cabernet franc **35€**
@@ -136,11 +137,14 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **45€**
 
 ### HONGRIE
-- **Istvan Bencze** - Autochton - 2020 - Furmint, Hárslevelű - **55 €**
 - **Istvan Bencze** - Riesling - 2020 **58 €**
 
 ### ROUSSILLON 
-- **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **80€** (MAGNUM 150cl) 
+- **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **80€** (MAGNUM 150cl)
+
+### SAVOIE 
+- **Cairn** - Guillaume Cancelloni - Savoie AOP - Jacquère **43€**
+- **Les Cosmiques** - Guillaume Cancelloni - Savoie AOP Roussette de Monthoux - Altesse **49€**
 
 [haut de page](#menu)
 
@@ -155,15 +159,9 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Pépin Orange** - Gewurztraliner **38€** 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl) 
 
-### LOIRE 
-- **Domaine Mosse** - Overmars Chenin - Fruits jaunes mangue, abricot, touche d'amers **42€**
-
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **77 €**
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **90 €**
-
-### JURA
-- **Wicky** - Blanc de macération - Chardonnay 2020 - Orange, citron confit, tension saline **54€**
 
 ### ITALIE
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - Moelleux, fruité, richesse aromatique (abricot, pêche, poire) **69€** (50cl)
@@ -181,7 +179,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### ALSACE 
 - **Domaine Einhart** - Albermohn 2023 - Alsace - Pinot noir **40€**
-- **Pépin rouge** - Syrah, carignan, grenache, muscat d'alexandrie **35€** 
 
 ### ARDECHE 
 - **Maud Adnot** - Pomelos - Merlot - **37€**
@@ -200,12 +197,12 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - **43€**
 
 ### LANGUEDOC 
-- **WA** Kohki Iwata - Cinsault, pinot noir **36€**
 - **Souriez** Kohki Iwita - Syrah **35€**
 
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **R. Guettier** - Enchanteresse 2022 - Pineau d'aunis vieilles vignes **47€**
+- **R. Guettier** - Adonis 2024 - Pineau d'aunis jeunes vignes **41€** 
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
 - **Chin-chin** - Domaine Perrault-Jadaud - 2023 - Côt, chenin - **39€**
   
@@ -216,10 +213,11 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ### SAVOIE
 - **JY Peron** - Champ levat - 2020 - Mondeuse - **66€**
 - **Guillaume Cancelloni** - Dégaine - Cerro Chalten - Pinot noir **44€**
+- **Free solo** - Guillaume Cancelloni - Grenache **39€**
+- **Première voie** - Guillaume Cancelloni - Pinot, cinsault **42€**
 
   ### Espagne
-  - **Bodegas Coruña del Conde** - Dont panic 2019/2020 - Merlot - **44€**
-  - **La Senda** - La Barbacana - Alicante Bouschet - **44€** 
+  - **Alberto López Calvo** - Colección MMXI - Tempranillo, cabernet franc, sauvignon, merlot **65€** 
 
 
 [haut de page](#menu)
