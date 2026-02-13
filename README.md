@@ -23,7 +23,6 @@ Bouteilles (75cl):
 
 **Fromages / Cheese**
 - Morbier **9€**
-- Brillat Savarin **10€**
 - Tomme de brebis caussenarde **9€**
 - Comté AOP 21 mois d'affinage **10€**
 - Saint-Nectaire **9€** 
