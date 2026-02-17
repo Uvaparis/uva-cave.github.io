@@ -22,6 +22,7 @@ Bouteilles (75cl):
 - Houmous de pois chiche **7 €**
 
 **Fromages / Cheese**
+(servis avec huile d'olive & poivre)
 - Morbier **9€**
 - Brillat Savarin **10€**
 - Tomme de brebis caussenarde **9€**
