@@ -86,7 +86,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Nicolas Chemarin - Beaujolais - Languedoc - Hors zone - Macération de muscat, presse direct de chardonnay (Vin à la tireuse)  **8€**
   
 ### Pétillant 
-- Kadodépart Pét nat - Kohki Iwata - Languedoc - Cinsault, mourvèdre, vermentino  **8€** 
+- Famille Vaillant - Bulle Nature 2023 - Chenin, groslot gris, cabernet franc' chardonnay  **8€** 
 
 [haut de page](#menu)
 
