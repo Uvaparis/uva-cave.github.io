@@ -75,7 +75,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Vermouth rouge, eau pétillante **8,50€**
 
 ### Rouges
-- P'tit Grobis - Nicolas Chemarin - gamay - léger  **7,50€**
+- Les 2 Fauves - Ardèche - Gamay- léger  **7,50€**
 - Guillaume Cancelloni - Savoie - Grenache - Tanins moyen, fruit noir  **8€** 
   
 ### Blancs
