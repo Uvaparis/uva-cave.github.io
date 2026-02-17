@@ -23,6 +23,7 @@ Bouteilles (75cl):
 
 **Fromages / Cheese**
 - Morbier **9€**
+- Brillat Savarin **10€**
 - Tomme de brebis caussenarde **9€**
 - Comté AOP 21 mois d'affinage **10€**
 - Saint-Nectaire **9€** 
@@ -32,6 +33,7 @@ Bouteilles (75cl):
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
 - Boeuf séché **10€**
 - Saucisson de l'Aveyron **7,5 €**
+- Chorizo picante **7,5€**
 - Coppa Artisanale **9,50€**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
 - Assiette mixte, fromages et charcuteries du moment **26€**
