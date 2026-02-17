@@ -50,6 +50,11 @@ Schorles **5,50€**
 Boissons pétillantes aux fruits issus de l’agriculture biologique
 (au choix : Limonade, menthe, rhubarbe, citron fringuant)
 
+**Oma Frida** 
+Cuvée N3 - Pétillant naturel sans alcool - Chardonnay, verjus, infusions florales
+- au verre **6,50€**
+- en bouteille **26€** 
+
 **Douze Boisson pétillante** **6€**
 Canette 25cl 
 - Abricot & Zaatar
@@ -71,7 +76,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### Rouges
 - P'tit Grobis - Nicolas Chemarin - gamay - léger  **7,50€**
-- Domaine Gan - Roussillon - WA - Cinsault, pinot noir - tanin moyen, fruit noir  **8€** 
+- Guillaume Cancelloni - Savoie - Grenache - Tanins moyen, fruit noir  **8€** 
   
 ### Blancs
 - P'tit grobis - Nicolas Chemarin - Beaujolais - Chardonnay **8€**
