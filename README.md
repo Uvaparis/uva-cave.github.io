@@ -160,8 +160,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ### ALSACE
 - **La Mi Fa** - Domaine du petit bouchon - Vincent Larcelet - Sylavner, muscat **40€**
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
-- **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **45€**
-- **Pépin Orange** - Gewurztraliner **38€** 
+- **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **Non disponible**
+- **Pépin Orange** - Gewurztraminer **38€** 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl) 
 
 ### SAVOIE
