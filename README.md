@@ -158,8 +158,6 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## Oranges 75cl
 
 ### ALSACE
-
-- **Y'a de tout Solera** - Domaine du petit bouchon - Vincent Larcelet **36€**
 - **La Mi Fa** - Domaine du petit bouchon - Vincent Larcelet - Sylavner, muscat **40€**
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **45€**
@@ -197,11 +195,10 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
 
 ### BEAUJOLAIS
-- **Nicolas chemarin** - P'tit grobis - gamay **39€**
+- **Les 2 Fauves** - Gamé Hamé Ha - Ardèche **35€**
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
-- **François Ecot** - La Fronde - 2023 - Pineau d'aunis, Gamay - **43€**
 
 ### LANGUEDOC 
 - **Souriez** Kohki Iwita - Syrah **35€**
