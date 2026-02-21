@@ -18,7 +18,6 @@ Bouteilles (75cl):
 ## Assiettes à partager
 
  **La Terre / The Land**
-- Olives Bella di cerignola **4€**
 - Houmous de pois chiche **7 €**
 
 **Fromages / Cheese**
