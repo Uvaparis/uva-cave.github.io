@@ -72,7 +72,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## Vins au verre
 
 ## Vermouth Cocktail 
-- Vermouth rouge, eau pétillante **8,50€**
+- Vermouth rouge, eau pétillante **7€**
 
 ### Rouges
 - Les 2 Fauves - Ardèche - Gamay- léger  **7,50€**
