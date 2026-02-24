@@ -18,6 +18,7 @@ Bouteilles (75cl):
 ## Assiettes à partager
 
  **La Terre / The Land**
+- Olives Bella di Cerignola **4€** 
 - Houmous de pois chiche **7 €**
 
 **Fromages / Cheese**
@@ -48,7 +49,7 @@ _Des allergies ? Prévenez-nous :) _
 **Les filles de l’ouest** 33cl 
 Schorles **5,50€**
 Boissons pétillantes aux fruits issus de l’agriculture biologique
-(au choix : Limonade, menthe, rhubarbe, citron fringuant)
+(au choix : Limonade, menthe, citron fringuant)
 
 **Oma Frida** 
 Cuvée N3 - Pétillant naturel sans alcool - Chardonnay, verjus, infusions florales
@@ -58,7 +59,6 @@ Cuvée N3 - Pétillant naturel sans alcool - Chardonnay, verjus, infusions flora
 **Douze Boisson pétillante** **6€**
 Canette 25cl 
 - Abricot & Zaatar
-- Orange Sanguine & Piment
 - Poire & Anis 
 
 **Implosion To ol** **5€**
@@ -106,6 +106,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## ALSACE
 - Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€** 
 - Yann Durmann 2022 - Noctambule - Pinot noir, pinot gris **39€**
+- Pet'Gab 2024 - Pinot, auxerois - Les Jardins En-Chantants **40€**
 
 ## LOIRE 
 - Moussamoussettes Pét Nat Rosé 2024 - Grolleau noir, cabernet franc, pineau d'aunis - **40€**
@@ -118,9 +119,9 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### ALSACE 
 - **Pépin Blanc** - Riesling, pinot blanc 2024 **36€**
-- **Yann Durmann** - Riesling sur schistes Rabbari 2024 **39€**
+- **Bourrach** - Pinot, auxerrois' chardonnay **40€** 
 - **Yann Durmann** - Sylvaner 2024 **39€** 
-- **La mi fa** - Domaine du petit bouchon - Sylvaner **40€**
+
 
 ### ARDECHE 
 - **Les Bois Perdus** - Illuminée 2024 - Chardonnay **39€**
@@ -157,7 +158,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 ## Oranges 75cl
 
 ### ALSACE
-- **La Mi Fa** - Domaine du petit bouchon - Vincent Larcelet - Sylavner, muscat **40€**
+- **Gniff** - Les jardins en-chantants - Gewurztraminer, muscat, pinot gris, riesling **40€**
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **Non disponible**
 - **Pépin Orange** - Gewurztraminer **38€** 
