@@ -137,7 +137,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 -  **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl)
 
 ### LOIRE
-- **P'tit Vaillant Blanc** - Domaine Vaillant - Blanc de noirs - Grolleau, Cabernet franc **35€**
+- **Pineau de Loire** - Chenin **37€** 
 - **La Varenne du poirier** - Domaine Vaillant - Chenin **42€** 
   
 ### GRECE
@@ -190,6 +190,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### ARDECHE 
 - **Maud Adnot** - Pomelos - Merlot - **37€**
+- **Le Mazel** - Cuvée Paulou - **35€** 
 
 ### AUVERGNE
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
@@ -215,7 +216,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€**
-- **Daomaine Cotzé** - Riptide 2023 - Carignan Muscat Syrah **41€** 
+- **Daomaine Cotzé** - Riptide 2023 - Carignan Muscat Syrah **41€**
+- **Pointe Rouge** - Domaine Réveille - Carignan, grenache **40€**
 
 ### SAVOIE
 - **JY Peron** - Champ levat - 2020 - Mondeuse - **66€**
