@@ -158,12 +158,14 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ## Oranges 75cl
 
-### ALSACE
-- **Nicolas chemarin** - Hors Zone - Muscat, chardonnay **38€** 
+### ALSACE 
 - **Gniff** - Les jardins en-chantants - Gewurztraminer, muscat, pinot gris, riesling **40€**
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **Non disponible** 
-- **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl) 
+- **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
+
+### BEAUJOLAIS 
+- **Nicolas chemarin** - Hors Zone - Muscat, chardonnay **38€** 
 
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **77 €**
