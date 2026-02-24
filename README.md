@@ -148,6 +148,7 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 
 ### ROUSSILLON 
 - **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **80€** (MAGNUM 150cl)
+- **Domaine Réveille** - Carpé 2021 - Grenache gris, muscat petit grain **39€**
 
 ### SAVOIE 
 - **Cairn** - Guillaume Cancelloni - Savoie AOP - Jacquère **43€**
