@@ -198,9 +198,8 @@ Canette 33cl, Bière sans alcool aux arômes floraux et fruités
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
-
-### LANGUEDOC 
-- **Souriez** Kohki Iwita - Syrah **35€**
+- **François Ecot** - Bourgogne - L'insolent - Pinot d'aunis, pinot noir - **46€**
+- **François Ecot** - Bourgogne - La Fronde - Pinot d'aunis' gamay - **43€** 
 
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
