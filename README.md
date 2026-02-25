@@ -64,11 +64,6 @@ Canette 25cl
 **Implosion To ol** **5€**
 Canette 33cl, Bière sans alcool aux arômes floraux et fruités 
 
-## Bières
-
-**Popihn Pils** 33cl **6,50€**
-Légère, rafraîchissante, amertume modérée, arôme herbacée
-
 ## Vins au verre
 
 ## Vermouth Cocktail 
@@ -79,8 +74,8 @@ Légère, rafraîchissante, amertume modérée, arôme herbacée
 - Guillaume Cancelloni - Savoie - Grenache - Tanins moyen, fruit noir  **8€** 
   
 ### Blancs
-- P'tit grobis - Nicolas Chemarin - Beaujolais - Chardonnay **8€**
-- Vaillant blanc - Domaine Vaillant - Loire - Blanc de noir - Groslot, cabernet **7,50€**
+- Carpe - Domaine Réveille - Côtes Catalanes- Grenache gris, muscat petit grain **8€**
+- Nedjma - Le Raisin et l'ange - Sauvignon, chardonnay, roussanne, grenache blanc - **8€**
   
 ### Orange
 - Nicolas Chemarin - Beaujolais - Languedoc - Hors zone - Macération de muscat, presse direct de chardonnay (Vin à la tireuse)  **8€**
