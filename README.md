@@ -70,7 +70,7 @@ Canette 33cl, Bière sans alcool aux arômes floraux et fruités
 - Vermouth rouge, eau pétillante **7€**
 
 ### Rouges
-- Les 2 Fauves - Ardèche - Gamay- léger  **7,50€**
+- Domaine Vaillant - Groslot - Notes de fruits rouges, grande buvabilité  **7,50€**
 - Guillaume Cancelloni - Savoie - Grenache - Tanins moyen, fruit noir  **8€** 
   
 ### Blancs
