@@ -192,9 +192,6 @@ Canette 33cl, Bière sans alcool aux arômes floraux et fruités
 - **Tomomoto** - Cueillette Sauvage 2023 - Gamay **44€**
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
 
-### BEAUJOLAIS
-- **Les 2 Fauves** - Gamé Hamé Ha - Ardèche **35€**
-
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
 - **François Ecot** - Bourgogne - L'insolent - Pinot d'aunis, pinot noir - **46€**
