@@ -81,7 +81,7 @@ Canette 33cl, Bière sans alcool aux arômes floraux et fruités
 - Nicolas Chemarin - Beaujolais - Languedoc - Hors zone - Macération de muscat, presse direct de chardonnay (Vin à la tireuse)  **8€**
   
 ### Pétillant 
-- Famille Vaillant - Bulle Nature 2023 - Chenin, groslot gris, cabernet franc' chardonnay  **8€** 
+- Famille Vaillant - Bulle Nature 2023 - Chenin, groslot gris, cabernet franc chardonnay  **8€** 
 
 [haut de page](#menu)
 
@@ -113,13 +113,12 @@ Canette 33cl, Bière sans alcool aux arômes floraux et fruités
 ## Blancs 75cl
 
 ### ALSACE 
-- **Pépin Blanc** - Riesling, pinot blanc 2024 **36€**
 - **Bourrach** - Pinot, auxerrois' chardonnay **40€** 
 - **Yann Durmann** - Sylvaner 2024 **39€** 
 
-
 ### ARDECHE 
 - **Les Bois Perdus** - Illuminée 2024 - Chardonnay **39€**
+- **Nedjma** - Le Raisin est l'ange 2023 - Sauvignon blanc, Chardonnay, Roussanne, Grenache blanc **40€**
 
 ### BEAUJOLAIS 
 - **P'tit grobis** - Nicolas Chemarin - Chardonnay **41€**
