@@ -58,7 +58,6 @@ Cuvée N3 - Pétillant naturel sans alcool - Chardonnay, verjus, infusions flora
 
 **Douze Boisson pétillante** **6€**
 Canette 25cl 
-- Abricot & Zaatar
 - Poire & Anis 
 
 **Implosion To ol** **5€**
@@ -78,10 +77,10 @@ Canette 33cl, Bière sans alcool aux arômes floraux et fruités
 - Nedjma - Le Raisin et l'ange - Sauvignon, chardonnay, roussanne, grenache blanc - **8€**
   
 ### Orange
-- Nicolas Chemarin - Beaujolais - Languedoc - Hors zone - Macération de muscat, presse direct de chardonnay (Vin à la tireuse)  **8€**
+- Vincent Larcelet - Alsace - Mañana - Pinot noir, gewurztraminer  **8€**
   
 ### Pétillant 
-- Famille Vaillant - Bulle Nature 2023 - Chenin, groslot gris, cabernet franc chardonnay  **8€** 
+- Kadodépart - Kohki Iwata - Languedoc - Mourvedre, carignan, grenache gris  **8€** 
 
 [haut de page](#menu)
 
@@ -102,10 +101,6 @@ Canette 33cl, Bière sans alcool aux arômes floraux et fruités
 - Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€** 
 - Yann Durmann 2022 - Noctambule - Pinot noir, pinot gris **39€**
 - Pet'Gab 2024 - Pinot, auxerois - Les Jardins En-Chantants **40€**
-
-## LOIRE 
-- Moussamoussettes Pét Nat Rosé 2024 - Grolleau noir, cabernet franc, pineau d'aunis - **40€**
-- Bulle Nature - Domaine Vaillant - Chenin, groslot gris, cabernet franc **39€**
 
 ## ROUSSILLON 
 - Kadodépart Pét Nat 2024 - Mourvedre, carignan, grenache gris **39€** 
@@ -159,7 +154,7 @@ Canette 33cl, Bière sans alcool aux arômes floraux et fruités
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
 
 ### BEAUJOLAIS 
-- **Nicolas chemarin** - Hors Zone - Muscat, chardonnay **38€** 
+- **Nicolas chemarin** - Hors Zone - Muscat, chardonnay **38€** **Non disponible**
 
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **77 €**
