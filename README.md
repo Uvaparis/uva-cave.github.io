@@ -62,7 +62,7 @@ _Des allergies ? Prévenez-nous :) _
 **Implosion To ol** **5€**
 - Bière sans alcool aux arômes floraux et fruités, canette 33cl 
 
-## Bières en bouteille 
+## Bières 
 **Brasserie Popihn** en bouteille **6,50€**
 - Icauna Pale Ale 
 - Pils 
