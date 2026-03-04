@@ -50,10 +50,8 @@ _Des allergies ? Prévenez-nous :) _
 - Schorles, Boissons pétillantes aux fruits issus de l’agriculture biologique
 (au choix : Limonade, menthe, rhubarbe, citron fringuant), bouteille 33cl 
 
-**Oma Frida** 
+**Oma Frida** au verre **6,50€** en bouteille **26€**
 - Pétillant naturel sans alcool, Chardonnay, verjus, infusions florales
-- au verre **6,50€**
-- en bouteille **26€**
 
 **ÙMA** **5,50€**
 - Ginger Beer, Infusion pétillante de racines de gingembre, bouteille 33cl
