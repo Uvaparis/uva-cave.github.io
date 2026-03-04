@@ -126,6 +126,8 @@ _Des allergies ? Prévenez-nous :) _
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €**
 
 ### JURA
+-  **L'oiseau rôdeur** - Marie & Thomas - Jours Brumeux 2023 - Chardonnay, savagnin **54€**
+-  **L'oiseau rôdeur** - Marie & Thomas - Parade 2024 - Savagnin **58€**
 -  **Christelle et Gilles Wicky** - Côtes du Jura - Appellation côtes du Jura Controlée - Chardonnay **55€** 
 -  **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl)
 
@@ -193,7 +195,11 @@ _Des allergies ? Prévenez-nous :) _
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
 - **François Ecot** - Bourgogne - L'insolent - Pinot d'aunis, pinot noir - **46€**
-- **François Ecot** - Bourgogne - La Fronde - Pinot d'aunis, gamay - **43€** 
+- **François Ecot** - Bourgogne - La Fronde - Pinot d'aunis, gamay - **43€**
+
+### JURA 
+- **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **50€**
+- **L'oiseau rôdeur** - Marie & Thomas - Eau fugitive 2024 - Poulsard **55€**
 
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
