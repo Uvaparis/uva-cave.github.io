@@ -54,7 +54,10 @@ Boissons pétillantes aux fruits issus de l’agriculture biologique
 **Oma Frida** 
 Cuvée N3 - Pétillant naturel sans alcool - Chardonnay, verjus, infusions florales
 - au verre **6,50€**
-- en bouteille **26€** 
+- en bouteille **26€**
+
+**ÙMA** 
+- Ginger Beer, Infusion pétillante de racines de gingembre **5,50€**
 
 **Douze Boisson pétillante** **6€**
 Canette 25cl 
@@ -62,6 +65,12 @@ Canette 25cl
 
 **Implosion To ol** **5€**
 Canette 33cl, Bière sans alcool aux arômes floraux et fruités 
+
+## Bières 
+**Brasserie Popihn** 
+Bouteille 33cl 
+- Icauna Pale Ale **6,50€**
+- Pils **6,50€** 
 
 ## Vins au verre
 
