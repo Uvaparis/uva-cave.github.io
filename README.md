@@ -47,8 +47,8 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Soft
 **Les filles de l’ouest** **5,50€**
-- Schorles 33cl Boissons pétillantes aux fruits issus de l’agriculture biologique
-(au choix : Limonade, menthe, citron fringuant)
+- Schorles, Boissons pétillantes aux fruits issus de l’agriculture biologique
+(au choix : Limonade, menthe, rhubarbe, citron fringuant), bouteille 33cl 
 
 **Oma Frida** 
 - Pétillant naturel sans alcool, Chardonnay, verjus, infusions florales
