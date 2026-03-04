@@ -63,7 +63,7 @@ _Des allergies ? Prévenez-nous :) _
 - Bière sans alcool aux arômes floraux et fruités, canette 33cl 
 
 ## Bières en bouteille 
-**Brasserie Popihn** **6,50€**
+**Brasserie Popihn** en bouteille **6,50€**
 - Icauna Pale Ale 
 - Pils 
 
