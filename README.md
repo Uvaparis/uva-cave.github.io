@@ -46,31 +46,28 @@ _Des allergies ? Prévenez-nous :) _
 # Carte des Softs, Bières et Vins
 
 ## Soft
-**Les filles de l’ouest** 33cl 
-Schorles **5,50€**
-Boissons pétillantes aux fruits issus de l’agriculture biologique
+**Les filles de l’ouest** **5,50€**
+- Schorles 33cl Boissons pétillantes aux fruits issus de l’agriculture biologique
 (au choix : Limonade, menthe, citron fringuant)
 
 **Oma Frida** 
-Cuvée N3 - Pétillant naturel sans alcool - Chardonnay, verjus, infusions florales
+- Pétillant naturel sans alcool, Chardonnay, verjus, infusions florales
 - au verre **6,50€**
 - en bouteille **26€**
 
-**ÙMA** 
-- Ginger Beer, Infusion pétillante de racines de gingembre **5,50€**
+**ÙMA** **5,50€**
+- Ginger Beer, Infusion pétillante de racines de gingembre, bouteille 33cl
 
 **Douze Boisson pétillante** **6€**
-Canette 25cl 
-- Poire & Anis 
+- Poire & Anis, canette 33cl 
 
 **Implosion To ol** **5€**
-Canette 33cl, Bière sans alcool aux arômes floraux et fruités 
+- Bière sans alcool aux arômes floraux et fruités, canette 33cl 
 
-## Bières 
-**Brasserie Popihn** 
-Bouteille 33cl 
-- Icauna Pale Ale **6,50€**
-- Pils **6,50€** 
+## Bières en bouteille 
+**Brasserie Popihn** **6,50€**
+- Icauna Pale Ale 
+- Pils 
 
 ## Vins au verre
 
