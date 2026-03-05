@@ -62,6 +62,9 @@ _Des allergies ? Prévenez-nous :) _
 **Implosion To ol** **5€**
 - Bière sans alcool aux arômes floraux et fruités, canette 33cl
 
+**San Pellegrino** **4€**
+- Eau pétillante, 33cl 
+
 **Abatilles** **7€**
 - Eau minérale naturelle Arcachon, 75cl
 
