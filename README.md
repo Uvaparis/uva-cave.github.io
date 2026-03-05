@@ -80,7 +80,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Rouges
 - Domaine Vaillant - Groslot - Notes de fruits rouges, grande buvabilité  **7,50€**
-- Guillaume Cancelloni - Savoie - Grenache - Tanins moyen, fruit noir  **8€** 
+- Cabosse - Florence et damien - Ardèche - Grenache noir - Tannins fondus  **8€** 
   
 ### Blancs
 - Carpe - Domaine Réveille - Côtes Catalanes- Grenache gris, muscat petit grain **8€**
