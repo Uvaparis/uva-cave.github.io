@@ -66,7 +66,7 @@ _Des allergies ? Prévenez-nous :) _
 - Eau pétillante, 33cl 
 
 **Abatilles** **7€**
-- Eau minérale naturelle Arcachon, 75cl
+- Eau minérale pétillante naturelle Arcachon, 75cl
 
 ## Bières 
 **Brasserie Popihn** en bouteille **6,50€**
@@ -160,6 +160,8 @@ _Des allergies ? Prévenez-nous :) _
 ## Oranges 75cl
 
 ### ALSACE 
+- **Achillé** - Alsace Macéré 2025 - Pinot blanc, gewurztraminer, pinot gris **38€**
+- **Pépin Orange** - Auxerrois, Sylvaner, muscat, gewurztraminer **38€**
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **Non disponible** 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
