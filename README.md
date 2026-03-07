@@ -84,7 +84,7 @@ _Des allergies ? Prévenez-nous :) _
   
 ### Blancs
 - Carpe - Domaine Réveille - Côtes Catalanes- Grenache gris, muscat petit grain **8€**
-- Nedjma - Le Raisin et l'ange - Sauvignon, chardonnay, roussanne, grenache blanc - **8€**
+- Vincent Larcelet - Cuvée Agathe - Alsace - Sylvaner - **8€**
   
 ### Orange
 - Vincent Larcelet - Alsace - Mañana - Pinot noir, gewurztraminer  **8€**
