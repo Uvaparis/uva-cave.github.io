@@ -34,7 +34,6 @@ Bouteilles (75cl):
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
 - Boeuf séché **10€**
 - Saucisson de l'Aveyron **7,5 €**
-- Chorizo picante **7,5€**
 - Coppa Artisanale **9,50€**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
 - Assiette mixte, fromages et charcuteries du moment **26€**
@@ -79,12 +78,12 @@ _Des allergies ? Prévenez-nous :) _
 - Vermouth rouge, eau pétillante **7€**
 
 ### Rouges
-- Domaine Vaillant - Groslot - Notes de fruits rouges, grande buvabilité  **7,50€**
-- Cabosse - Florence et damien - Ardèche - Grenache noir - Tannins fondus  **8€** 
+- Pointe Rouge - France Crispeels - AOP Côtes du Roussillon **8€**
+- Adonis - Renaud Guettier - Loire - Pineau d'aunis  **8,50€**
   
 ### Blancs
 - Carpe - Domaine Réveille - Côtes Catalanes- Grenache gris, muscat petit grain **8€**
-- Vincent Larcelet - Cuvée Agathe - Alsace - Sylvaner - **8€**
+- Vincent Larcelet - Cuvée Agathe - Alsace - Sylvaner - **7€**
   
 ### Orange
 - Vincent Larcelet - Alsace - Mañana - Pinot noir, gewurztraminer  **8€**
