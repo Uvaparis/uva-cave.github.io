@@ -196,7 +196,6 @@ _Des allergies ? Prévenez-nous :) _
 ### AUVERGNE
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
 - **Antonin Azzoni** - Le raisin et l'ange - Syrah, grenache **39€**
-- **Tomomoto** - Cueillette Sauvage 2023 - Gamay **44€**
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
 
 ### BOURGOGNE
@@ -213,7 +212,6 @@ _Des allergies ? Prévenez-nous :) _
 - **R. Guettier** - Enchanteresse 2022 - Pineau d'aunis vieilles vignes **47€**
 - **R. Guettier** - Adonis 2024 - Pineau d'aunis jeunes vignes **41€** 
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
-- **Chin-chin** - Domaine Perrault-Jadaud - 2023 - Côt, chenin - **39€**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€**
