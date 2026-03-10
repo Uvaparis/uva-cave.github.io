@@ -137,7 +137,6 @@ _Des allergies ? Prévenez-nous :) _
 -  **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl)
 
 ### LOIRE
-- **Pineau de Loire** - Chenin **37€** 
 - **La Varenne du poirier** - Domaine Vaillant - Chenin **42€** 
   
 ### GRECE
@@ -148,7 +147,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ROUSSILLON 
 - **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **80€** (MAGNUM 150cl)
-- **Domaine Réveille** - Carpé 2021 - Grenache gris, muscat petit grain **39€**
+- **Domaine Réveille** - Phosphore - Muscat petit grain, grenache gris **39€**
 
 ### SAVOIE 
 - **Cairn** - Guillaume Cancelloni - Savoie AOP - Jacquère **43€**
