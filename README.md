@@ -82,7 +82,7 @@ _Des allergies ? Prévenez-nous :) _
 - Adonis - Renaud Guettier - Loire - Pineau d'aunis  **8,50€**
   
 ### Blancs
-- Carpe - Domaine Réveille - Côtes Catalanes- Grenache gris, muscat petit grain **8€**
+- Phosphore - Domaine Réveille - Côtes Catalanes- Muscat petit grain, carignan blanc **8€**
 - Vincent Larcelet - Cuvée Agathe - Alsace - Sylvaner - **7€**
   
 ### Orange
