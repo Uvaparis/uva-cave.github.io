@@ -34,7 +34,6 @@ Bouteilles (75cl):
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
 - Boeuf séché **10€**
 - Saucisson de l'Aveyron **7,5 €**
-- Coppa Artisanale **9,50€**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
 - Assiette mixte, fromages et charcuteries du moment **26€**
 
