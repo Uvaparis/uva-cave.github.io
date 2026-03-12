@@ -86,7 +86,7 @@ _Des allergies ? Prévenez-nous :) _
 - Vincent Larcelet - Cuvée Agathe - Alsace - Sylvaner - **7€**
   
 ### Orange
-- Vincent Larcelet - Alsace - Mañana - Pinot noir, gewurztraminer  **8€**
+- Domaine Achillée - Alsace Macéré - Pinot blanc, gewurztraminer, pinot gris, sylvaner  **8€**
   
 ### Pétillant 
 - Kadodépart - Kohki Iwata - Languedoc - Mourvedre, carignan, grenache gris  **8€** 
