@@ -171,6 +171,9 @@ _Des allergies ? Prévenez-nous :) _
 ### BEAUJOLAIS 
 - **Nicolas chemarin** - Hors Zone - Muscat, chardonnay **38€** **Non disponible**
 
+### LOIRE 
+**Maison Brûlées** - Silène 2024 - Chenin **40€**
+
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **77 €**
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **90 €**
