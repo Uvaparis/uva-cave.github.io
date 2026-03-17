@@ -92,9 +92,10 @@ _Des allergies ? Prévenez-nous :) _
 
 [haut de page](#menu)
 
-## Cidres
+## Cidres & Poiré 
 ### SAVOIE
 - Fermintmel - Cidre Extra-Brut "Wider en Chautagne" 2023 - Co-fermentation de reinette grise et de marcs de mondeuse **26€**
+- Les Invincidres - Cidre Extra-Brut 2023 - Pommes récoltées chez Terrence à Bel-Air **26€** 
 
 - Poiré demi sec, melange Cressane, Conférence et Louise Bonne **26€**
 
