@@ -111,6 +111,9 @@ _Des allergies ? Prévenez-nous :) _
 - Yann Durmann 2022 - Noctambule - Pinot noir, pinot gris **39€**
 - Pet'Gab 2024 - Pinot, auxerois - Les Jardins En-Chantants **40€**
 
+## LOIRE
+- Domaine Vaillant - Bulle Nature 2023 - Chenin, chardonnay **39€**
+
 ## ROUSSILLON 
 - Kadodépart Pét Nat 2024 - Mourvedre, carignan, grenache gris **39€** 
 
@@ -122,7 +125,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ARDECHE 
 - **Les Bois Perdus** - Illuminée 2024 - Chardonnay **39€**
-- **Nedjma** - Le Raisin est l'ange 2023 - Sauvignon blanc, Chardonnay, Roussanne, Grenache blanc **40€**
 
 ### BEAUJOLAIS 
 - **P'tit grobis** - Nicolas Chemarin - Chardonnay **41€**
@@ -137,7 +139,9 @@ _Des allergies ? Prévenez-nous :) _
 -  **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl)
 
 ### LOIRE
-- **La Varenne du poirier** - Domaine Vaillant - Chenin **42€** 
+- **La Varenne du poirier** - Domaine Vaillant - Chenin **42€**
+- **Le P'tit Vaillant** - Domaine Vaillant - Blanc de noir - Groslot, cabernet **35€**
+- **Pineau de Loère** - Domaine Vaillant - Chenin **37€** 
   
 ### GRECE
 - **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **45€**
