@@ -81,8 +81,8 @@ _Des allergies ? Prévenez-nous :) _
 - Adonis - Renaud Guettier - Loire - Pineau d'aunis  **8,50€**
   
 ### Blancs
-- Phosphore - Domaine Réveille - Côtes Catalanes- Muscat petit grain, carignan blanc **8€**
-- Vincent Larcelet - Cuvée Agathe - Alsace - Sylvaner - **7€**
+- Bourrach'- Alsace - Les jardins en-chantants - Pinot, auxerrois, chardonnay - **8,50€**
+- P'tit Vaillant Blanc - Loire - Domaine Vaillant - Groslot, cabernet **7,50€**
   
 ### Orange
 - Domaine Achillée - Alsace Macéré - Pinot blanc, gewurztraminer, pinot gris, sylvaner  **8€**
