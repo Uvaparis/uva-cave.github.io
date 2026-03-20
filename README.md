@@ -77,8 +77,8 @@ _Des allergies ? Prévenez-nous :) _
 - Vermouth rouge, eau pétillante **7€**
 
 ### Rouges
-- Pointe Rouge - France Crispeels - AOP Côtes du Roussillon **8€**
-- Adonis - Renaud Guettier - Loire - Pineau d'aunis  **8,50€**
+- Pointe Rouge - France Crispeels - AOP Côtes du Roussillon - Carignan, grenache **8€**
+- Mamour - Nicolas chemarin - Beaujolais - Gamay  **7,50€**
   
 ### Blancs
 - Bourrach'- Alsace - Les jardins en-chantants - Pinot, auxerrois, chardonnay - **8,50€**
