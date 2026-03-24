@@ -55,7 +55,9 @@ _Des allergies ? Prévenez-nous :) _
 - Ginger Beer, Infusion pétillante de racines de gingembre, bouteille 33cl
 
 **Douze Boisson pétillante** **6€**
-- Poire & Anis, canette 33cl 
+- Poire & Anis, canette 33cl
+- Abricot Zaatar, canette 33cl
+- Orange Sanguine, canette 33cl
 
 **Implosion To ol** **5€**
 - Bière sans alcool aux arômes floraux et fruités, canette 33cl
@@ -78,7 +80,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Rouges
 - Pointe Rouge - France Crispeels - AOP Côtes du Roussillon - Carignan, grenache **8€**
-- Mamour - Nicolas chemarin - Beaujolais - Gamay  **7,50€**
+- Mamour - Nicolas chemarin - Beaujolais - Gamay  **8€**
   
 ### Blancs
 - Bourrach'- Alsace - Les jardins en-chantants - Pinot, auxerrois, chardonnay - **8,50€**
