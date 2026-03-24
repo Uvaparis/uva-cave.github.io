@@ -56,11 +56,8 @@ _Des allergies ? Prévenez-nous :) _
 
 **Douze Boisson pétillante** **6€**
 - Poire & Anis, canette 33cl
-- Abricot Zaatar, canette 33cl
-- Orange Sanguine, canette 33cl
-
-**Implosion To ol** **5€**
-- Bière sans alcool aux arômes floraux et fruités, canette 33cl
+- Abricot Zaatar, canette 33cl disponible en bouteille 75cl **26€**
+- Orange Sanguine, canette 33cl disponible en bouteille 75cl **26€**
 
 **San Pellegrino** **4€**
 - Eau pétillante, 33cl 
@@ -166,7 +163,7 @@ _Des allergies ? Prévenez-nous :) _
 ### ALSACE 
 - **Achillé** - Alsace Macéré 2025 - Pinot blanc, gewurztraminer, pinot gris **38€**
 - **Pépin Orange** - Auxerrois, Sylvaner, muscat, gewurztraminer **38€**
-- **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
+- **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **Non disponible**
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **Non disponible** 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
 
@@ -195,7 +192,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Rouges 75cl
 
 ### ALSACE 
-- **Domaine Einhart** - Albermohn 2023 - Alsace - Pinot noir **40€**
+- **Domaine Einhart** - Albermohn 2023 - Alsace - Pinot noir **Non disponible**
 
 ### ARDECHE 
 - **Maud Adnot** - Pomelos - Merlot - **37€**
@@ -205,6 +202,9 @@ _Des allergies ? Prévenez-nous :) _
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
 - **Antonin Azzoni** - Le raisin et l'ange - Syrah, grenache **39€**
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
+
+### BEAUJOLAIS 
+- **Seins Mamour** - Nicolas Chemarin 2023 - Gamay **39€** 
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
