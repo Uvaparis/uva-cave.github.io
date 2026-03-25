@@ -76,7 +76,7 @@ _Des allergies ? Prévenez-nous :) _
 - Vermouth rouge, eau pétillante **7€**
 
 ### Rouges
-- Pointe Rouge - France Crispeels - AOP Côtes du Roussillon - Carignan, grenache **8€**
+- Souriez - WA SUD - Roussillon -  Syrah  **8€**
 - Mamour - Nicolas chemarin - Beaujolais - Gamay  **8€**
   
 ### Blancs
@@ -109,6 +109,7 @@ _Des allergies ? Prévenez-nous :) _
 - Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€** 
 - Yann Durmann 2022 - Noctambule - Pinot noir, pinot gris **39€**
 - Pet'Gab 2024 - Pinot, auxerois - Les Jardins En-Chantants **40€**
+- Kadodépart 2024 - WA SUD - Roussillon - Mourvedre, carignan, grenache gris **38€**
 
 ## LOIRE
 - Domaine Vaillant - Bulle Nature 2023 - Chenin, chardonnay **39€**
@@ -124,6 +125,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ARDECHE 
 - **Les Bois Perdus** - Illuminée 2024 - Chardonnay **39€**
+- **Nedjma** - Le raisin et l'ange - 2023 - Sauvignon, chardonnay, roussanne, grenache blanc **38€** 
 
 ### BEAUJOLAIS 
 - **P'tit grobis** - Nicolas Chemarin - Chardonnay **41€**
@@ -166,6 +168,9 @@ _Des allergies ? Prévenez-nous :) _
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **Non disponible**
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **Non disponible** 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
+
+## ARDECHE 
+- **Embuscade** - Les 2 Fauves - Macération légère **36€**
 
 ### BEAUJOLAIS 
 - **Nicolas chemarin** - Hors Zone - Muscat, chardonnay **38€** **Non disponible**
