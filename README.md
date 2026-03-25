@@ -125,7 +125,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ARDECHE 
 - **Les Bois Perdus** - Illuminée 2024 - Chardonnay **39€**
-- **Nedjma** - Le raisin et l'ange - 2023 - Sauvignon, chardonnay, roussanne, grenache blanc **38€** 
+- **Nedjma** - Le raisin et l'ange - 2023 - Sauvignon, chardonnay, roussanne, grenache blanc **38€**
 
 ### BEAUJOLAIS 
 - **P'tit grobis** - Nicolas Chemarin - Chardonnay **41€**
@@ -152,7 +152,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ROUSSILLON 
 - **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **80€** (MAGNUM 150cl)
-- **Domaine Réveille** - Phosphore - Muscat petit grain, grenache gris **39€**
 
 ### SAVOIE 
 - **Cairn** - Guillaume Cancelloni - Savoie AOP - Jacquère **43€**
@@ -200,8 +199,10 @@ _Des allergies ? Prévenez-nous :) _
 - **Domaine Einhart** - Albermohn 2023 - Alsace - Pinot noir **Non disponible**
 
 ### ARDECHE 
-- **Maud Adnot** - Pomelos - Merlot - **37€**
-- **Le Mazel** - Cuvée Paulou - **35€** 
+- **Maud Adnot** - Pomelos - Merlot - **38€**
+- **Le Mazel** - Cuvée Paulou - **35€**
+- **Le Vin de Pauzes** - Nour - Grenache noir **41€**
+- **Le Vin des Pauzes** - Cabosse - Syrah, viognier **41€**
 
 ### AUVERGNE
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
@@ -227,9 +228,7 @@ _Des allergies ? Prévenez-nous :) _
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
   
 ### PYRÉNÉES-ORIENTALES
-- **Domaine Cotzé** - Transhumancia rouge 2023 - Carignan noir et Grenache - **43€**
-- **Daomaine Cotzé** - Riptide 2023 - Carignan Muscat Syrah **41€**
-- **Pointe Rouge** - Domaine Réveille - Carignan, grenache **40€**
+- **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl) 
 
 ### SAVOIE
 - **JY Peron** - Champ levat - 2020 - Mondeuse - **66€**
