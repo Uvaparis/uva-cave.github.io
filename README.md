@@ -24,6 +24,7 @@ Bouteilles (75cl):
 **Fromages / Cheese**
 (servis avec huile d'olive & poivre)
 - Brillat Savarin **10€**
+- Comté Marcel Petite Jura **10€**
 - Tomme de brebis caussenarde **9€**
 - Saint-Nectaire **9€** 
 - Assiette de fromages et charcuteries du moment **26€**
@@ -75,15 +76,15 @@ _Des allergies ? Prévenez-nous :) _
 - Vermouth rouge, eau pétillante **7€**
 
 ### Rouges
-- Souriez - WA SUD - Roussillon -  Syrah  **8€**
+- WA SUD - Roussillon -  Syrah  **8€**
 - Mamour - Nicolas chemarin - Beaujolais - Gamay  **8€**
   
 ### Blancs
-- Bourrach'- Alsace - Les jardins en-chantants - Pinot, auxerrois, chardonnay - **8,50€**
+- Nedjma - Le raisin et l'ange - Ardèche - Chardonnay, sauvignon blanc - **8€**
 - P'tit Vaillant Blanc - Loire - Domaine Vaillant - Groslot, cabernet **7,50€**
   
 ### Orange
-- Domaine Achillée - Alsace Macéré - Pinot blanc, gewurztraminer, pinot gris, sylvaner  **8€**
+- Domaine Einhart - Alsace - Le P'tit Orange - gewurztraminer, pinot gris **8€** (Vin à la tireuse) 
   
 ### Pétillant 
 - Kadodépart - Kohki Iwata - Languedoc - Mourvedre, carignan, grenache gris  **8€** 
