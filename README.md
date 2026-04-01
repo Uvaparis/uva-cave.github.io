@@ -140,7 +140,7 @@ _Des allergies ? Prévenez-nous :) _
 -  **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl)
 
 ### LOIRE
-- **La Varenne du poirier** - Domaine Vaillant - Chenin **42€**
+- **Antoine Delaunay** - Melon et meleche 2025 - Melon de bourgogne **35€** 
 - **Le P'tit Vaillant** - Domaine Vaillant - Blanc de noir - Groslot, cabernet **35€**
 - **Pineau de Loère** - Domaine Vaillant - Chenin **37€** 
   
@@ -149,6 +149,9 @@ _Des allergies ? Prévenez-nous :) _
 
 ### HONGRIE
 - **Istvan Bencze** - Riesling - 2020 **58 €**
+
+### RHONE 
+- **Petit oratoire x Iroma** - Plein sud 2024 - Grenache blanc, clairette, viognier **35€**
 
 ### ROUSSILLON 
 - **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **80€** (MAGNUM 150cl)
