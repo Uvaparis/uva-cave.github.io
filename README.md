@@ -77,7 +77,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Rouges
 - WA SUD - Roussillon -  Syrah  **8€**
-- Mamour - Nicolas chemarin - Beaujolais - Gamay  **8€**
+- P'tit Grobis - Nicolas chemarin - Beaujolais - Gamay  **8€**
   
 ### Blancs
 - Nedjma - Le raisin et l'ange - Ardèche - Chardonnay, sauvignon blanc - **8€**
@@ -167,6 +167,9 @@ _Des allergies ? Prévenez-nous :) _
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **Non disponible**
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **Non disponible** 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
+
+## ALLEMAGNE 
+- **Kuve Kolletkiv** - AOP Rheinhessen - 2023 - Bacchus, Riesling en macération 7 jours - Vif, notes d'agrumes **39€**
 
 ## ARDECHE 
 - **Embuscade** - Les 2 Fauves - Macération légère **36€**
