@@ -181,11 +181,14 @@ _Des allergies ? Prévenez-nous :) _
 **Maison Brûlées** - Silène 2024 - Chenin **40€**
 
 ### RHONE
-**Domaine du petit oratoire** - Sacha 2025 - Clairette, roussanne, cinsault, grenache noir - Macération de 15 jours **36€** **Non disponible** 
+**Domaine du petit oratoire** - Sacha 2025 - Clairette, roussanne, cinsault, grenache noir - Macération de 15 jours, frais, arômes d'abricot et de fleurs séchées **36€** **Non disponible** 
 
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **77 €**
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **90 €**
+
+### ESPAGNE 
+- **Giulio & Gaia** - Rimmel - 2024 - Macabeo, muscat d'alexandrie légère macération **36€**
 
 ### ITALIE
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - Moelleux, fruité, richesse aromatique (abricot, pêche, poire) **69€** (50cl)
