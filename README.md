@@ -164,8 +164,8 @@ _Des allergies ? Prévenez-nous :) _
 ### ALSACE 
 - **Achillé** - Alsace Macéré 2025 - Pinot blanc, gewurztraminer, pinot gris **38€**
 - **Pépin Orange** - Auxerrois, Sylvaner, muscat, gewurztraminer **38€**
-- **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **Non disponible**
-- **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **Non disponible** 
+- **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins 
+- **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
 
 ## ALLEMAGNE 
@@ -179,6 +179,9 @@ _Des allergies ? Prévenez-nous :) _
 
 ### LOIRE 
 **Maison Brûlées** - Silène 2024 - Chenin **40€**
+
+### RHONE
+**Domaine du petit oratoire** - Sacha 2025 - Clairette, roussanne, cinsault, grenache noir - Macération de 15 jours **36€** **Non disponible** 
 
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **77 €**
