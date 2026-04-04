@@ -80,8 +80,8 @@ _Des allergies ? Prévenez-nous :) _
 - P'tit Grobis - Nicolas chemarin - Beaujolais - Gamay  **8€**
   
 ### Blancs
-- Nedjma - Le raisin et l'ange - Ardèche - Chardonnay, sauvignon blanc - **8€**
-- P'tit Vaillant Blanc - Loire - Domaine Vaillant - Groslot, cabernet **7,50€**
+- Les lendemains qui chantent - Ardèche - Salut à toi - Chardonnay **8€**
+- Plein Sud - Domaine du petit oratoire - Rhône - Grenache blanc, clairette , viognier  **8€**
   
 ### Orange
 - Domaine Einhart - Alsace - Le P'tit Orange - gewurztraminer, pinot gris **8€** (Vin à la tireuse) 
