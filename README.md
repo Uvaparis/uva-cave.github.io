@@ -24,6 +24,7 @@ Bouteilles (75cl):
 **Fromages / Cheese**
 (servis avec huile d'olive & poivre)
 - Brillat Savarin **10€**
+- Burrata 250g **14€**
 - Comté Marcel Petite Jura **10€**
 - Tomme de brebis caussenarde **9€**
 - Saint-Nectaire **9€** 
