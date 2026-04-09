@@ -19,7 +19,6 @@ Bouteilles (75cl):
 
  **La Terre / The Land**
 - Olives Bella di Cerignola **4€** 
-- Houmous de pois chiche **7 €**
 
 **Fromages / Cheese**
 (servis avec huile d'olive & poivre)
