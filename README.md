@@ -76,7 +76,7 @@ _Des allergies ? Prévenez-nous :) _
 - Vermouth rouge, eau pétillante **7€**
 
 ### Rouges
-- WA SUD - Roussillon -  Syrah  **8€**
+- WA SUD - Roussillon -  Pinot, cinsault  **8€**
 - P'tit Grobis - Nicolas chemarin - Beaujolais - Gamay  **8€**
   
 ### Blancs
@@ -108,7 +108,6 @@ _Des allergies ? Prévenez-nous :) _
 ## ALSACE
 - Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€** 
 - Yann Durmann 2022 - Noctambule - Pinot noir, pinot gris **39€**
-- Pet'Gab 2024 - Pinot, auxerois - Les Jardins En-Chantants **40€**
 - Kadodépart 2024 - WA SUD - Roussillon - Mourvedre, carignan, grenache gris **38€**
 
 ## LOIRE
@@ -120,11 +119,10 @@ _Des allergies ? Prévenez-nous :) _
 ## Blancs 75cl
 
 ### ALSACE 
-- **Bourrach** - Pinot, auxerrois' chardonnay **40€** 
-- **Yann Durmann** - Sylvaner 2024 **39€** 
+- **Théo Einhart** - Théo Blanc - Pinot blanc, riesling **39€**
 
 ### ARDECHE 
-- **Les Bois Perdus** - Illuminée 2024 - Chardonnay **39€**
+- **Les lendemains qui chantent** - Salut à toi - Chardonnay **40€**
 - **Nedjma** - Le raisin et l'ange - 2023 - Sauvignon, chardonnay, roussanne, grenache blanc **38€**
 
 ### BEAUJOLAIS 
@@ -141,11 +139,9 @@ _Des allergies ? Prévenez-nous :) _
 
 ### LOIRE
 - **Antoine Delaunay** - Melon et meleche 2025 - Melon de bourgogne **35€** 
-- **Le P'tit Vaillant** - Domaine Vaillant - Blanc de noir - Groslot, cabernet **35€**
-- **Pineau de Loère** - Domaine Vaillant - Chenin **37€** 
   
 ### GRECE
-- **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **45€**
+- **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **Non disponible**
 
 ### HONGRIE
 - **Istvan Bencze** - Riesling - 2020 **58 €**
@@ -180,7 +176,7 @@ _Des allergies ? Prévenez-nous :) _
 - **Nicolas chemarin** - Hors Zone - Muscat, chardonnay **38€** **Non disponible**
 
 ### LOIRE 
-**Maison Brûlées** - Silène 2024 - Chenin **40€**
+**Maison Brûlées** - Silène 2024 - Sauvignon blanc **40€**
 
 ### RHONE
 **Domaine du petit oratoire** - Sacha 2025 - Clairette, roussanne, cinsault, grenache noir - Macération de 15 jours, frais, arômes d'abricot et de fleurs séchées **36€** **Non disponible** 
