@@ -180,7 +180,7 @@ _Des allergies ? Prévenez-nous :) _
 **Maison Brûlées** - Silène 2024 - Sauvignon blanc **40€**
 
 ### RHONE
-**Domaine du petit oratoire** - Sacha 2025 - Clairette, roussanne, cinsault, grenache noir - Macération de 15 jours, frais, arômes d'abricot et de fleurs séchées **36€** **Non disponible** 
+**Domaine du petit oratoire** - Sacha 2025 - Clairette, roussanne, cinsault, grenache noir - Macération de 15 jours, frais, arômes d'abricot et de fleurs séchées **40€**
 
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **77 €**
