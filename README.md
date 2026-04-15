@@ -27,7 +27,6 @@ Bouteilles (75cl):
 - Burrata 250g **14€**
 - Comté Marcel Petite Jura **10€**
 - Tomme de brebis caussenarde **9€**
-- Saint-Nectaire **9€** 
 - Assiette de fromages et charcuteries du moment **26€**
 
 **Viande / Meat**
