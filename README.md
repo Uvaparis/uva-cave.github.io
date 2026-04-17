@@ -45,7 +45,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Soft
 **Les filles de l’ouest** **5,50€**
 - Schorles, Boissons pétillantes aux fruits issus de l’agriculture biologique
-(au choix : Limonade, menthe, rhubarbe, citron fringuant), bouteille 33cl 
+(au choix : Limonade, menthe, citron fringuant), bouteille 33cl 
 
 **Oma Frida** au verre **6,50€** en bouteille **26€**
 - Pétillant naturel sans alcool, Chardonnay, verjus, infusions florales
@@ -70,8 +70,8 @@ _Des allergies ? Prévenez-nous :) _
 - Vermouth rouge, eau pétillante **7€**
 
 ### Rouges
-- WA SUD - Roussillon -  Pinot, cinsault  **8€**
-- Domaine Vaillant - Loire - Groslot noir  **8€**
+- Nour - Le vin des pauzes - Grenache noir  **8€**
+- Domaine Vaillant - Loire - Groslot **8€**
   
 ### Blancs
 - Théo Einhart - Alsace - Blanc - Pinot blanc **8€**
