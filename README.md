@@ -19,7 +19,6 @@ Bouteilles (75cl):
 
  **La Terre / The Land**
 - Olives Bella di Cerignola **4€**
-- Houmous **7€**
 
 **Fromages / Cheese**
 (servis avec huile d'olive & poivre)
@@ -65,11 +64,6 @@ _Des allergies ? Prévenez-nous :) _
 **Abatilles** **7€**
 - Eau minérale pétillante naturelle Arcachon, 75cl
 
-## Bières 
-**Brasserie Popihn** en bouteille **6,50€**
-- Icauna Pale Ale 
-- Pils 
-
 ## Vins au verre
 
 ## Vermouth Cocktail 
@@ -77,10 +71,10 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Rouges
 - WA SUD - Roussillon -  Pinot, cinsault  **8€**
-- P'tit Grobis - Nicolas chemarin - Beaujolais - Gamay  **8€**
+- Domaine Vaillant - Loire - Groslot noir  **8€**
   
 ### Blancs
-- Les lendemains qui chantent - Ardèche - Salut à toi - Chardonnay **8€**
+- Théo Einhart - Alsace - Blanc - Pinot blanc **8€**
 - Plein Sud - Domaine du petit oratoire - Rhône - Grenache blanc, clairette , viognier  **8€**
   
 ### Orange
