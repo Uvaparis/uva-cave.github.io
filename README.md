@@ -130,7 +130,8 @@ _Des allergies ? Prévenez-nous :) _
 -  **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl)
 
 ### LOIRE
-- **Antoine Delaunay** - Melon et meleche 2025 - Melon de bourgogne **35€** 
+- **Antoine Delaunay** - Melon et meleche 2025 - Melon de bourgogne **35€**
+- **Domaine Vaillant** - La Varrene du Poirier 2023 - Chenin **82€** (MAGNUM 150cl)
   
 ### GRECE
 - **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **Non disponible**
@@ -173,6 +174,9 @@ _Des allergies ? Prévenez-nous :) _
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **77 €**
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **90 €**
+
+### SUD OUEST 
+- **Le Petit Pertus** - Emma Jenkins - 2024 - Sémillion **39€** 
 
 ### ESPAGNE 
 - **Giulio & Gaia** - Rimmel - 2024 - Macabeo, muscat d'alexandrie légère macération **36€**
