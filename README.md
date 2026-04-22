@@ -18,12 +18,13 @@ Bouteilles (75cl):
 ## Assiettes à partager
 
  **La Terre / The Land**
-- Olives Bella di Cerignola **Non disponible**
+- Olives Bella di Cerignola **4€**
+- Houmous **7€**
 
 **Fromages / Cheese**
 (servis avec huile d'olive & poivre)
 - Brillat Savarin **10€**
-- Burrata 250g **14€**
+- Burrata 250g **12€**
 - Comté Marcel Petite Jura **10€**
 - Tomme de brebis caussenarde **9€**
 - Assiette de fromages et charcuteries du moment **26€**
@@ -49,9 +50,6 @@ _Des allergies ? Prévenez-nous :) _
 
 **Oma Frida** au verre **6,50€** en bouteille **26€**
 - Pétillant naturel sans alcool, Chardonnay, verjus, infusions florales
-
-**ÙMA** **5,50€**
-- Ginger Beer, Infusion pétillante de racines de gingembre, bouteille 33cl
 
 **Douze Boisson pétillante** **6€**
 - Poire & Anis, canette 33cl
@@ -155,7 +153,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Oranges 75cl
 
 ### ALSACE 
-- **Achillé** - Alsace Macéré 2025 - Pinot blanc, gewurztraminer, pinot gris **38€**
+- **Theo Einhart** Orange 24/25 **38€**
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins 
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
@@ -165,9 +163,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ## ARDECHE 
 - **Embuscade** - Les 2 Fauves - Macération légère **36€**
-
-### BEAUJOLAIS 
-- **Nicolas chemarin** - Hors Zone - Muscat, chardonnay **38€** **Non disponible**
 
 ### LOIRE 
 **Maison Brûlées** - Silène 2024 - Sauvignon blanc **40€**
@@ -210,13 +205,9 @@ _Des allergies ? Prévenez-nous :) _
 - **Antonin Azzoni** - Le raisin et l'ange - Syrah, grenache **39€**
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
 
-### BEAUJOLAIS 
-- **Seins Mamour** - Nicolas Chemarin 2023 - Gamay **39€** 
-
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
 - **François Ecot** - Bourgogne - L'insolent - Pinot d'aunis, pinot noir - **46€**
-- **François Ecot** - Bourgogne - La Fronde - Pinot d'aunis, gamay - **43€**
 
 ### JURA 
 - **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **50€**
@@ -224,8 +215,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
-- **R. Guettier** - Enchanteresse 2022 - Pineau d'aunis vieilles vignes **47€**
-- **R. Guettier** - Adonis 2024 - Pineau d'aunis jeunes vignes **41€** 
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
   
 ### PYRÉNÉES-ORIENTALES
