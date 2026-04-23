@@ -24,14 +24,14 @@ Bouteilles (75cl):
 **Fromages / Cheese**
 (servis avec huile d'olive & poivre)
 - Brillat Savarin **10€**
-- Burrata 250g **12€**
+- Saint-Nectaire **9€**
 - Comté Marcel Petite Jura **10€**
 - Tomme de brebis caussenarde **9€**
 - Assiette de fromages et charcuteries du moment **26€**
 
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
-- Boeuf séché **Non disponible** 
+- Boeuf séché **10€**
 - Coppa **9,50€**
 - Saucisson de l'Aveyron **7,5 €**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
