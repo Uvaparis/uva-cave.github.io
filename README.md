@@ -134,7 +134,7 @@ _Des allergies ? Prévenez-nous :) _
 - **Domaine Vaillant** - La Varrene du Poirier 2023 - Chenin **82€** (MAGNUM 150cl)
   
 ### GRECE
-- **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **Non disponible**
+- **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **45€**
 
 ### HONGRIE
 - **Istvan Bencze** - Riesling - 2020 **58 €**
@@ -200,7 +200,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ARDECHE 
 - **Maud Adnot** - Pomelos - Merlot - **38€**
-- **Le Mazel** - Cuvée Paulou - **35€**
+- **Le Mazel** - Cuvée Paulou - Grenache **35€**
 - **Le Vin de Pauzes** - Nour - Grenache noir **41€**
 - **Le Vin des Pauzes** - Cabosse - Syrah, viognier **41€**
 
@@ -220,6 +220,7 @@ _Des allergies ? Prévenez-nous :) _
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
+- **Vincent Wallard** - Tonton rouge - 2022 - Cabernet Franc - **39€** 
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl) 
