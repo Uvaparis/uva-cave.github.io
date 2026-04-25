@@ -69,7 +69,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Rouges
 - Nour - Le vin des pauzes - Grenache noir  **8€**
-- Domaine Vaillant - Loire - Groslot **8€**
+- Guillaume Cancellonni - Dégaine - Pinot, cinsault **8€**
   
 ### Blancs
 - Théo Einhart - Alsace - Blanc - Pinot blanc **8€**
