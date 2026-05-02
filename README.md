@@ -131,6 +131,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### LOIRE
 - **Antoine Delaunay** - Melon et meleche 2025 - Melon de bourgogne **35€**
+- **Clos du tue boeuf** - Vin Blanc 2025 - Sauvignon **36€**
 - **Domaine Vaillant** - La Varrene du Poirier 2023 - Chenin **82€** (MAGNUM 150cl)
   
 ### GRECE
@@ -139,8 +140,6 @@ _Des allergies ? Prévenez-nous :) _
 ### HONGRIE
 - **Istvan Bencze** - Riesling - 2020 **58 €**
 
-### RHONE 
-- **Petit oratoire x Iroma** - Plein sud 2024 - Grenache blanc, clairette, viognier **35€**
 
 ### ROUSSILLON 
 - **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **80€** (MAGNUM 150cl)
@@ -220,7 +219,8 @@ _Des allergies ? Prévenez-nous :) _
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
-- **Vincent Wallard** - Tonton rouge - 2022 - Cabernet Franc - **39€** 
+- **Vincent Wallard** - Tonton rouge - 2022 - Cabernet Franc - **39€**
+- **Clos du tue boeuf** - Vin rouge 2025 - Gamay, pineau d'aunis - **36€**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl) 
