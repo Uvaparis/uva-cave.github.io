@@ -73,13 +73,13 @@ _Des allergies ? Prévenez-nous :) _
   
 ### Blancs
 - (Vin à la tireuse) Le P'tit Théo 2024 - Théo Einhart - Alsace - Auxerrois  Pinot blanc **8€**
-- Plein Sud - Domaine du petit oratoire - Rhône - Grenache blanc, clairette , viognier  **8€**
+- Vin blanc 2024 - Clos Tue-Boeuf - Loire - Sauvignon **8€** Notes fruitées et florales, vif et croquant 
   
 ### Orange
-- Domaine Einhart - Alsace - Le P'tit Orange - gewurztraminer, pinot gris **8€** (Vin à la tireuse) 
+- Orange 2022 - Le P'tit Orange - Théo Einhart - gewurztraminer, pinot gris **8€** Structuré et aromatique, notes d'abricot 
   
 ### Pétillant 
-- Kadodépart - Kohki Iwata - Languedoc - Mourvedre, carignan, grenache gris  **8€** 
+- Kadodépart 2024 - Kohki Iwata - Languedoc - Cinsault **8€** Léger, arômes de roses et d'agrumes frais **8€** 
 
 [haut de page](#menu)
 
