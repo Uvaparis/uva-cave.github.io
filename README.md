@@ -64,9 +64,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Vins au verre
 
-## Vermouth Cocktail 
-- Vermouth rouge, eau pétillante **7€**
-
 ### Rouges
 - BCDC 2019 - Tierra Sauvage - Burgos Espagne - Temprenillo, Cabernet sauvignon **8,50€** Bouche charnue et tannique, une finale longue et épicée
 - Première Voie 2023 - Guillaume Cancellonni - Savoie - Pinot, cinsault **8€** Léger, arômes de fraises et cerise, juteux 
