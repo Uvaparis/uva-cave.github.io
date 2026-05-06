@@ -62,6 +62,10 @@ _Des allergies ? Prévenez-nous :) _
 **Abatilles** **7€**
 - Eau minérale pétillante naturelle Arcachon, 75cl
 
+## BIERE EN BOUTEILLE 75cl 
+
+- Cantillon - Bruxelles - Cuvée Saint-Gilloise - Malt d'orge & Froment Bio **30€**
+
 ## Vins au verre
 
 ### Rouges
