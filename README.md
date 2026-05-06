@@ -108,7 +108,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Blancs 75cl
 
 ### ALSACE 
-- **Théo Einhart** - Théo Blanc - Pinot blanc, riesling **39€**
+- **Théo Einhart** - Théo Blanc - Pinot blanc, riesling **39€** (à la tireuse) 
 
 ### ARDECHE 
 - **Les lendemains qui chantent** - Salut à toi - Chardonnay **40€**
@@ -138,7 +138,6 @@ _Des allergies ? Prévenez-nous :) _
 ### HONGRIE
 - **Istvan Bencze** - Riesling - 2020 **58 €**
 
-
 ### ROUSSILLON 
 - **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **80€** (MAGNUM 150cl)
 
@@ -151,8 +150,8 @@ _Des allergies ? Prévenez-nous :) _
 ## Oranges 75cl
 
 ### ALSACE 
-- **Theo Einhart** Orange 24/25 **38€**
-- **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins 
+- **Theo Einhart** Orange 24/25 **38€** 
+- **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **45€**
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
 
