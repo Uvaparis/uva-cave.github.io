@@ -118,6 +118,7 @@ _Des allergies ? Prévenez-nous :) _
 - **Les lendemains qui chantent** - Salut à toi - Chardonnay **40€**
 - **Libellule** - Les Bois Perdus - 2025 - Marsanne, Ugni Blanc **40€**
 - **Nedjma** - Le raisin et l'ange - 2023 - Sauvignon, chardonnay, roussanne, grenache blanc **38€**
+- **Ne fais pas sans blanc** - Sylvain Bock - 2024 - Chardonnay, Grenache Blanc **40€**
 
 ### BEAUJOLAIS 
 - **P'tit grobis** - Nicolas Chemarin - Chardonnay **41€**
