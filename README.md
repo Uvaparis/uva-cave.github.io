@@ -31,7 +31,7 @@ Bouteilles (75cl):
 
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
-- Boeuf séché **10€**
+- Boeuf séché **11€**
 - Coppa **9,50€**
 - Saucisson de l'Aveyron **7,5 €**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
@@ -153,7 +153,7 @@ _Des allergies ? Prévenez-nous :) _
 ### ALSACE 
 - **Theo Einhart** Orange 24/25 **38€**
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins 
-- **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices 
+- **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **45€**
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
 
 ## ALLEMAGNE 
@@ -197,13 +197,12 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ARDECHE 
 - **Maud Adnot** - Pomelos - Merlot - **38€**
-- **Le Mazel** - Cuvée Paulou - Grenache **35€**
-- **Le Vin de Pauzes** - Nour - Grenache noir **41€**
-- **Le Vin des Pauzes** - Cabosse - Syrah, viognier **41€**
+- **Elle Danse** - Les Bois Perdus - Merlot, Syrah - **40€**
+- **Aphrodite** - Les Bois Perdus - Syrah, Grenache - **40€**
+- **Sonatine** - Les Bois Perdus - Gamay - **40€** 
 
 ### AUVERGNE
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
-- **Antonin Azzoni** - Le raisin et l'ange - Syrah, grenache **39€**
 - **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
 
 ### BOURGOGNE
@@ -219,6 +218,7 @@ _Des allergies ? Prévenez-nous :) _
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
 - **Vincent Wallard** - Tonton rouge - 2022 - Cabernet Franc - **39€**
 - **Clos du tue boeuf** - Vin rouge 2025 - Gamay, pineau d'aunis - **36€**
+- **Clos des Folies** - Dernier Round 2023 - Sauvage Romuald - Grolleau gris, Cabernet Franc, Muscat **38€**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl) 
@@ -226,7 +226,6 @@ _Des allergies ? Prévenez-nous :) _
 ### SAVOIE
 - **JY Peron** - Champ levat - 2020 - Mondeuse - **66€**
 - **Guillaume Cancelloni** - Dégaine - Cerro Chalten - Pinot noir **44€**
-- **Free solo** - Guillaume Cancelloni - Grenache **39€**
 - **Première voie** - Guillaume Cancelloni - Pinot, cinsault **42€**
 
   ### Espagne
