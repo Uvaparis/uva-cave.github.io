@@ -49,15 +49,12 @@ _Des allergies ? Prévenez-nous :) _
 - Schorles, Boissons pétillantes aux fruits issus de l’agriculture biologique
 (au choix : Limonade, menthe, citron fringuant), bouteille 33cl 
 
-**Oma Frida** au verre **6,50€** en bouteille **26€**
-- Pétillant naturel sans alcool, Chardonnay, verjus, infusions florales
-
-**Douze Boisson pétillante** **6€**
-- Poire & Anis, canette 33cl
-- Abricot Zaatar, canette 33cl disponible en bouteille 75cl **26€**
+**Douze Boisson pétillante** 
+- Poire & Anis, canette 33cl **6,50€** 
+- Abricot Zaatar, disponible au verre **6,50€** en bouteille 75cl **26€**
 - Orange Sanguine, canette 33cl disponible en bouteille 75cl **26€**
 
-**San Pellegrino** **4€**
+**San Pellegrino** **4,50€**
 - Eau pétillante, 33cl 
 
 **Abatilles** **7€**
