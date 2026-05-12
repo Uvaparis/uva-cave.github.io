@@ -99,18 +99,15 @@ _Des allergies ? Prévenez-nous :) _
 ## ALSACE
 - Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€** 
 - Yann Durmann 2022 - Noctambule - Pinot noir, pinot gris **39€**
-- Kadodépart 2024 - WA SUD - Roussillon - Mourvedre, carignan, grenache gris **38€**
 
 ## LOIRE
 - Domaine Vaillant - Bulle Nature 2023 - Chenin, chardonnay **39€**
 
-## ROUSSILLON 
-- Kadodépart Pét Nat 2024 - Mourvedre, carignan, grenache gris **39€** 
-
 ## Blancs 75cl
 
 ### ALSACE 
-- **Théo Einhart** - Théo Blanc - Pinot blanc, riesling **39€** (à la tireuse) 
+- **Théo Einhart** - Théo Blanc 2024 - Pinot blanc, riesling **39€** (à la tireuse)
+- **Théo Einhart** - Weingarten 2024 - Sylvaner **43€**
 
 ### ARDECHE 
 - **Les lendemains qui chantent** - Salut à toi - Chardonnay **40€**
