@@ -184,6 +184,8 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Rosés 75cl
 
+### LOIRE
+- L'arrosseur - De Vini 2021 - Merlot, Cabernet franc, Colombard, Grolleau **37€**
 ### ITALIE
 - **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - **49€**
 
