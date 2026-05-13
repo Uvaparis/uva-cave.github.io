@@ -68,7 +68,8 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Rouges
 - BCDC 2019 - Tierra Sauvage - Burgos Espagne - Temprenillo, Cabernet sauvignon **8,50€** Bouche charnue et tannique, une finale longue et épicée
-- Première Voie 2023 - Guillaume Cancellonni - Savoie - Pinot, cinsault **8€** Léger, arômes de fraises et cerise, juteux 
+- Le Clos du Tue-Boeuf 2025 - Loire - Gamay, Pineau d'aunis - Fruité, tannins moyens **8€** 
+- Elle danse 2025 - Les Bois Perdus - Ardèche - Grenaches Blancs et Noirs **8€** Léger, arômes de fraises et cerise, juteux 
   
 ### Blancs
 - (Vin à la tireuse) Le P'tit Théo 2024 - Théo Einhart - Alsace - Auxerrois  Pinot blanc **8€**
@@ -77,8 +78,8 @@ _Des allergies ? Prévenez-nous :) _
 ### Orange
 - Orange 2022 - Le P'tit Orange - Théo Einhart - gewurztraminer, pinot gris **8€** Structuré et aromatique, notes d'abricot 
   
-### Pétillant 
-- Kadodépart 2024 - Kohki Iwata - Languedoc - Cinsault **8€** Léger, arômes de roses et d'agrumes frais **8€** 
+### Rosé 
+- L'Arroseur 2021 - Loire - Cabernet Franc - Léger, fruité  **8€** 
 
 [haut de page](#menu)
 
