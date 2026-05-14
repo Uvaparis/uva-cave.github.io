@@ -68,7 +68,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Rouges
 - BCDC 2019 - Tierra Sauvage - Burgos Espagne - Temprenillo, Cabernet sauvignon **8,50€** Bouche charnue et tannique, une finale longue et épicée
-- Le Clos du Tue-Boeuf 2025 - Loire - Gamay, Pineau d'aunis - Fruité, tannins moyens **8€** 
 - Elle danse 2025 - Les Bois Perdus - Ardèche - Grenaches Blancs et Noirs **8€** Léger, arômes de fraises et cerise, juteux 
   
 ### Blancs
@@ -155,9 +154,6 @@ _Des allergies ? Prévenez-nous :) _
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **45€**
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
-
-## ALLEMAGNE 
-- **Kuve Kolletkiv** - AOP Rheinhessen - 2023 - Bacchus, Riesling en macération 7 jours - Vif, notes d'agrumes **39€**
 
 ## ARDECHE 
 - **Embuscade** - Les 2 Fauves - Macération légère **36€**
