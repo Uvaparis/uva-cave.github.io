@@ -50,10 +50,12 @@ _Des allergies ? Prévenez-nous :) _
 (au choix : Limonade, menthe, citron fringuant), bouteille 33cl 
 
 **Douze Boisson pétillante** 
-- Poire & Anis, canette 33cl **6,50€** 
 - Abricot Zaatar, disponible au verre **6,50€** en bouteille 75cl **26€**
 - Orange Sanguine, canette 33cl disponible en bouteille 75cl **26€**
 
+**Charitea Black** **5,50€** 
+- Thé glacé bio
+  
 **San Pellegrino** **4,50€**
 - Eau pétillante, 33cl 
 
@@ -61,8 +63,8 @@ _Des allergies ? Prévenez-nous :) _
 - Eau minérale pétillante naturelle Arcachon, 75cl
 
 ## BIERE EN BOUTEILLE 75cl 
-
 - Cantillon - Bruxelles - Cuvée Saint-Gilloise - Malt d'orge & Froment Bio **30€**
+- Super Bock - Portugal - Bière Blonde 25cl **5€** 
 
 ## Vins au verre
 
