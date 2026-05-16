@@ -24,7 +24,6 @@ Bouteilles (75cl):
 **Fromages / Cheese**
 (servis avec huile d'olive & poivre)
 - Brillat Savarin **10€**
-- Burrata Italie 250g **12,50€**
 - Saint-Nectaire **9€**
 - Comté Marcel Petite Jura **10€**
 - Tomme de brebis caussenarde **9€**
@@ -54,7 +53,7 @@ _Des allergies ? Prévenez-nous :) _
 - Orange Sanguine, canette 33cl disponible en bouteille 75cl **26€**
 
 **Charitea Black** **5,50€** 
-- Thé glacé bio
+- Thé glacé bio, 33cl
   
 **San Pellegrino** **4,50€**
 - Eau pétillante, 33cl 
