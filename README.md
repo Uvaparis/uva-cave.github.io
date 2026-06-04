@@ -49,8 +49,7 @@ _Des allergies ? Prévenez-nous :) _
 (au choix : Limonade, menthe, citron fringuant), bouteille 33cl 
 
 **Douze Boisson pétillante** 
-- Abricot Zaatar, disponible au verre **6,50€** en bouteille 75cl **26€**
-- Orange Sanguine, canette 33cl disponible en bouteille 75cl **26€**
+- Orange Sanguine, bouteille 75cl **26€**
 
 **Charitea Black** **5,50€** 
 - Thé glacé bio, 33cl
@@ -72,14 +71,14 @@ _Des allergies ? Prévenez-nous :) _
 - Elle danse 2025 - Les Bois Perdus - Ardèche - Grenaches Blancs et Noirs **8€** Léger, arômes de fraises et cerise, juteux 
   
 ### Blancs
-- (Vin à la tireuse) Le P'tit Théo 2024 - Théo Einhart - Alsace - Auxerrois  Pinot blanc **8€**
-- Vin blanc 2024 - Clos Tue-Boeuf - Loire - Sauvignon **8€** Notes fruitées et florales, vif et croquant 
+- (Vin à la tireuse) Pépin blanc - Alsace - Riesling, gewurztraminer, pinot blanc **8€**
+- Libellule 2025 - Les bois perdus **8€** Notes fruitées et florales, vif et croquant 
   
 ### Orange
 - Orange 2022 - Le P'tit Orange - Théo Einhart - gewurztraminer, pinot gris **8€** Structuré et aromatique, notes d'abricot 
   
 ### Rosé 
-- L'Arroseur 2021 - Loire - Cabernet Franc - Léger, fruité  **8€** 
+- Embuscade - Les 2 Fauves - Auvergne - Merlot - léger, fruité  **8€** 
 
 [haut de page](#menu)
 
