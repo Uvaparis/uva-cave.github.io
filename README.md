@@ -98,6 +98,9 @@ _Des allergies ? Prévenez-nous :) _
 - Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€** 
 - Yann Durmann 2022 - Noctambule - Pinot noir, pinot gris **39€**
 
+## ALLEMAGNE 
+- Piquette 2022 - Brand Bro - Pinot noit, dornfelder - Rafraîchissant, funky, léger, facile à boire **30€** 
+
 ## HONGRIE 
 - Bencze 2022 - Pétillant naturel - Pinot noir, chenin, pinot blanc **48€**
 
