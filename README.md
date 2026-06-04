@@ -31,8 +31,6 @@ Bouteilles (75cl):
 
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
-- Boeuf séché **11€**
-- Coppa **9,50€**
 - Saucisson de l'Aveyron **7,5 €**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
 - Assiette mixte, fromages et charcuteries du moment **26€**
@@ -100,23 +98,17 @@ _Des allergies ? Prévenez-nous :) _
 - Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€** 
 - Yann Durmann 2022 - Noctambule - Pinot noir, pinot gris **39€**
 
-## LOIRE
-- Domaine Vaillant - Bulle Nature 2023 - Chenin, chardonnay **39€**
+## HONGRIE 
+- Bencze 2022 - Pétillant naturel - Pinot noir, chenin, pinot blanc **48€**
 
 ## Blancs 75cl
 
 ### ALSACE 
-- **Théo Einhart** - Théo Blanc 2024 - Pinot blanc, riesling **39€** (à la tireuse)
 - **Théo Einhart** - Weingarten 2024 - Sylvaner **43€**
 
 ### ARDECHE 
-- **Les lendemains qui chantent** - Salut à toi - Chardonnay **40€**
 - **Libellule** - Les Bois Perdus - 2025 - Marsanne, Ugni Blanc **40€**
 - **Nedjma** - Le raisin et l'ange - 2023 - Sauvignon, chardonnay, roussanne, grenache blanc **38€**
-- **Ne fais pas sans blanc** - Sylvain Bock - 2024 - Chardonnay, Grenache Blanc **40€**
-
-### BEAUJOLAIS 
-- **P'tit grobis** - Nicolas Chemarin - Chardonnay **41€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €**
@@ -128,12 +120,7 @@ _Des allergies ? Prévenez-nous :) _
 -  **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl)
 
 ### LOIRE
-- **Antoine Delaunay** - Melon et meleche 2025 - Melon de bourgogne **35€**
-- **Clos du tue boeuf** - Vin Blanc 2025 - Sauvignon **36€**
 - **Domaine Vaillant** - La Varrene du Poirier 2023 - Chenin **82€** (MAGNUM 150cl)
-  
-### GRECE
-- **Sous le végétal** - Livia 2019 - Muscat d'alexandrie **45€**
 
 ### HONGRIE
 - **Istvan Bencze** - Riesling - 2020 **58 €**
@@ -150,16 +137,9 @@ _Des allergies ? Prévenez-nous :) _
 ## Oranges 75cl
 
 ### ALSACE 
-- **Theo Einhart** Orange 24/25 **38€** 
 - **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **45€**
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
-
-## ARDECHE 
-- **Embuscade** - Les 2 Fauves - Macération légère **36€**
-
-### LOIRE 
-**Maison Brûlées** - Silène 2024 - Sauvignon blanc **40€**
 
 ### RHONE
 **Domaine du petit oratoire** - Sacha 2025 - Clairette, roussanne, cinsault, grenache noir - Macération de 15 jours, frais, arômes d'abricot et de fleurs séchées **40€**
@@ -181,8 +161,9 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Rosés 75cl
 
-### LOIRE
-- L'arrosseur - De Vini 2021 - Merlot, Cabernet franc, Colombard, Grolleau **37€**
+### Auvergne 
+- Les 2 fauves - Embuscade - Merlot **38€**
+
 ### ITALIE
 - **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - **49€**
 
@@ -195,13 +176,11 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ARDECHE 
 - **Maud Adnot** - Pomelos - Merlot - **38€**
-- **Elle Danse** - Les Bois Perdus - Merlot, Syrah - **40€**
 - **Aphrodite** - Les Bois Perdus - Syrah, Grenache - **40€**
-- **Sonatine** - Les Bois Perdus - Gamay - **40€** 
+
 
 ### AUVERGNE
-- **Justine Vigne** - 1826 - 2021 - Carignan - **68€**
-- **Tomomoto** - Une sot dans la mare 2021 - Marselan, Merlot **39€**
+- **Justine Vigne** - 1826 - 2021 - Carignan - **68€** 
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
@@ -224,10 +203,7 @@ _Des allergies ? Prévenez-nous :) _
 ### SAVOIE
 - **JY Peron** - Champ levat - 2020 - Mondeuse - **66€**
 - **Guillaume Cancelloni** - Dégaine - Cerro Chalten - Pinot noir **44€**
-- **Première voie** - Guillaume Cancelloni - Pinot, cinsault **42€**
 
-  ### Espagne
-  - **Alberto López Calvo** - Colección MMXI - Tempranillo, cabernet franc, sauvignon, merlot **65€** 
 
 
 [haut de page](#menu)
