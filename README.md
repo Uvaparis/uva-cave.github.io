@@ -31,6 +31,8 @@ Bouteilles (75cl):
 
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
+- Bresaola Punta d'Anca, viande de boeuf séchée et afficnée **12,50€**
+- Coppa Piacentina AOP, échine de porc, salée **10€**
 - Saucisson de l'Aveyron **7,5 €**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
 - Assiette mixte, fromages et charcuteries du moment **26€**
