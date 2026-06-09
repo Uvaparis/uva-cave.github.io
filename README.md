@@ -67,8 +67,8 @@ _Des allergies ? Prévenez-nous :) _
 ## Vins au verre
 
 ### Rouges
-- BCDC 2019 - Tierra Sauvage - Burgos Espagne - Temprenillo, Cabernet sauvignon **8,50€** Bouche charnue et tannique, une finale longue et épicée
-- Elle danse 2025 - Les Bois Perdus - Ardèche - Grenaches Blancs et Noirs **8€** Léger, arômes de fraises et cerise, juteux 
+- BCDC 2019 - Tierra Sauvage - Burgos Espagne - Temprenillo, Cabernet sauvignon **8€** Bouche charnue et tannique, une finale longue et épicée
+- Aphrodine - Les Bois Perdus - Ardèche - Syrah, Grenache **8€** Léger, arômes de fraises et cerise, juteux 
   
 ### Blancs
 - (Vin à la tireuse) Pépin blanc - Alsace - Riesling, gewurztraminer, pinot blanc **8€**
@@ -100,6 +100,9 @@ _Des allergies ? Prévenez-nous :) _
 ## ALLEMAGNE 
 - Piquette 2022 - Brand Bro - Pinot noit, dornfelder - Rafraîchissant, funky, léger, facile à boire **30€**
 
+## BEAUJOLAIS 
+- Domaine Bélicard - Pet Nat 2022 - Gamay **38€**
+
 ## ESPAGNE 
 - Clos Lentiscus 2016 - Gentlemant - Malvasia de Sitges - Arômes floraux, iodés, bulle fine **43€**
 
@@ -113,13 +116,16 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ARDECHE 
 - **Libellule** - Les Bois Perdus - 2025 - Marsanne, Ugni Blanc **40€**
-- **Nedjma** - Le raisin et l'ange - 2023 - Sauvignon, chardonnay, roussanne, grenache blanc **38€**
+
+### BORDEAUX
+- Back to Blaye - Côtes de Bordeaux - Sauvignon blanc, sémillion **40€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €**
 
 ### GRECE
 - **Livia** - Sous le végétal - Muscat d'Alexandrie **45€**
+  
 ### JURA
 -  **L'oiseau rôdeur** - Marie & Thomas - Jours Brumeux 2023 - Chardonnay, savagnin **54€**
 -  **L'oiseau rôdeur** - Marie & Thomas - Parade 2024 - Savagnin **58€**
