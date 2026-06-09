@@ -118,6 +118,8 @@ _Des allergies ? Prévenez-nous :) _
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €**
 
+### GRECE
+- **Livia** - Sous le végétal - Muscat d'Alexandrie **45€**
 ### JURA
 -  **L'oiseau rôdeur** - Marie & Thomas - Jours Brumeux 2023 - Chardonnay, savagnin **54€**
 -  **L'oiseau rôdeur** - Marie & Thomas - Parade 2024 - Savagnin **58€**
@@ -126,6 +128,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### LOIRE
 - **Domaine Vaillant** - La Varrene du Poirier 2023 - Chenin **82€** (MAGNUM 150cl)
+- **De Vini** - 0,72 Blanc - Melon de Bourgogne **36€**
 
 ### HONGRIE
 - **Istvan Bencze** - Riesling - 2020 **58 €**
@@ -199,8 +202,7 @@ _Des allergies ? Prévenez-nous :) _
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
 - **Vincent Wallard** - Tonton rouge - 2022 - Cabernet Franc - **39€**
-- **Clos du tue boeuf** - Vin rouge 2025 - Gamay, pineau d'aunis - **36€**
-- **Clos des Folies** - Dernier Round 2023 - Sauvage Romuald - Grolleau gris, Cabernet Franc, Muscat **38€**
+- **De Vini** - 0,72 Rouge - 2019 - Syrah, grenache **36€**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl) 
