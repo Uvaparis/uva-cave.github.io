@@ -91,9 +91,6 @@ _Des allergies ? Prévenez-nous :) _
 
 [haut de page](#menu)
 
-## CHAMPAGNE
-- Eric Collinet Extra Brut - AOP Côte des bars - Pinot, chardonnay - **78€** **Non disponible**
-
 ## Pétillants 75cl 
 
 ## ALSACE
@@ -101,7 +98,10 @@ _Des allergies ? Prévenez-nous :) _
 - Yann Durmann 2022 - Noctambule - Pinot noir, pinot gris **39€**
 
 ## ALLEMAGNE 
-- Piquette 2022 - Brand Bro - Pinot noit, dornfelder - Rafraîchissant, funky, léger, facile à boire **30€** 
+- Piquette 2022 - Brand Bro - Pinot noit, dornfelder - Rafraîchissant, funky, léger, facile à boire **30€**
+
+## ESPAGNE 
+- Clos Lentiscus 2016 - Gentlemant - Malvasia de Sitges - Arômes floraux, iodés, bulle fine **43€**
 
 ## HONGRIE 
 - Bencze 2022 - Pétillant naturel - Pinot noir, chenin, pinot blanc **48€**
