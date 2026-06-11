@@ -46,7 +46,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Soft
 **Les filles de l’ouest** **5,50€**
 - Schorles, Boissons pétillantes aux fruits issus de l’agriculture biologique
-(au choix : Limonade, menthe, citron fringuant), bouteille 33cl 
+(au choix : Menthe, citron fringuant), bouteille 33cl 
 
 **Douze Boisson pétillante** 
 - Orange Sanguine, bouteille 75cl **26€**
