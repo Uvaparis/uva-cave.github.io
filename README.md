@@ -131,7 +131,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### LOIRE
 - **Domaine Vaillant** - La Varrene du Poirier 2023 - Chenin **82€** (MAGNUM 150cl)
-- **De Vini** - 0,72 Blanc - Melon de Bourgogne **36€**
+- **De Vini** - 0,72 Blanc - Melon de Bourgogne **38€**
 
 ### HONGRIE
 - **Istvan Bencze** - Riesling - 2020 **58 €**
@@ -148,7 +148,6 @@ _Des allergies ? Prévenez-nous :) _
 ## Oranges 75cl
 
 ### ALSACE 
-- **Pinot** - Clos Liebau 2023 - Arômes de fleurs de noix, tannins fins **40€**
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **45€**
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
 
@@ -161,9 +160,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### SUD OUEST 
 - **Le Petit Pertus** - Emma Jenkins - 2024 - Sémillion **39€** 
-
-### ESPAGNE 
-- **Giulio & Gaia** - Rimmel - 2024 - Macabeo, muscat d'alexandrie légère macération **36€**
 
 ### ITALIE
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - Moelleux, fruité, richesse aromatique (abricot, pêche, poire) **69€** (50cl)
@@ -182,20 +178,15 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Rouges 75cl
 
-### ALSACE 
-- **Domaine Einhart** - Albermohn 2023 - Alsace - Pinot noir **Non disponible**
-
 ### ARDECHE 
 - **Maud Adnot** - Pomelos - Merlot - **38€**
 - **Aphrodite** - Les Bois Perdus - Syrah, Grenache - **40€**
-
 
 ### AUVERGNE
 - **Justine Vigne** - 1826 - 2021 - Carignan - **68€** 
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
-- **François Ecot** - Bourgogne - L'insolent - Pinot d'aunis, pinot noir - **46€**
 
 ### JURA 
 - **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **50€**
@@ -204,8 +195,7 @@ _Des allergies ? Prévenez-nous :) _
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
-- **Vincent Wallard** - Tonton rouge - 2022 - Cabernet Franc - **39€**
-- **De Vini** - 0,72 Rouge - 2019 - Syrah, grenache **36€**
+- **De Vini** - 0,72 Rouge - 2019 - Syrah, grenache **38€**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl) 
