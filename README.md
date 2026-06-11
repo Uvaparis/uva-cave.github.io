@@ -68,7 +68,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Rouges
 - BCDC 2019 - Tierra Sauvage - Burgos Espagne - Temprenillo, Cabernet sauvignon **8€** Bouche charnue et tannique, une finale longue et épicée
-- Aphrodine - Les Bois Perdus - Ardèche - Syrah, Grenache **8€** Léger, arômes de fraises et cerise, juteux 
+- Tonton Rouge - Vincent Wallard - Loire - Cabernet Franc **8€**
   
 ### Blancs
 - (Vin à la tireuse) Pépin blanc - Alsace - Riesling, gewurztraminer, pinot blanc **8€**
