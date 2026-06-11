@@ -68,11 +68,11 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Rouges
 - BCDC 2019 - Tierra Sauvage - Burgos Espagne - Temprenillo, Cabernet sauvignon **8€** Bouche charnue et tannique, une finale longue et épicée
-- Tonton Rouge - Vincent Wallard - Loire - Cabernet Franc **8€**
+- Recontre - Bois Moisset - Sud-Ouest - Syrah, braucol, duras **8€** Cassis, fruits noirs, gourmand
   
 ### Blancs
-- (Vin à la tireuse) Pépin blanc - Alsace - Riesling, gewurztraminer, pinot blanc **8€**
-- Libellule 2025 - Les bois perdus **8€** Notes fruitées et florales, vif et croquant 
+- Cain 2024 - Guillaume Cancelloni - Jacquère - Vin de Savoie - Arômes fleurs blanches, pomme verte, poire, vif, belle acidité **8€**
+- 0,72 Blanc - De Vini - Loire - Melon de Bourgogne **8€** Sec, notes iodés 
   
 ### Orange
 - Orange 2022 - Le P'tit Orange - Théo Einhart - gewurztraminer, pinot gris **8€** Structuré et aromatique, notes d'abricot 
