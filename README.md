@@ -46,25 +46,28 @@ _Des allergies ? Prévenez-nous :) _
 # Carte des Softs, Bières et Vins
 
 ## Soft
-**Les filles de l’ouest** **5,50€**
-- Schorles, Boissons pétillantes aux fruits issus de l’agriculture biologique
-(au choix : Menthe, citron fringuant), bouteille 33cl 
-
 **Douze Boisson pétillante** 
 - Orange Sanguine, bouteille 75cl **26€**
 
 **Charitea Black** **5,50€** 
 - Thé glacé bio, 33cl
+
+**Lemonaide** **5,50€**
+- Limonade bio naturelle au gingembre et au citron, 33cl
   
 **San Pellegrino** **4,50€**
-- Eau pétillante, 33cl 
+- Eau pétillante, 33cl
+
+**Thonon** **7€**
+- Eau minérale naturelle des Alpes, 75cl 
 
 **Abatilles** **7€**
 - Eau minérale pétillante naturelle Arcachon, 75cl
 
-## BIERE EN BOUTEILLE 75cl 
-- Cantillon - Bruxelles - Cuvée Saint-Gilloise - Malt d'orge & Froment Bio **30€**
-- Super Bock - Portugal - Bière Blonde 25cl **5€** 
+## BIERE EN BOUTEILLE 
+- Cantillon - Bruxelles - Cuvée Saint-Gilloise - Malt d'orge & Froment Bio, 75cl **30€**
+- Super Bock - Portugal - Bière Blonde, 33cl **5,50€**
+- L.B.F - IPA - France - Bière artisanale, 33cl **6,50€** 
 
 ## Vins au verre
 
