@@ -96,8 +96,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Pétillants 75cl 
 
 ## ALSACE
-- Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€** 
-- Yann Durmann 2022 - Noctambule - Pinot noir, pinot gris **39€**
+- Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€**
 
 ## ALLEMAGNE 
 - Piquette 2022 - Brand Bro - Pinot noit, dornfelder - Rafraîchissant, funky, léger, facile à boire **30€**
@@ -115,12 +114,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ALSACE 
 - **Théo Einhart** - Weingarten 2024 - Sylvaner **43€**
-
-### ARDECHE 
-- **Libellule** - Les Bois Perdus - 2025 - Marsanne, Ugni Blanc **40€**
-
-### BORDEAUX
-- Back to Blaye - Côtes de Bordeaux - Sauvignon blanc, sémillion **40€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €**
@@ -146,7 +139,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### SAVOIE 
 - **Cairn** - Guillaume Cancelloni - Savoie AOP - Jacquère **43€**
-- **Les Cosmiques** - Guillaume Cancelloni - Savoie AOP Roussette de Monthoux - Altesse **49€**
 
 [haut de page](#menu)
 
@@ -154,6 +146,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ALSACE 
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **45€**
+- **Mañana** - Vincent Larcelet 2023 - Pinot noir, Gewurztraminer - Attaque ample, aromatique sur les fruits secs **38€** 
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
 
 ### RHONE
@@ -176,9 +169,6 @@ _Des allergies ? Prévenez-nous :) _
 ### Auvergne 
 - Les 2 fauves - Embuscade - Merlot **38€**
 
-### ITALIE
-- **Guttarolo** - Rosé Amphore - 2021 - Susumaniello - **49€**
-
 [haut de page](#menu)
 
 ## Rouges 75cl
@@ -194,7 +184,7 @@ _Des allergies ? Prévenez-nous :) _
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
 
 ### JURA 
-- **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **50€**
+- **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **45€**
 - **L'oiseau rôdeur** - Marie & Thomas - Eau fugitive 2024 - Poulsard **55€**
 
 ### LOIRE
@@ -207,7 +197,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### SAVOIE
 - **JY Peron** - Champ levat - 2020 - Mondeuse - **66€**
-- **Guillaume Cancelloni** - Dégaine - Cerro Chalten - Pinot noir **44€**
 
 
 
