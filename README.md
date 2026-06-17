@@ -47,7 +47,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Soft
 **Douze Boisson pétillante** 
-- Orange Sanguine, bouteille 75cl **26€**
+- Orange Sanguine, bouteille 75cl **26€** au verre **6,50€**
 
 **Charitea Black** **5,50€** 
 - Thé glacé bio, 33cl
@@ -73,11 +73,11 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Rouges
 - BCDC 2019 - Tierra Sauvage - Burgos Espagne - Temprenillo, Cabernet sauvignon **8€** Bouche charnue et tannique, une finale longue et épicée
-- Recontre - Bois Moisset - Sud-Ouest - Syrah, braucol, duras **8€** Cassis, fruits noirs, gourmand
+- 0,72 Rouge - Loire - Syrah, grenache, viognier - Floral, structuré **8€**
   
 ### Blancs
 - Cain 2024 - Guillaume Cancelloni - Jacquère - Vin de Savoie - Arômes fleurs blanches, pomme verte, poire, vif, belle acidité **8€**
-- 0,72 Blanc - De Vini - Loire - Melon de Bourgogne **8€** Sec, notes iodés 
+- Pépin Blanc - Auxerrois, riesling, pinot blanc - Alsace - Sec, minéral **8€** (Vin à la tireuse)  
   
 ### Orange
 - Orange 2022 - Le P'tit Orange - Théo Einhart - gewurztraminer, pinot gris **8€** Structuré et aromatique, notes d'abricot 
