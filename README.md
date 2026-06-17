@@ -114,6 +114,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ALSACE 
 - **Théo Einhart** - Weingarten 2024 - Sylvaner **43€**
+- **Pépin Blanc** - Auxerrois, riesling, pinot blanc **39€** (Vin à la tireuse) 
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €**
@@ -127,10 +128,6 @@ _Des allergies ? Prévenez-nous :) _
 -  **Christelle et Gilles Wicky** - Côtes du Jura - Appellation côtes du Jura Controlée - Chardonnay **55€** 
 -  **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl)
 
-### LOIRE
-- **Domaine Vaillant** - La Varrene du Poirier 2023 - Chenin **82€** (MAGNUM 150cl)
-- **De Vini** - 0,72 Blanc - Melon de Bourgogne **38€**
-
 ### HONGRIE
 - **Istvan Bencze** - Riesling - 2020 **58 €**
 
@@ -138,7 +135,7 @@ _Des allergies ? Prévenez-nous :) _
 - **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **80€** (MAGNUM 150cl)
 
 ### SAVOIE 
-- **Cairn** - Guillaume Cancelloni - Savoie AOP - Jacquère **43€**
+- **Cairn** - Guillaume Cancelloni - Savoie AOP - Jacquère **41€**
 
 [haut de page](#menu)
 
@@ -146,15 +143,15 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ALSACE 
 - **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **45€**
-- **Mañana** - Vincent Larcelet 2023 - Pinot noir, Gewurztraminer - Attaque ample, aromatique sur les fruits secs **38€** 
+- **Mañana** - Vincent Larcelet 2023 - Pinot noir, Gewurztraminer - Attaque ample, aromatique sur les fruits secs **35€**
+- **Achillée** - Riesling, gewurztraminer, pinot blanc - Sec, fruits confits, légère amertume **39€**
+- **Pépin Orange** - Gewurztraminer - Aromatique, épicé, gourmand **39€** (Vin à la tireuse)
+- **Pépin Grenache Blanc** - Grenache blanc **39€**
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
 
-### RHONE
-**Domaine du petit oratoire** - Sacha 2025 - Clairette, roussanne, cinsault, grenache noir - Macération de 15 jours, frais, arômes d'abricot et de fleurs séchées **40€**
-
 ### SAVOIE
-- **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **77 €**
-- **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **90 €**
+- **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **59€**
+- **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **69€**
 
 ### SUD OUEST 
 - **Le Petit Pertus** - Emma Jenkins - 2024 - Sémillion **39€** 
@@ -176,9 +173,10 @@ _Des allergies ? Prévenez-nous :) _
 ### ARDECHE 
 - **Maud Adnot** - Pomelos - Merlot - **38€**
 - **Aphrodite** - Les Bois Perdus - Syrah, Grenache - **40€**
+- **Elle Danse** - Les Bois Perdus - Grenaches blancs et noirs, merlots **40€**
 
 ### AUVERGNE
-- **Justine Vigne** - 1826 - 2021 - Carignan - **68€** 
+- **Justine Vigne** - 1826 - 2021 - Carignan - **50€**
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
@@ -197,7 +195,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### SAVOIE
 - **JY Peron** - Champ levat - 2020 - Mondeuse - **66€**
-
 
 
 [haut de page](#menu)
