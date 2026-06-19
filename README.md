@@ -114,7 +114,10 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ALSACE 
 - **Théo Einhart** - Weingarten 2024 - Sylvaner **43€**
-- **Pépin Blanc** - Auxerrois, riesling, pinot blanc **39€** (Vin à la tireuse) 
+- **Pépin Blanc** - Auxerrois, riesling, pinot blanc **39€** (Vin à la tireuse)
+
+### AUVERGNE 
+- **Les chemins de l'Arkose** - L'Autre rive - Chardonnay **41€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €**
@@ -129,7 +132,10 @@ _Des allergies ? Prévenez-nous :) _
 -  **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl)
 
 ### HONGRIE
-- **Istvan Bencze** - Riesling - 2020 **58 €**
+- **Istvan Bencze** - Riesling 2020 **58 €**
+
+### RHONE 
+- **Domaine du Petit Oratoire** - Plein sud 2024 -  Grenache blanc, clairette **37€**
 
 ### ROUSSILLON 
 - **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **80€** (MAGNUM 150cl)
@@ -149,6 +155,9 @@ _Des allergies ? Prévenez-nous :) _
 - **Pépin Grenache Blanc** - Grenache blanc **39€**
 - **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
 
+### RHONE 
+- **Domaine du Petit Oratoire** - Sacha - Sauvignon blanc, chardonnay - Belle vivacité, arômes de pêches blanches **40€**
+  
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **59€**
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **69€**
