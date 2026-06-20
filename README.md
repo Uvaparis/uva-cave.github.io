@@ -104,6 +104,9 @@ _Des allergies ? Prévenez-nous :) _
 ## HONGRIE 
 - Bencze 2022 - Pétillant naturel - Pinot noir, chenin, pinot blanc **48€**
 
+### LOIRE
+- Vignoble Brazilier - Pet Nat Brut 2023 - Pineau d'aunis **40€**
+
 ## Blancs 75cl
 
 ### ALSACE 
