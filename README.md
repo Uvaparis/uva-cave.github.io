@@ -27,8 +27,8 @@ Bouteilles (75cl):
 - Burrata 250g **13€**
 - Brillat Savarin **10€**
 - Saint-Nectaire **9€**
-- Comté Marcel Petite Jura **10€**
-- Tomme à l'ail des ours **10€** 
+- Comté 18 mois Marcel Petite Jura **10€**
+- Tomme fermière du Jura à l'ail des ours **10€** 
 - Assiette de fromages et charcuteries du moment **26€**
 
 **Viande / Meat**
