@@ -174,7 +174,8 @@ _Des allergies ? Prévenez-nous :) _
 - **Justine Vigne** - 1826 - 2021 - Carignan - **50€**
 - **Sylvain Bock** - Neck plus ultra - Grenache noir - **40€**
 - **Les Bois Perdus** - Aphrodite 2022 - Syrah, grenache - **40€** 
-
+- **Le Vin des Pauzes** - Cabosse 2023 - Grenache noir - **41€**
+  
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
 
@@ -189,9 +190,6 @@ _Des allergies ? Prévenez-nous :) _
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl) 
-
-### SAVOIE
-- **JY Peron** - Champ levat - 2020 - Mondeuse - **66€**
 
 
 [haut de page](#menu)
