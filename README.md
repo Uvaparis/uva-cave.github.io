@@ -49,9 +49,6 @@ _Des allergies ? Prévenez-nous :) _
 **Douze Boisson pétillante** 
 - Orange Sanguine, bouteille 75cl **26€** au verre **6,50€**
 
-**Charitea Black** **5,50€** 
-- Thé glacé bio, 33cl
-
 **Lemonaide** **5,50€**
 - Limonade bio naturelle au gingembre et au citron, 33cl
   
@@ -121,9 +118,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### GRECE
 - **Livia** - Sous le végétal - Muscat d'Alexandrie **45€**
-  
-### JURA
--  **L'oiseau rôdeur** - Marie & Thomas - Jours Brumeux 2023 - Chardonnay, savagnin **54€**
 
 ### HONGRIE
 - **Istvan Bencze** - Riesling 2020 **58 €**
@@ -175,7 +169,8 @@ _Des allergies ? Prévenez-nous :) _
 
 ### AUVERGNE
 - **Justine Vigne** - 1826 - 2021 - Carignan - **50€**
-- **Sylvain Bock** - Neck plus ultra - Grenache noir - **40€** 
+- **Sylvain Bock** - Neck plus ultra - Grenache noir - **40€**
+- **Les Bois Perdus** - Aphrodite 2022 - Syrah, grenache - **40€** 
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
