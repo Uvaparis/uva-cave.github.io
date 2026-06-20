@@ -61,9 +61,6 @@ _Des allergies ? Prévenez-nous :) _
 **Thonon** **7€**
 - Eau minérale naturelle des Alpes, 75cl 
 
-**Abatilles** **7€**
-- Eau minérale pétillante naturelle Arcachon, 75cl
-
 ## BIERE EN BOUTEILLE 
 - Cantillon - Bruxelles - Cuvée Saint-Gilloise - Malt d'orge & Froment Bio, 75cl **30€**
 - Super Bock - Portugal - Bière Blonde, 33cl **5,50€**
@@ -76,7 +73,7 @@ _Des allergies ? Prévenez-nous :) _
 - 0,72 Rouge - Loire - Syrah, grenache, viognier - Floral, structuré **8€**
   
 ### Blancs
-- Cain 2024 - Guillaume Cancelloni - Jacquère - Vin de Savoie - Arômes fleurs blanches, pomme verte, poire, vif, belle acidité **8€**
+- Plein Sud - Domaine du Petit Oratoire - Rhône - Grenache Blanc, Clairette -  Arômes de poire, vif, belle acidité **8€**
 - Pépin Blanc - Auxerrois, riesling, pinot blanc - Alsace - Sec, minéral **8€** (Vin à la tireuse)  
   
 ### Orange
@@ -127,9 +124,6 @@ _Des allergies ? Prévenez-nous :) _
   
 ### JURA
 -  **L'oiseau rôdeur** - Marie & Thomas - Jours Brumeux 2023 - Chardonnay, savagnin **54€**
--  **L'oiseau rôdeur** - Marie & Thomas - Parade 2024 - Savagnin **58€**
--  **Christelle et Gilles Wicky** - Côtes du Jura - Appellation côtes du Jura Controlée - Chardonnay **55€** 
--  **Alice Bouvot** - P’tit Poussot - 2018 - Chardonnay - **156 €**  (MAGNUM 150 cl)
 
 ### HONGRIE
 - **Istvan Bencze** - Riesling 2020 **58 €**
@@ -140,8 +134,8 @@ _Des allergies ? Prévenez-nous :) _
 ### ROUSSILLON 
 - **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **80€** (MAGNUM 150cl)
 
-### SAVOIE 
-- **Cairn** - Guillaume Cancelloni - Savoie AOP - Jacquère **41€**
+### ESPAGNE 
+- I'm Natural Don't Panic - Coruña del Conde - Albillo Mayor **39€** 
 
 [haut de page](#menu)
 
@@ -179,13 +173,9 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Rouges 75cl
 
-### ARDECHE 
-- **Maud Adnot** - Pomelos - Merlot - **38€**
-- **Aphrodite** - Les Bois Perdus - Syrah, Grenache - **40€**
-- **Elle Danse** - Les Bois Perdus - Grenaches blancs et noirs, merlots **40€**
-
 ### AUVERGNE
 - **Justine Vigne** - 1826 - 2021 - Carignan - **50€**
+- **Sylvain Bock** - Neck plus ultra - Grenache noir - **40€** 
 
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
