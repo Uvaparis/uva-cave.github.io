@@ -28,7 +28,7 @@ Bouteilles (75cl):
 - Brillat Savarin **10€**
 - Saint-Nectaire **9€**
 - Comté Marcel Petite Jura **10€**
-- Tomme de brebis caussenarde **9€**
+- Tomme à l'ail des ours **10€** 
 - Assiette de fromages et charcuteries du moment **26€**
 
 **Viande / Meat**
