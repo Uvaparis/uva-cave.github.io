@@ -46,8 +46,8 @@ _Des allergies ? Prévenez-nous :) _
 # Carte des Softs, Bières et Vins
 
 ## Soft
-**Douze Boisson pétillante** 
-- Orange Sanguine, bouteille 75cl **26€** au verre **6,50€**
+**Oma Frida** 
+- Boisson pétillante élaborée à partir de raisin et d'ingrédients naturels, bouteille 75cl **26€** 
 
 **Lemonaide** **5,50€**
 - Limonade bio naturelle au gingembre et au citron, 33cl
@@ -65,8 +65,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Vins au verre
 
-### Rouges
-- BCDC 2019 - Tierra Sauvage - Burgos Espagne - Temprenillo, Cabernet sauvignon **8€** Bouche charnue et tannique, une finale longue et épicée
+### Rouge
 - 0,72 Rouge - Loire - Syrah, grenache, viognier - Floral, structuré **8€**
   
 ### Blancs
@@ -74,7 +73,7 @@ _Des allergies ? Prévenez-nous :) _
 - Pépin Blanc - Auxerrois, riesling, pinot blanc - Alsace - Sec, minéral **8€** (Vin à la tireuse)  
   
 ### Orange
-- Orange 2022 - Le P'tit Orange - Théo Einhart - gewurztraminer, pinot gris **8€** Structuré et aromatique, notes d'abricot 
+- Nicolas Chemarin - Hors Zone - Beaujolais - Vin à la tireuse - Rousette de Savoie en macération et presse directe de chardonnay **8€**
   
 ### Rosé 
 - Embuscade - Les 2 Fauves - Auvergne - Merlot - léger, fruité  **8€** 
