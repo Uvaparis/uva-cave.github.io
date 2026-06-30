@@ -73,7 +73,7 @@ _Des allergies ? Prévenez-nous :) _
 - Pépin Blanc - Auxerrois, riesling, pinot blanc - Alsace - Sec, minéral **8€** (Vin à la tireuse)  
   
 ### Orange
-- Nicolas Chemarin - Hors Zone - Beaujolais - Vin à la tireuse - Rousette de Savoie en macération et presse directe de chardonnay **8€**
+- Nicolas Chemarin - Hors Zone - Beaujolais - Vin à la tireuse - Rousette de Savoie en macération et presse directe de chardonnay **8€** en bouteille **38€**
   
 ### Rosé 
 - Embuscade - Les 2 Fauves - Auvergne - Merlot - léger, fruité  **8€** 
@@ -89,27 +89,17 @@ _Des allergies ? Prévenez-nous :) _
 ## Pétillants 75cl 
 
 ## ALSACE
-- Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€**
-
-## ALLEMAGNE 
-- Piquette 2022 - Brand Bro - Pinot noit, dornfelder - Rafraîchissant, funky, léger, facile à boire **30€**
+- Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€
 
 ## BEAUJOLAIS 
 - Domaine Bélicard - Pet Nat 2022 - Gamay **38€**
 
-## ESPAGNE 
-- Clos Lentiscus 2016 - Gentlemant - Malvasia de Sitges - Arômes floraux, iodés, bulle fine **43€**
-
 ## HONGRIE 
 - Bencze 2022 - Pétillant naturel - Pinot noir, chenin, pinot blanc **48€**
-
-### LOIRE
-- Vignoble Brazilier - Pet Nat Brut 2023 - Pineau d'aunis **40€**
 
 ## Blancs 75cl
 
 ### ALSACE 
-- **Théo Einhart** - Weingarten 2024 - Sylvaner **43€**
 - **Pépin Blanc** - Auxerrois, riesling, pinot blanc **39€** (Vin à la tireuse)
 
 ### AUVERGNE 
@@ -121,6 +111,9 @@ _Des allergies ? Prévenez-nous :) _
 ### GRECE
 - **Livia** - Sous le végétal - Muscat d'Alexandrie **45€**
 
+### LOIRE
+- **De Vini** - 0,72 Blanc 2019 - Melon de Bourgogne **38€**
+
 ### HONGRIE
 - **Istvan Bencze** - Riesling 2020 **58 €**
 
@@ -130,6 +123,9 @@ _Des allergies ? Prévenez-nous :) _
 ### ROUSSILLON 
 - **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **80€** (MAGNUM 150cl)
 
+### SUD OUEST 
+- Château Fredignac - Back to Blaye 2025 - Sauvignon, sémillion **40€** 
+
 ### ESPAGNE 
 - I'm Natural Don't Panic - Coruña del Conde - Albillo Mayor **39€** 
 
@@ -138,12 +134,15 @@ _Des allergies ? Prévenez-nous :) _
 ## Oranges 75cl
 
 ### ALSACE 
-- **L'oeuf ou la poule** - Clos Liebau 2023 - Gewurztraminer - Arômes de roses et d'épices **45€**
-- **Mañana** - Vincent Larcelet 2023 - Pinot noir, Gewurztraminer - Attaque ample, aromatique sur les fruits secs **35€**
+
 - **Achillée** - Riesling, gewurztraminer, pinot blanc - Sec, fruits confits, légère amertume **39€**
+  
 - **Pépin Orange** - Gewurztraminer - Aromatique, épicé, gourmand **39€** (Vin à la tireuse)
+  
 - **Pépin Grenache Blanc** - Grenache blanc **39€**
-- **Magnum Gauthier** - Jean-Marc Dreyer - 2021 - Auxerrois, Muscat, Riesling, Sylvaner - Frais, vif, belle minéralité et acidité bien intégrées **140 €** (150 cl)
+
+### BEAUJOLAIS 
+- Domaine Bélicard - Orange 2020 - Gamay, notes oxydatives **38€** 
 
 ### RHONE 
 - **Domaine du Petit Oratoire** - Sacha - Sauvignon blanc, chardonnay - Belle vivacité, arômes de pêches blanches **40€**
@@ -151,9 +150,6 @@ _Des allergies ? Prévenez-nous :) _
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **59€**
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **69€**
-
-### SUD OUEST 
-- **Le Petit Pertus** - Emma Jenkins - 2024 - Sémillion **39€** 
 
 ### ITALIE
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - Moelleux, fruité, richesse aromatique (abricot, pêche, poire) **69€** (50cl)
@@ -188,7 +184,10 @@ _Des allergies ? Prévenez-nous :) _
 - **De Vini** - 0,72 Rouge - 2019 - Syrah, grenache **38€**
   
 ### PYRÉNÉES-ORIENTALES
-- **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl) 
+- **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl)
+
+### SUD OUEST 
+- **Bois Moisset** - Rencontre 2020 - Syrah, braucol, duras **36€**
 
 
 [haut de page](#menu)
