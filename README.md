@@ -45,15 +45,15 @@ _Des allergies ? Prévenez-nous :) _
 # Carte des Softs, Bières et Vins
 
 ## Soft
-**Oma Frida** 
-- Boisson pétillante élaborée à partir de raisin et d'ingrédients naturels, bouteille 75cl **26€** 
-
+**Oma Frida** **6,50€** 
+- Verre
+  
 **Lemonaide** **5,50€**
 - Limonade bio naturelle au gingembre et au citron, 33cl
 
-**Douze canette, pétillant sans alcool** **6€**
-- Abricot & Zaatar
-- Orange sanguine & Piment 
+**Douze, pétillant sans alcool** **6€** 
+- Abricot & Zaatar, 250ml
+- Orange sanguine & Piment, 250ml en bouteille de 75cl **26€** 
   
 **San Pellegrino** **4,50€**
 - Eau pétillante, 33cl
@@ -69,7 +69,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Vins au verre
 
 ### Rouge
-- 0,72 Rouge - Loire - Syrah, grenache, viognier - Floral, structuré **8€**
+- Bois Moisset, Rencontre, Sud-Ouest, Syrah, duras, braucol, Arômes de fruits rouges, cuir, épices, violette **8€**
   
 ### Blancs
 - Plein Sud - Domaine du Petit Oratoire - Rhône - Grenache Blanc, Clairette -  Arômes de poire, vif, belle acidité **8€**
@@ -92,13 +92,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Pétillants 75cl 
 
 ## ALSACE
-- Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€
-
-## BEAUJOLAIS 
-- Domaine Bélicard - Pet Nat 2022 - Gamay **38€**
-
-## HONGRIE 
-- Bencze 2022 - Pétillant naturel - Pinot noir, chenin, pinot blanc **48€**
+- Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€**
 
 ## Blancs 75cl
 
@@ -110,9 +104,6 @@ _Des allergies ? Prévenez-nous :) _
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €**
-
-### GRECE
-- **Livia** - Sous le végétal - Muscat d'Alexandrie **45€**
 
 ### LOIRE
 - **De Vini** - 0,72 Blanc 2019 - Melon de Bourgogne **38€**
@@ -130,7 +121,7 @@ _Des allergies ? Prévenez-nous :) _
 - Château Fredignac - Back to Blaye 2025 - Sauvignon, sémillion **40€** 
 
 ### ESPAGNE 
-- I'm Natural Don't Panic - Coruña del Conde - Albillo Mayor **39€** 
+- I'm Natural Don't Panic - Coruña del Conde - Albillo Mayor **37€**
 
 [haut de page](#menu)
 
@@ -152,6 +143,7 @@ _Des allergies ? Prévenez-nous :) _
   
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **59€**
+  
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **69€**
 
 ### ITALIE
@@ -184,13 +176,12 @@ _Des allergies ? Prévenez-nous :) _
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
-- **De Vini** - 0,72 Rouge - 2019 - Syrah, grenache **38€**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl)
 
 ### SUD OUEST 
-- **Bois Moisset** - Rencontre 2020 - Syrah, braucol, duras **36€**
+- **Bois Moisset** - Rencontre 2020 - Syrah, braucol, duras **37€**
 
 
 [haut de page](#menu)
