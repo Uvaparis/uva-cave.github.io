@@ -45,8 +45,8 @@ _Des allergies ? Prévenez-nous :) _
 # Carte des Softs, Bières et Vins
 
 ## Soft
-**Oma Frida** **6,50€** 
-- Verre
+**Oma Frida, Pétillant sans alcool** **6,50€** 
+- Verre de verjus et infusions florales 
   
 **Lemonaide** **5,50€**
 - Limonade bio naturelle au gingembre et au citron, 33cl
