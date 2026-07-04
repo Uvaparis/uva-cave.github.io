@@ -165,6 +165,9 @@ _Des allergies ? Prévenez-nous :) _
 - **Sylvain Bock** - Neck plus ultra - Grenache noir - **40€**
 - **Les Bois Perdus** - Aphrodite 2022 - Syrah, grenache - **40€** 
 - **Le Vin des Pauzes** - Cabosse 2023 - Grenache noir - **41€**
+
+### BEAUJOLAIS
+- **Yvernay** - De dame et d'homme - 2023 - Gamay **39€**
   
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
