@@ -28,7 +28,7 @@ Bouteilles (75cl):
 - Brillat Savarin **10€**
 - Saint-Nectaire **9€**
 - Comté 18 mois Marcel Petite Jura **10€**
-- Tomme fermière du Jura à l'ail des ours **10€** 
+- Tomme fermière **10€** 
 - Assiette de fromages et charcuteries du moment **26€**
 
 **Viande / Meat**
@@ -46,20 +46,24 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Soft
 
+**Charitea** **5,50€**
+- Thé vert bio glacé, 33cl 
+
 **Douze canette, pétillant sans alcool** **6€** 
 - Abricot & Zaatar, 250ml
 - Orange sanguine & Piment, 250ml en bouteille de 75cl **26€** 
   
-**San Pellegrino** **4,50€**
-- Eau pétillante, 33cl
+**San Pellegrino, eau pétillante** 
+- Canette 33cl **4,50€**
+- Bouteille 75cl **7€**
 
 **Thonon** **7€**
 - Eau minérale naturelle des Alpes, 75cl 
 
 ## BIERE EN BOUTEILLE 
 - Cantillon - Bruxelles - Cuvée Saint-Gilloise - Malt d'orge & Froment Bio, 75cl **30€**
-- Super Bock - Portugal - Bière Blonde, 33cl **5,50€**
-- L.B.F - IPA - France - Bière artisanale, 33cl **6,50€** 
+- Super Bock - Bière Blonde, 33cl **5,50€**
+- IPA - Bière Parigot, 33cl **6,50€** 
 
 ## Vins au verre
 
@@ -67,7 +71,6 @@ _Des allergies ? Prévenez-nous :) _
 - Bois Moisset, Rencontre, Sud-Ouest, Syrah, duras, braucol, Arômes de fruits rouges, cuir, épices, violette **8€**
   
 ### Blancs
-- Plein Sud - Domaine du Petit Oratoire - Rhône - Grenache Blanc, Clairette -  Arômes de poire, vif, belle acidité **8€**
 - Pépin Blanc - Auxerrois, riesling, pinot blanc - Alsace - Sec, minéral **8€** (Vin à la tireuse)  
   
 ### Orange
@@ -93,30 +96,18 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ALSACE 
 - **Pépin Blanc** - Auxerrois, riesling, pinot blanc **39€** (Vin à la tireuse)
-
-### AUVERGNE 
-- **Les chemins de l'Arkose** - L'Autre rive - Chardonnay **41€**
   
 ### BOURGOGNE
-- **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **90 €**
-
-### LOIRE
-- **De Vini** - 0,72 Blanc 2019 - Melon de Bourgogne **38€**
+- **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **69€**
 
 ### HONGRIE
-- **Istvan Bencze** - Riesling 2020 **58 €**
-
-### RHONE 
-- **Domaine du Petit Oratoire** - Plein sud 2024 -  Grenache blanc, clairette **37€**
-
-### ROUSSILLON 
-- **Domaine Cotzé** - Transhumancia 2024 - Muscat petit grain **80€** (MAGNUM 150cl)
+- **Istvan Bencze** - Riesling 2020 **58€**
 
 ### SUD OUEST 
-- Château Fredignac - Back to Blaye 2025 - Sauvignon, sémillion **40€** 
+- Château Fredignac - Back to Blaye 2025 - Sauvignon, sémillion **39€**
 
 ### ESPAGNE 
-- I'm Natural Don't Panic - Coruña del Conde - Albillo Mayor **37€**
+- I'm Natural Don't Panic - Coruña del Conde - Albillo Mayor **35€**
 
 [haut de page](#menu)
 
