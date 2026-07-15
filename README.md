@@ -34,6 +34,7 @@ Bouteilles (75cl):
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
 - Coppa Piacentina AOP, échine de porc, salée **10€**
+- Bresaola **12,50€** 
 - Saucisson de l'Aveyron **7,5 €**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
 - Assiette mixte, fromages et charcuteries du moment **26€**
@@ -68,10 +69,12 @@ _Des allergies ? Prévenez-nous :) _
 ## Vins au verre
 
 ### Rouge
-- Bois Moisset, Rencontre, Sud-Ouest, Syrah, duras, braucol, Arômes de fruits rouges, cuir, épices, violette **8€**
+- Bois Moisset - Rencontre- Sud-Ouest - Syrah, duras, braucol, Arômes de fruits rouges, cuir, épices, violette **8€**
+- Yvernay - De dame et d'homme - Gamay - Léger, frais **8€**
   
 ### Blancs
-- Pépin Blanc - Auxerrois, riesling, pinot blanc - Alsace - Sec, minéral **8€** (Vin à la tireuse)  
+- Pépin Blanc - Auxerrois, riesling, pinot blanc - Alsace - Sec, minéral **8€** (Vin à la tireuse)
+- 0,72 Blanc - De Vini - Melon de Bourgogne - Sec, fruité **8€**
   
 ### Orange
 - Nicolas Chemarin - Hors Zone - Beaujolais - Vin à la tireuse - Rousette de Savoie en macération et presse directe de chardonnay **8€** en bouteille **38€**
@@ -92,10 +95,14 @@ _Des allergies ? Prévenez-nous :) _
 ## ALSACE
 - Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€**
 
+### LOIRE 
+- De Vini Bulles 2022 - Melon de Bourgogne **38€** 
+
 ## Blancs 75cl
 
 ### ALSACE 
 - **Pépin Blanc** - Auxerrois, riesling, pinot blanc **39€** (Vin à la tireuse)
+- **Théo Einhart** - Éveil 23/24 - Riesling, gewurztraminer, auxerrois **38€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **69€**
@@ -116,9 +123,6 @@ _Des allergies ? Prévenez-nous :) _
 ### ALSACE 
 
 - **Achillée** - Riesling, gewurztraminer, pinot blanc - Sec, fruits confits, légère amertume **39€**
-  
-- **Pépin Orange** - Gewurztraminer - Aromatique, épicé, gourmand **39€** (Vin à la tireuse)
-  
 - **Pépin Grenache Blanc** - Grenache blanc **39€**
 
 ### BEAUJOLAIS 
@@ -165,6 +169,7 @@ _Des allergies ? Prévenez-nous :) _
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
+- **Les vignes du fresche** - Radicalement Glou 2024 - Grolleau, gamay **37€**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl)
