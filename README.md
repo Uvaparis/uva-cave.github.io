@@ -105,6 +105,7 @@ _Des allergies ? Prévenez-nous :) _
 ### ALSACE 
 - **Pépin Blanc** - Auxerrois, riesling, pinot blanc **39€** (Vin à la tireuse)
 - **Théo Einhart** - Éveil 23/24 - Riesling, gewurztraminer, auxerrois **38€**
+- **Vanessa Letort** - Le Fringuant 2022 - Pinot gris, riesling, auxerrois **39€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **69€**
@@ -129,6 +130,7 @@ _Des allergies ? Prévenez-nous :) _
 
 - **Achillée** - Riesling, gewurztraminer, pinot blanc - Sec, fruits confits, légère amertume **39€**
 - **Pépin Grenache Blanc** - Grenache blanc **39€**
+- Vanessa Letort - Du vin aux liens - Vertige - Muscat **42€**
 
 ### BEAUJOLAIS 
 - Domaine Bélicard - Orange 2020 - Gamay, notes oxydatives **38€** 
