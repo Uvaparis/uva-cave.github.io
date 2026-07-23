@@ -50,15 +50,15 @@ _Des allergies ? Prévenez-nous :) _
 **Charitea** **5,50€**
 - Thé vert bio glacé, 33cl 
 
-**Douze, pétillant sans alcool** **6€** 
-- Orange sanguine & Piment au verre **6€**, en bouteille de 75cl **26€** 
+**Douze, pétillant sans alcool** **6€** au verre, **26€** en bouteille 75cl
+- Orange sanguine & Piment au verre 
   
 **San Pellegrino, eau pétillante** 
 - Canette 33cl **4,50€**
 - Bouteille 75cl **7€**
 
-**Thonon** **7€**
-- Eau minérale naturelle des Alpes, 75cl 
+**Thonon** 
+- Eau minérale naturelle des Alpes, 75cl **7€**
 
 ## BIERE EN BOUTEILLE 
 - Cantillon - Bruxelles - Cuvée Saint-Gilloise - Malt d'orge & Froment Bio, 75cl **30€**
