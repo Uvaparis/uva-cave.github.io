@@ -50,9 +50,8 @@ _Des allergies ? Prévenez-nous :) _
 **Charitea** **5,50€**
 - Thé vert bio glacé, 33cl 
 
-**Douze canette, pétillant sans alcool** **6€** 
-- Abricot & Zaatar, 250ml
-- Orange sanguine & Piment, 250ml en bouteille de 75cl **26€** 
+**Douze, pétillant sans alcool** **6€** 
+- Orange sanguine & Piment au verre **6€**, en bouteille de 75cl **26€** 
   
 **San Pellegrino, eau pétillante** 
 - Canette 33cl **4,50€**
@@ -68,13 +67,16 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Vins au verre
 
-### Rouge
-- Bois Moisset - Rencontre- Sud-Ouest - Syrah, duras, braucol, Arômes de fruits rouges, cuir, épices, violette **8€**
-- Yvernay - De dame et d'homme - Gamay - Léger, frais **8€**
+### Cidre 
+- Double jus 2023, Fred Pruchon Gewurtz/Riesling - Domaine AMI - Bourgogne **7€** 
   
 ### Blancs
 - Pépin Blanc - Auxerrois, riesling, pinot blanc - Alsace - Sec, minéral **8€** (Vin à la tireuse)
 - 0,72 Blanc - De Vini - Melon de Bourgogne - Sec, fruité **8€**
+
+### Rouge
+- Bois Moisset - Rencontre- Sud-Ouest - Syrah, duras, braucol, Arômes de fruits rouges, cuir, épices, violette **8€**
+- Yvernay - De dame et d'homme - Gamay - Léger, frais **8€**
   
 ### Orange
 - Nicolas Chemarin - Hors Zone - Beaujolais - Vin à la tireuse - Rousette de Savoie en macération et presse directe de chardonnay **8€** en bouteille **38€**
@@ -92,8 +94,8 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Pétillants 75cl 
 
-## ALSACE
-- Pépin Pét Nat 2024 - Riesling, gewurztraminer, pinot gris **39€**
+### ALSACE 
+- Farid Yahimi - Sons of wine - 404 Verdejo - 2023 - **38€** 
 
 ### LOIRE 
 - De Vini Bulles 2022 - Melon de Bourgogne **38€** 
