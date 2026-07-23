@@ -109,6 +109,9 @@ _Des allergies ? Prévenez-nous :) _
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **69€**
 
+## Loire 
+- P'tit chenin 2022, Adrien Delval, Domaine de la Futaie **39€**
+
 ### HONGRIE
 - **Istvan Bencze** - Riesling 2020 **58€**
 
@@ -129,9 +132,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### BEAUJOLAIS 
 - Domaine Bélicard - Orange 2020 - Gamay, notes oxydatives **38€** 
-
-### RHONE 
-- **Domaine du Petit Oratoire** - Sacha - Sauvignon blanc, chardonnay - Belle vivacité, arômes de pêches blanches **40€**
   
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **59€**
@@ -155,7 +155,6 @@ _Des allergies ? Prévenez-nous :) _
 ### AUVERGNE
 - **Justine Vigne** - 1826 - 2021 - Carignan - **50€**
 - **Sylvain Bock** - Neck plus ultra - Grenache noir - **40€**
-- **Les Bois Perdus** - Aphrodite 2022 - Syrah, grenache - **40€** 
 - **Le Vin des Pauzes** - Cabosse 2023 - Grenache noir - **41€**
 
 ### BEAUJOLAIS
@@ -172,13 +171,12 @@ _Des allergies ? Prévenez-nous :) _
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
 - **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
 - **Les vignes du fresche** - Radicalement Glou 2024 - Grolleau, gamay **37€**
+
+### LORRAINE 
+- Domaine de la légèreté - Pinot noir 2022 - **36€** 
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl)
-
-### SUD OUEST 
-- **Bois Moisset** - Rencontre 2020 - Syrah, braucol, duras **37€**
-
 
 [haut de page](#menu)
 
