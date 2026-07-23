@@ -24,7 +24,6 @@ Bouteilles (75cl):
 **Fromages / Cheese**
 (servis avec huile d'olive & poivre)
 
-- Burrata 250g **13€**
 - Brillat Savarin **10€**
 - Saint-Nectaire **9€**
 - Comté 18 mois Marcel Petite Jura **10€**
@@ -34,7 +33,6 @@ Bouteilles (75cl):
 **Viande / Meat**
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
 - Coppa Piacentina AOP, échine de porc, salée **10€**
-- Bresaola **12,50€** 
 - Saucisson de l'Aveyron **7,5 €**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
 - Assiette mixte, fromages et charcuteries du moment **26€**
