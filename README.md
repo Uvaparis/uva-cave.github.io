@@ -95,7 +95,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Pétillants 75cl 
 
 ### ALSACE 
-- Farid Yahimi - Sons of wine - 404 Verdejo - 2023 - **38€** 
+- Farid Yahimi - Sons of wine - 404 Verdejo - 2023 **38€** 
 
 ### LOIRE 
 - De Vini Bulles 2022 - Melon de Bourgogne **38€** 
@@ -108,7 +108,7 @@ _Des allergies ? Prévenez-nous :) _
 - **Vanessa Letort** - Le Fringuant 2022 - Pinot gris, riesling, auxerrois **39€**
   
 ### BOURGOGNE
-- **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay - **69€**
+- **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **69€**
 
 ## Loire 
 - P'tit chenin 2022, Adrien Delval, Domaine de la Futaie **39€**
