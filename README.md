@@ -70,12 +70,12 @@ _Des allergies ? Prévenez-nous :) _
 - Double jus 2023, Fred Pruchon Gewurtz/Riesling - Domaine AMI - Bourgogne **7€** 
   
 ### Blancs
-- Château de Fredignac - Back to Blaye - Sauvignon, sémillion **8€**
-- 0,72 Blanc - De Vini - Melon de Bourgogne - Sec, fruité **8€**
+- Château de Fredignac - Bordeaux - Back to Blaye - Sauvignon, sémillion **8€**
+- 0,72 Blanc - Loire-  De Vini - Melon de Bourgogne - Sec, fruité **8€**
 
 ### Rouge
-- 0,72 Rouge - Arômes de fruits noirs, épices **8€**
-- Glou - Les vignes du Freshe - Gamay - Léger, frais **8€**
+- 0,72 Rouge - Loire - Arômes de fruits noirs, épices **8€**
+- Glou - Les vignes du Freshe - Beaujolais - Gamay, Grolleau - Léger, frais **8€**
   
 ### Orange
 - Nicolas Chemarin - Hors Zone - Beaujolais - Vin à la tireuse - Rousette de Savoie en macération et presse directe de chardonnay **8€** en bouteille **38€**
@@ -173,7 +173,7 @@ _Des allergies ? Prévenez-nous :) _
 - **Les vignes du fresche** - Radicalement Glou 2024 - Grolleau, gamay **37€**
 
 ### LORRAINE 
-- Domaine de la légèreté - Pinot noir 2022 - **36€** 
+- **Domaine de la légèreté** - Pinot noir 2022 - **36€** 
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl)
