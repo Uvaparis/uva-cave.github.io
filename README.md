@@ -70,12 +70,12 @@ _Des allergies ? Prévenez-nous :) _
 - Double jus 2023, Fred Pruchon Gewurtz/Riesling - Domaine AMI - Bourgogne **7€** 
   
 ### Blancs
-- Pépin Blanc - Auxerrois, riesling, pinot blanc - Alsace - Sec, minéral **8€** (Vin à la tireuse)
+- Château de Fredignac - Back to Blaye - Sauvignon, sémillion **8€**
 - 0,72 Blanc - De Vini - Melon de Bourgogne - Sec, fruité **8€**
 
 ### Rouge
-- Bois Moisset - Rencontre- Sud-Ouest - Syrah, duras, braucol, Arômes de fruits rouges, cuir, épices, violette **8€**
-- Yvernay - De dame et d'homme - Gamay - Léger, frais **8€**
+- 0,72 Rouge - Arômes de fruits noirs, épices **8€**
+- Glou - Les vignes du Freshe - Gamay - Léger, frais **8€**
   
 ### Orange
 - Nicolas Chemarin - Hors Zone - Beaujolais - Vin à la tireuse - Rousette de Savoie en macération et presse directe de chardonnay **8€** en bouteille **38€**
@@ -102,7 +102,6 @@ _Des allergies ? Prévenez-nous :) _
 ## Blancs 75cl
 
 ### ALSACE 
-- **Pépin Blanc** - Auxerrois, riesling, pinot blanc **39€** (Vin à la tireuse)
 - **Théo Einhart** - Éveil 23/24 - Riesling, gewurztraminer, auxerrois **38€**
 - **Vanessa Letort** - Le Fringuant 2022 - Pinot gris, riesling, auxerrois **39€**
   
@@ -110,7 +109,7 @@ _Des allergies ? Prévenez-nous :) _
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **69€**
 
 ## Loire 
-- P'tit chenin 2022, Adrien Delval, Domaine de la Futaie **39€**
+- **P'tit chenin** - Adrien Delval - Domaine de la Futaie - Chenin **39€**
 
 ### HONGRIE
 - **Istvan Bencze** - Riesling 2020 **58€**
@@ -129,10 +128,10 @@ _Des allergies ? Prévenez-nous :) _
 
 - **Achillée** - Riesling, gewurztraminer, pinot blanc - Sec, fruits confits, légère amertume **39€**
 - **Pépin Grenache Blanc** - Grenache blanc **39€**
-- Vanessa Letort - Du vin aux liens - Vertige - Muscat **42€**
+- **Vanessa Letort** Du vin aux liens - Vertige - Muscat **42€**
 
 ### BEAUJOLAIS 
-- Domaine Bélicard - Orange 2020 - Gamay, notes oxydatives **38€** 
+- **Domaine Bélicard** - Orange 2020 - Gamay, notes oxydatives **38€** 
   
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **59€**
@@ -155,7 +154,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### AUVERGNE
 - **Justine Vigne** - 1826 - 2021 - Carignan - **50€**
-- **Sylvain Bock** - Neck plus ultra - Grenache noir - **40€**
 - **Le Vin des Pauzes** - Cabosse 2023 - Grenache noir - **41€**
 
 ### BEAUJOLAIS
@@ -167,6 +165,7 @@ _Des allergies ? Prévenez-nous :) _
 ### JURA 
 - **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **45€**
 - **L'oiseau rôdeur** - Marie & Thomas - Eau fugitive 2024 - Poulsard **55€**
+- **France Gonzalvez** - Miss Mond' - Mondeuse 2022 **43€**
 
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
