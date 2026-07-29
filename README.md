@@ -49,8 +49,9 @@ _Des allergies ? Prévenez-nous :) _
 **Charitea** **5,50€**
 - Thé vert bio glacé, 33cl 
 
-**Douze, pétillant sans alcool** **6€** au verre, **26€** en bouteille 75cl
-- Orange sanguine & Piment au verre 
+**Douze, pétillant sans alcool** en canette 33cl 
+- Abricot Zaatar **6,50€**
+- Orange Sanguine & Piment **6,50€**
   
 **San Pellegrino, eau pétillante** 
 - Canette 33cl **4,50€**
@@ -67,21 +68,22 @@ _Des allergies ? Prévenez-nous :) _
 ## Vins au verre
 
 ### Cidre 
-- Double jus 2023, Fred Pruchon Gewurtz/Riesling - Domaine AMI - Bourgogne **7€** 
+- Double jus 2023, Fred Pruchon Gewurtz/Riesling - Domaine AMI - Bourgogne **6€**
   
 ### Blancs
-- Château de Fredignac - Bordeaux - Back to Blaye - Sauvignon, sémillion **8€**
-- 0,72 Blanc - Loire-  De Vini - Melon de Bourgogne - Sec, fruité **8€**
+- Château de Fredignac - Bordeaux - Back to Blaye - Sauvignon, Sémillion - Rond, fruité **8€**
+- 0,72 Blanc - Loire -  De Vini - Melon de Bourgogne - Sec, vif **6€**
+- Pépin Blanc - Alsace - Pinot blanc, auxerrois **6€**
 
 ### Rouge
-- 0,72 Rouge - Loire - Arômes de fruits noirs, épices **8€**
-- Glou - Les vignes du Freshe - Beaujolais - Gamay, Grolleau - Léger, frais **8€**
+- 0,72 Rouge - Loire - Arômes de fruits noirs, épices **6€**
+- Smack - Nicolas Chemarin - Beaujolais - Gamay - Léger, frais **6€**
   
 ### Orange
-- Nicolas Chemarin - Hors Zone - Beaujolais - Vin à la tireuse - Rousette de Savoie en macération et presse directe de chardonnay **8€** en bouteille **38€**
+- Nicolas Chemarin - Hors Zone - Beaujolais - Vin à la tireuse - Roussette de Savoie en macération et presse directe de chardonnay **6€**
   
 ### Rosé 
-- Embuscade - Les 2 Fauves - Auvergne - Merlot - léger, fruité  **8€** 
+- Embuscade - Les 2 Fauves - Auvergne - Merlot - léger, fruité  **6€**
 
 [haut de page](#menu)
 
@@ -96,46 +98,44 @@ _Des allergies ? Prévenez-nous :) _
 ### ALSACE 
 - Farid Yahimi - Sons of wine - 404 Verdejo - 2023 **38€** 
 
-### LOIRE 
-- De Vini Bulles 2022 - Melon de Bourgogne **38€** 
+### BEAUJOLAIS
+- Domaine Bélicard Rosé - Pét Nat - Merlot, Cabernet Sauvignon **39€**
 
 ## Blancs 75cl
 
 ### ALSACE 
-- **Théo Einhart** - Éveil 23/24 - Riesling, gewurztraminer, auxerrois **38€**
 - **Vanessa Letort** - Le Fringuant 2022 - Pinot gris, riesling, auxerrois **39€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **69€**
 
-## Loire 
+### LOIRE 
 - **P'tit chenin** - Adrien Delval - Domaine de la Futaie - Chenin **39€**
+- **0,72** - De Vini - Melon de Bourgogne **38€**
 
 ### HONGRIE
 - **Istvan Bencze** - Riesling 2020 **58€**
 
-### SUD OUEST 
-- Château Fredignac - Back to Blaye 2025 - Sauvignon, sémillion **39€**
+### RHÔNE MÉRIDIONAL
+- **Les grandes serres** - The Wine Witch 2025 - Vermentino, Clairette, Marsanne **40€**
 
-### ESPAGNE 
-- I'm Natural Don't Panic - Coruña del Conde - Albillo Mayor **35€**
+### SUD OUEST 
+- **Château Fredignac** - Back to Blaye 2025 - Sauvignon, sémillion **39€**
+
 
 [haut de page](#menu)
 
 ## Oranges 75cl
 
 ### ALSACE 
-
-- **Achillée** - Riesling, gewurztraminer, pinot blanc - Sec, fruits confits, légère amertume **39€**
-- **Pépin Grenache Blanc** - Grenache blanc **39€**
 - **Vanessa Letort** Du vin aux liens - Vertige - Muscat **42€**
+- **Théo Einhart** - Éveil 23/24 - Riesling, gewurztraminer, auxerrois **38€**
 
 ### BEAUJOLAIS 
 - **Domaine Bélicard** - Orange 2020 - Gamay, notes oxydatives **38€** 
   
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **59€**
-  
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **69€**
 
 ### ITALIE
@@ -153,11 +153,10 @@ _Des allergies ? Prévenez-nous :) _
 ## Rouges 75cl
 
 ### AUVERGNE
-- **Justine Vigne** - 1826 - 2021 - Carignan - **50€**
-- **Le Vin des Pauzes** - Cabosse 2023 - Grenache noir - **41€**
+- **Justine Vigne** - 1826 - 2021 - Carignan **50€**
 
 ### BEAUJOLAIS
-- **Yvernay** - De dame et d'homme - 2023 - Gamay **39€**
+- **Smack** - Nicolas Chemarin 2024 - Gamay **38€**
   
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
@@ -169,11 +168,9 @@ _Des allergies ? Prévenez-nous :) _
 
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
-- **J-P Robinot** - Lumière des Sens - 2020 - Pineau d’aunis - **68€**
-- **Les vignes du fresche** - Radicalement Glou 2024 - Grolleau, gamay **37€**
-
+  
 ### LORRAINE 
-- **Domaine de la légèreté** - Pinot noir 2022 - **36€** 
+- **Domaine de la légèreté** - Pinot noir 2022 - **37€**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl)
