@@ -69,9 +69,13 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Cidre 
 - Double jus 2023, Fred Pruchon Gewurtz/Riesling - Domaine AMI - Bourgogne **6€**
+
+### Pétillant Naturel Rosé 
+- Pet Not - Belicard - Beaujolais - Gamay **8€**
   
 ### Blancs
-- 0,72 Blanc - Loire -  De Vini - Melon de Bourgogne - Sec, vif **8€**
+-  The Wine Witch - Les Grandes Serres - Vaucluse -  Vermentino, clairette, marsanne **8€**
+-  0,72 Blanc - Loire -  De Vini - Melon de Bourgogne - Sec, vif **8€**
 
 ### Rouge
 - 0,72 Rouge - Loire - Arômes de fruits noirs, épices **8€**
@@ -97,7 +101,7 @@ _Des allergies ? Prévenez-nous :) _
 - Farid Yahimi - Sons of wine - 404 Verdejo - 2023 **38€** 
 
 ### BEAUJOLAIS
-- Domaine Bélicard Rosé - Pét Nat - Merlot, Cabernet Sauvignon **39€**
+- Domaine Bélicard Rosé - Pét Nat - Gamay **39€**
 
 ## Blancs 75cl
 
