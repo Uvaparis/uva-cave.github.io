@@ -71,19 +71,17 @@ _Des allergies ? Prévenez-nous :) _
 - Double jus 2023, Fred Pruchon Gewurtz/Riesling - Domaine AMI - Bourgogne **6€**
   
 ### Blancs
-- Château de Fredignac - Bordeaux - Back to Blaye - Sauvignon, Sémillion - Rond, fruité **8€**
-- 0,72 Blanc - Loire -  De Vini - Melon de Bourgogne - Sec, vif **6€**
-- Pépin Blanc - Alsace - Pinot blanc, auxerrois **6€**
+- 0,72 Blanc - Loire -  De Vini - Melon de Bourgogne - Sec, vif **8€**
 
 ### Rouge
-- 0,72 Rouge - Loire - Arômes de fruits noirs, épices **6€**
-- Smack - Nicolas Chemarin - Beaujolais - Gamay - Léger, frais **6€**
+- 0,72 Rouge - Loire - Arômes de fruits noirs, épices **8€**
+- Smack - Nicolas Chemarin - Beaujolais - Gamay - Léger, frais **8€**
   
 ### Orange
-- Nicolas Chemarin - Hors Zone - Beaujolais - Vin à la tireuse - Roussette de Savoie en macération et presse directe de chardonnay **6€**
+- Nicolas Chemarin - Hors Zone - Beaujolais - Vin à la tireuse - Roussette de Savoie en macération et presse directe de chardonnay **8€*-
   
 ### Rosé 
-- Embuscade - Les 2 Fauves - Auvergne - Merlot - léger, fruité  **6€**
+- Embuscade - Les 2 Fauves - Auvergne - Merlot - léger, fruité  **8€**
 
 [haut de page](#menu)
 
