@@ -121,10 +121,6 @@ _Des allergies ? Prévenez-nous :) _
 ### RHÔNE MÉRIDIONAL
 - **Les grandes serres** - The Wine Witch 2025 - Vermentino, Clairette, Marsanne **40€**
 
-### SUD OUEST 
-- **Château Fredignac** - Back to Blaye 2025 - Sauvignon, sémillion **39€**
-
-
 [haut de page](#menu)
 
 ## Oranges 75cl
