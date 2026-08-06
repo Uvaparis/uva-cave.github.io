@@ -26,7 +26,7 @@ Bouteilles (75cl):
 
 - Brillat Savarin **10€**
 - Saint-Nectaire **9€**
-- Ossau Iraty **8€**
+- Ossau Iraty Primeur AOP **8€**
 - Comté 18 mois Marcel Petite Jura **10€**
 - Tomme fermière **10€** 
 - Assiette de fromages et charcuteries du moment **26€**
