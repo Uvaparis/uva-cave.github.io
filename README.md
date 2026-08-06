@@ -169,10 +169,13 @@ _Des allergies ? Prévenez-nous :) _
 - **France Gonzalvez** - Miss Mond' - Mondeuse 2022 **43€**
 
 ### LOIRE
-- **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
+- **R. Guettier MAGNUM** - Enchanteresse 2016 - Pineau d’aunis - **133€** (150 cl)
   
 ### PYRÉNÉES-ORIENTALES
-- **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl)
+- **Domaine Cotzé MAGNUM** -  Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl)
+
+### SUD-OUEST 
+- **Bois Moisset** - Phillipe M’affréta - Rencontre 2019 - Syrah, Duras et Brocol **36€**
 
 [haut de page](#menu)
 
