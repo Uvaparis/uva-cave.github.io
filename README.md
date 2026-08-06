@@ -99,7 +99,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Pétillants 75cl 
 
 ### ALSACE 
-- Farid Yahimi - Sons of wine - 404 Verdejo - 2023 **38€** 
+- Farid Yahimi - Sons of wine - 404 Verdejo - 2023 **36€**
 
 ### BEAUJOLAIS
 - Domaine Bélicard Rosé - Pét Nat - Gamay **39€**
