@@ -68,7 +68,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Vins au verre
 
 ### Cidre 
-- Double jus 2023, Fred Pruchon Gewurtz/Riesling - Domaine AMI - Bourgogne **6€**
+- Double jus 2023, Fred Pruchon Gewurtz/Riesling - Domaine AMI - Bourgogne **7€**
 
 ### Pétillant Naturel Rosé 
 - Pet Not - Belicard - Beaujolais - Gamay **8€**
@@ -91,7 +91,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Cidre
 ### LOIRE
-- Double jus - Cidre Fred Pruchon - Domaine Ami - Gewurtz/Riesling **30€**
+- Double jus - Cidre Fred Pruchon - Domaine Ami - Gewurtz/Riesling **29€**
 
 [haut de page](#menu)
 
@@ -166,9 +166,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse - 2016 - Pineau d’aunis - **133€** (150 cl)
-  
-### LORRAINE 
-- **Domaine de la légèreté** - Pinot noir 2022 - **37€**
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé MAGNUM**- Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl)
