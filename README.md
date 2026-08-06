@@ -26,6 +26,7 @@ Bouteilles (75cl):
 
 - Brillat Savarin **10€**
 - Saint-Nectaire **9€**
+- Ossau Iraty **8€**
 - Comté 18 mois Marcel Petite Jura **10€**
 - Tomme fermière **10€** 
 - Assiette de fromages et charcuteries du moment **26€**
@@ -34,7 +35,7 @@ Bouteilles (75cl):
 - Pâté de campagne artisanal - Maison Montalet (120g) **10€**
 - Bresaola Punta d'anca, viande de boeuf **12,50€**
 - Coppa Piacentina AOP, échine de porc, salée **10€**
-- Saucisson de l'Aveyron **7,5 €**
+- Saucisson sec à la truffe d’été **7,5€**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
 - Assiette mixte, fromages et charcuteries du moment **26€**
 
