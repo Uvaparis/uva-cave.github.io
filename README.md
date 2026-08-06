@@ -83,7 +83,7 @@ _Des allergies ? Prévenez-nous :) _
 - Smack - Nicolas Chemarin - Beaujolais - Gamay - Léger, frais **8€**
   
 ### Orange
-- Nicolas Chemarin - Hors Zone - Beaujolais - Vin à la tireuse - Roussette de Savoie en macération et presse directe de chardonnay **8€*-
+- Domaine Bélicard - Orange 2020 - Gamay, notes oxydatives **8€**
   
 ### Rosé 
 - Embuscade - Les 2 Fauves - Auvergne - Merlot - léger, fruité  **8€**
