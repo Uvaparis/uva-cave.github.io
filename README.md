@@ -159,6 +159,9 @@ _Des allergies ? Prévenez-nous :) _
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
 
+### LOIRE 
+- **Radicalement Glou** - Les Vignes du Fresche - Gamay **37€**
+
 ### JURA 
 - **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **45€**
 - **L'oiseau rôdeur** - Marie & Thomas - Eau fugitive 2024 - Poulsard **55€**
