@@ -119,8 +119,10 @@ _Des allergies ? Prévenez-nous :) _
 ### HONGRIE
 - **Istvan Bencze** - Riesling 2020 **58€**
 
-### RHÔNE MÉRIDIONAL
+### RHÔNE 
 - **Les grandes serres** - The Wine Witch 2025 - Vermentino, Clairette, Marsanne **40€**
+- **Etienne Seignovert** - Murmure de l’eau 2025 - Jacquère, Marsanne **45€**
+- **Oratoire** - Plein sud 2024 - Grenache blanc, clairette, viognier **36€**
 
 [haut de page](#menu)
 
