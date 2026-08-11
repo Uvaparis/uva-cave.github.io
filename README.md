@@ -74,8 +74,8 @@ _Des allergies ? Prévenez-nous :) _
 - Pet Not - Belicard - Beaujolais - Gamay **8€**
   
 ### Blancs
--  Plein Sud - Gard - Grenache blanc, Clairette et Viognier **7€** 
--  0,72 Blanc - Loire -  De Vini - Melon de Bourgogne - Sec, vif **8€**
+-  Plein Sud - Gard - Grenache blanc, Clairette et Viognier - Notes de fruits jaunes, pêche, abricot, sec **7€** 
+-  0,72 Blanc - Loire -  De Vini - Melon de Bourgogne - Sec, salin **8€**
 
 ### Rouge
 - 0,72 Rouge - Loire - Arômes de fruits noirs, épices **8€**
