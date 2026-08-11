@@ -74,7 +74,7 @@ _Des allergies ? Prévenez-nous :) _
 - Pet Not - Belicard - Beaujolais - Gamay **8€**
   
 ### Blancs
--  The Wine Witch - Les Grandes Serres - Vaucluse -  Vermentino, clairette, marsanne **8€**
+-  Plein Sud - Gard - Grenache blanc, Clairette et Viognier **7€** 
 -  0,72 Blanc - Loire -  De Vini - Melon de Bourgogne - Sec, vif **8€**
 
 ### Rouge
