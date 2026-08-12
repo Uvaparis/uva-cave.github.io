@@ -114,13 +114,12 @@ _Des allergies ? Prévenez-nous :) _
 ### LOIRE 
 - **P'tit chenin** - Adrien Delval - Domaine de la Futaie - Chenin **39€**
 - **0,72** - De Vini - Melon de Bourgogne **38€**
-- **Brazilier** - Chenin - **38€**
+- **Domaine Brazilier** - AOP Coteaux du vendômois - Chenin - **38€**
 
 ### HONGRIE
 - **Istvan Bencze** - Riesling 2020 **58€**
 
 ### RHÔNE 
-- **Les grandes serres** - The Wine Witch 2025 - Vermentino, Clairette, Marsanne **40€**
 - **Etienne Seignovert** - Murmure de l’eau 2025 - Jacquère, Marsanne **45€**
 - **Oratoire** - Plein sud 2024 - Grenache blanc, clairette, viognier **36€**
 
