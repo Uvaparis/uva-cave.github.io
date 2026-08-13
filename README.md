@@ -82,7 +82,7 @@ _Des allergies ? Prévenez-nous :) _
 - Smack - Nicolas Chemarin - Beaujolais - Gamay - Léger, frais **8€**
   
 ### Orange
-- Sacha - Rhône - Macération de 11 jours - Clairette, roussane, Grenache noir - Du fruits, légère amertume **8€**
+- Pépin Orange - Gewurztraminer macéré 1 semaine assemblé à des raisins blancs, du fruits de la fraîcheur, saveurs de pêche jaune, d’abricot sec **8€**
   
 ### Rosé 
 - Embuscade - Les 2 Fauves - Auvergne - Merlot - léger, fruité  **8€**
