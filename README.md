@@ -129,7 +129,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ALSACE 
 - **Vanessa Letort** Du vin aux liens - Vertige - Muscat **42€**
-- **Théo Einhart** - Éveil 23/24 - Riesling, gewurztraminer, auxerrois **38€**
+- **Pépin Orange** Vin à la tireuse - Gewurztraminer macéré 1 semaine assemblé à des raisins blancs, du fruits de la fraîcheur, saveurs de pêche jaune, d’abricot sec **39€**
 
 ### BEAUJOLAIS 
 - **Domaine Bélicard** - Orange 2020 - Gamay, notes oxydatives **38€**
