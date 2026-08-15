@@ -69,9 +69,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Cidre 
 - Double jus 2023, Fred Pruchon Gewurtz/Riesling - Domaine AMI - Bourgogne **7€**
-
-### Pétillant Naturel Rosé 
-- Pet Not - Belicard - Beaujolais - Gamay **8€**
   
 ### Blancs
 -  Plein Sud - Gard - Grenache blanc, Clairette et Viognier - Notes de fruits jaunes, pêche, abricot, sec **7€** 
