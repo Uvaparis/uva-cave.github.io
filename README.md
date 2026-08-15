@@ -135,7 +135,7 @@ _Des allergies ? Prévenez-nous :) _
 - **Domaine Bélicard** - Orange 2020 - Gamay, notes oxydatives **38€**
 
 ### RHÔNE 
-- **Oratoire** - Sacha 2025 - Macération de 15 jours Clairette, roussanne **40€**
+- **Sacha** - Domaine du petit oratoire - Macération de 15 jours Clairette, roussanne **40€**
   
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **59€**
