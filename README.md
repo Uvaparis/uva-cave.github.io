@@ -79,7 +79,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Rouge
 - 0,72 Rouge - Loire - Arômes de fruits noirs, épices **8€**
-- Smack - Nicolas Chemarin - Beaujolais - Gamay - Léger, frais **8€**
+- Les Vignes du Fresche - Radicalement Glou - Anjou - Gamay - Grolleau Léger, frais **8€**
   
 ### Orange
 - Pépin Orange - Gewurztraminer macéré 1 semaine assemblé à des raisins blancs, du fruits de la fraîcheur, saveurs de pêche jaune, d’abricot sec **8€**
