@@ -157,15 +157,12 @@ _Des allergies ? Prévenez-nous :) _
 
 ### AUVERGNE
 - **Justine Vigne** - 1826 - 2021 - Carignan **50€**
-
-### BEAUJOLAIS
-- **Smack** - Nicolas Chemarin 2024 - Gamay **38€**
   
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
 
 ### LOIRE 
-- **Radicalement Glou** - Les Vignes du Fresche - Gamay **37€**
+- **Radicalement Glou** - Les Vignes du Fresche - Gamay, grolleau **37€**
 
 ### JURA 
 - **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **45€**
@@ -179,7 +176,7 @@ _Des allergies ? Prévenez-nous :) _
 - **Domaine Cotzé MAGNUM** -  Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl)
 
 ### SUD-OUEST 
-- **Bois Moisset** - Phillipe M’affréta - Rencontre 2019 - Syrah, Duras et Brocol **36€**
+- **Bois Moisset** - Phillipe Maffre - Rencontre 2019 - Syrah, Duras et Brocol **36€**
 
 [haut de page](#menu)
 
