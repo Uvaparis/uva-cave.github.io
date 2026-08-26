@@ -163,7 +163,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### JURA 
 - **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **45€**
-- **L'oiseau rôdeur** - Marie & Thomas - Eau fugitive 2024 - Poulsard **55€**
+- **L'oiseau rôdeur** - Marie & Thomas - Eau fugitive 2024 - Poulsard **45€**
 - **France Gonzalvez** - Miss Mond' - Mondeuse 2022 **43€**
 
 ### LOIRE
