@@ -24,7 +24,7 @@ Bouteilles (75cl):
 **Fromages / Cheese**
 (servis avec huile d'olive & poivre)
 
-- Brillat Savarin **8€**
+- Brillat Savarin **10€** 
 - Saint-Nectaire **9€**
 - Ossau Iraty Primeur AOP **8€**
 - Comté 18 mois Marcel Petite Jura **10€**
