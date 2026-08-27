@@ -72,10 +72,10 @@ _Des allergies ? Prévenez-nous :) _
   
 ### Blancs
 -  Plein Sud - Gard - Grenache blanc, Clairette et Viognier - Notes de fruits jaunes, pêche, abricot, sec **7€** 
--  0,72 Blanc - Loire -  De Vini - Melon de Bourgogne - Sec, salin **8€**
+-  Domaine Brazilier - Loire - AOP Coteaux du vendômois - Chenin - Sec,salin **8€**
 
 ### Rouge
-- 0,72 Rouge - Loire - Arômes de fruits noirs, épices **8€**
+- Phillipe Maffre - Rencontre -  Tarn - Syrah, duras, braucol - Arômes de fruits noirs, épices **8€**
 - Les Vignes du Fresche - Radicalement Glou - Anjou - Gamay - Grolleau Léger, frais **8€**
   
 ### Orange
