@@ -18,7 +18,7 @@ Bouteilles (75cl):
 ## Assiettes à partager
 
  **La Terre / The Land**
-- Olives Bella di Cerignola **4€**
+- Olives vertes Nocellara Siciliennes **4€**
 - Houmous **7€**
 
 **Fromages / Cheese**
