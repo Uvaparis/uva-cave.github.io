@@ -69,6 +69,9 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Cidre 
 - Double jus 2023, Fred Pruchon Gewurtz/Riesling - Domaine AMI - Bourgogne **7€**
+
+### Pétillant 
+- Farid Yahimi - Alsace - Sons of wine - Verdejo 2023 - Vin frais, bulles fines, notes d’abricot mûr et légèrement funky  **8€**
   
 ### Blancs
 -  Plein Sud - Gard - Grenache blanc, Clairette et Viognier - Notes de fruits jaunes, pêche, abricot, sec **7€** 
@@ -80,9 +83,6 @@ _Des allergies ? Prévenez-nous :) _
   
 ### Orange
 - Pépin Orange - Gewurztraminer macéré 1 semaine assemblé à des raisins blancs, du fruits de la fraîcheur, saveurs de pêche jaune, d’abricot sec **8€**
-  
-### Rosé 
-- Embuscade - Les 2 Fauves - Auvergne - Merlot - léger, fruité  **8€**
 
 [haut de page](#menu)
 
@@ -140,13 +140,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ITALIE
 - **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - Moelleux, fruité, richesse aromatique (abricot, pêche, poire) **69€** (50cl)
-
-[haut de page](#menu)
-
-## Rosés 75cl
-
-### Auvergne 
-- Les 2 fauves - Embuscade - Merlot **38€**
 
 [haut de page](#menu)
 
