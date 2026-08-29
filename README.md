@@ -24,11 +24,10 @@ Bouteilles (75cl):
 **Fromages / Cheese**
 (servis avec huile d'olive & poivre)
 
-- Brillat Savarin **10€** 
-- Saint-Nectaire **9€**
-- Ossau Iraty Primeur AOP **8€**
-- Comté 18 mois Marcel Petite Jura **10€**
-- Tomme fermière **10€** 
+- Brillât Savarin IGP **10€** 
+- Saint-Nectaire Fermier **9€**
+- Comté 21 mois « Marcel Petite » Jura **10€**
+- Tomme fermière du « Somport » **10€** 
 - Assiette de fromages et charcuteries du moment **26€**
 
 **Viande / Meat**
