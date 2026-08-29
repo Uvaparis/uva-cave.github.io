@@ -45,9 +45,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Soft
 
-**Charitea** **5,50€**
-- Thé vert bio glacé, 33cl 
-
 **Douze, pétillant sans alcool** en canette 33cl 
 - Abricot Zaatar **6,50€**
 - Orange Sanguine & Piment **6,50€**
