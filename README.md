@@ -110,8 +110,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### RHÔNE 
 - **Etienne Seignovert** - Murmure de l’eau 2025 - Jacquère, Marsanne **45€**
-
-- **Oratoire** - Plein sud 2024 - Grenache blanc, clairette, viognier **36€**
+- **Domaine du petit oratoire** - Plein sud 2024 - Grenache blanc, clairette, viognier **36€**
 
 [haut de page](#menu)
 
@@ -131,9 +130,6 @@ _Des allergies ? Prévenez-nous :) _
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **59€**
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **69€**
 
-### ITALIE
-- **Alessandro Viola** - 50 gradi all’ombra - 2021 - Grillo - Moelleux, fruité, richesse aromatique (abricot, pêche, poire) **69€** (50cl)
-
 [haut de page](#menu)
 
 ## Rouges 75cl
@@ -150,7 +146,7 @@ _Des allergies ? Prévenez-nous :) _
 - **France Gonzalvez** - Miss Mond' - Mondeuse 2022 **43€**
 
 ### LOIRE
-- **R. Guettier MAGNUM** - Enchanteresse 2016 - Pineau d’aunis - **133€** (150 cl)
+- **R. Guettier MAGNUM** - Enchanteresse 2016 - Pineau d’aunis - **98€** (150 cl)
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé MAGNUM** -  Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl)
