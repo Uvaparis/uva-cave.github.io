@@ -105,15 +105,12 @@ _Des allergies ? Prévenez-nous :) _
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **69€**
 
 ### LOIRE 
-- **P'tit chenin** - Adrien Delval - Domaine de la Futaie - Chenin **39€**
 - **0,72** - De Vini - Melon de Bourgogne **38€**
 - **Domaine Brazilier** - AOP Coteaux du vendômois - Chenin - **38€**
 
-### HONGRIE
-- **Istvan Bencze** - Riesling 2020 **58€**
-
 ### RHÔNE 
 - **Etienne Seignovert** - Murmure de l’eau 2025 - Jacquère, Marsanne **45€**
+
 - **Oratoire** - Plein sud 2024 - Grenache blanc, clairette, viognier **36€**
 
 [haut de page](#menu)
@@ -142,13 +139,10 @@ _Des allergies ? Prévenez-nous :) _
 ## Rouges 75cl
 
 ### AUVERGNE
-- **Justine Vigne** - 1826 - 2021 - Carignan **50€**
+- **Justine Vigne** - 1826 - 2021 - Carignan **45€**
   
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
-
-### LOIRE 
-- **Radicalement Glou** - Les Vignes du Fresche - Gamay, grolleau **37€**
 
 ### JURA 
 - **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **45€**
