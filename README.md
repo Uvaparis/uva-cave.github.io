@@ -78,7 +78,7 @@ _Des allergies ? Prévenez-nous :) _
 - La Pinarderie - Aurélien Petit - Languedoc - Mourvèdre, grenache **8€**
   
 ### Orange
-- Pépin Orange - Gewurztraminer macéré 1 semaine assemblé à des raisins blancs, du fruits de la fraîcheur, saveurs de pêche jaune, d’abricot sec **8€**
+- Orange - Bélicard - Beaujolais - Gamay avec des notes oxydatives, arômes de fleurs séchées **8€**
 
 [haut de page](#menu)
 
