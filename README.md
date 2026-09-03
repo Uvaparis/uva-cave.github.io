@@ -100,6 +100,9 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ALSACE 
 - **Vanessa Letort** - Le Fringuant 2022 - Pinot gris, riesling, auxerrois **39€**
+
+### BEAUJOLAIS 
+- **P’tit grobis** - Nicolas Chemarin - Chardonnay **40€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **69€**
@@ -159,9 +162,6 @@ _Des allergies ? Prévenez-nous :) _
   
 ### PYRÉNÉES-ORIENTALES
 - **Domaine Cotzé MAGNUM** -  Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl)
-
-### SUD-OUEST 
-- **Bois Moisset** - Phillipe Maffre - Rencontre 2019 - Syrah, Duras et Brocol **36€**
 
 [haut de page](#menu)
 
