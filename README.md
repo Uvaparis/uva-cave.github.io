@@ -74,8 +74,8 @@ _Des allergies ? Prévenez-nous :) _
 -  Domaine Brazilier - Loire - AOP Coteaux du vendômois - Chenin - Sec,salin **8€**
 
 ### Rouge
-- Phillipe Maffre - Rencontre -  Tarn - Syrah, duras, braucol - Arômes de fruits noirs, épices **8€**
-- Les Vignes du Fresche - Radicalement Glou - Anjou - Gamay - Grolleau Léger, frais **8€**
+- Sons of wine x Domaine de la légèreté 2022 - Lorraine - Pinot noir - Léger, fruité **8€**
+- La Pinarderie - Aurélien Petit - Languedoc - Mourvèdre, grenache **8€**
   
 ### Orange
 - Pépin Orange - Gewurztraminer macéré 1 semaine assemblé à des raisins blancs, du fruits de la fraîcheur, saveurs de pêche jaune, d’abricot sec **8€**
@@ -91,7 +91,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Pétillants 75cl 
 
 ### ALSACE 
-- Farid Yahimi - Sons of wine - 404 Verdejo - 2023 **37€**
+- Farid Yahimi - Sons of wine - 404 Verdejo - 2023 **38€**
 
 ### BEAUJOLAIS
 - Domaine Bélicard Rosé - Pét Nat - Gamay **39€**
@@ -117,8 +117,8 @@ _Des allergies ? Prévenez-nous :) _
 ## Oranges 75cl
 
 ### ALSACE 
-- **Vanessa Letort** Du vin aux liens - Vertige - Muscat **42€**
-- **Pépin Orange** Vin à la tireuse - Gewurztraminer macéré 1 semaine assemblé à des raisins blancs, du fruits de la fraîcheur, saveurs de pêche jaune, d’abricot sec **39€**
+- **Vanessa Letort** - Du vin aux liens - Vertige - Muscat **42€**
+- **Sons of wine** - Skin Contact 2022 - Sylvaner **40€**
 
 ### BEAUJOLAIS 
 - **Domaine Bélicard** - Orange 2020 - Gamay, notes oxydatives **38€**
@@ -134,6 +134,9 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Rouges 75cl
 
+### ALSACE
+- **Sons of wine x Domaine de la légèreté 2022** - Lorraine - Pinot noir - Léger, fruité **38€**
+
 ### AUVERGNE
 - **Justine Vigne** - 1826 - 2021 - Carignan **45€**
   
@@ -144,6 +147,9 @@ _Des allergies ? Prévenez-nous :) _
 - **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **45€**
 - **L'oiseau rôdeur** - Marie & Thomas - Eau fugitive 2024 - Poulsard **45€**
 - **France Gonzalvez** - Miss Mond' - Mondeuse 2022 **43€**
+
+### LANGUEDOC 
+- **La Pinarderie** - Aurélien Petit - Languedoc - Mourvèdre, grenache **38€**
 
 ### LOIRE
 - **R. Guettier MAGNUM** - Enchanteresse 2016 - Pineau d’aunis - **98€** (150 cl)
