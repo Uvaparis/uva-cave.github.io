@@ -139,6 +139,9 @@ _Des allergies ? Prévenez-nous :) _
 
 ### AUVERGNE
 - **Justine Vigne** - 1826 - 2021 - Carignan **45€**
+
+### BEAUJOLAIS 
+- **Nicolas Chemarin** - Hors zone 2024 - Macération de 15 jours de Grenache et jus de goutte de gamay **40€** 
   
 ### BOURGOGNE
 - **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
