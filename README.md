@@ -31,7 +31,7 @@ Bouteilles (75cl):
 - Assiette de fromages et charcuteries du moment **26€**
 
 **Viande / Meat**
-- Pâté de campagne artisanal - Maison Montalet (120g) **10€**
+- Terrine de campagne à l’ancienne **9,50€**
 - Coppa Piacentina AOP, échine de porc, salée **10€**
 - Saucisson sec à la truffe d’été **7,5€**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
