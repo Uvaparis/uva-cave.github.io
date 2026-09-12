@@ -45,6 +45,9 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Soft
 
+**Oma Frida** Verre **6,50€** Bouteille **26€**
+- Cuvée N°4 Assemblage d’infusions de plantes sauvages et de jus de raisins merlot
+
 **Douze, pétillant sans alcool** en canette 33cl 
 - Abricot Zaatar **6,50€**
 - Orange Sanguine & Piment **6,50€**
@@ -78,7 +81,7 @@ _Des allergies ? Prévenez-nous :) _
 - La Pinarderie - Aurélien Petit - Languedoc - Mourvèdre, grenache **8€**
   
 ### Orange
-- Orange - Bélicard - Beaujolais - Gamay avec des notes oxydatives, arômes de fleurs séchées **8€**
+- Skin Contact - Sons of wine - Macération en grappes entières de 5 jours de Sylvaner **8€**
 
 [haut de page](#menu)
 
@@ -121,7 +124,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ALSACE 
 - **Vanessa Letort** - Du vin aux liens - Vertige - Muscat **42€**
-- **Sons of wine** - Skin Contact 2022 - Sylvaner **40€**
+- **Sons of wine** - Skin Contact 2022 - Sylvaner **39€**
 
 ### BEAUJOLAIS 
 - **Domaine Bélicard** - Orange 2020 - Gamay, notes oxydatives **38€**
