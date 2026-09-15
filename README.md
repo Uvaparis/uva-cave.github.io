@@ -140,15 +140,6 @@ _Des allergies ? Prévenez-nous :) _
 ### ALSACE
 - **Sons of wine x Domaine de la légèreté 2022** - Lorraine - Pinot noir - Léger, fruité **38€**
 
-### AUVERGNE
-- **Justine Vigne** - 1826 - 2021 - Carignan **45€**
-
-### BEAUJOLAIS 
-- **Nicolas Chemarin** - Hors zone 2024 - Macération de 15 jours de Grenache et jus de goutte de gamay **40€** 
-  
-### BOURGOGNE
-- **F. Cossard** - AOC Bourgogne - 2020 - Pinot noir - **95€**
-
 ### JURA 
 - **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **45€**
 - **L'oiseau rôdeur** - Marie & Thomas - Eau fugitive 2024 - Poulsard **45€**
@@ -158,6 +149,7 @@ _Des allergies ? Prévenez-nous :) _
 - **La Pinarderie** - Aurélien Petit - Languedoc - Mourvèdre, grenache **38€**
 
 ### LOIRE
+- **Gregory Leclerc** - Les têtes noires 2023 - Côt - **39€**
 - **R. Guettier MAGNUM** - Enchanteresse 2016 - Pineau d’aunis - **98€** (150 cl)
   
 ### PYRÉNÉES-ORIENTALES
