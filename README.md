@@ -49,7 +49,6 @@ _Des allergies ? Prévenez-nous :) _
 - Cuvée N°4 Assemblage d’infusions de plantes sauvages et de jus de raisins merlot
 
 **Douze, pétillant sans alcool** en canette 33cl 
-- Abricot Zaatar **6,50€**
 - Orange Sanguine & Piment **6,50€**
   
 **San Pellegrino, eau pétillante** 
@@ -101,21 +100,19 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Blancs 75cl
 
-### ALSACE 
-- **Vanessa Letort** - Le Fringuant 2022 - Pinot gris, riesling, auxerrois **39€**
-
 ### BEAUJOLAIS 
 - **P’tit grobis** - Nicolas Chemarin - Chardonnay **40€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **69€**
 
+### LANGUEDOC 
+- **Aurélien Petit** - On est pas bien là ? - Chenin, Clairette **39€**
+
 ### LOIRE 
-- **0,72** - De Vini - Melon de Bourgogne **38€**
 - **Domaine Brazilier** - AOP Coteaux du vendômois - Chenin - **38€**
 
 ### RHÔNE 
-- **Etienne Seignovert** - Murmure de l’eau 2025 - Jacquère, Marsanne **45€**
 - **Domaine du petit oratoire** - Plein sud 2024 - Grenache blanc, clairette, viognier **36€**
 
 [haut de page](#menu)
