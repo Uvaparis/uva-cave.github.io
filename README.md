@@ -47,9 +47,6 @@ _Des allergies ? Prévenez-nous :) _
 
 **Oma Frida** Verre **6,50€** Bouteille **26€**
 - Cuvée N°4 Assemblage d’infusions de plantes sauvages et de jus de raisins merlot
-
-**Douze, pétillant sans alcool** en canette 33cl 
-- Orange Sanguine & Piment **6,50€**
   
 **San Pellegrino, eau pétillante** 
 - Canette 33cl **4,50€**
