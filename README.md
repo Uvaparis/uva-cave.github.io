@@ -72,7 +72,7 @@ _Des allergies ? Prévenez-nous :) _
 - Farid Yahimi - Alsace - Sons of wine - Verdejo 2023 - Vin frais, bulles fines, notes d’abricot mûr et légèrement funky  **8€**
   
 ### Blancs
--  Plein Sud - Gard - Grenache blanc, Clairette et Viognier - Notes de fruits jaunes, pêche, abricot, sec **7€** 
+-  Aurélien Petit - Languedoc  - Grenache blanc, Clairette - Notes de fruits jaunes, pêche, abricot, sec **8€**
 -  Domaine Brazilier - Loire - AOP Coteaux du vendômois - Chenin - Sec,salin **8€**
 
 ### Rouge
@@ -80,7 +80,7 @@ _Des allergies ? Prévenez-nous :) _
 - La Pinarderie - Aurélien Petit - Languedoc - Mourvèdre, grenache **8€**
   
 ### Orange
-- Skin Contact - Sons of wine - Macération en grappes entières de 5 jours de Sylvaner **8€**
+- Nicolas Chemarin - Beaujolais - Macération de Roussette et presse de Chardonnay **8€**
 
 [haut de page](#menu)
 
@@ -107,13 +107,10 @@ _Des allergies ? Prévenez-nous :) _
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **69€**
 
 ### LANGUEDOC 
-- **Aurélien Petit** - On est pas bien là ? - Chenin, Clairette **39€**
+- **Aurélien Petit** - On est pas bien là ? - Grenache, Clairette **39€**
 
 ### LOIRE 
 - **Domaine Brazilier** - AOP Coteaux du vendômois - Chenin - **38€**
-
-### RHÔNE 
-- **Domaine du petit oratoire** - Plein sud 2024 - Grenache blanc, clairette, viognier **36€**
 
 [haut de page](#menu)
 
@@ -122,9 +119,6 @@ _Des allergies ? Prévenez-nous :) _
 ### ALSACE 
 - **Vanessa Letort** - Du vin aux liens - Vertige - Muscat **42€**
 - **Sons of wine** - Skin Contact 2022 - Sylvaner **39€**
-
-### BEAUJOLAIS 
-- **Domaine Bélicard** - Orange 2020 - Gamay, notes oxydatives **38€**
 
 ### RHÔNE 
 - **Sacha** - Domaine du petit oratoire - Macération de 15 jours Clairette, roussanne **40€**
