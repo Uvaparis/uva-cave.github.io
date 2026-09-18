@@ -62,9 +62,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Vins au verre
 
-### Cidre 
-- Double jus 2023, Fred Pruchon Gewurtz/Riesling - Domaine AMI - Bourgogne **7€**
-
 ### Pétillant 
 - Farid Yahimi - Alsace - Sons of wine - Verdejo 2023 - Vin frais, bulles fines, notes d’abricot mûr et légèrement funky  **8€**
   
@@ -81,10 +78,6 @@ _Des allergies ? Prévenez-nous :) _
 
 [haut de page](#menu)
 
-## Cidre
-### LOIRE
-- Double jus - Cidre Fred Pruchon - Domaine Ami - Gewurtz/Riesling **29€**
-
 [haut de page](#menu)
 
 ## Pétillants 75cl 
@@ -96,9 +89,6 @@ _Des allergies ? Prévenez-nous :) _
 - Domaine Bélicard Rosé - Pét Nat - Gamay **39€**
 
 ## Blancs 75cl
-
-### BEAUJOLAIS 
-- **P’tit grobis** - Nicolas Chemarin - Chardonnay **40€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **69€**
@@ -134,7 +124,6 @@ _Des allergies ? Prévenez-nous :) _
 ### JURA 
 - **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **45€**
 - **L'oiseau rôdeur** - Marie & Thomas - Eau fugitive 2024 - Poulsard **45€**
-- **France Gonzalvez** - Miss Mond' - Mondeuse 2022 **43€**
 
 ### LANGUEDOC 
 - **La Pinarderie** - Aurélien Petit - Languedoc - Mourvèdre, grenache **38€**
