@@ -71,7 +71,7 @@ _Des allergies ? Prévenez-nous :) _
 
 ### Rouge
 - Sons of wine x Domaine de la légèreté 2022 - Lorraine - Pinot noir - Léger, fruité **8€**
-- La Pinarderie - Aurélien Petit - Languedoc - Mourvèdre, grenache **8€**
+- Gregory Leclerc - Les têtes 2023 - Côt **8€**
   
 ### Orange
 - Nicolas Chemarin - Beaujolais - Macération de Roussette et presse de Chardonnay **8€**
@@ -104,7 +104,6 @@ _Des allergies ? Prévenez-nous :) _
 ## Oranges 75cl
 
 ### ALSACE 
-- **Vanessa Letort** - Du vin aux liens - Vertige - Muscat **42€**
 - **Sons of wine** - Skin Contact 2022 - Sylvaner **39€**
 
 ### RHÔNE 
@@ -125,11 +124,8 @@ _Des allergies ? Prévenez-nous :) _
 - **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **45€**
 - **L'oiseau rôdeur** - Marie & Thomas - Eau fugitive 2024 - Poulsard **45€**
 
-### LANGUEDOC 
-- **La Pinarderie** - Aurélien Petit - Languedoc - Mourvèdre, grenache **38€**
-
 ### LOIRE
-- **Gregory Leclerc** - Les têtes noires 2023 - Côt - **39€**
+- **Gregory Leclerc** - Les têtes 2023 - Côt - **39€**
 - **R. Guettier MAGNUM** - Enchanteresse 2016 - Pineau d’aunis - **98€** (150 cl)
   
 ### PYRÉNÉES-ORIENTALES
