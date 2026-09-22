@@ -67,7 +67,7 @@ _Des allergies ? Prévenez-nous :) _
   
 ### Blancs
 -  Aurélien Petit - Languedoc  - Grenache blanc, Clairette - Notes de fruits jaunes, pêche, abricot, sec **8€**
--  Domaine Brazilier - Loire - AOP Coteaux du vendômois - Chenin - Sec,salin **8€**
+-  Bodegas coruña del conde - Alto Otero - Espagne - Albi Mayor - Fruits à noyau, abricot, coin, rond **8€**
 
 ### Rouge
 - Sons of wine x Domaine de la légèreté 2022 - Lorraine - Pinot noir - Léger, fruité **8€**
