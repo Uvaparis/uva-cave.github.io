@@ -63,18 +63,19 @@ _Des allergies ? Prévenez-nous :) _
 ## Vins au verre
 
 ### Pétillant 
-- Farid Yahimi - Alsace - Sons of wine - Verdejo 2023 - Vin frais, bulles fines, notes d’abricot mûr et légèrement funky  **8€**
+- **Farid Yahimi** - Alsace - Sons of wine - Verdejo 2023 - Vin frais, bulles fines, notes d’abricot mûr et légèrement funky  **8€**
   
 ### Blancs
--  Aurélien Petit - Languedoc  - Grenache blanc, Clairette - Notes de fruits jaunes, pêche, abricot, sec **8€**
--  Bodegas coruña del conde - Alto Otero - Espagne - Albi Mayor - Fruits à noyau, abricot, coin, rond **8€**
+-  **Aurélien Petit** - Languedoc  - Grenache blanc, Clairette - Notes de fruits jaunes, pêche, abricot, sec **8€**
+-  **0,72**- De Vini - Loire - Melon de Bourgogne - Vif, frais, iodé **8€**
+-  **Bodegas coruña del conde** - Alto Otero - Espagne - Albi Mayor - Fruits à noyau, abricot, coin, rond **8€**
 
 ### Rouge
-- Sons of wine x Domaine de la légèreté 2022 - Lorraine - Pinot noir - Léger, fruité **8€**
-- Gregory Leclerc - Les têtes 2023 - Côt **8€**
+- **Sons of wine x Domaine de la légèreté** - Lorraine - Pinot noir - Léger, fruité **8€**
+- **Gregory Leclerc** - Les têtes 2023 - Côt **8€**
   
 ### Orange
-- Nicolas Chemarin - Beaujolais - Macération de Roussette et presse de Chardonnay **8€**
+- **Nicolas Chemarin** - Beaujolais - Macération de Roussette et presse de Chardonnay **8€**
 
 [haut de page](#menu)
 
