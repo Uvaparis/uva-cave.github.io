@@ -66,13 +66,12 @@ _Des allergies ? Prévenez-nous :) _
 - **Farid Yahimi** - Alsace - Sons of wine - Verdejo 2023 - Vin frais, bulles fines, notes d’abricot mûr et légèrement funky  **8€**
   
 ### Blancs
--  **Aurélien Petit** - Languedoc  - Grenache blanc, Clairette - Notes de fruits jaunes, pêche, abricot, sec **8€**
 -  **0,72**- De Vini - Loire - Melon de Bourgogne - Vif, frais, iodé **8€**
 -  **Bodegas coruña del conde** - Alto Otero - Espagne - Albi Mayor - Fruits à noyau, abricot, coin, rond **8€**
 
 ### Rouge
-- **Sons of wine x Domaine de la légèreté** - Lorraine - Pinot noir - Léger, fruité **8€**
-- **Gregory Leclerc** - Les têtes 2023 - Côt **8€**
+- **Oiseau Rôdeur** - Bagatelle - Jura - Pinot noir **8€**
+- **Gregory Leclerc** - Les têtes 2023 - Languedoc - Côt **8€**
   
 ### Orange
 - **Nicolas Chemarin** - Beaujolais - Macération de Roussette et presse de Chardonnay **8€**
@@ -94,18 +93,13 @@ _Des allergies ? Prévenez-nous :) _
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **69€**
 
-### LANGUEDOC 
-- **Aurélien Petit** - On est pas bien là ? - Grenache, Clairette **39€**
-
-### LOIRE 
-- **Domaine Brazilier** - AOP Coteaux du vendômois - Chenin - **38€**
-
 [haut de page](#menu)
 
 ## Oranges 75cl
 
 ### ALSACE 
-- **Sons of wine** - Skin Contact 2022 - Sylvaner **39€**
+- **Théo Einhart** - Orange 2022 - Gewurztraminer, pinot gris - Notes d’abricot de figue et de mandarine **39€**
+- **Théo Einhart** - Éveil 2024 - Pinot gris, Gewurztraminer, riesling - Notes florales, fruits blancs **39€**
 
 ### RHÔNE 
 - **Sacha** - Domaine du petit oratoire - Macération de 15 jours Clairette, roussanne **40€**
@@ -118,19 +112,12 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Rouges 75cl
 
-### ALSACE
-- **Sons of wine x Domaine de la légèreté 2022** - Lorraine - Pinot noir - Léger, fruité **38€**
-
 ### JURA 
 - **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **45€**
-- **L'oiseau rôdeur** - Marie & Thomas - Eau fugitive 2024 - Poulsard **45€**
 
 ### LOIRE
 - **Gregory Leclerc** - Les têtes 2023 - Côt - **39€**
 - **R. Guettier MAGNUM** - Enchanteresse 2016 - Pineau d’aunis - **98€** (150 cl)
-  
-### PYRÉNÉES-ORIENTALES
-- **Domaine Cotzé MAGNUM** -  Transhumancia rouge 2023 - Carignan noir et Grenache - **86€** (150cl)
 
 [haut de page](#menu)
 
