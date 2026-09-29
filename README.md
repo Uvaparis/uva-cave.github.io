@@ -67,10 +67,10 @@ _Des allergies ? Prévenez-nous :) _
   
 ### Blancs
 -  **0,72**- De Vini - Loire - Melon de Bourgogne - Vif, frais, iodé **8€**
--  **Bodegas coruña del conde** - Alto Otero - Espagne - Albi Mayor - Fruits à noyau, abricot, coin, rond **8€**
+-  **Brazilier** - Loire - Blanc Chenin 2025 - Sec, salin  **8€**
 
 ### Rouge
-- **Oiseau Rôdeur** - Bagatelle - Jura - Pinot noir **8€**
+- **Le Petit Oratoire** - Supercinq 2025 - Rhône - Syrah, grenache **8€** 
 - **Gregory Leclerc** - Les têtes 2023 - Languedoc - Côt **8€**
   
 ### Orange
@@ -85,6 +85,9 @@ _Des allergies ? Prévenez-nous :) _
 ### ALSACE 
 - Farid Yahimi - Sons of wine - 404 Verdejo - 2023 **38€**
 
+### CHAMPAGNE 
+- **Bonnet Ponson** - Brut nature - Premier Cru - Cuvée Perpétuelle Non dosé - Pinot noir, chardonnay, Meunier **65€** 
+
 ### BEAUJOLAIS
 - Domaine Bélicard Rosé - Pét Nat - Gamay **39€**
 
@@ -92,6 +95,16 @@ _Des allergies ? Prévenez-nous :) _
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **69€**
+
+### LOIRE 
+- **0,72 Blanc** - De Vini - Melon de bourgogne **38€**
+- **Brazilier** - Blanc - Chenin **38€**
+
+### RHÔNE
+- **Oratoire** - Plein Sud 2024 - Grenache Blanc, clairette, viognier **36€**
+
+### SAVOIE 
+- **Apffel** - Avant la tempête 2024 - Jacquère **44€**
 
 [haut de page](#menu)
 
@@ -118,6 +131,9 @@ _Des allergies ? Prévenez-nous :) _
 ### LOIRE
 - **Gregory Leclerc** - Les têtes 2023 - Côt - **39€**
 - **R. Guettier MAGNUM** - Enchanteresse 2016 - Pineau d’aunis - **98€** (150 cl)
+
+### LANGUEDOC
+- **Opi d’acqui** Abricotier 2023 - Grenache noir, mourvèdre **40€**
 
 [haut de page](#menu)
 
