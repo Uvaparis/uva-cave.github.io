@@ -1,5 +1,5 @@
 # Menu
-**COMMANDE AU BAR. MERCI :)**
+**THE FINAL WEEK BEFORE CLOSING**
 
 Food : 
 - [Assiettes à partager](#Assiettes-à-partager)
@@ -31,7 +31,6 @@ Bouteilles (75cl):
 - Assiette de fromages et charcuteries du moment **26€**
 
 **Viande / Meat**
-- Terrine de campagne à l’ancienne **9,50€**
 - Coppa Piacentina AOP, échine de porc, salée **10€**
 - Saucisson sec à la truffe d’été **7,5€**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
@@ -56,9 +55,7 @@ _Des allergies ? Prévenez-nous :) _
 - Eau minérale naturelle des Alpes, 75cl **7€**
 
 ## BIERE EN BOUTEILLE 
-- Cantillon - Bruxelles - Cuvée Saint-Gilloise - Malt d'orge & Froment Bio, 75cl **30€**
 - Super Bock - Bière Blonde, 33cl **5,50€**
-- IPA - Bière Parigot, 33cl **6,50€** 
 
 ## Vins au verre
 
@@ -70,11 +67,11 @@ _Des allergies ? Prévenez-nous :) _
 -  **Brazilier** - Loire - Blanc Chenin 2025 - Sec, salin  **8€**
 
 ### Rouge
-- **Le Petit Oratoire** - Supercinq 2025 - Rhône - Syrah, grenache **8€** 
-- **Gregory Leclerc** - Les têtes 2023 - Languedoc - Côt **8€**
+- **Le Petit Oratoire** - Supercinq 2025 - Rhône - Syrah, grenache **8€**
+- **Opi d’Aquí** - L’abricotier - Grenache noir **8€**
   
 ### Orange
-- **Nicolas Chemarin** - Beaujolais - Macération de Roussette et presse de Chardonnay **8€**
+- **Théo Einhart** - Orange - Pinot gris, Gewurztraminer **8€**
 
 [haut de page](#menu)
 
@@ -88,13 +85,10 @@ _Des allergies ? Prévenez-nous :) _
 ### CHAMPAGNE 
 - **Bonnet Ponson** - Brut nature - Premier Cru - Cuvée Perpétuelle Non dosé - Pinot noir, chardonnay, Meunier **65€** 
 
-### BEAUJOLAIS
-- Domaine Bélicard Rosé - Pét Nat - Gamay **39€**
-
 ## Blancs 75cl
   
 ### BOURGOGNE
-- **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **69€**
+- **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **60€**
 
 ### LOIRE 
 - **0,72 Blanc** - De Vini - Melon de bourgogne **38€**
@@ -104,7 +98,7 @@ _Des allergies ? Prévenez-nous :) _
 - **Oratoire** - Plein Sud 2024 - Grenache Blanc, clairette, viognier **36€**
 
 ### SAVOIE 
-- **Apffel** - Avant la tempête 2024 - Jacquère **44€**
+- **Apffel** - Avant la tempête 2024 - Jacquère **42€**
 
 [haut de page](#menu)
 
@@ -113,9 +107,6 @@ _Des allergies ? Prévenez-nous :) _
 ### ALSACE 
 - **Théo Einhart** - Orange 2022 - Gewurztraminer, pinot gris - Notes d’abricot de figue et de mandarine **39€**
 - **Théo Einhart** - Éveil 2024 - Pinot gris, Gewurztraminer, riesling - Notes florales, fruits blancs **39€**
-
-### RHÔNE 
-- **Sacha** - Domaine du petit oratoire - Macération de 15 jours Clairette, roussanne **40€**
   
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **59€**
@@ -125,11 +116,6 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Rouges 75cl
 
-### JURA 
-- **L'oiseau rôdeur** - Marie & Thomas - Bagatelle 2024 - Pinot noir **45€**
-
-### LOIRE
-- **Gregory Leclerc** - Les têtes 2023 - Côt - **39€**
 - **R. Guettier MAGNUM** - Enchanteresse 2016 - Pineau d’aunis - **98€** (150 cl)
 
 ### LANGUEDOC
