@@ -91,7 +91,6 @@ _Des allergies ? Prévenez-nous :) _
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **60€**
 
 ### LOIRE 
-- **0,72 Blanc** - De Vini - Melon de bourgogne **38€**
 - **Brazilier** - Blanc - Chenin **38€**
 
 ### RHÔNE
@@ -105,12 +104,11 @@ _Des allergies ? Prévenez-nous :) _
 ## Oranges 75cl
 
 ### ALSACE 
-- **Théo Einhart** - Orange 2022 - Gewurztraminer, pinot gris - Notes d’abricot de figue et de mandarine **39€**
 - **Théo Einhart** - Éveil 2024 - Pinot gris, Gewurztraminer, riesling - Notes florales, fruits blancs **39€**
   
 ### SAVOIE
-- **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **59€**
-- **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **69€**
+- **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **45€**
+- **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **45€**
 
 [haut de page](#menu)
 
