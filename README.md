@@ -1,5 +1,5 @@
 # Menu
-**THE FINAL WEEK BEFORE CLOSING**
+**WELCOME**
 
 Food : 
 - [Assiettes à partager](#Assiettes-à-partager)
@@ -32,7 +32,7 @@ Bouteilles (75cl):
 
 **Viande / Meat**
 - Coppa Piacentina AOP, échine de porc, salée **10€**
-- Saucisson sec à la truffe d’été **7,5€**
+- Saucisson sec **7,5€**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
 - Assiette mixte, fromages et charcuteries du moment **26€**
 
@@ -71,7 +71,10 @@ _Des allergies ? Prévenez-nous :) _
 - **Opi d’Aquí** - L’abricotier - Grenache noir **8€**
   
 ### Orange
-- **Théo Einhart** - Orange - Pinot gris, Gewurztraminer **8€**
+- **Achillée** - Alsace - Orange - Gewurztraminer **8€**
+
+### Cocktail
+- **Gin Tonic** **8,50€**
 
 [haut de page](#menu)
 
@@ -80,12 +83,16 @@ _Des allergies ? Prévenez-nous :) _
 ## Pétillants 75cl 
 
 ### ALSACE 
-- Farid Yahimi - Sons of wine - 404 Verdejo - 2023 **38€**
+- **Farid Yahimi** - Sons of wine - 404 Verdejo **38€**
+- **Pépin** - Pétillant Naturel - Auxerrois, muscat **38€**
 
 ### CHAMPAGNE 
 - **Bonnet Ponson** - Brut nature - Premier Cru - Cuvée Perpétuelle Non dosé - Pinot noir, chardonnay, Meunier **65€** 
 
 ## Blancs 75cl
+
+### ALSACE 
+- **Pépin Blanc** - Alsace - Riesling, auxerrois **38€**
   
 ### BOURGOGNE
 - **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **60€**
@@ -104,10 +111,11 @@ _Des allergies ? Prévenez-nous :) _
 ## Oranges 75cl
 
 ### ALSACE 
-- **Théo Einhart** - Éveil 2024 - Pinot gris, Gewurztraminer, riesling - Notes florales, fruits blancs **39€**
+- **Achilée** - Alsace - Gewurztraminer - **38€**
   
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **45€**
+  
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **45€**
 
 [haut de page](#menu)
