@@ -54,9 +54,6 @@ _Des allergies ? Prévenez-nous :) _
 **Thonon** 
 - Eau minérale naturelle des Alpes, 75cl **7€**
 
-## BIERE EN BOUTEILLE 
-- Super Bock - Bière Blonde, 33cl **5,50€**
-
 ## Vins au verre
 
 ### Pétillant 
@@ -67,11 +64,11 @@ _Des allergies ? Prévenez-nous :) _
 -  **Brazilier** - Loire - Blanc Chenin 2025 - Sec, salin  **8€**
 
 ### Rouge
-- **Le Petit Oratoire** - Supercinq 2025 - Rhône - Syrah, grenache **8€**
-- **Opi d’Aquí** - L’abricotier - Grenache noir **8€**
+- **La pinarderie** - François Aubry - Languedoc- Grenache noir, mourvèdre **8€**
+- **Pépin** - Alsace - Syrah  **8€**
   
 ### Orange
-- **Achillée** - Alsace - Orange - Gewurztraminer **8€**
+- **Nicolas Chemarin** - Beaujolais - Orange - Rousette, chardonnay **8€**
 
 ### Cocktail
 - **Gin Tonic** **8,50€**
