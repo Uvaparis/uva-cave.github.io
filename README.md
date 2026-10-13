@@ -33,6 +33,7 @@ Bouteilles (75cl):
 **Viande / Meat**
 - Coppa Piacentina AOP, échine de porc, salée **10€**
 - Saucisson sec **7,5€**
+- Paté de campagne, Maison Montalet **10€**
 - Assiette de charcuterie, selection de charcuterie du moment **26€**
 - Assiette mixte, fromages et charcuteries du moment **26€**
 
@@ -45,7 +46,7 @@ _Des allergies ? Prévenez-nous :) _
 ## Soft
 
 **Oma Frida** Verre **6,50€** Bouteille **26€**
-- Cuvée N°4 Assemblage d’infusions de plantes sauvages et de jus de raisins merlot
+- Cuvée N°3 Assemblage d’infusions de plantes sauvages et de jus de raisins chardonnay 
   
 **San Pellegrino, eau pétillante** 
 - Canette 33cl **4,50€**
@@ -64,7 +65,7 @@ _Des allergies ? Prévenez-nous :) _
 -  **Brazilier** - Loire - Blanc Chenin 2025 - Sec, salin  **8€**
 
 ### Rouge
-- **La pinarderie** - François Aubry - Languedoc- Grenache noir, mourvèdre **8€**
+- **La pinarderie** - Languedoc - Grenache noir, mourvèdre **8€**
 - **Pépin** - Alsace - Syrah  **8€**
   
 ### Orange
