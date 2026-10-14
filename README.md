@@ -58,18 +58,18 @@ _Des allergies ? Prévenez-nous :) _
 ## Vins au verre
 
 ### Pétillant 
-- **Farid Yahimi** - Alsace - Sons of wine - Verdejo 2023 - Vin frais, bulles fines, notes d’abricot mûr et légèrement funky  **8€**
+- **Farid Yahimi** - Alsace - Sons of wine - Verdejo 2023 - Vin frais, bulles fines, notes d’abricot mûr et légèrement funky  **Non disponible**
   
 ### Blancs
--  **0,72**- De Vini - Loire - Melon de Bourgogne - Vif, frais, iodé **8€**
--  **Brazilier** - Loire - Blanc Chenin 2025 - Sec, salin  **8€**
+-  **Plein Sud** - Grenache blanc, clairette, viognier **8€**
+-  **On est pas bien là** - Chenin, clairette  **8€**
 
 ### Rouge
-- **La pinarderie** - Languedoc - Grenache noir, mourvèdre **8€**
-- **Pépin** - Alsace - Syrah  **8€**
+- **La pinarderie** - Aurélien Petit - Grenache noir, mourvèdre **8€**
+- **Les Têtes** - Gregory Leclerc - Côt  **8€**
   
 ### Orange
-- **Nicolas Chemarin** - Beaujolais - Orange - Rousette, chardonnay **8€**
+- **Nicolas Chemarin** - Beaujolais - Hors Zone - Rousette, chardonnay **8€**
 
 ### Cocktail
 - **Gin Tonic** **8,50€**
@@ -91,15 +91,13 @@ _Des allergies ? Prévenez-nous :) _
 
 ### ALSACE 
 - **Pépin Blanc** - Alsace - Riesling, auxerrois **38€**
-  
-### BOURGOGNE
-- **Domaine de Chassorney** - Saint Romain 2021 - Chardonnay **60€**
+
+### LANGUEDOC 
+-  **Plein Sud** - Grenache blanc, clairette, viognier **36€**
+-  **On est pas bien là** - Chenin, clairette  **38€**
 
 ### LOIRE 
-- **Brazilier** - Blanc - Chenin **38€**
-
-### RHÔNE
-- **Oratoire** - Plein Sud 2024 - Grenache Blanc, clairette, viognier **36€**
+- **P’tit Chenin** - Domaine de la Futaie **38€**
 
 ### SAVOIE 
 - **Apffel** - Avant la tempête 2024 - Jacquère **42€**
@@ -108,8 +106,8 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Oranges 75cl
 
-### ALSACE 
-- **Achilée** - Alsace - Gewurztraminer - **38€**
+### Beaujolais
+- **Nicolas Chemarin** - Beaujolais - Hors Zone - Rousette, chardonnay **40€**
   
 ### SAVOIE
 - **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **45€**
@@ -120,10 +118,9 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Rouges 75cl
 
-- **R. Guettier MAGNUM** - Enchanteresse 2016 - Pineau d’aunis - **98€** (150 cl)
-
 ### LANGUEDOC
-- **Opi d’acqui** Abricotier 2023 - Grenache noir, mourvèdre **40€**
+- **La pinarderie** - Aurélien Petit - Grenache noir, mourvèdre **38€**
+- **Les Têtes** - Gregory Leclerc - Côt  **38€**
 
 [haut de page](#menu)
 
