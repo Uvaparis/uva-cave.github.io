@@ -58,18 +58,17 @@ _Des allergies ? Prévenez-nous :) _
 ## Vins au verre
 
 ### Pétillant 
-- **Farid Yahimi** - Alsace - Sons of wine - Verdejo 2023 - Vin frais, bulles fines, notes d’abricot mûr et légèrement funky  **Non disponible**
+- **Farid Yahimi** - Alsace - Sons of wine - Verdejo 2023 - Vin frais, bulles fines, notes d’abricot mûr et légèrement funky  **8€**
   
 ### Blancs
--  **Plein Sud** - Grenache blanc, clairette, viognier **8€**
 -  **On est pas bien là** - Chenin, clairette  **8€**
 
 ### Rouge
-- **La pinarderie** - Aurélien Petit - Grenache noir, mourvèdre **8€**
-- **Les Têtes** - Gregory Leclerc - Côt  **8€**
+- **La pinarderie** - Aurélien Petit - Grenache noir, mourvèdre **7€**
+- **Les Têtes** - Gregory Leclerc - Côt  **7€**
   
 ### Orange
-- **Nicolas Chemarin** - Beaujolais - Hors Zone - Rousette, chardonnay **8€**
+- **Son of wine** - Alsace - Sylvaner - macération courte **8€**
 
 ### Cocktail
 - **Gin Tonic** **8,50€**
@@ -93,7 +92,6 @@ _Des allergies ? Prévenez-nous :) _
 - **Pépin Blanc** - Alsace - Riesling, auxerrois **38€**
 
 ### LANGUEDOC 
--  **Plein Sud** - Grenache blanc, clairette, viognier **36€**
 -  **On est pas bien là** - Chenin, clairette  **38€**
 
 ### LOIRE 
@@ -106,12 +104,10 @@ _Des allergies ? Prévenez-nous :) _
 
 ## Oranges 75cl
 
-### Beaujolais
-- **Nicolas Chemarin** - Beaujolais - Hors Zone - Rousette, chardonnay **40€**
+### ALSACE
+- **Son of wine** -  Sylavner **40€**
   
 ### SAVOIE
-- **J-Y Peron** - Les Barrieux - 2020 - Roussanne, Jacquère - Saveurs de coing confit, fruit frais, roses, tannins fondus **45€**
-  
 - **J-Y Peron** - La Grande Journée - 2020 - Altesse - Fraîcheur citronée, minéralité saline, tannins délicats **45€**
 
 [haut de page](#menu)
